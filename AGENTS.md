@@ -12,7 +12,6 @@ This is the company brain for **Achieve Sports Performance**, Ryne Gioviano's st
 | 05-marketing-ads | Meta ads lock, organic rules, funnel rules |
 | 06-programming-sc | How Ryne programs: house session, rules, skill index |
 | 07-operations | Hours, booking, cancellation, email and calendar rules |
-| 08-finance | Budgets and contracts we know of (mostly TODO) |
 | 09-team-bots | Which bots work Achieve and what each owns |
 | 10-decisions-log | Dated decisions, newest first |
 | skills/knowledge-base-audit | End-of-day audit that proposes brain edits |

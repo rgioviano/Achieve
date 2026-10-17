@@ -1,5 +1,7 @@
 # Decisions log (newest first)
 
+- 2026-10-17: Evaluation is free; the pricing PDF on file is the current price sheet. (Ryne, 2026-10-17)
+- 2026-10-17: Finances are left out of the brain entirely. (Ryne, 2026-10-17)
 - 2026-10-17: Company brain split into three repos (Achieve, IronBlueprint, Personal). Local drafts only until Ryne approves. (Chief chat)
 - 2026-10-17: Bot consolidation: Herald, Bolt, Warden, Cipher, Bottleneck retired; AI Expert folded into Linus; Programming room to be archived. (TEAM.md change log)
 - 2026-10-09: 3 ABO Meta campaigns approved as paused drafts ($200 / $150 / $150); no spend until final yes plus real UGC. (Lead plan #1, #7)

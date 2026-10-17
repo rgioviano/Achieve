@@ -1,0 +1,1048 @@
+Swimming: An In-Depth Look at
+Mechanics, Pathomechanics and
+Management with a PRI Perspective
+By: Torin Berge, PT, PRC
+Hruska Clinic Restorative Physical Therapy Services
+
+
+Swimming Introduction
+
+         Swimming is a form of exercise or sport that is commonly utilized both for recreation and
+competition. According to the US Census Bureau in 2009, over 50 million Americans participated in
+swimming as a recreational activity at least 6 times a year which far out-numbered other activities such
+as basketball (24 million), golf (22 million), and even running/jogging (32 million) [1]. There are several
+levels of competitive swimming stemming from age group participation as early as age 5 or 6 up to
+master’s level swimming competitions for all ages. According to USA Swimming in 2013, there were
+more than 340,000 year-round age group (age 18 and under) athletes registered with USA swimming,
+and about 30,000 seasonal (i.e. summer only) age group swimmers registered [2]. Per the US Masters
+swimming website there were approximately 60,000 registered masters swimmers (age 19 and up)
+registered in more than 1500 registered clubs through US masters swimming in 2013 [3]. At the high
+school level in 2011-2012, over 133,000 boys and 166,000 girls swam competitively in the US [4]. There
+is also competitive swimming at the collegiate level. Swimming is also consistently one of the most
+popular sports at the Summer Olympic Games leading to potential professional careers and
+sponsorships for the most highly successful swimmers. Following an Olympic year per the USA
+swimming website, year-round athlete participation in swimming increases 4-13% due to the popularity
+and exposure form the Olympic Games [2].
+
+           There are numerous benefits to swimming including the physical cardiovascular and
+musculoskeletal benefits gained from any form of exercise activity. The buoyancy of the water makes
+swimming a low impact activity that can be beneficial for those with joint issues such as arthritis. This
+allows them to participate in a cardiovascular or exercise activity without the strain placed on the joints
+[5]. It is an activity that can be enjoyed and beneficial to all age groups as seen in the participation
+numbers above. Competitive swimming also allows someone an opportunity to participate in a sport as
+an individual while still being part of a team and can be beneficial for social and psychological reasons.
+
+         Because of the unique biomechanical demands placed on the body with swimming, and
+particularly with competitive swimmers that train numerous hours a week, there is potential for injuries.
+In particular, the swimmer is susceptible to shoulder impingement, rotator cuff or bicipital tendonitis,
+and shoulder instability [6, 7, 8, 9, 10]. Shoulder pain is the most common musculoskeletal complaint in
+swimming with incidence of disabling shoulder pain ranging from 27% to 87% among competitive
+swimmers [6, 7, 8]. Other common areas of injury in swimmers includes low back and knees [7].
+
+
+General Swimming Demands
+Unique Demands of Swimming
+
+        In general, swimming is a sport or activity that is unique in many ways. Compared with other
+traditional cardiovascular exercises such as running, biking, skating, and skiing, swimming utilizes the
+upper extremity musculature as the primary method of propulsion rather than the lower extremity.
+However, when compared with those other activities, swimming is a fairly inefficient method of
+propulsion. The water in a pool for example moves as the swimmers hand pulls the body forward in
+comparison to the ground which does not move as a runners shoe or foot pushes the body forward over
+it. Thus, a considerable amount of energy can be spent to swim a much shorter distance compared to
+running.
+
+        Along with being a fairly inefficient manner of movement, swimming is highly dependent on
+technique to maximize the efficiency. Muscle power contributes less in ability of swimmers compared
+to technique. In fact, improvements in muscles strength alone do not necessarily correlate with
+swimming speed [7]. The higher resistance of the water also increases drag forces which slow the
+swimmer down more so than air does with running type activities. Minimizing this drag factor is also
+dependent more highly on technique rather than raw strength.
+
+        These issues, and others, lead to specific training demands on the swimmer, and especially the
+competitive swimmer that are different than other athletes. Swimming obviously requires repetitive
+upper extremity pulling for power, primarily using latissimus dorsi and pectoralis muscles. An average
+practice schedule for a competitive swimmer might consist of 6000 yards per practice x 6 practices a
+week. If that swimmer uses an average of 10 arm strokes per 25 yard length of a pool that equates to
+roughly 14,400 strokes or repetitive arm pulls a week [8]. Highly competitive swimmers often swim
+more than this on a year round basis.
+
+        Swimming is also a sport that is primarily done in a prone, belly down, position. This position
+encourages extension or backwards bending of the spine. The buoyancy of the water helps with this,
+but also doesn’t require the swimmer to deal with the effects of gravity as much as during land-based
+exercise. Also with the higher resistance of the water compared to air, streamlining or being maximally
+hydrodynamic is essential to decrease this drag force and improve speed. Streamlining requires
+maximal shoulder flexion and abduction to be as effective as possible. This will be discussed more later.
+
+        One of the main issues that swimmers deal with more than other athletes is the demand placed
+on their respiratory systems. Swimmers must spend more time and effort focusing on breathing and
+breath control as they are often in a position with their face in or under the water. The primary method
+of breathing during swimming is deep breaths in through the mouth with prolonged holds or exhalation
+through the nose to prevent water getting in the nose. Swimmers “hold their breath” more than other
+athletes due to this demand. Proper efficient diaphragmatic breathing techniques encourage breathing
+in through the nose and out through the mouth. This difference means that swimmers spend a majority
+of their training activity breathing in a different, potentially less efficient manner. They often will carry
+this improper or dysfunctional breathing pattern, which is necessary in swimming, to other activities
+they are doing when not in the water. All of these differences in technique, demands of the
+musculoskeletal and respiratory systems and the highly repetitive nature of the sport lead to acquired
+patterns and postures unique to the swimmer.
+
+Acquired Positions/Patterns
+
+         The main position or pattern that is commonly seen with swimmers is primarily influenced by
+three main and interrelated things. The respiratory demands of breath holding or hyperinflation, the
+prone position encouraging spinal and low back extension, and strong muscle imbalances from the
+repetitive arm pulling that reinforces and is influenced by the position of extension. This position is
+consistent with the Posterior Exterior Chain (PEC) pattern described by the Postural Restoration
+Institute®. This position of extension or hyperinflation can be described generally with the following
+characteristics:
+
+       Deep low backs (tight erector spinae group)
+       Elevated anterior ribs/rib flares
+       Forward rounded shoulders (strong tight pectoral muscles and latissimus dorsi on a spine that is
+        extending and ribs that are elevated and hyperinflated)
+       Forward head postures (to compensate for the above positions)
+       Anteriorly tilted pelvis from tight low backs and strong powerful hip flexor muscles from the
+        demands of kicking
+       Hyperextended knees when on “dry land”
+
+   As stated earlier, this position of extension or hyperinflation leads to and is influenced by potential
+muscle imbalances or inefficiencies. These can be generally summed up as follows:
+
+       Strong, powerful, inflexible latissimus dorsum muscles. When these muscles become too tight
+        or restricted they can limit rib cage expansion, trunk rotation and will encourage lumbar
+        extension.
+       Tight, strong pectoral muscles that lead to long, weak, improperly positioned intrascapular
+        muscles that stabilize the shoulder blades. These tight muscles can also restrict rib depression
+        and promote more hyperinflation or back extension. Weak scapular stabilizers have been
+        implicated in shoulder impingement and injury.
+       Strong powerful inflexible hip flexors and back extensors from flutter/dolphin kicking, and
+        positionally tight from extension tendencies developed in the prone position.
+       Improperly positioned long and inefficient abdominals (specifically transverse abdominis and
+        abdominal obliques) for rib and pelvic stability and trunk rotation.
+       Improperly positioned, inefficient diaphragm muscle (being pulled up in the front by rib position
+        and down in the back by pelvic tilt and overactive and tight hip flexors). This leads to poor rib
+        expansion, inefficient respiration and overuse of neck and back muscles for ribcage support and
+        breathing which will restrict cervical/neck rotation.
+
+     In addition to these acquired positions from the demands of swimming, we also need to realize and
+discuss normal acquired patterns and positions that our swimmers will also deal with because of their
+normal human patterns of asymmetrical form and function. The normal Left AIC / Right BC pattern
+described by the Postural Restoration Institute® will affect swimmers in their ability to move their trunk
+and/or necks in a reciprocal and alternating fashion. The normal pattern of pelvic and spinal orientation
+to the right and upper trunk rotation to the left will still hold true for the swimmer, making trunk and
+neck rotation, rib expansion and breathing more challenging on one side compared to the other. This
+will often be noticed in the swimmer as:
+
+           A decreased ability to breathe as well to one side as the other during the freestyle stroke
+           Decreased ability to reach or catch the water as effectively with one arm compared to the
+            other
+           Asymmetrical patterns of arm recovery in freestyle
+           Limited shoulder turn in backstroke
+           Shoulder impingement
+
+         These patterns, if unchecked, will lead to continued muscle imbalances that can increase the
+likelihood of shoulder or back pain, and at a minimum decreases the efficiency of the swimming strokes.
+
+General Needs for all Swimmers
+
+        Taking into account the unique demands of swimmers in general, as well as the underlying
+normal human asymmetrical pattern there are some general needs to address for swimmers. Our goals
+for swimmers should include:
+
+           Balanced airflow and chest wall movement in all directions
+           Increased strength of hamstrings and abdominals to decrease normal extension (PEC
+            pattern) tendencies of the swimmer
+           Increased strength and activity of the glutes, lower traps, triceps, serratus anterior, and
+            rotator cuff (supscapularis in particular) to oppose the developing strong pattern of pulling
+            performed by the swimmer (remember the 14,400 repetitions of pulling each arm per week)
+           Properly positioned and efficient diaphragm muscle to meet the breathing/respiratory
+            demands of the swimmer
+           Flexibility in the hip flexors, back extensors, latissimus dorsi, pectorals, neck and external
+            rotators of the shoulder
+
+        Therefore, programs developed for swimmers need to include activities to achieve and maintain
+a neutral postural pattern with an emphasis on trunk flexion and thoracic rotation with proper use of
+abdominals and breathing prior to starting and addressing scapular and shoulder issues. Postural
+patterns (Left AIC / Right BC or PEC) described by the Postural Restoration Institute® places the ribs and
+therefore the scapula in an in improper position, therefore influencing the proper activation and use of
+the scapular stabilizers and rotator cuff muscles, and if not addressed can lead to overuse and potential
+injury.
+
+
+General Description of Swimming Strokes
+
+
+Freestyle/”Crawl Stroke”
+
+         The freestyle or front crawl stroke is the most commonly used stroke in practice and is also the
+fastest of the 4 competitive strokes. In this stroke the arms pull alternately while the body is in a prone
+position with the face in the water. The arm stroke can be broken down into the glide phase, the pull
+through phase (early and late) and the recovery phase. An alternating flutter kick is used continuously
+throughout the stroke with the legs. The swimmer breathes by turning the head to the side (unilaterally
+or bilaterally) during the late pull through and early recovery phase of the arm stroke. Trunk or body
+roll/rotation is incorporated to maximize reaching arm pull and speed.
+
+Butterfly Stroke
+
+         The Butterfly stroke is a similar stroke to the freestyle in that it is done in the prone position,
+however the arm strokes are done synchronously with the right and left arm, rather than alternately.
+The stroke uses the hips as a fulcrum for a more up and down motion with a dolphin or bilateral leg kick
+for forward propulsion. Breathing is typically done during the late pull through and early recovery phase
+by lifting the head up and looking forward, not with rotation. However, some butterfliers will still utilize
+a head turn to the side. The timing of the kicking and body undulation with the arm stroke is important
+for a fast, efficient butterfly stroke.
+
+Backstroke
+
+        The Backstroke is the only competitive stroke done in the supine position with the face
+completely out of the water. The arm stroke is similar to the freestyle in that it is done in an alternating
+fashion. The arm enters the water above the head with the elbow straight and the body rolling towards
+the same side (while the head looks straight up). This body roll or trunk rotation allows the large trunk
+muscles to pull the body forward. The pulling arm bends as the arm continues to push down towards
+the feet ending near the hip. The opposite arm is recovering overhead during the pull phase and enters
+the water overhead a split second before the other arm ends its pull phase. As in freestyle, backstroke
+uses a constant flutter kick throughout the stroke.
+
+Breaststroke
+
+       The breaststroke is the only stroke in which the arms or legs do not come out of the water
+throughout the stroke. The arm motion starts similarly to the butterfly stroke in that both arms move
+together starting from an overhead position. However in the breaststroke, the forearms do not
+continue under the body to the hips, but pulls just to shoulder level and then returns underwater back
+to the starting position of full flexion. The powerful whip kick is the main force for propulsion in the
+breaststroke and consists of pulling the hips into a position of external rotation, slight flexion and
+abduction, and knee flexion to about 90 degrees. The kick is a powerful hip adduction motion as the
+knees and hips extend, keeping the feet in an everted position until the legs internally rotate to neutral
+at the end of the kick. There is a high valgus stress placed on the knee during the kick motion.
+Breathing is done forward during the arm pull, as the arms pull the upper body up and out of the water.
+As in the butterfly, the key to a powerful efficient breaststroke is the timing of the stroke. The arm pull
+starts the stroke followed by a lunge of the body forward as the kick is completed, ending in a fully
+streamlined position.
+
+
+Freestyle Considerations
+Normal Mechanics
+
+         As described above, the freestyle or front crawl stroke consists of alternating strokes with the
+arms. The arm stroke is broken up into the glide phase, the pull through phase (early and late) and the
+recovery phase. The glide phase begins as the hand enters the water, thumb side first, in full flexion
+with the elbow slightly higher than the hand. During the glide phase, the arm is held forward in full
+flexion slightly lateral to the head (with some degree of variability). During the glide, typically the wrist
+and forearm will flex and pronate to “catch” the water prior to the pull-through phase. The early pull
+through phase occurs from the end of the glide phase to the time when the humerus is approximately
+90 degrees flexed in front of the body, or when the hand is directly underneath the shoulder. The late
+pull through starts at this point and continues until the hand exits the water near to the hip. The path of
+the hand is typically in an “s” shape underneath the body as the swimmer tries to “catch” the water
+overhead and pull his or her body over that point. Rotation of the torso to the same side allows the arm
+to stay directly underneath the body and some feel that allows a deeper catch for a more powerful
+stroke [8, 9].
+
+        Breathing requires turning the head to the side during the late pull through and early recovery
+of the same side arm. This is also the same period of time that the trunk is rotating to the same side for
+a deeper catch on the contralateral side. When not breathing, the head stays stable looking forward.
+Therefore, more motion or rotation is actually occurring between the thorax and head (the neck) when
+the head is still as the body rolls during the stroke then when breathing is actually occurring.
+
+        Flutter kicking is done continuously throughout the freestyle stroke and can be described by the
+number of kicks per stoke. For example, a 2-beat kick would be 1 downward kick per leg per arm stroke,
+whereas a 6 beat kick would require 3 down beats per arm stroke. The kick primarily gets its power
+from hip flexion and extension rather than knee flexion and extension. The ankle stays plantar flexed.
+
+Normal Muscle Activation
+
+        Numerous studies have been done regarding the muscle activation throughout the swim stroke
+and are summarized as follows [12, 13, 14]:
+         During the glide or reach phase of the stroke when the hand enters the water to the point of full
+overhead shoulder flexion, the scapula must achieve a position of upward rotation. The main muscle
+activation is in the anterior and middle deltoid to move the humerus as well as in the upper trapezius
+and rhomboid to place the scapula in the upwardly rotated position to avoid humeral-acromial
+impingement.
+
+         In the early pull through phase from the end of the reach phase until the arm is at 90 degrees of
+flexion, the pectoralis major and teres minor work to extend, adduct and internally rotate the arm while
+the body is rolling or orienting to the opposite side to get a deeper pull. In the late pull through phase,
+the latissimus dorsi and subscapularis extend and internally rotate the arm with power with continued
+body roll to the opposite side. Throughout the entire pull through phase, the serratus anterior,
+pectoralis major and latissimus dorsi are active to pull the body over a relatively fixed hand.
+
+          As the hand exits the water for the recovery phase of the stroke, the posterior and middle
+deltoid along with the supraspinatus extend and abduct the arm. The rhomboid muscle fires to retract
+the scapula and initiate the body roll to the opposite side. The upper trapezius and serratus anterior will
+fire to start to upwardly rotate the scapula throughout the recovery phase as the posterior, middle, and
+anterior deltoid fire in sequence to bring the arm to full flexion.
+
+Common Pathomechanics
+
+         The number one issue in swimming from an injury perspective is “swimmers shoulder” which is
+really a term describing repetitive gleno-humeral impingement with tendonitis/tendonopathy [6, 7, 8].
+Impingement most often occurs in the early pull through or early recovery phase of the stroke. Both are
+thought to occur due to humeral ‘hyperextension’ when the upper arm or humerus bone is posterior to
+the axis of the scapula [6]. It is hypothesized this occurs because the scapula is too far forward or
+anteriorly and downwardly rotated because of over activity or dominance of the pectoral and latissimus
+muscles. Limited body roll to the opposite side will also limit stroke depth in the pull through phase and
+limited roll to the same side will create hyperextension in the recovery phase and limit a “high elbow”
+finish. Some studies have also described poor positioning of the scapula on the rib cage as a factor in
+overhead impingement in swimming and other overhead activities [6, 7, 8, 10].
+
+       EMG studies on the freestyle stroke suggest that weakness in the serratus anterior muscles and
+supscapularis muscles correlate with ipsilateral shoulder impingement. By comparison, there is no
+shown difference in the power or activation of latissimus and pectoral muscles in painful vs. non-painful
+shoulders in swimmers [14].
+
+         The other main issue that is seen in the freestyle stroke that may or may not lead to pathology
+directly, but can be a cue to patterned imbalances is the inability to breathe in a bilateral fashion; that is
+the ability to breathe by turning the head to the right or to the left. Most swimmers have a dominant
+side for breathing. Limited ability to breathe bilaterally, while also beneficial from a racing perspective
+can also be beneficial for maintaining symmetrical trunk and neck mobility.
+Rationale for Pathomechanics from a PRI Perspective
+
+        When discussing the above pathomechanics, and looking at them with an understanding of the
+normal human patterns described by the Postural Restoration Institute®, one can gain an appreciation
+for why these issues can be difficult to manage in a swimmer. A pattern of extension on one (Right BC)
+or both sides (PEC) both limits the ability of the thorax to flex and creates poor scapula-thoracic
+congruence. This scapula will now have to move forward and up with over activity of the upper traps
+and pectoral muscles. This position which is described in the Postural Respiration course, along with the
+pectoral and latissimus over activity of the swimmer, will limit full shoulder flexion without
+impingement.
+
+        This poor scapula-thoracic position also effectively disengages the serratus anterior from
+functioning properly as it needs thoracic flexion and proper scapula position to maintain adequate
+length-tension relationships to work properly. In addition, over activity of the latissimus dorsum along        Pain during the pull
+                                                                                                               due to an inhibited or
+with an internally oriented scapula from pectoral tightness will require compensatory external rotation         weak subscap and
+                                                                                                                 serratus. This will
+from the posterior rotator cuff and effectively inhibits the subscapularis muscle. This in turn places          make the lat be the
+                                                                                                                 muscle of internal
+more demands on the already overactive latissimus dorsum for internal rotation activity. As described           rotation leading to
+                                                                                                                   anterior pain
+above, weak or inhibited serratus anterior and subscapularis muscles are implicated in shoulder
+impingement in swimmers. This is a common finding in a normal Right BC patient, which is also
+exacerbated with the general over activity of the last and pectoral muscles of the swimmer.
+
+          Limited trunk or neck rotation to one side or the other, which is also a common finding in a Right       Make sure neck
+                                                                                                                  rotation and trunk
+BC or PEC patterned individual, will make symmetrical or bilateral breathing difficult. Breathing to the          rotation are good
+                                                                                                                      bilaterally.
+right, which happens during the left pull through phase, encourages more trunk roll or orientation to the             Otherwise,
+                                                                                                                  breathing only on
+right and actually limits the need for cervical rotation to the left and increases cervical rotation to the          easiest side
+                                                                                                                    occurs. Mostly,
+                                                                                                                  breathing on right.
+right as the head stays down during the right pull through phase. This is usually the easier position for a
+Right BC individual who typically presents with limited thoracic orientation to the left (increased                    Lack of
+                                                                                                                    rotation can
+orientation to the right shown with limited horizontal abduction of the left shoulder) and limited cervical        also lead to an
+                                                                                                                    asymettrical
+axial rotation to the left. Breathing to the left, therefore requires more trunk orientation to the left as            stroke.
+breathing occurs during the right pull through phase, and cervical rotation to the left as the head stays
+still during the left pull through phase. This imbalance can also limit reciprocal mobility through the
+torso for symmetrical arm stroke, power, breathing efficiency, and neck mobility.
+
+        Tightness of hip flexors from flutter kicking, and back extensors from head and trunk positioning
+in a prone position, also anteriorly tilt the pelvis and elevates the anterior rib cage disengaging the
+anterior abdominal wall and exacerbates all of the above findings. This position would be consistent
+with a PEC patterned individual.
+
+Management Focus
+
+         As with any individual, the initial management will consist of identifying their current pattern,
+PEC vs. Left AIC/ Right BC, and setting up a program to achieve neutrality. Then we can get into more
+specifics related to their sport specific activities.
+        Any competitive or recreational swimmer more likely than not does most of his or her training
+with the freestyle stroke, so these issues should be specifically addressed. All freestylers or swimmers
+need to focus on activities that promote:
+
+               Lumbar and thoracic flexion with appropriate use of abdominals and breathing to
+                restore proper diaphragmatic power, proper rib cage and scapular resting position and
+                position for stabilizing muscles to work for their intended purpose. (Fig 1; Standing Wall
+                Supported Reach)
+               Improved glute strength for pelvic control in thoracic and lumbar flexion. (Fig 1;
+                Standing Wall Supported Reach)
+               Reciprocal trunk rotation with appropriate abdominal use and appropriate breathing
+                mechanics once sagittal plane flexion is achieved and maintained. (Fig 2; All Four Belly
+                Lift Reach)
+                     o The serratus anterior muscle is a) most active throughout the freestyle stroke,
+                          b) implicated as a cause of shoulder impingement when weak, c) commonly
+                          inhibited or inefficient due to position in the BC or PEC chained individual and d)
+                          essential for thoracic rotation, scapular/thoracic stability, rib cage mechanics
+                          and pulling power. The All Four Belly Lift reach is a great goal exercise to
+                          promote all of the above.
+               Appropriate use of subscapularis muscle without over activity of the latissimus for
+                humeral control in the glenoid to decrease anterior/superior impingement.
+               Flexibility throughout the lateral chest wall, latissimus and hip flexor region.
+
+
+Butterfly Considerations
+Normal Mechanics
+
+         As stated in the last section, the majority of training time and mileage is spent doing the
+freestyle stroke, but the other strokes can present unique challenges and may need to be addressed for
+improved performance as well as for injury prevention and treatment. The butterfly stroke has a similar
+arm motion compared to the freestyle stroke with the exception that it is done with the arms recovering
+and pulling at the same time rather than alternating as in freestyle. The kick is an undulating dolphin
+kick keeping both feet together. The down beat of the kick is for power with 2 kicks per arm stroke.
+One powerful kick is done at the end of the recovers phase to propel the head forward and out of the
+water to breathe forward and one during the glide phase to help lunge or dive the arms forward. There
+is no rotation of the thorax or neck throughout the stroke, but more emphasis on trunk and neck
+extension to initiate the dolphin kicking and breathing throughout the stroke. [8, 9, 11]
+
+Normal Muscle Activation
+
+        At hand entry and glide phase the deltoid muscles and rotator cuff muscles are putting the
+humerus bone in abduction and external rotation with Rhomboids and upper traps upwardly rotating
+the scapula for proper glenoid position. [15]
+        Throughout the pull through phase, similarly to the freestyle stroke, the pectoralis major and
+latissimus dorsi are the most active to generate the powerful pulling motion. The subscapularis and
+teres minor are active for humeral-glenoid control, and the serratus anterior is active to pull the
+thorax/ribcage forward on the scapulae in a true thoracic-scapular (TS) fashion. [15]
+
+        The recovery phase of the butterfly does not have as high of an elbow recovery since the trunk
+does not rotate to encourage this but the deltoid still works with the supraspinatus and infraspinatus to
+abduct and externally rotate the arm to the start position again. The serratus anterior, rhomboids and
+upper traps also fire throughout the recovery to retract and upwardly rotate the scapula. [15]
+
+        As in freestyle, the two most active muscles throughout the stroke are the subscapularis and
+serratus anterior so they are again at risk for fatigue and injury. [15]
+
+          The undulating motion of the kick is typically initiated with back and neck extension to get the
+head out of the water for breathing followed by a lunge forward and downward with a down beat of the
+legs utilizing hip flexion more so than knee extension, to propel the body forward.
+
+Common Pathomechanics
+
+        As in the freestyle stroke, the number one complaint in the butterfly stroke is shoulder
+impingement or tendinitis/tendonopathy. [8, 9] The same rationale for impingement applies for
+butterfly as for freestyle which is implicated mainly due to poor scapular positioning at full flexion and in
+adequate scapular retraction and upward rotation during the recovery leading to humeral
+‘hyperextension’ and impingement in the recovery phase. This is more common in the butterfly stroke
+due to the strong powerful latissimus and pectoral muscles and the limited trunk rotation to decrease
+the impingement or hyperextension. [8, 9]
+
+       Studies have shown that butterfliers with painful shoulders tend to have the following findings
+when compared with butterfliers without pain [16]:
+
+       A wider hand entry, possibly to limit the impingement at full flexion. This will decrease the
+        overall efficiency of the stroke.
+       Decreased activity of the serratus anterior at hand entry but no change in rhomboid firing
+        leading to a net downward rotation of the scapula when the humerus should be at full flexion.
+       Decreased subscapularis and teres minor activity.
+       Latissimus dorsum and pectoralis major activity was not changed in painful vs. non-painful
+        shoulders, however significantly less serratus anterior function was found throughout the
+        stroke.
+
+Rationale for Pathomechanics from a PRI Perspective
+
+        The butterfly stroke in its overall demands promotes more of an extension or PEC pattern. The
+over activity of the hip flexors compared to the gluteal muscles as well as increased back, head and neck
+extension for breathing elevates the anterior ribs and places the diaphragm at a disadvantage for
+respiration which will lead to increased activity of accessory respiratory muscles which will further
+influence scapular and rib positioning as described previously. This overall extension position at the rib
+cage along with tight, short, strong latissimus and pectoral muscles effectively inhibits or disengages the
+interscapular muscles, serratus anterior muscles, teres minor and subscapularis muscles secondary to
+poor scapular positioning. This pattern in and of itself will weaken the muscles associated with painful
+shoulders in the butterfly stroke. This PEC pattern also limits the ability for the humerus to achieve full
+HG flexion and HG horizontal abduction. Both of these motions are necessary to perform the butterfly
+without impingement or compensation with excessive lumbar and thoracic extension. The limited
+ability to utilize the serratus anterior and subscapularis throughout the pull through phase will increase
+the demand on the latissimus and pectorals to fire for power, effectively strengthening the extension
+pattern.
+
+         The limited rotational demand in the butterfly also reinforces the need for proper thoracic and
+rib position in the sagittal plane for adequate mobility and stability at the scapulo-thoracic and gleno-
+humeral joints. The underlying pattern of asymmetry may also make this more challenging on one side
+compared to the other.
+
+Management Focus
+
+        In general, the demands of the butterfly favor the posterior exterior chain muscles. Therefore
+once neutrality is achieved and maintained activities to inhibit the PEC chain are necessary for the
+butterfly swimmer even more so than for the freestyle swimmer. The butterfly swimmer needs to:
+
+       Emphasize the sagittal plane demands of abdominals, hamstrings and glutes to limit the
+        extension tendencies and inhibit the PEC pattern. (Fig 3; Functional Squat with Low Trap)
+       Encourage posterior mediastinum expansion. (Fig 4; Squatting Bar Reverse Reach)
+       Maintain proper latissimus and pectoral flexibility in thoracic flexion. (Fig 4; Squatting Bar
+        Reverse Reach)
+
+        Exercise options may include All Four Belly Lift activities, Reverse Door Squats (See Fig 4),
+Paraspinal Inhibition activities, Lower Trap Press Downs with Abdominals, and ultimately a Squat with
+Lower Trap would be a great integrated exercise for the butterflier to master at a level 3-4 (see Fig 3).
+
+
+Backstroke Considerations
+Normal Mechanics
+
+        The backstroke is similar to the freestyle stroke in that the arm motions are done in a reciprocal
+fashion with a significant amount of body roll and a flutter kick. The main difference, of course, is the
+fact that the backstroke is done in a supine position with the face out of the water and not in the prone
+position as the freestyle is. This takes a lot of the respiratory demand down in the backstroke. The
+phases are the same for the backstroke as the freestyle. The pull through phase starts as the hand
+enters the water pinky side first at full shoulder flexion with the arm in an internally rotated position.
+The trunk should be rotating to the same side as the hand enters the water to allow the hand to
+submerge and catch the water. Timing of body roll is important at this phase to limit shoulder
+impingement. Mid pull through is when the humerus bone is perpendicular to the body. Typically at
+this point maximal body roll has occurred to the same side and starts to rotate back to a neutral
+position. The late pull through continues as the elbow straightens out and the wrist straightens as if it
+were pushing the water from the hip down towards the feet. The recovery phase begins as the hand
+exits the water by the hip thumb side first and travels straight overhead to the point of hand entry. The
+elbow stays in full extension throughout the recovery phase. The arm rotates from a position of thumb
+up to thumb down throughout the recovery phase. [8, 9]
+
+Normal Muscle Activation
+
+        Because of the difference in body position and the arm rotating in a different direction than for
+the freestyle and butterfly, the backstroke demands different muscles. The muscles most active
+throughout the backstroke are the teres minor and subscapularis, which are not commonly used as
+power muscles. Rather they are primarily stabilizers that in the backstroke are demanded to be power
+muscles. This places them at higher risk for fatigue and injury. EMG data shows that the powerful
+latissimus muscle has 30% less action than the teres minor and subscapularis. Throughout the pull
+through phase, the teres minor and subscapularis are active to at least 30% voluntary maximum. The
+rhomboid muscles are active throughout the early pull through phase for scapular retraction and trunk
+rotation. [17]
+
+Common Pathomechanics
+
+         The main issue for swimming the backstroke is humeral impingement and anterior instability
+from excessive humeral hyperextension. If the body roll is not adequate at hand entry and early pull
+through, and a deep catch is required, the humerus will go into a position of hyperextension and
+anterior laxity or strain will ensue. [8, 9] The point of hand entry is a position of full shoulder flexion with
+humeral internal rotation which may also place the shoulder in a position at risk for impingement. The
+fact that the main muscles used for power in the backstroke are also muscles responsible for humeral
+stability, places them at risk for injury as well. Limited EMG activity of the rotator cuff muscles is
+implicated in backstrokers with painful shoulders, which may be due to inhibition from impingement or
+other factors. [18]
+
+Rationale for Pathomechanics from a PRI Perspective
+
+         The demand placed on the anterior rotator cuff and specifically the subscapularis is heightened
+in the backstroke. Technique and adequate body roll is also of utmost importance to place the scapula
+and humerus in a position to avoid anterior strain and impingement. Someone with a poorly positioned
+scapula from an asymmetrical or poor rib cage position will demonstrate asymmetrical trunk rotation,
+and scapular rotation to one side or both. Hyperactivity of the pectorals and limited ribcage expansion
+will limit rotation and may limit proper trunk rotation. Subscapularis is also typically inhibited in PEC or
+Right BC patterned individuals and due to the demands of the subscapularis in backstroke and potential
+humeral anterior laxity from hyperextension forces, the risk for injury or instability is high. The ability of
+the rhomboids and lower trapezius to retract the scapula and rotate the trunk during late recovery is
+also of great importance and has not been addressed in research. If the lower trapezius is inefficient in
+these activities, proper scapular positioning during rotation will be challenged leading to the above
+issues as well. The other factor that may also need to be addressed is the ability of the cervical spine to
+rotate. Throughout the stroke the head stays in still position as the thorax rotates underneath it. If
+cervical axial rotation is limited, which is common in a Right BC or PEC chained individual, so will thoracic
+rotation, and body roll.
+
+Management Focus
+
+        Along with the demands that need to be addressed for freestylers, for the backstroke, trunk
+rotation (thoracic and cervical), lower trap function and subscapularis function is of utmost concern.
+Therefore management or training with for backstroke should emphasize:
+
+       Thoracic rotation with Lower Trapezius and Triceps activation. (Fig 5; Standing Resisted Right
+        Diagonal Flexion in the Right AIC)
+       Humeral Glenoid Internal Rotation with concurrent lower trapezius and without Latissimus Dorsi
+        activation. (Fig 6; Supine Resisted Right HG IR with Left HG ER)
+       Dynamic humeral-glenoid stabilization with appropriate scapula-thoracic/thoracic-scapular
+        stability.
+
+
+Breaststroke Considerations
+Normal Mechanics
+
+         The breaststroke is considered the oldest of the competitive swim strokes and is very unique in
+its technique. The legs are the main driver of the body and this is the only stroke in which the hands do
+not exit the water. This fact, along with the decreased demands for trunk rotation and humeral hyper
+extension (the arms are always in front of the body) makes the breaststroke the least common stroke to
+have shoulder complaints with. The bilateral arm-pull starts at full flexion and starts similarly to the
+butterfly stroke. However, in the breaststroke when the hands are in line with the chest they sweep
+together, pulling the head out of the water to breathe, and then thrust forward to the starting position
+as the kick powers the body forward and the head returns to the water. The breathing motion is
+forward, but unlike the butterfly stroke the arm motion naturally leads the body up and out of the water
+limiting the demand for neck or trunk extension for breathing. This reduces the potential for back pain
+with the breaststroke. [8, 9]
+
+         The kick, which is the main power force in the breaststroke, is a whip kick in which the legs start
+fully extended during the glide portion of the stroke. The legs are then flexed as the heels are brought
+close to the buttocks. At this point, the feet turn outward into eversion and the hips internally rotate to
+move the feet wider than the hips. The feet and knees then forcefully push back and in with a strong
+extension and adduction force until they are once again fully straight. [8, 9]
+
+        As in the butterfly, timing of the stroke is essential to the success with the breaststroke. In
+general, the stroke starts in a fully streamlined position, the arms start the pull phase lifting the head up
+as the knees and hips bend. The kick is completed as the arms recover forward with both arms and legs
+ending up in a streamlined to an extended position simultaneously. Once there, the body glides forward
+utilizing the momentum of the kick. The sequence is therefore pull - kick - glide.
+
+Normal Muscle Activation
+
+         The main shoulder muscles that are the most active throughout the breaststroke are the
+serratus anterior and teres minor muscles which both fire consistently at or above 15% of maximal
+voluntary contraction. They are the most susceptible to fatigue and injury. In breaststrokers with
+painful shoulders, it was shown that there was decreased activation of the teres minor, supraspinatus
+and upper trap muscles vs. non-painful shoulders. However, due to the decreased mechanical demand
+on the shoulders, the risk for shoulder injury is much less in the breaststroke population. [19]
+
+Common Pathomechanics
+
+         As described above, the shoulder has some risk of injury with fatigue of serratus anterior and
+teres minor muscles, which should be being trained well with a swimming specific program. [19] The
+most common complaint that is unique to breaststrokers is medial knee pain. [20] In fact, it is unique
+enough among swimmers that it has been coined “breaststrokers knee”. This is thought to be from
+strain to the medial collateral ligament from the valgus stress to the knees from the whip kick. Other
+potential causes of knee pain in breaststrokers are patella-femoral syndrome, condromalacia, and pes
+anserine bursitis. It has been shown by Stulberg et al that breaststrokers with knee pain had a whip kick
+with higher abduction values, and therefore more adduction/valgus strain, during the propulsion phase
+of the kick than those without knee pain. [10, 21, 22] Rovere and Nicholas also reported a significant
+decrease in hip internal rotation in hips of breaststroke swimmers with medial knee pain than those
+without. [23]
+
+Rationale for Pathomechanics from a PRI Perspective
+
+        Management of shoulder symptoms in the breaststroke should closely coincide with the
+butterfly, however the extension tendencies of the breaststroke are much less than the butterfly, which
+is why the incidence of shoulder pain in breaststrokers is much less than butterfliers.
+
+         The main pathology unique to the breaststroke as described above is medial knee pain or
+“breaststrokers knee”. Regardless of the specific pathology, medial collateral ligament, pes anserine
+bursitis or patella-femoral symptoms, it has been shown that a whip kick with increased hip abduction
+and decreased internal rotation correlates with medial knee pain. From a Postural Restoration®
+perspective, a swimmer who does a significant amount of mileage for training with the freestyle stroke
+and flutter kick is predisposed to tightness in the hip flexor group and an anterior positioned pelvis as
+described above. This will have a tendency to orient the acetabulum internally leading to compensatory
+external rotation and abduction. This is seen as limited FA IR and adduction with evaluation, which in
+the case of breaststroke will predispose medial knee pain.
+Management Focus
+
+       As described above, the unique pathology with breaststrokers is medial knee pain. Management
+of medial knee pain in the breaststroke needs to be aimed at improving whip kick mechanics:
+
+        Proper lumbo-pelvic- femoral positioning and control
+        Hip internal rotation mobility assessing the posterior hip capsule and/or posterior outlet (Fig 7;
+         Right Sidelying Supported Left Glute Med in Hip Extension)
+        Hip Internal rotation mobility/strength with adductors and gluteus medius (Fig 8; Seated
+         Resisted Alternating Reciprocal Quad Sets with FA IR)
+
+
+Other issues involved in competitive swimming
+
+        The only time the swimmer has a stable surface to push off of for speed and support is during
+the start and turn of the race. This is when the swimmer can utilize the legs to push forward to initiate
+speed for the race. If a swimmer is to have success, they need to maximize this time to gain and
+maintain speed.
+
+Starts
+
+        The start position requires full thoracic and lumbar flexion to attain without sacrificing
+positioning of the glute and leg muscles to power the body forward at the sound of the gun. If this
+position cannot be attained comfortably, paraspinal release activities should be initiated and
+encouraged.
+
+Turns (touch and flip)
+
+        The freestyle and backstroke strokes utilize a flip turn at each wall whereby the swimmer as
+they approach the wall tucks his head and rolls into a ball bringing the feet over the head until they hit
+the wall and then the swimmer can push off away from the wall. In the backstroke, the swimmer is
+allowed one stroke to flip over onto their front and then performs a flip turn similar to the freestyle
+stroke. This position is similar to the Full Functional Squat position utilized to assess paraspinal/
+extension tone inhibition. If a swimmer cannot attain a Full Functional Squat they will not be able to
+achieve a tight, fast flip turn, nor have the gluteal position and power for a full push off once they hit the
+wall.
+
+         In butterfly and breaststroke, the swimmer must touch the wall with both hands prior to
+initiating a turn. This is called a touch turn. Once the swimmer touches the wall with both hands, the
+swimmer turns either to the right or the left as they pull their feet to the wall, again imitating a full
+tucked squat position before pushing away from the wall with the legs. Again, a Full Functional Squat
+and powerful glutes from this position is necessary and can be trained using the Reverse Squat
+techniques (See Fig 9; Full Functional Squat)
+Streamline positions
+
+          To maximize the power and speed gained from the push off at the start and turn, the swimmer
+needs to minimize the drag of the water as they glide through the water. This is accomplished with the
+streamline position which consists of full shoulder flexion with the arms touching the side of the head
+and the head in a neutral position. If the extension tendencies are great and the scapular position is
+submaximal, this becomes a position of potential impingement for the swimmers shoulder and needs to
+be addressed. One other potential limiting factor of a streamline position is restricted latissimus dorsi
+mobility. Swimmers need to maintain good latissimus flexibility to achieve good streamlining positions.
+The Latissimus Hang Stretch (Fig 10; Latissimus Hang Stretch) is a great activity for encouraging not only
+lat flexibility, but appropriate pelvic positioning as well.
+
+
+Conclusion
+
+        The swimmer is subjected to different demands from a physical, respiratory and neurological
+standpoint as well as the normal asymmetrical human patterned demands we all face, as described
+further by the Postural Restoration Institute®. Management of the swimmer for injury prevention or
+performance enhancement must therefore assess and address both. This document goes through a
+general guideline, but as with anything, each individual needs to be assessed for their particular
+demands, patterns, and techniques that cannot be addressed with a cookbook program outlined for
+everyone. If management is difficult, a trained individual should be sought out and utilized.
+
+
+
+References
+    1. From http://www.census.gov/compendia/statab/2012/tables/12s1249.pdf
+    2. From http://www.usaswimming.org/_Rainbow/Documents/1a46cc4d-42fc-4231-a224-
+       be349b090db2/Statistics-2013.pdf
+    3. From
+       http://www.usms.org/gettingstarted/faq.php?utm_campaign=top_nav&utm_medium=about_u
+       sms
+    4. From http://nfhs.org/participation/sportsearch.aspx
+    5. Hecox B, Mehreteab TA, Weisberg J. Physical Agents: A Comprehensive Text for Physical
+       Therapists. Appleton & Lange 1994 pp. 223-234.
+    6. Tovin BJ. Prevention and Treatment of Swimmer’s Shoulder. North American Journal of Sports
+       Physcial Therapy. 2006 Vol 1 Number 4 pp 166-175.
+    7. Johnson JE, Sim FH, Scott SG. Musculoskeletal Injuries in Competitive Swimmers. Mayo Clin
+       Proc 62:289-304, 1987.
+    8. Heinlein SA, Cosgarea AJ. Biomechanical Considerations in the Competitive Swimmer’s
+       Shoulder. Sports Health. 2010. VOl 2 No. 6. pp.519-525.
+9. Pink MM, Edelman GT, Mark R, Rodeo SA. Applied Biomechanics of Swimming. In Magee DJ et
+    al. Athletic and Sport Issues in Musculoskeletal Rehabilitation. Published by Saunders 2 Nov
+    2010 pp331-349.
+10. Page P. Clinical Suggestion: Shoulder Muscle Imbalance and Subacromial Impingement
+    Syndrome in Overhead Athletes. Int J of Sports Phys THer. March 2011 Vol 6 No 1 pp51-58.
+11. Colwin CM. Breakthrough Swimming. Champaign, IL: Human Kinetics; 2002:50-70.
+12. Nuber GW, Jobe FW, Perry J, Moynes DR, Antonelli D. Fine Wire Electromyography Analysis of
+    the Shoulder During Swimming….
+13. Pink M, Perry J, Browne A, Scovazzo ML. The Normal Shoulder During Freestyle Swimming: An
+    electromyographic and cinematographic analysis of twelve muscles.
+14. Scovazzo ML, Brown A, Pink M, Jobe FW, Kerrigan J. The Painful Shoulder During Freestyle
+    Swimming: An electromyographic and cinematographic analysis of twelve muscles. Am J Sports
+    Med, December 1991 Vol. 19 No. 6, pp 577-582.
+15. Pink M, Jobe FW, Perry J, Kerrigan J, Browne A, Scovazzo ML. The Normal Shoulder During the
+    Butterfly Stroke AN Electromyographic and Cinematographic Analysis of 12 muscles. Clin
+    Orthop Relat Res. 1993Mar;288(48-59)
+16. Pink M, Jobe FW, Perry J, Kerrigan J, Browne A, Scovazzo ML. The Painful Shoulder During the
+    Butterfly Stroke An Electromyographic and Cinematographic Analysis of 12 muscles. . Clin
+    Orthop Relat Res. 1993Mar;288(60-72)
+17. Pink M, Jobe FW, Perry J, Kerrigan J, Browne A, Scovazzo ML. The Normal Shoulder during the
+    Backstroke: An EMG and Cinematographic Analysis of 12 Muscles…
+18. Perry J, Pink M, Jobe FW, Kerrigan J, Browne A, Scovazzo ML. The Painful Shoulder during the
+    Backstroke: An EMG and Cinematographic Analysis of 12 Muscles…
+19. Ruwe PA, Pink M, Jobe F, Perry J, Scovazzo ML. The Normal and Painful shoudlers during the
+    Breaststroke: Electromyographic and Cinematographic analysis of twelve muscles. Am J Sports
+    Med December 1994 Vol 22 no. 6 789-796.
+20. Rodeo SA. Knee Pain in Competitive Swimming. Clin Sports Med Vol 18 No 2 April 1999. 379-
+    387.
+21. Stulberg SD, Shulman K, Stuart S, Culp P. Breaststrokers Knee: Pathology, etiology and
+    treatment. Am J Sports Med June 1980 Vol 8. No 3164-171.
+22. Vizsolyi P, Taunton J, Robertson G, Filsinger L, Shannon HS, Whittingham D, Gleave M.
+    Breaststrokers Knee: An analysis of epidemiological and biomechanical factors. Am J Sports
+    Med Jan 1987 Vol 15, No 1. 63-71
+23. Rovere G, Nicholas A: Frequency, associated factors, and treatment of breaststroker’s knee in
+    competitive swimmers. Am J Sports Med 13:99-104, 1985.
+                                                                            Standing Integration (20)
+                                                Figure 1:
+                             Standing Wall Supported Reach
+
+
+
+
+1. Stand facing away from a door, and place your heels 7-10 inches from the wall.
+2. Stand up straight with a ball between your knees and feet shoulder width apart.
+3. Bring your arms out in front of you as you round out your back, performing a pelvic tilt so
+    your lower back (mid-back and down) is flat on the wall.
+4. Squat down slightly as you squeeze the ball.
+5. Keeping your lower back flat on the wall, inhale through your nose.
+6. As you exhale through your mouth, reach your arms forward and down so your upper back
+    comes off the wall (your lower back should stay flat on the wall).
+7. Hold your arms steadily in this position (reach), as you inhale through your nose again and
+    expand your upper back. You should feel a stretch in your upper back.
+8. Exhale and reach further forward. You should feel the muscles on the front of your thighs
+    and outer abdominals engage.
+9. Repeat this breathing sequence for a total of 4-5 deep breaths, in through your nose and out
+    through your mouth.
+10. Slowly stand up by pushing through your heels, keeping your lower back flat on the wall.
+11. Relax and repeat 4 more times.
+
+
+
+
+Reference Center(s): Left abdominals, Left heel, Right arch
+
+Used with permsision. Copyright © 2012 Postural Restoration Institute®
+                                                                              All Four Integration (9)
+                                       Figure 2:
+                               All Four Belly Lift Reach
+
+
+
+
+1. Position yourself on your hands and knees with your hands on a 2-6 inch block.
+2. Place your knees at shoulder width or slightly wider and round your back.
+3. Maintaining a rounded back, raise your knees off the floor until your legs are straight.
+    Shift your weight forward so your nose is over your fingertips. You should feel your
+    outer abdominals.
+4. Shift your weight to your right side and reach towards the floor with your left hand
+    without bending your right elbow. You should feel the muscles in your shoulder
+    blades engage.
+5. Inhale through your nose, filling up the back of your right chest wall with air.
+6. Exhale through your mouth and reach or push with your left hand.
+7. Place your left hand back on the block and shift your weight to your left side.
+8. Reach towards the floor with your right hand without bending your left elbow.
+9. Inhale, filling the back of your left chest wall with air.
+10. Exhale and reach or push with your right hand.
+11. Continue this sequence of breathing taking 4-5 deep breaths, in through the nose and
+    out through the mouth while holding one position at a time.
+12. Relax and repeat 4 more times with each arm.
+
+
+Used with permission. Copyright © 2012 Postural Restoration Institute®
+                                                                                           Standing Integration (116)
+
+                                   Figure 3:
+                        Functional Squat with Low Trap
+
+                        Start Position
+                            Stand facing a leg of a table.
+                            Place a band around the table leg, and hold onto a
+                               loop in each hand.
+                            Keep your feet together and pointed straight ahead.
+                               Your weight should be through your
+                               mid-foot/heels.
+                            Round out your back as you tuck your bottom
+                               under you.
+
+
+                              Level Three
+                                  After achieving the start position, squat down while keeping your back
+                                     rounded and heels down. Squat until your hips are at the level of your
+                                     knees.
+                                  Inhale through your nose and fill the back of your chest with air.
+                                     Exhale through your mouth as you pull your arms back and keep your
+                                     back rounded. You should feel the muscles on the back of your
+                                     shoulder blades engage.
+                                  Keep your shoulder blades pulled back as you breathe for 4-5 deep
+                                     breaths, attempting to fill or expand your upper back with air on
+                                     inhalation.
+                                  On the final exhale, push through your heels and slowly stand up
+                                     keeping your back rounded.
+
+                                    Level Four
+                                        Squat until your hips are below the level of your knees.
+                                        Maintain this position and perform the breathing sequence
+                                           above.
+
+
+                                    *This is the most difficult position to perform this exercise in.
+
+
+
+                                          Level Five
+                                              Squat until you have achieved a full squat position
+                                                 (bottom to your heel cords). Keep your weight through
+                                                 your mid-foot/heels.
+                                              Maintain this position and perform the breathing
+                                                 sequence above.
+
+
+
+
+Reference Center(s): Left abdominals, Left heel, Right arch
+
+Used with permission. Copyright © 2012 Postural Restoration Institute®
+                                                                                          Standing Integration (30)
+
+                                     Figure 4:
+                           Squatting Bar Reverse Reach
+
+                         1. Hold onto a wooden pole across a door frame and find the best functional
+                            squat position (bottom of pelvis to heel cords), while keeping your heels
+                            down and knees inside your elbows. You may need to stand back up and re-
+                            position your feet so you can get your bottom down as far as allowed.
+                         2. Once you have positioned yourself in the most optimal squat position, take a
+                            deep breath, in through your nose, and fill the back of your chest wall with
+                            air while keeping your eyes up or level with the floor. Exhale through your
+                            mouth as you lean back until all your air is out. Repeat this sequence of
+                            inhalation and exhalation 3 to 4 more times, always allowing your heel cords,
+                            front of your thighs/knees and your back muscles to relax and stretch.
+
+
+                         3. After the fourth breath in, exhale and begin to stand up pushing down
+                            through your heels and keeping your back rounded while sliding the pole
+                            up the door frame as necessary to assist you in coming up.
+                         4. Lower the pole and repeat the process 4 more times.
+                         5. The goal is to perform the first 3 steps above with the pole at the level of
+                            your ankle, with your elbows straight, with your knees in your chest and
+                            with the bottom of your pelvis on your heel cords (PRI Squat Level Four or
+                            Five).
+
+
+
+
+                             Once you’ve achieved the above goal, repeat the first three steps. After
+                             the fourth breath in, reach forward with your hands as you exhale so
+                             that the pole loses contact with the door frame. As you exhale, begin to
+                             stand up, pushing through your heels and continuing to reach forward
+                             so that the pole doesn’t touch the door frame.
+
+
+
+
+                              Go to your local hardware store and purchase a 1 inch x 4
+                                 foot wooden pole. For cushion, encase the pole in pipe
+                                                                            insulation.
+
+Reference Center(s): Left abdominals, Left heel, Right arch
+
+Used with permission. Copyright © 2012 Postural Restoration Institute®
+                                                                             Standing Integration (73)
+
+                             Figure 5:
+      Standing Resisted Right Diagonal Flexion in Right AIC
+
+
+
+
+1. Place a piece of tubing underneath your left foot, and place the other end in your right
+   hand.
+2. Shift your left hip back, and sidebend your trunk to the left.
+3. Pull your shoulder blades down and together.
+4. Begin to raise your right hand up and out to the side as you rotate your palm up. You
+   should feel the muscles on the back of your right shoulder blade engage.
+5. Lift your right foot in front of you.
+6. Try to balance on your left leg as you reach forward and across the midline of your
+   body with your left hand. You should feel the muscles on the back of your right
+   shoulder, the front of your left thigh, left outer hip (buttock) and left abdominals
+   engage.
+7. Hold this position while you take 4-5 deep breaths, in through your nose and out
+   through you mouth.
+8. Relax and repeat 4 more times.
+
+
+
+
+Reference Center(s): Left abdominals, Left heel
+
+Used with permission. Copyright © 2012 Postural Restoration Institute®
+                                                             Supine Right Lower Trapezius and Right Tricep (16)
+
+                               Figure 6:
+             Supine Resisted Right HG IR with Left HG ER
+
+
+
+
+1.   Lie on your back with your knees bent.
+2.   Anchor a piece of tubing above your right arm and below your left arm.
+3.   Place both arms at shoulder level and rest them on bolsters.
+4.   Bend both elbows at a 90-degree angle and place both ends of the tubing in each
+     hand.
+5.   Pull your shoulder blades down and together and press your elbows into the bolsters.
+6.   Keeping your elbows pressed down into the bolsters, turn your right hand down and
+     your left hand up against the resistance of the tubing. You should feel the muscles on
+     the front of your right shoulder and the back of your left shoulder engage.
+7.   Hold this position while you take 4-5 deep breaths, in through your nose and out
+     through your mouth.
+8.   Slowly bring both arms back to start position.
+9.   Relax and repeat 4 more times.
+
+
+
+
+Used with permission. Copyright © 2012 Postural Restoration Institute®
+                                                                            Sidelying Integration (12)
+
+                          Figure 7:
+  Right Sidelying Supported Left Glute Med in Hip Extension
+
+
+
+
+1. Lie on your right side with your right hip bent at a 90-degree angle and your right
+   foot placed on the wall. Keep your back and neck relaxed.
+2. Place a 3-5 lb ankle weight around your left ankle. Keep your left hip neutral (left
+   knee, hip and shoulder in line with each other) and place your left knee on a bolster so
+   that your knee is level with your hips.
+3. Move your left knee toward the wall and touch the wall.
+4. Press your right foot into the wall and your left knee down into the bolster. You
+   should feel your left inner thigh engage.
+5. With your right foot into the wall and your left knee down, turn your left lower leg up
+   towards the ceiling. You should feel your left outer hip (buttock) engage.
+6. Hold this position while you take 4-5 deep breaths, in through your nose and out
+   through your mouth.
+7. Relax and repeat 4 more times.
+
+
+
+
+Reference Center(s): Right arch
+
+Used with permission. Copyright © 2012 Postural Restoration Institute®
+                                                                          Seated Left Hamstring (16)
+
+                           Figure 8:
+ Seated Resisted Alternating Reciprocal Quad Sets with FA IR
+
+
+
+
+1. Sit on the edge of a table and place 3-5 lb ankle weights around your ankles and a
+   band between the ankle weights and your feet.
+2. Place a ball between your knees and squeeze.
+3. Round out your back and roll your pelvis back, feeling your “sit bones.”
+4. Straighten your left leg as you simultaneously pull back your right leg.
+5. Turn your right lower leg out to the side. You should feel the outside of your right
+   hip (buttock) along with the back of your right thigh and the top of your left thigh.
+6. Hold this position as you take 4-5 deep breaths, in through your nose and out through
+   your mouth.
+7. Slowly lower your left leg and pull it back as you simultaneously straighten your
+   right leg. Turn your left lower leg out to the side. You should feel your left outside
+   hip (buttock) along with the back of your left thigh and top of your right thigh.
+8. Hold this position as you take 4-5 deep breaths, in through your nose and out through
+   your mouth.
+9. Continue to repeat the above sequence until you have completed 4-5 repetitions with
+   each leg.
+
+
+
+
+Used with permission. Copyright © 2012 Postural Restoration Institute®
+                                                                         Standing Paravertebral Inhibition (15)
+
+                                       Figure 9:
+                                 Full Functional Squat
+
+
+
+
+1. Stand away from a wall.
+2. Squat down until your knees are maximally bent. Keep your heels down.
+3. Rest your hands on the tops of your knees and attempt to maintain your bodyweight
+   through your heels, not your toes. Your back should be rounded and relaxed.
+4. Hold this position for 4-5 deep breaths, in through your nose and out through your
+   mouth. On each inhalation, attempt to fill or expand your upper back with air.
+5. Slowly stand up by pushing through your heels and keeping your back rounded.
+6. Relax and repeat 4 more times.
+
+
+
+
+Used with permission. Copyright © 2012 Postural Restoration Institute®
+                                                                           Standing Latissimus Inhibition (1)
+
+                                       Figure 10:
+                                Latissimus Hang Stretch
+
+
+
+
+        Bilateral Lat Stretch             Right Lat Stretch              Left Lat Stretch
+                                          Right Chest Expansion          Left Chest Expansion
+
+
+1. Place both hands on an overhead bar.
+2. Place your feet in front of you shoulder width apart and begin lowering your body
+   until all of the slack is taken up through your trunk.
+3. Once you are all the way down, perform a posterior pelvic tilt by tucking your bottom
+   under you. You should feel a stretch in your armpit area and across the front of your
+   chest.
+4. Hold this position while you take 4-5 deep breaths, in through your nose and out
+   through your mouth.
+5. Relax and repeat 4 more times.
+6. An alternative to this technique would be to perform the steps above and then lift your
+   left or right leg off of the ground.
+
+
+
+
+Used with permission. Copyright © 2012 Postural Restoration Institute®
+

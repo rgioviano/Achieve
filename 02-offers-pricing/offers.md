@@ -5,7 +5,7 @@
 ## First step for everyone
 - An evaluation (say "20-minute screen" or "evaluation"). Evals are generally in the evenings for athletes and adults. (Lead plan, Ryne 2026-10-09)
 - Ryne books evals himself when he has space. No self-booking on his calendar. (Atlas 2026-09-01)
-- CONFLICT to resolve: older memory says the eval is free and first-touch copy may say free/complimentary (Atlas, Max 2026-08-21). The 2026-10-09 lock says never write "complimentary" or "1:1 eval". The wording lock wins for copy; whether the eval is still free is TODO.
+- The evaluation is free (Ryne, 2026-10-17). Copy wording is still locked (2026-10-09): say "evaluation" or "20-minute screen", never "complimentary" or "1:1 eval".
 
 ## Current offer names (October 2026 Meta plan)
 | Offer | For | Shape |
@@ -21,9 +21,9 @@
 - Older note: adult training "starts around $199/mo depending on frequency and commitment" (Atlas 2026-08-21). TODO: confirm against current sheet.
 
 ## Athlete packages (pricing sheet)
-- The pricing sheet PDF lists athlete packages Platinum, Gold (3 to 4 days/week), Silver (2 days/week), and Bronze (1 day/week), each on 3, 6, or 12-month terms. Platinum adds massage, Normatec, quarterly nutrition consult, at-home prehab, and quarterly re-eval. Monthly rates span roughly $189 to $599 by tier and term. Read the sheet for the exact grid.
+- The pricing sheet PDF on file is the current price sheet (Ryne, 2026-10-17). It lists athlete packages Platinum, Gold (3 to 4 days/week), Silver (2 days/week), and Bronze (1 day/week), each on 3, 6, or 12-month terms. Platinum adds massage, Normatec, quarterly nutrition consult, at-home prehab, and quarterly re-eval. Monthly rates span roughly $189 to $599 by tier and term. Read the sheet for the exact grid.
 - Billing note on sheet: recurring billing occurs when the athlete uses all sessions for the month or when 5 weeks pass, whichever comes first; prepaid monthly; continues until written notice.
-- TODO: The lead plan says package rates live on the "June 2026 sheet (PA owns it)". Confirm whether the PDF on file is that sheet, and how Essential/Build/Foundation map to Gold/Silver/Bronze.
+- TODO: How Essential/Build/Foundation (October ad offers) map to the Gold/Silver/Bronze tiers on the current sheet.
 
 ## Short Course Dryland Domination (SCDD)
 - 6-week swim dryland intro for new athletes: force plate plus movement eval, 12 semi-private sessions, individualized program, end re-test, nutrition guidelines. $349 all-in, 24 spots, enrollment closed September 13 (2026). Purchase in Mindbody. (Max 2026-08-21)
@@ -43,4 +43,4 @@
 ## Related skills
 - `hormozi-grand-slam-offers`, `sales-offer-enhancers`, `van-westendorp-pricing`.
 
-Sources: Chief memory achieve-meta-ads-current-month.md; achieve-offers/2026-10-07-monthly-lead-plan.md (house rules, section 7); achieve-offers/2026-10-14-oct-meta-ads-approval-brief.md; achieve-pricing-sheet.pdf (undated); Atlas memory profile.md; Max memory profile.md.
+Sources: Ryne, 2026-10-17 (eval is free; pricing PDF is current); Chief memory achieve-meta-ads-current-month.md; achieve-offers/2026-10-07-monthly-lead-plan.md (house rules, section 7); achieve-offers/2026-10-14-oct-meta-ads-approval-brief.md; achieve-pricing-sheet.pdf (undated); Atlas memory profile.md; Max memory profile.md.
