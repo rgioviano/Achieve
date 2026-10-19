@@ -2,6 +2,9 @@
 
 Dated changes to this repo and to the fleet facts it depends on. Newest first. One line per change. Business decisions go in `10-decisions-log/decisions.md`; this file tracks the repo itself.
 
+## 2026-10-19
+- Scrubbed prospect and client names, emails, and phone numbers from bot memory and from the mail, writing-style, prospect-tracking, and program skills. Dropped `bots/tally/memory/log/2026-08.md` and `2026-09.md`. Removed invoice amounts and support case numbers. Offer prices and ad budgets stayed. Text scan and gitleaks were clean. Not merged.
+
 ## 2026-10-17
 - Repo `rgioviano/Achieve` created by Ryne (private, personal account). First content opened as PR #1 from branch `brain-v1`. Not merged.
 - Scope set to "everything included" (Ryne): all Achieve skills, every Achieve bot's instructions, memory, reference and routine files, and client data (repo is private). Secret values are always redacted.

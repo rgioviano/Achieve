@@ -10,7 +10,7 @@ description: >-
 
 **When:** Before writing a new Achieve program draft. Use this **with** [Review last program TH](sand-workflow:review-last-program-th) (calendar = where they left off) **and** Asana + Hawkin. This skill teaches *how Ryne progresses* across published library blocks — not only the latest calendar week — so drafts read like he wrote them.
 
-**Input:** `{athlete}` — name as it appears in TrainHeroic titles. Parent/guardian TH names still apply when different (e.g. Avery → Brianna Lantz).
+**Input:** `{athlete}` — name as it appears in TrainHeroic titles. A parent or guardian title still applies when the library name is not the athlete's. Do not copy those names into this repo.
 
 **Assumes:** Signed in to Achieve coach Chrome on this computer. Do not enter credentials. Read-only — do not edit, clone, assign, or publish.
 
@@ -39,7 +39,7 @@ Short library chains are fine — learn from whatever history exists (no hard 10
 
 ## Ryne progression language (learned from Library)
 
-Sampled: Alyssa Shields, Annika Anderson, Brayden Capen, Annabelle Nawrocki, Braden Meurer, Alex Parkinson, Carla Schwartz, Deb Wright (General Fitness adults).
+Sampled across beginner, intermediate, and advanced athlete blocks plus general-fitness adult blocks. Names are not stored here.
 
 ### Within a 4-week block
 - **Exercise menu stays the same** across Weeks 1–4. Do not invent weekly exercise rotation inside one published block.

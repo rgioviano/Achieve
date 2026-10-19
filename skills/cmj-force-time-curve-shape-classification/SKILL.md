@@ -34,7 +34,7 @@ Plain rules:
 - Match **isometric position to where force hangs** on the curve. Early Peak Plateau / early bimodal hang at the **braking → propulsion** change → use a **quarter-squat Split Squat ISO Push** (overcoming/ballistic). Do **not** default to mid-thigh if the hang is lower.
 - Same jump height does not mean the same program — shape decides the emphasis.
 
-Paige example (locked): brake 122 ms + Early Peak Plateau → no long-ecc squat; Day 1 power iso = Split Squat ISO Push at ~quarter-squat, not mid-thigh.
+Locked example: brake 122 ms + Early Peak Plateau means no long-ecc squat. Day 1 power iso is Split Squat ISO Push at about quarter-squat, not mid-thigh.
 
 Annabelle example (locked 2026-09-11): brake 170 ms looked “fine” on time, but Late Peak Bimodal + EUR ~1.0 = stop is *not* fine. Train the catch (yielding hold / drop-and-stick) plus faster drop. Do not skip braking work.
 

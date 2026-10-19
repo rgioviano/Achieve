@@ -3,7 +3,7 @@
 <!-- Enduring facts: who the user is, how to address them, lasting preferences.
      Kept in mind every turn. Safe to read, grep, and edit.
      One fact per line, as "- (YYYY-MM-DD) <fact>". -->
-- (2026-08-24) Achieve Sports Performance is owned by Ryne Gioviano (ryne@achievesportsperformance.com); ops/product/business sit with Achieve; email is draft-only until Ryne or Chief of Staff approves send.
+- (2026-08-24) Achieve Sports Performance is owned by Ryne Gioviano. Work mail is the work mailbox. The address is not stored here. Ops, product, and business sit with Achieve. Email is draft-only until Ryne or Chief of Staff approves send.
 - (2026-08-24) Strength Coach has no live TrainHeroic login; Achieve pulls last 2–3 FULL blocks (or Ryne pastes/opens TH) so new programs can match.
 - (2026-08-26) In the Programming room, format Hawkin findings and program direction as short bullet lists, not long prose.
 - (2026-08-26) Yielding for braking: D1 ISO Hold / D2 jump, named ISO Hold (not PAP); coach 20–40 s on floor; high-position if EUR < 1.0; do not deepen hold week to week; high day only.
@@ -50,18 +50,6 @@
 
 # Athlete cards
 
-- (2026-08-26) Quinn Allen is 13, swim-only (~58 kg), beginner, short-course start; Hawkin is CMJ+SJ only (no IMTP). Last test Wed Aug 5: CMJ 9.4 in, SJ 11.3 in, EUR 0.83, takeoff 0.89 s, RSI 0.52; peak CMJ 11.9 in Feb; slow deep pusher (countermovement costing her); L/R is noise.
-- (2026-09-03) Sophie Dioro has ~1.5 years of training experience and is a breaststroker/IM swimmer at the start of her high-school season; chin-up strength is a priority.
-- (2026-09-05) Jacey Chen is a 15-year-old high-school fly/swim athlete in season; overhead athlete (no true vertical press); Left AIC / Right BC and narrow ISA stay in prep; scaps depressed/anteriorly tilted; R shoulder history — prefer serratus/lower-trap/ER and landmine, not true OH; ignore stale Asana “no training history”/14yo vs current loads.
-- (2026-09-05) Avery Lantz is an 11-year-old beginner remote athlete (Y gear; normal gear otherwise); no med-ball wall throws/slams; not in Hawkin (off-plate); Asana includes L AIC lean, unstable, and knee growing pains.
-- (2026-09-05) Avery Lantz’s TrainHeroic account is under the name Brianna Lantz (parent/guardian); search Brianna Lantz for her calendar/programs, not Avery.
-- (2026-09-05) Olivia Rohde is a breaststroker with short-course start; 1× Achieve / 1× home (rack/BB/DBs/bench/box/MB/bands/cable; no trap bar); Asana Patho PEC/B BC, narrow ISA, hypermobile, scap depression/DR/anterior tilt, bilateral medial knee + R anterior shoulder + L hip history.
-- (2026-09-05) Annabelle Nawrocki is a HS senior backstroker with ~5 yr training history, 2× Achieve; Asana L AIC/B BC, narrow ISA, scaps retracted/IR/anteriorly tilted, needs general strength (Strength Emphasis); no step-ups, no RFESS, no hip thrusts.
-- (2026-09-08) Paige Kowal (HS freestyle/IM, 2×/wk): Left AIC/B BC, Wide ISA, limited ankle DF (depth gate), R shoulder pain/winging/DR scaps — no true OH; prefers low-rep (hates high-rep); heel-elev/pause/box for honest-depth knee work; serratus/lat inhibition/shoulder health finish.
-- (2026-09-08) Lexi Goldstone is a 16yo freestyle swim athlete (3×/wk, ~8 months training); L AIC/B BC, narrow ISA, hypermobile, DR/anterior-tilt scaps, limited shoulder flexion; old R shoulder; active R medial elbow (wrist flex, pronation, Zottman, low trap, serratus); getting strong bilaterally (front squat family @130 etc.); keep humerus quiet / feel cuff.
-- (2026-09-14) Tasha Mantel (HS senior free/breast, 2×/wk, ~5 yr): L AIC/B BC (pos B FA ER, pos B HG IR, pos shoulder flex); DR scaps; limited rotation R; R shoulder pain; chronic LBP with diagnosed L5/S1 disc bulge; R adductor inhibition from breaststroke; wants propulsion/SSC. Short course, not doing HS swimming. Lower volume 3×4–8 after a higher-volume phase.
-- (2026-09-14) Rachel Johnson is a HS senior swim athlete with ~4 yr training history; low back limits axial/bar work (no trap bar, no back squat/SSB); L hip IR + bilateral hip extension limits (prep or G/H).
-- (2026-09-14) Annika Anderson is a HS swimmer (distance free + track/XC), 1×/wk in-season, beginner–intermediate (trained since summer); L AIC/R BC, narrow ISA; L shoulder MDI; R pec/lat busy; can’t touch toes; prior L hip/LBP; likes tri-sets.
 
 # Standing skill roster (global — already available; open by context)
 - ironblueprint-programming-logic, ryne-programming-style, program-design-basics

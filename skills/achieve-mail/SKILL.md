@@ -15,7 +15,7 @@ Look up current Gmail tool schemas before calling them. Do not assume frozen arg
 
 Ryne uses **`/achieve-mail` alone**. Do not ask him to also run `/achieve-writing-style`.
 
-Whenever this skill is used to review, triage, or reply to Achieve / IronBlueprint mail (`ryne@achievesportsperformance.com`, `contact@achieve-personaltraining.com`, `ryne@ironblueprint.app`) — including "get my emails," "inbox," "what needs a reply," leads, Gmail, or drafting responses:
+Whenever this skill is used to review, triage, or reply to Achieve / IronBlueprint mail (`the work mailbox`, `the public contact mailbox`, `the IronBlueprint mailbox`) — including "get my emails," "inbox," "what needs a reply," leads, Gmail, or drafting responses:
 
 1. **Immediately read and follow** the achieve-writing-style skill (do not ask Ryne to run it). If that skill is missing, use the saved gym-voice + Achieve policy facts (Hi FirstName, answer first, Thanks, plus his gym signature; 24-hour cancel, 12-hour book, 3-month min, extra 5th week, etc.). Never draft Achieve client/lead replies from this mailbox skill alone or with generic wording.
 2. Use **this** skill for mailbox work (Gmail search/read/draft). Filing labels follow the gmail-waiting-vs-follow-up skill.
@@ -29,17 +29,17 @@ Ryne Gioviano, MSEd, CSCS
 Owner, Achieve Sports Performance & Personal Training
 
 For scheduling or account questions:
-Contact@achieve-personaltraining.com | Text: 630.340.4114
+the public contact mailbox | Text: the public text line
 ```
 
 ## Accounts
 
 Sweep these Gmail accounts (separate connectors):
 
-- `ryne@achievesportsperformance.com` — work (primary)
-- `contact@achieve-personaltraining.com` — contact
-- `ryne@ironblueprint.app` — ironblueprint
-- Personal `rgioviano@gmail.com` — personal (only when the ask includes personal mail / PA brief triage)
+- `the work mailbox` — work (primary)
+- `the public contact mailbox` — contact
+- `the IronBlueprint mailbox` — ironblueprint
+- Personal `Ryne's personal mailbox` — personal (only when the ask includes personal mail / PA brief triage)
 
 Do not search personal Gmail for Achieve client/lead work unless he asks.
 

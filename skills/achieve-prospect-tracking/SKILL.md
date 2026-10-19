@@ -13,7 +13,7 @@ Use when adding, updating, or reporting on Achieve prospects on the Prospect Tra
 
 - File: [Prospect Tracking](https://docs.google.com/spreadsheets/d/1x8KurT1AJOPYLca6Jz9f_zBqZ3yBUGv8-isf8pctv4g)
 - Current year tab (2026 worksheet id `502533256`)
-- Writes: Zapier Google Sheets as `ryne@achievesportsperformance.com`. Lookup/update by **Email Address**. New leads: **create row at top** immediately below the heading. Never append to the bottom of the list.
+- Writes: Zapier Google Sheets as `the work mailbox`. Lookup/update by **Email Address**. New leads: **create row at top** immediately below the heading. Never append to the bottom of the list.
 - Ryne edits the sheet too. Re-read the header and the row live before every write. Columns can move.
 
 ## 2026 columns (as of 2026-10-09; do not invent extra)
@@ -86,7 +86,7 @@ Add a row only when someone **inquires about training**: a WordPress Lead Form, 
 - College observation, job-shadow, or class-requirement asks
 - Existing-client ops mail
 - People already on the sheet (match email, then phone, then name)
-- Bob Jaeckel (`chopperbob373@comcast.net`): no draft, no follow-up, no new row
+- The known ghost lead Ryne already marked do-not-contact: no draft, no follow-up, no new row
 
 If a non-prospect was added by mistake, delete the row.
 

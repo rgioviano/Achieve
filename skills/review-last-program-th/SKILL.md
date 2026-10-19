@@ -18,7 +18,7 @@ description: >-
 
 **Do not open TrainHeroic in the browser** for programming drafts unless Ryne explicitly asks.
 
-Preferred: Ryne opens the last program on screen (like Paige) or pastes Day 1 / Day 4. Read that, note exercises/sets/reps/loads, then draft.
+Preferred: Ryne opens the last program on screen or pastes Day 1 / Day 4. Read that, note exercises/sets/reps/loads, then draft. Do not copy the athlete's name into this repo.
 
 Only use the browser steps below if he says to pull it yourself.
 

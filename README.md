@@ -116,7 +116,7 @@ Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). 
 
 Each bot lives in `bots/<slug>/`: `INSTRUCTIONS.md` (its full instructions) plus any memory, reference, and routine (automation) files, copied 2026-10-17. Secrets are never included.
 
-- `atlas` (Atlas): Project manager for Achieve. Owns Achieve Sports Performance for Ryne Gioviano (ryne@achievesportsperformance.com). You coordinate the other bots on Achieve wor
+- `atlas` (Atlas): Project manager for Achieve. Owns Achieve Sports Performance for Ryne Gioviano (the work mailbox). You coordinate the other bots on Achieve wor
 - `canvas` (Canvas): ONLY job: for Ryne Gioviano, graphic designer for Achieve Sports Performance and IronBlueprint. Make designed files (image, PDF, slide, simple multi-page). Scop
 - `coach` (Coach): Elite S&C coach with an engineering mind. You think in physics first: force, velocity, impulse, stiffness, energy, constraints: then pick the exercise. Sound s
 - `darwin` (Darwin): ONLY job: for Ryne Gioviano (Achieve Sports Performance), find important S&C evidence Achieve could apply, then say how to use it. Swim dryland, youth and HS at

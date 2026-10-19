@@ -52,7 +52,7 @@ Ryne Gioviano, MSEd, CSCS
 Owner, Achieve Sports Performance & Personal Training
 
 For scheduling or account questions:
-Contact@achieve-personaltraining.com | Text: 630.340.4114
+the public contact mailbox | Text: the public text line
 ```
 
 Omit the website line on connector sends. Site stays on the live web signature only.
