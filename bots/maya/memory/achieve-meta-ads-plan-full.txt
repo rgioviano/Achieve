@@ -1,0 +1,634 @@
+ACHIEVE SPORTS PERFORMANCE
+1-Year Meta Ads Plan
+October 2026 – September 2027  ·  $500 per month  ·  $16.40 per day
+Aurora, IL  ·  Swim parents  ·  Youth-athlete parents  ·  Morning adults
+One campaign per month. Three ads. Packages from the June 2026 sheet. Adults train before 10:00 a.m. High school girls stay on Foundation through November 14. Build starts November 16.
+Ryne Gioviano  ·  Achieve Sports Performance & Personal Training
+How to run this
+Open Ads Manager on the first business day of the month. Build only what that chapter specifies: one campaign, the ad sets listed, three ads. Instant Form dumps to SMS the same hour. The thank-you page is the 20-minute screen calendar plus that month’s PDF.
+Section 1 — the machine you use every week.
+Section 2 — packages, hours, and who buys what.
+Section 3 — August through mid-November (girls HS season).
+Section 4 — the 12 months, including full ad copy.
+Section 5 — weekly scoreboard.
+1. The machine
+Campaign setup
+Objective: Leads (Instant Forms) every month.
+Campaign budget optimization on. Daily budget $16.40. Do not change budget more than 20% inside 72 hours.
+Two ad sets most months: Cold and Warm. October and August add a third set only when the chapter says so.
+Three ads in the main cold set on Day 1. One or two in Warm (last month’s winner plus this month’s package ad).
+Advantage+ audience on, location locked. If spend hits 18-year-olds with no kids, switch that set to manual.
+Location
+People living in or recently in a 18-mile radius of the facility for parent campaigns; 15-mile radius for adult campaigns. Cities: Aurora, North Aurora, Batavia, Geneva, St. Charles, Naperville, Oswego, Montgomery, Sugar Grove, Yorkville, Plainfield, Warrenville, Lisle.
+Placements and tracking
+Advantage+ placements. Turn off Audience Network if it wastes spend. If Stories buy 3-second views and no form opens, restrict to Feeds + Reels.
+Pixel + Conversions API live before October spend. Events: ViewContent, Lead, Schedule, Purchase.
+UTM: utm_source=meta&utm_medium=paid&utm_campaign=YYYYMM_theme&utm_content=adA|adB|adC.
+Creative rules
+Film in the gym. 9:16 first. Words on screen in the first two seconds.
+One promise per ad. Permission on every athlete face.
+Refresh a creative when cold frequency hits 3.5 and CTR is falling.
+30-day test loop
+Days
+Do this
+1–3
+Launch three ads. Even spend. Do not edit copy or targeting.
+4–7
+Read form opens and CTR. Kill an ad if CTR is under 0.8% and cost per form open is more than 2× the set average.
+8
+Keep the winner. Add one challenger — new first line, same package.
+9–21
+70% winner / 30% challenger. Swap if the challenger wins CPL four days straight.
+22–30
+80% winner / 20% warm. Next month’s first lines come from this month’s comments.
+Anytime
+Kill if CPL is more than 2× the month target after 8 leads, or that ad produces 5 no-shows in a row.
+Follow-up, every lead
+0–15 minutes: SMS. “This is Ryne at Achieve. Got your request for the screen. Two times that still work this week: [A] or [B]. Reply with a letter.” Adult times offered are only before 10:00 a.m.
+Hour 2: second SMS plus email with the PDF.
+Hour 24: call. 20-second voicemail. One outcome.
+Day 3: short video answering the week’s objection.
+Day 5: “Want me to close this out or hold a screen next week?”
+Day 14 and 30: recycle into the warm set.
+Instant Form, every month
+Name, mobile, email, zip, athlete or adult.
+One qualifier from that month’s chapter.
+Adults: preferred morning window (5:30–7:00 / 7:00–8:30 / 8:30–10:00). There is no midday option on the form.
+Review step on. Duplicate the form each month so you can see which month produced buyers.
+Do not
+Boost posts.
+Test five headlines on a $4 ad set.
+Target Illinois or the United States.
+Spend the month’s budget in 10 days.
+2. Packages and hours
+Source: Achieve pricing sheet, June 2026. No setup fee. Athletes bill when sessions are used or at five weeks, whichever comes first. Adults bill every four weeks. Clients pre-pay. Services continue until written notice.
+Hours the ads may sell
+Adults: before 10:00 a.m. only. The room is dark for adults from 10:00 a.m. until 5:00 p.m. Ads, forms, SMS, and the calendar must match that.
+Athletes: afternoon and evening as staffed. In-season high school girls get one short session that fits dual-meet weeks.
+Screens for adults: 20 minutes, finished by 10:00 a.m.
+Athlete small group
+Package
+Days
+3 month
+6 month
+12 month
+When you close it
+Foundation
+1× / week
+$229
+$209
+$189
+In-season girls. Anyone who can only train once.
+Build
+2× / week
+$329
+$309
+$289
+Winter, spring, summer, and post-season girls. Default 6-month at $309.
+Performance
+3–4× / week
+$429
+$409
+$389
+Only if they ask on the call.
+Elite
+3–4× all-in
+$629
+$599
+$569
+Only if they ask on the call.
+Adult small group
+Package
+Days
+3 month
+6 month
+12 month
+When you close it
+Essential
+1× / week
+$279
+$239
+$199
+Default adult close. Morning only.
+Active
+2× / week
+$379
+$339
+$299
+If they can train twice before 10:00 a.m.
+Committed
+3–4× / week
+$479
+$439
+$399
+Only if they ask and both sessions fit before 10:00.
+Add-ons that can sit next to a package
+Hybrid remote days on an in-person package: +$59 / +$79 / +$99 per month.
+Remote-only: $169 / $149 / $129. Use when they cannot make mornings at all. It is not the in-season girl product.
+What every ad is allowed to close
+In-season high school girl (Aug 22–Nov 14): Foundation, 3-month, $229/mo. Hybrid +$59 if they want a home day.
+Off-season / winter / spring / summer athlete: Build, 6-month, $309/mo. Foundation $229 if they can only train once.
+Adult starting now: Essential, 3-month, $279/mo, session before 10:00 a.m.
+Adult starting January: same Essential. Take $279 as month one in December.
+Adult who wants the 12-month rate: Essential $199/mo, say “12-month” in the same sentence.
+Always pair the monthly number with the term. “$189 a month” without “12-month Foundation” is not how the sheet works.
+3. August 10 – November 14
+IHSA girls swimming 2026–27 starts August 10, first contest August 21, sectionals November 7, state November 13–14. Those families keep paying on Foundation. Ads in this window fill morning Essential and non-girl Build.
+Keep current girls on Foundation through November 14. Sell mornings to adults. On November 16, move those girls to Build.
+Roster
+Who
+Through Nov 14
+Do this
+Current HS girls still training
+Foundation $229 / 3-month
+Text the flip this week.
+Club-only, boys, multi-sport, adults already training
+Current package
+Leave the rate alone.
+Girls already “when I can”
+Foundation $229, or a written pause with a Nov 16 restart
+Call.
+College leavers
+—
+Ask for one underclassman referral.
+HS girls not on the roster
+PDF only until Nov 16
+Do not start them on Build during dual-meet weeks.
+Target: 70% of current girl swimmers still paying on November 1.
+Text to current girl-swimmer parents
+Practice owns the week through November 14. We can keep her on Foundation — one short day a week at $229 a month for three months — written around duals. After state we can move her to Build (two days) at $309. Reply YES and we write the next block.
+Say on that call: athlete billing runs when sessions are used or at five weeks. Unused dual-meet weeks do not float. If you pause state week, the restart date is November 16.
+Spend split
+Dates
+Cold ads
+Package
+Oct 1 – Nov 7
+40% morning adults / 35% multi-sport + boys / 15% club-year-round swim / 10% warm girls
+Essential $279 mornings. Build $309 for kids who can train twice. Foundation $229 on warm.
+Nov 8–14
+Warm + morning adults only. About $200 for the two weeks.
+No new 2× starts this week.
+Nov 15–30
+Remaining ~$300 on just-finished girls, boys swim, multi-sport
+Build $309 default. Foundation $229 if they can only train once.
+Aug 1–21, 2027
+Last pre-season window
+Build $309 if they start before the 21st.
+Aug 22–31, 2027
+New HS girls to Foundation. Cold ads to morning Essential and non-girl Build.
+Room is done with adults at 10:00.
+4. The 12 months
+Build the month on day one. Expected range at $500: 14–22 leads, 3–5 closes on a normal month. June and the November 16 window can run hotter.
+MONTH 01
+October 2026  —  Morning Essential · Foundation for girls
+Job
+Fill sessions that finish by 10:00 a.m. Keep current girls on Foundation. Do not start in-season high school girls on two days a week.
+Offers
+Cold adults: Essential, 3-month, $279/mo. Session before 10:00 a.m.
+Cold youth: Build, 6-month, $309/mo for multi-sport and boys.
+Warm girls: Foundation, 3-month, $229/mo. Book a November 16 Build screen on the same call.
+Magnet, warm: Keep Your Swimmer in the Water — 5 In-Season Dryland Rules.
+Magnet, youth: Winter Power Checklist.
+Budget and sets
+$200 Cold Adults / $150 Cold Youth / $150 Warm. Daily cap $16.40.
+Cold Adults: age 30–55, 15-mile. Suggestions: personal training, strength training, running, triathlon, Masters swimming.
+Cold Youth: parents 30–54, 18-mile, children in home. Suggestions: youth sports, basketball, wrestling, soccer, volleyball. Do not require swimming.
+Warm: 180-day site + 90-day engagers + current customer list if uploaded.
+Form qualifier
+Who this is for (adult / multi-sport athlete / current Achieve swimmer). Adults pick 5:30–7:00 / 7:00–8:30 / 8:30–10:00.
+Ad A · CREATIVE
+18–22 sec Reel. One adult training before 8:00 with a coach on the bar. Overlay: “Done by 10.” End card: Essential · $279/mo.
+PRIMARY TEXT
+If you can train before 10:00 a.m., there is a spot.
+Achieve writes every adult an individual program and coaches it in the morning block. We are done at 10.
+Essential is one morning a week. $279 a month on a 3-month term. No setup fee.
+Aurora. Request a 20-minute morning screen.
+HEADLINE
+Essential · mornings · $279/mo
+DESCRIPTION
+1 day a week, finished by 10:00 a.m. Aurora.
+CTA
+Sign Up
+Ad B · CREATIVE
+4:5 still of a clean landing or jump screen. Overlay: “Power is a skill.”
+PRIMARY TEXT
+If the hour looks identical for the soccer player, the basketball player, and the swimmer, it is a class.
+Build is two days a week, written from an evaluation. $309 a month on a 6-month term.
+Request the intake. Aurora.
+HEADLINE
+Build · 2 days · $309/mo
+DESCRIPTION
+6-month athlete package. Individual plan.
+CTA
+Sign Up
+Ad C · CREATIVE
+Short in-season session. Overlay: “Practice owns the week.”
+PRIMARY TEXT
+If your daughter is in high school season, keep dryland to one short day.
+Foundation is $229 a month for three months, written around duals. After November 14 we can move her to Build.
+Current families: book the 15-minute re-check.
+HEADLINE
+Foundation · $229/mo · in-season
+DESCRIPTION
+One day a week through November 14.
+CTA
+Learn More
+This month’s extra rule
+If an adult lead only wants 5:00 p.m., do not book it. Offer remote-only or a wait list.
+Hit these numbers
+8–12 new conversations from Essential or non-girl Build. 15–25 current girls on Foundation through November 1. Morning block visibly less empty than week one.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+MONTH 02
+November 2026  —  Quiet, then Build on the 16th
+Job
+November 1–14 is state week. November 16 is the restart.
+Nov 1–14
+Spend about $200. Warm + Cold Adults only.
+Current girls: championship week plan and a November 16 Build screen.
+Social: meet support. No launch creative.
+Nov 15–30
+Spend the remaining ~$300.
+Just-finished girls: Build, 6-month, $309/mo. Screen the week of November 16. Foundation $229 if they will only train once.
+Boys swim: Foundation $229 or Build $309 from the same screen.
+Multi-sport: Build $309.
+Keep selling morning Essential so returning girls do not swallow every afternoon slot.
+Magnet: Winter Power Checklist.
+Form qualifier
+Athlete type (just-finished girls HS / boys swim / multi-sport / adult) and start week.
+Ad A · PRIMARY TEXT
+High school girls season ended November 14. Two days a week fits again.
+Build is $309 a month on a 6-month term. Evaluation included.
+If she stayed on Foundation through the season, this is the week to move her.
+Request a screen the week of November 16.
+HEADLINE
+Build starts November 16 · $309/mo
+Ad B · PRIMARY TEXT
+Boys high school swimming loads now.
+Same evaluation we use with girls. Foundation at $229 (one day) or Build at $309 (two days).
+Request a screen. Afternoon slots will go fast.
+HEADLINE
+Boys dryland · Foundation or Build
+Ad C · PRIMARY TEXT
+Winter is when multi-sport athletes either get a written strength plan or sit in a speed class.
+Build: two days a week, $309 a month for six months, from their numbers.
+Request the intake. Aurora, Naperville, Batavia, Oswego.
+HEADLINE
+Build · $309/mo · their numbers
+This month’s extra rule
+Do not run the November 16 ads before November 14.
+Hit these numbers
+Phase two: 12–18 leads. 6–10 Foundation or Build starts. At least two of those starts are morning Essential or non-girl Build.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+MONTH 03
+December 2026  —  Book January mornings
+Job
+Adults decide in December. They start the first week of January, before 10:00 a.m. Take $279 as month one of Essential now.
+Offer: Essential, 3-month, $279/mo, or 12-month Essential at $199/mo if they lock the year.
+Magnet: Adult Athlete Reset.
+Budget: $300 Cold Adults / $120 Warm / $80 creative.
+Target: 28–55, 15-mile. Suggestions: personal training, strength, running, triathlon, Masters swimming.
+Form: 5:30–7:00 / 7:00–8:30 / 8:30–10:00.
+Ad A · PRIMARY TEXT
+January gyms get loud after work. Ours is a morning room.
+Book a December screen. Start Essential the first week of January. One session a week, finished by 10:00 a.m. $279 a month for three months.
+Aurora.
+HEADLINE
+January mornings · Essential $279
+Ad B · PRIMARY TEXT
+Most adults we see are not out of shape because they are lazy. They are uncoached.
+Essential is one morning a week with a written plan. $279 a month for three months, or $199 a month on a 12-month term.
+HEADLINE
+A plan that is done by 10
+Ad C · PRIMARY TEXT
+You do not need a new personality in January. You need one morning that is already on the calendar.
+December screen. January start. Essential, $279 a month.
+Hit these numbers
+15–20 leads. 8 January Essential starts or December month-one payments at $279.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+MONTH 04
+January 2027  —  Club and boys championships
+Job
+Girls who started Build on November 16 stay there. January ads talk to club short-course and IHSA boys.
+Close: Foundation $229 if they are in taper and can only train once. Build $309 if they can hold two days.
+Magnet: What to Keep and What to Cut Before Champs.
+Budget: $340 Cold Swim / $100 Warm / $60.
+Target: parents 32–54, 18-mile, swimming and high school sports suggestions.
+Ad A · PRIMARY TEXT
+Championship season is the wrong time to pile on dryland.
+Foundation is one day a week, $229 a month for three months, written around the meet calendar. If they can hold two days, that is Build at $309.
+Request the screen.
+HEADLINE
+Dryland that fits the taper
+Ad B · PRIMARY TEXT
+If dryland makes them sore for practice, it is competing with the pool.
+The screen tells us Foundation or Build. Then we write the next four weeks.
+HEADLINE
+Cut what does not race
+Ad C · PRIMARY TEXT
+Fourteen years of swim dryland in the Fox Valley. Evaluation first, then Foundation or Build — not a team circuit.
+Hit these numbers
+16–22 leads. 5–8 new Foundation or Build. Do not count November 16 girls already on Build.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+MONTH 05
+February 2027  —  Spring Build
+Job
+Boys still in season stay on Foundation unless they ask. Cold ads go to baseball, lacrosse, track, soccer, volleyball club.
+Close: Build, 6-month, $309/mo.
+Magnet: Spring Sport Readiness Checklist.
+Budget: $360 Cold / $90 Warm / $50.
+Target: parents 30–54, 18-mile, those sports as suggestions.
+Ad A · PRIMARY TEXT
+Spring tryouts reward kids who can produce force and stay available.
+Build is two days a week, $309 a month for six months, from an individual screen — not a shared speed class.
+HEADLINE
+Build · $309/mo · 6 months
+Ad B · PRIMARY TEXT
+Landing problems show up in April.
+Twenty minutes on the plates now. Then Foundation at $229 or Build at $309.
+HEADLINE
+Find the limiter before April
+Ad C · PRIMARY TEXT
+Multi-sport kids collect habits from every coach. Build is one plan that respects every sport they play this spring.
+Hit these numbers
+15–20 leads. 4–6 Build starts.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+MONTH 06
+March 2027  —  Morning Essential
+Job
+Adults who did not start in January. Same morning block.
+Close: Essential $279 / 3-month. Active $379 only if both days finish by 10:00 a.m.
+Magnet: Why February Plans Die.
+Budget: $320 Cold Adults / $120 Warm / $60.
+Ad A · PRIMARY TEXT
+March is a cleaner time to start than January.
+Essential: one morning a week, done by 10:00 a.m., $279 a month for three months. Evaluation included.
+HEADLINE
+Essential · $279 · done by 10
+Ad B · PRIMARY TEXT
+Most adults we see do not need another mobility video. They need strength that fits a work morning.
+Essential $279. Active $379 if you can train twice before 10.
+HEADLINE
+A workweek plan, before work
+Ad C · PRIMARY TEXT
+Same monitoring we use with athletes. The plan changes when the week changes.
+Request a morning screen.
+Hit these numbers
+14–18 leads. 5–7 Essential or Active starts, all before 10:00 a.m.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+MONTH 07
+April 2027  —  Swim off-season · Build
+Job
+This is the swimmer-growth month. Yardage drops. Two days a week fits.
+Close: Build $309 / 6-month. Foundation $229 if they can only train once.
+Magnet: Pre-Season Dryland Blueprint (existing PDF).
+Budget: $350 Cold Swim / $100 Warm / $50.
+Ad A · PRIMARY TEXT
+Summer speed is built in April.
+Build is two days a week, $309 a month for six months, written from a screen.
+Download the Dryland Blueprint, then book the time.
+HEADLINE
+Build the off-season · $309/mo
+Ad B · PRIMARY TEXT
+Free Pre-Season Dryland Blueprint. Five drills we actually use.
+The program takes a screen. Then Foundation or Build.
+HEADLINE
+Free: Pre-Season Dryland Blueprint
+Ad C · PRIMARY TEXT
+Club dryland serves the group. Build is written for this swimmer.
+$309 a month, 6-month term. Aurora.
+Hit these numbers
+20–28 leads. 6–8 Build or Foundation starts.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+MONTH 08
+May 2027  —  Lock summer on Build
+Job
+Multi-sport off-season. Put 6 months on the calendar before vacation season.
+Close: Build $309 / 6-month, or $289 / 12-month if they lock the year.
+Magnet: What a Real Off-Season Looks Like.
+Budget: $330 Cold / $100 Warm / $70.
+Ad A · PRIMARY TEXT
+A camp week is not an off-season.
+Build runs two days a week through summer. $309 a month on six months, or $289 if you lock twelve. Screen and mid-block re-check included.
+HEADLINE
+Build · $309/mo for 6 months
+Ad B · PRIMARY TEXT
+We write around the vacation weeks. We do not pretend every athlete attends twelve weeks in a row.
+Request the intake.
+HEADLINE
+Strength that survives vacation
+Ad C · PRIMARY TEXT
+Put summer strength on the calendar in May or it does not happen.
+Same evaluation we use with swimmers. Build at $309.
+Hit these numbers
+16–22 leads. 8 Build starts.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+MONTH 09
+June 2027  —  Summer swim
+Job
+Highest swim intent of the year. Close Foundation or Build from the screen.
+Close: Build $309 if they can train twice. Foundation $229 if summer league already owns the week.
+Magnet: 5 Dryland Drills for Summer Racing.
+Budget: $380 Cold Swim / $80 Warm / $40.
+Ad A · PRIMARY TEXT
+Summer racing still needs dryland written for this swimmer.
+After the screen we put them on Foundation ($229, one day) or Build ($309, two days).
+Request the screen. Aurora.
+HEADLINE
+Summer dryland · Foundation or Build
+Ad B · PRIMARY TEXT
+This is for kids who already practice — not learn-to-swim camp.
+Evaluate, measure, write Foundation or Build around the meet calendar.
+HEADLINE
+Built for kids who already swim
+Ad C · PRIMARY TEXT
+You already pay for pool time. Dryland should not be leftover push-ups on the deck.
+Book the screen.
+Hit these numbers
+12–18 applications. 8–12 Foundation or Build starts.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+MONTH 10
+July 2027  —  Morning adults · Masters
+Job
+Keep the morning block full while families travel. Essential stays one morning. Add hybrid +$59 for weeks they are gone.
+Close: Essential $279 / 3-month. Active $379 only if both mornings exist.
+Magnet: Training When You Travel.
+Budget: $300 Cold Adults / $120 Warm / $80 Masters test.
+Ad A · PRIMARY TEXT
+Vacation is not a reason to lose July.
+Essential is one morning a week, done by 10:00 a.m., $279 a month for three months. Add hybrid remote days for +$59 the weeks you are gone.
+HEADLINE
+Essential · $279 · hybrid +$59
+Ad B · PRIMARY TEXT
+Masters and triathlon: random lunch-hour gym time is how shoulders get noisy in August. We do not run a lunch block.
+Train before 10. Same dryland process we use with competitive swimmers. Essential $279 or Active $379.
+HEADLINE
+Masters dryland · mornings
+Ad C · PRIMARY TEXT
+One evaluation. A morning on the calendar. Essential, $279 a month.
+Hit these numbers
+12–16 leads. 5–7 Essential or Active starts, all before 10:00 a.m.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+MONTH 11
+August 2027  —  Last clean window, then Foundation
+Job
+First contest is August 21. Start girls on Build only if they begin before that. After the 21st, new high school girls close on Foundation. Morning Essential keeps filling the 10:00 cutoff.
+Magnet: Pre-Season Dryland Blueprint.
+Spend about $300 before the 21st, $200 after.
+Sets through the 21st: Cold Swim + Cold Multi-sport + Warm.
+After the 21st: Cold Adults (mornings) + Cold Multi-sport + Warm Foundation.
+Ad A · PRIMARY TEXT
+First contest is August 21. That is the last week two days still fits a high school girl.
+Start Build now at $309 a month for six months. After the 21st, new girls go on Foundation at $229 so dryland does not fight practice.
+Download the Blueprint. Book the screen.
+HEADLINE
+Last clean window before August 21
+Ad B · PRIMARY TEXT
+Fall season starts whether they are strong or not.
+Multi-sport athletes: Build at $309 from a pre-season screen, before two-a-days stack.
+HEADLINE
+Ready before two-a-days
+Ad C · PRIMARY TEXT
+College swimmers leave in August. That does not open a 2:00 p.m. adult hour — adults train before 10:00 a.m.
+If you can be in the room in the morning, Essential is $279 a month. Request a screen.
+HEADLINE
+Morning Essential · $279/mo
+This month’s extra rule
+On August 22 pause any ad that promises two days a week to a new high school girl.
+Hit these numbers
+18–26 leads. 6–8 starts by August 21. 4+ morning Essential or non-girl Build after August 21. Most new high school girls on Foundation by Labor Day.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+MONTH 12
+September 2027  —  Foundation and referrals
+Job
+Girls season is on. Harvest warm traffic. Ask current Foundation families for a club kid or a sibling. If cold swim-parent CPL is over $40 by day 10, move leftover budget to morning Essential.
+Warm offer: Foundation $229 / 3-month.
+Referral: referred family gets $50 off month one of Foundation, Build, or Essential. Referrer gets a free re-screen.
+Magnet: 5 In-Season Dryland Rules.
+Budget: $200 Lookalike / $200 Warm / $100 Cold Adults.
+Ad A · PRIMARY TEXT
+Once school and practice stack, dryland has to shrink.
+Foundation is one day a week, $229 a month for three months, written around duals. Hybrid remote days +$59 if you want them.
+Request a time.
+HEADLINE
+Foundation · $229/mo · in-season
+Ad B · PRIMARY TEXT
+We evaluate every athlete and write Foundation, Build, or Essential from those numbers.
+Request a screen.
+HEADLINE
+Measured. Then written.
+Ad C · PRIMARY TEXT
+Most of our best athletes arrive because another parent said the evaluation was different.
+They get $50 off month one. You get a free re-screen.
+New family: request the screen and tell us who sent you.
+HEADLINE
+The best introductions are from parents
+Hit these numbers
+16–22 leads. 6+ referral conversations. 4–6 new Foundation, Build, or Essential.
+On the screen
+Confirm who is training and the next 60 days of their calendar.
+Name the limiter in one sentence.
+Put them on one package from the table in Section 2. Quote the monthly rate and the term together.
+Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
+Deposit is month one of the package they chose.
+5. Weekly rhythm and the board
+Expected math
+A normal month of closes
+New monthly revenue
+2 Foundation + 1 Essential
+$229 + $229 + $279 = $737
+2 Build + 1 Essential
+$309 + $309 + $279 = $897
+3 Foundation (in-season month)
+$687, and the roster holds
+4 Build (Nov 16 / April / May / June)
+$1,236
+$500 a month in ads will not carry the facility to $85k MRR by itself. Referrals, Academy Bullets, Delta, and high school coaches still have to produce. Ads are the paid tap.
+TikTok
+Leave it off until Meta beats that month’s CPL target two months in a row and you already have eight vertical videos performing as Reels. Then take $50–$75 from June, July, or August only. Same packages. Same morning rule for adults.
+Each week
+When
+Done means
+Monday
+Write leads, CPL, booked, showed, closed, package, morning slots filled, girls still on Foundation.
+Monday
+Every lead older than two hours has a next step.
+Wednesday
+One new hook. Same package.
+Thursday
+Every public comment answered.
+Friday
+Kill or keep. Screenshot the decision.
+Sunday
+Morning screen calendar has open times before 10:00 a.m.
+Also track through November 14
+Share of current HS girls still paying. Target 70% on November 1.
+November 16 Build screens already on the calendar.
+Share of new October revenue that is morning Essential or non-girl Build. Target 70%.
+Partners
+Academy Bullets Aurora and Delta Aquatics: a 20-minute coach demo, then Foundation or Build.
+High school swim, volleyball, and soccer coaches: one PDF per season, then a private screen night.
+Before the first dollar in October
+Pixel and CAPI tested.
+Calendar shows adult screens only before 10:00 a.m.
+Girl-swimmer list sent the Foundation text.
+November 16 Build holds opened on the calendar.
+October Instant Forms built: Essential / Build / Foundation.
+Three videos shot: morning adult, in-season girl session, jump screen.
+Then turn the campaign on.
+Achieve Sports Performance & Personal Training  ·  Aurora, IL
+Review after Month 3. Change only what the scoreboard killed.

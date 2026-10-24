@@ -1,0 +1,130 @@
+PRI Foundations for the Strength Coach
+By Ryne Gioviano
+If you’ve read Program Design Basics, you know how we structure our programs and why each exercise category is ordered the way it is. This document covers the “why behind the why”—the Postural Restoration Institute (PRI) framework that informs how we assess athletes, select exercises, and structure every warm-up we write. PRI isn’t something we sprinkle on top of our strength and conditioning. It’s baked into how we think about the athlete’s body before we ever load a barbell.
+Here’s the reality: humans are not symmetrical. We have a liver on the right side, a heart biased to the left, and a right hemidiaphragm that is larger and mechanically stronger than the left. Our neurological wiring favors right-sided dominance. This isn’t a “problem” to fix—it’s how we’re built. The human body is balanced through the integration of system imbalances. The torso is balanced with a liver on the right and a heart on the left. Extremity dominance is balanced through reciprocal function—left arm moves with right leg and vice versa. But when an athlete loses the ability to shift out of their dominant right-sided patterns, they develop compensatory movement strategies that show up as tightness, pain, and performance limitations on land.
+This document isn’t going to make you a PRI clinician. That takes years of formal coursework. But every coach at Achieve needs to understand these foundational concepts well enough to recognize what you’re seeing on the training floor, understand why we program certain breathing and repositioning exercises, and avoid reinforcing patterns that are working against the athlete. Think of it the same way we think about programming—you’re a cook first. Learn the recipe before you start trying to modify it.
+Why Position Matters Before Loading
+If you were going to build a house, you wouldn’t start framing walls on a foundation that’s cracked and tilted. You’d fix the foundation first. The athlete’s body works the same way. The pelvis and the ribcage are the foundation. The arms and legs are the walls and roof. If the foundation is shifted, rotated, or locked into one pattern, everything attached to it is going to be compromised.
+This is why breathing and PRI exercises come before everything else in the warm-up. We’re not doing that because it’s trendy or because we need to fill time. We’re doing it because loading a squat or a deadlift on top of a ribcage that can’t achieve internal rotation is going to push the athlete further into extension and further away from the positions they need to be healthy and powerful.
+The core principle is straightforward: training symmetrical sagittal plane exercises on a frame that can’t achieve a neutral position to breathe, rest, or rotate is going to create compensatory patterns. The body will figure out a way to do the movement, but it’ll do it by borrowing stability from the wrong places—accessory breathing muscles, back extensors, hip flexors—and that’s where injuries and performance ceilings come from.
+Tri-Planar Mechanics
+Athletic performance comes down to managing the center of mass across three planes of motion. Most coaches are comfortable thinking in the sagittal plane, which is where the majority of traditional lifting lives. PRI forces you to think about all three planes and how they interact with each other.
+Sagittal Plane: Flexion, extension, dorsiflexion, plantarflexion, protraction, retraction. This is where squats, deadlifts, presses, and rows live. But here’s the key—how the body is organized in the sagittal plane directly affects its ability to access the other two planes. An athlete stuck in sagittal extension (arched back, flared ribs, anterior pelvic tilt) is going to have a very hard time rotating or shifting laterally. You have to solve the sagittal plane first before the other two open up.
+Frontal Plane: Abduction, adduction, lateral flexion, elevation/depression, upward/downward rotation. This is the plane of weight shifting. An athlete needs to be able to simultaneously abduct one limb while adducting the other—that’s how we walk, run, and change direction. When an athlete can’t shift into their left hip, frontal plane balance is gone, and you’ll see it on every single-leg exercise they do.
+Transverse Plane: Internal/external rotation, horizontal abduction/adduction, left/right trunk rotation. This is the plane of counter-rotation. The torso above the diaphragm and the pelvis below it need to rotate reciprocally—that’s how we walk, swim, throw, and swing. When that’s lost, you see athletes who can’t rotate through their thoracic spine, can’t internally rotate at the hip or shoulder, and compensate with excessive lumbar motion.
+When an athlete loses access to one plane, it affects all three. A loss of frontal plane shifting shows up as a loss of transverse plane rotation, which shows up as sagittal plane compensation. PRI gives us the lens to see how it’s all connected.
+The Polyarticular Muscle Chains
+In PRI, we don’t think about muscles in isolation. We think about them as “muscle families” called polyarticular chains—groups of muscles that cross multiple joints and work together to position the pelvis and ribcage. The two primary chains are the Anterior Interior Chain (AIC) and the Brachial Chain (BC).
+Anterior Interior Chain (AIC)
+The AIC is made up primarily of the diaphragm and the psoas. These muscles attach from the costal cartilage of ribs 7-12 all the way down to the lateral patella, fibular head, and lateral tibial condyle. The AIC governs the position of the lumbo-pelvic-femoral complex—in plain terms, it controls where the pelvis sits, which determines the position of the hip socket for the femur.
+When the left AIC is overactive, the psoas and iliacus pull the lumbar spine and pelvis down and forward, increasing lumbar lordosis and anterior pelvic tilt. The diaphragm gets positioned to advance the ribcage upward, decreasing its respiratory effectiveness as it becomes more of a postural muscle than a breathing muscle. The femur gets biomechanically oriented inward, and the vastus lateralis and biceps femoris have to pick up the slack as hip stabilizers because the psoas can’t do its job as a femoral external rotator from this position.
+Why does this matter for you as a coach? Because the position of the pelvis determines what the hip can and can’t do. If the pelvis is stuck in anterior tilt on the left side, the athlete can’t achieve proper internal rotation at the left hip—what PRI calls left AF IR (Acetabular Femoral Internal Rotation). Without left AF IR, the athlete can’t shift weight into the left leg properly. This shows up as an athlete who always leans right, has a right foot that turns out, or has a right calf that’s noticeably bigger than the left.
+Brachial Chain (BC)
+The BC lies over the anterior pleural and cervical area and influences cervical rotation, shoulder dynamics, and apical inspiratory expansion. It’s composed of the triangularis sterni, sternocleidomastoid, scalenes, pectoralis minor, intercostals, and muscles of the pharynx and anterior neck. These muscles provide the support for cervical-cranial orientation, rotation, and rib position.
+When the right BC is overactive, the right latissimus dorsi becomes a dominant player. Mike Cantrell, a PRI-credentialed physical therapist, calls the lat “the secret player” because it’s often overlooked but can single-handedly prevent repositioning from being successful. The right lat pulls the ribcage into extension, flattens the thoracic spine, increases lumbar lordosis, and restricts trunk rotation to the left and side-bending to the left. It wins the tug-of-war against the left quadratus lumborum every time, which is why you’ll sometimes see left-sided low back pain in a classic Left AIC/Right BC presentation.
+This is particularly relevant for our swimmer population. Swimmers already have lats that are overworked from thousands of pulling repetitions. The lat becomes overdeveloped, tight, and positionally dominant. It limits ribcage expansion, encourages lumbar extension, and when it takes over as the primary humeral internal rotator, the subscapularis—the muscle that’s actually supposed to do that job—becomes inhibited and positionally weak. That’s a direct path to shoulder impingement, anterior instability, and labral issues. This is one of the main reasons we emphasize lat inhibition and serratus anterior activation in every swimmer’s program.
+The Bottom Line on Chains
+It is a mistake to try to fix an extremity issue without addressing the foundation it’s attached to. A knee problem is often a pelvis problem—the knee is doing what the pelvis is telling it to do. A winged scapula is often a ribcage problem, not a “weak serratus” problem. If the ribcage is flared and extended, the scapula physically cannot sit flat against it because the scapula is curved and needs a curved surface to sit on. The question isn’t “why is the serratus weak?” It’s “what is the ribcage doing underneath that scapula?”
+Primary Postural Patterns
+The human body defaults into predictable compensatory patterns based on our inherent right-side dominance. These aren’t random—they’re consistent across the population and recognizable once you know what to look for.
+Left AIC Pattern
+This is the most common pattern you’ll see and is the primary pattern PRI addresses. The left hemi-pelvis tilts anteriorly and rotates forward, which orients the entire pelvic girdle to the right. The center of mass shifts over the right leg. The athlete is essentially stuck in right-sided stance and can’t transition weight effectively to the left. The directional, rotational influence this has on the low back and spine to the right mandates compensatory movement in the trunk, upper extremities, and cervical region. The greatest impact is on rib alignment and position, which directly influences breathing patterns and ability.
+Visual indicators:
+Right foot turned out during standing or gait
+Asymmetrical weight bearing, leaning heavily on the right hip
+Right calf noticeably larger than the left
+Thorax and lumbar spine sidebent to the right
+One shoulder lower than the other with continual shift of the body directed to one side through the hips
+Right BC Pattern
+This is a compensatory rotation of the spine back to the left above the diaphragm to keep the athlete facing forward. It’s the body’s attempt to counter the rightward orientation caused by the Left AIC below. The right lower trap, triceps, and serratus anterior lose their normal ability to retract the scapula, stabilize the spine, and rotate the ribs because right-handed activity and left upper trunk rotation have put them in a disadvantaged position.
+Visual indicators:
+Right shoulder appears lower than the left
+Left lower ribs are prominent or flared compared to the right
+Loss of internal rotation of the right humerus
+Palms of the hands facing behind the athlete at rest (positive teres major sign, indicating lat dominance)
+PEC (Posterior Exterior Chain) Pattern
+The PEC pattern is what happens when both sides go. It’s a bilateral expression of the AIC/BC patterns. The athlete is in a state of gross hyperinflation—both sides of the anterior ribcage are externally rotated, both sides of the pelvis are forwardly rotated. The diaphragm’s central tendon is descended, and the posterior mediastinum is tight and restrictive. The lats, quadratus lumborum, posterior intercostals, and iliocostalis lumborum are all overactive, restricting lower lobe expansion and enhancing thoracic spine flatness and lumbar lordosis.
+This pattern is extremely common in swimmers. The respiratory demands of breath holding, the prone position encouraging spinal extension, and the strong muscle imbalances from repetitive arm pulling all reinforce it. You’ll see deep low backs, elevated anterior ribs, forward rounded shoulders, forward head posture, anteriorly tilted pelvis, and hyperextended knees on land. These athletes are locked in extension and can’t get out.
+Visual indicators:
+Bilateral lordotic or excessively arched back
+Prominent rib flare on both sides
+Inability to touch toes or squat with a neutral spine
+Palms facing behind the athlete bilaterally
+Both trunk rotation directions limited
+The Zone of Apposition (ZOA)
+If there’s one PRI concept you need to understand above all others, it’s this one. The Zone of Apposition is the cylindrical portion of the diaphragm that is directly apposed to the inner aspect of the lower ribcage. In a normal standing position at rest, the ZOA represents about 30% of the total surface area of the ribcage. This is where the diaphragm does its job as a respiratory pump.
+Here’s how it works: when the diaphragm contracts during inhalation, its muscle fibers shorten. The dome descends like a piston, and the most important volume displacement during breathing comes from this piston-like axial displacement of the dome related to the shortening of the apposed muscle fibers. But this entire system depends on the abdominal muscles—specifically the internal obliques and transversus abdominis—maintaining resting tension to oppose the inspiratory action of the diaphragm and keep the abdominal viscera pressed up against the diaphragm’s undersurface.
+When the ribs are flared and externally rotated, the ZOA is lost. The diaphragm flattens out and can no longer effectively contract to draw air in. Instead, it becomes a postural stabilizer—holding the athlete up rather than helping them breathe. The athlete compensates by using accessory muscles—scalenes, upper traps, SCM, pec minor—to breathe. This is hyperinflation. The athlete is chronically stuck in a state of inhalation and can’t fully exhale. Studies have shown that changes in diaphragm dimensions produced by chronic hyperinflation occur exclusively in the zone of apposition.
+Restoring the ZOA means drawing the lower ribcage downward, pulling it inward, and retracting it backwards through rib internal rotation via a well-balanced exhalation. This improves the vertical dimension of the diaphragm and its effectiveness. This is exactly what our breathing exercises are doing. A 90-90 hip lift with a balloon isn’t just a breathing drill—it’s repositioning the ribcage so the diaphragm can function as a respiratory muscle again.
+When the left internal obliques and transversus abdominis are properly activated synchronously, the following happens:
+The left AIC is inhibited and the right AIC is activated.
+The right BC is inhibited and the left BC is activated.
+The left innominate rotates toward left AF IR (proper hip position).
+The left diaphragm’s ZOA is restored.
+The left ribcage moves into internal rotation (exhalation position).
+The right ribcage moves into external rotation (inhalation position).
+Right upper trunk rotation above the diaphragm is restored.
+That’s seven significant biomechanical changes from one activation. This is why breathing exercises are at the top of every program we write. It’s not filler. It’s foundational.
+Screening for Loss of Tri-Planar Balance
+Our full evaluation covers this in depth, but every coach should be able to recognize these red flags that indicate an athlete is stuck in a compensatory pattern:
+Toe Touch: Can’t forward bend and touch toes with knees straight. This indicates the posterior chain and axial extensors are holding on and won’t let the athlete flex. The standing reach test is also a good indicator of active ZOA—if an athlete can touch their toes and inhale with posterior expansion, that’s a sign of established ZOA.
+Squat Depth: Can’t squat with heels flat without losing pelvic position. This is often pelvic malposition preventing proper hip flexion more than it is ankle mobility.
+Passive SLR: Passive straight leg raise less than 90°. This is one of our key tests. A limited SLR often reflects an anteriorly tilted pelvis rather than “tight hamstrings.” The hamstrings feel tight because the pelvis has shifted them into a lengthened position.
+Shoulder IR: Can’t internally rotate the humerus or reach the arm up the back. This is a ribcage and scapular position issue before it’s a “tight shoulder” issue, especially in overhead athletes. If the lat has taken over as the primary humeral internal rotator, true internal rotation is mechanically challenged because the lat translates the humerus into adduction or extension instead.
+Trunk Rotation: Limited rotation to one or both sides. Bilateral limitations suggest a PEC pattern. Unilateral limitation (typically to the right) suggests the Left AIC/Right BC pattern.
+Adduction Drop Test: Restriction from the acetabular labral rim that doesn’t allow the femur to adduct, usually seen on the left. This reflects the anteriorly rotated, forward hemipelvis of the Left AIC pattern.
+Asymmetrical Weight Bearing: Obvious shifting toward the right side during standing or movement. Textbook Left AIC.
+These are indicators that inform exercise selection, particularly in the warm-up and tertiary portions of the program. If you see these signs, that’s information. Use it.
+Repositioning Techniques
+The goal of repositioning is to inhibit overactive chains and facilitate the muscles that oppose them. For the Left AIC, that means facilitating hamstrings, ischiocondylar adductors, glute max, anterior glute med/min, and internal obliques/transversus abdominis while inhibiting the tensor fascia latae, adductor magnus, psoas major, piriformis, and vastus lateralis. For the Right BC, that means facilitating lower trapezius, triceps, serratus anterior, and middle trapezius while inhibiting the pec major, pec minor, and latissimus dorsi.
+Here are the key techniques you need to know how to coach.
+90-90 Hip Lift with Balloon
+Objective: Inhibit the Left AIC, restore the ZOA, and inhibit the Right BC/Lat.
+Coaching cues:
+Dig heels down into the wall (not flat) to engage hamstrings.
+Lift the tailbone slightly off the floor while keeping the low back flat. Think about tucking the belt buckle toward the chin.
+Exhale fully into the balloon. At the end of the exhale, hold the pause for 3 seconds with the tongue on the roof of the mouth to prevent air from leaking back in.
+Inhale through the nose and focus on expanding the back into the floor. You should feel the back of the ribcage press into the ground.
+The balloon creates back-pressure that facilitates abdominal engagement and helps the athlete learn what a full exhalation actually feels like.
+Left Sidelying Left Flexed Adduction
+Objective: Facilitate the left ischiocondylar adductor and right hip abductor to restore frontal plane balance.
+Coaching cues:
+Lie on the left side, right leg straight, left leg bent at about 60°.
+Use bolsters under the head to ensure the head is side-bent to the right.
+Raise the left knee slightly by turning the thigh inward. The athlete should feel the left inner thigh working.
+Lift the right foot off the wall. The athlete should feel the outer right hip.
+Retro Stairs
+Objective: Facilitate Left Gluteus Medius and achieve Left AF IR.
+Coaching cues:
+Stand backwards on a step. Place the left foot on the step above.
+Push the left heel down into the step.
+Perform the “piston pull”—pull the left thigh and knee straight back, like a piston moving backwards, until the zipper line, knee, and foot all align vertically.
+The athlete should feel the left inner thigh and outer hip working together.
+Standing Resisted Wall Reach
+Objective: Recruit Serratus Anterior, facilitate thoracic flexion, and inhibit back extensors and the latissimus. This exercise promotes exhalation, reaching, and posterior pelvic tilting—three principles critical for expanding thoracic mobility.
+Coaching cues:
+Heels 7-10 inches from the wall, ball between the knees.
+Round the back to engage the abdominals. Think about pulling the ribs down toward the hips.
+Squat down until the bottom touches the wall.
+Exhale and reach forward and slightly downward. The reaching activates the serratus anterior, which retracts the ribcage posteriorly.
+Inhale through the nose and focus on expanding the back (posterior mediastinal fill). Reach a little further with each exhale.
+In a good squat position with the lumbar spine rounded and the arms reaching, the intake of air forces elongation and relaxation of the lat and allows the diaphragm to work as the dominant inhaler and the abdominals as the primary exhalers.
+Breathing and the Squat
+This is where PRI directly intersects with our strength training. How an athlete breathes during a squat matters because respiratory cues need to match the athlete’s ability to maintain a ZOA under load. Ascending out of the squat always requires exhalation to pull the ribs down and inhibit the back extensors. The variation comes on the descent.
+Variation 1: Partial Exhale on Descent, Full Exhale on Ascent
+Best for: Athletes with decreased abdominal strength or those lifting heavier loads.
+Initiating the exhale on descent moves the ribs into internal rotation early, allowing the diaphragm to ascend and support internal pressure under load. This is the most common variation you’ll use with our general population and younger athletes.
+Variation 2: Exhale on Descent, Hold 1-3 Breaths at Bottom, Exhale on Ascent
+Best for: Athletes who struggle to inhale without moving into spinal extension (PEC or Right BC patterns).
+The hold at the bottom neurologically teaches the athlete how to expand the posterior mediastinum while maintaining a ZOA under tension. This is a progression from Variation 1 and is particularly useful for athletes who default to extension the moment they take a breath in.
+Variation 3: Inhale on Descent, Exhale on Ascent
+Best for: Athletes with established abdominal strength and ZOA control. This is the goal.
+This synchronizes the respiratory and pelvic diaphragms to expand the posterior outlet on descent, providing maximal push and power from the glutes and quads on the ascent. Not every athlete will get here, and that’s fine. The athlete needs to earn this through demonstrated ability to maintain position, just like they earn the right to overhead press.
+How This Connects to Our Programming
+Now you can see why our programs are structured the way they are. The breathing exercises reset the foundation so everything we load afterward is on a frame that can handle it. The warm-up exercises reinforce proper position through movement. The strength exercises are paired intentionally—a trap bar deadlift paired with child’s pose serratus breathing isn’t random. The deadlift drives extension; the breathing exercise checks that extension. Every pairing has a reason.
+The tertiary section—rotator cuff, scapular stability, sport-specific work—also draws directly from PRI. If an athlete has a Right BC pattern with a hyperactive right lat, their scapular stability exercises need to address that. If a swimmer has painful shoulders, we’re looking at lat inhibition, right lower trap and triceps facilitation, subscapularis activation, and ribcage expansion—not just rotator cuff strengthening in isolation. If they can’t achieve left AF IR, their warm-up needs left glute med and left adductor work. Assessment results drive exercise selection, and PRI gives us the framework to interpret those results.
+For our swimmers specifically, every program should include some form of squat and reach activity to properly seat the scapulae on the ribcage and neutralize the neck. Standing wall supported reaches, squatting bar reaches, and their variations are staples. Upper trap and neck inhibition through ribcage internal rotation is also a priority. When a swimmer has pain with the catch phase of their stroke, the likely culprit is an overactive lat causing pain due to lack of subscapularis activity—and that’s a ribcage and positional issue, not just a shoulder strength issue.
+The Big Picture
+You don’t need to become a PRI expert to coach effectively here. But you need to understand the basics: humans are asymmetrical, that asymmetry creates predictable compensatory patterns, those patterns affect what our athletes can and can’t do on the training floor, and our breathing exercises are specifically designed to address those patterns before we load anything.
+The way we measure success isn’t just the weight on the bar. It’s whether the athlete can maintain foundational neutrality. If an athlete can’t pass a toe-touch or SLR test after training, the program is reinforcing the problem, not solving it. Respect the position of the pelvis and ribcage first. Performance, power, and longevity follow from there.
+As always, don’t hesitate to ask questions. PRI is deep and complex, and nobody expects you to master it overnight. What we do expect is that you understand these foundational concepts and can apply them to what you see on the training floor every day. We’re all here to learn and get better together.
