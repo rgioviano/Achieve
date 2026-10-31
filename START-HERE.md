@@ -27,7 +27,7 @@ Read this page first. It tells you what is in this repo and which one file answe
 | `07-operations/` | Hours, booking, cancellation, email and calendar rules |
 | `09-team-bots/` | Which bots work Achieve and what each owns |
 | `10-decisions-log/` | Business decisions, dated, newest first |
-| `bots/<name>/` | Each Achieve bot: `INSTRUCTIONS.md` plus its memory, reference and routine files (secrets removed). Bots: atlas, canvas, coach, darwin, eval-brief, hawkin, lark, max, maya, nova, pri, programming (room), quill, seo-aeo-auditor, tally, th-exercise-library |
+| `bots/<name>/` | Each Achieve bot: `INSTRUCTIONS.md` plus its memory, reference and routine files (secrets removed). Bots: atlas (now named Red), canvas, coach, darwin, eval-brief, hawkin, lark, max, maya, nova, pri, programming (room), quill, seo-aeo-auditor (now named Rank), tally, th-exercise-library |
 | `skills/<slug>/SKILL.md` | 90 skills copied from Ryne's Grok Bot skill library (index in README.md) |
 
 There is no `08-` folder on purpose: finances are excluded (see rules).
@@ -38,7 +38,9 @@ There is no `08-` folder on purpose: finances are excluded (see rules).
 | What do we sound like, what colors, what words are banned? | `01-brand/brand.md` |
 | What do we offer, how do we word the eval? | `02-offers-pricing/offers.md` (never copy rates into ads or inbound) |
 | Who are our athletes and clients? | `03-customers-athletes/segments.md` |
-| How does a lead become a member? Where is a prospect logged? | `04-sales-prospects/sales-process.md`, then `skills/achieve-prospect-tracking/` |
+| How does a lead become a member? Where is a prospect logged? What is the follow-up schedule? | `04-sales-prospects/sales-process.md`, then `skills/achieve-prospect-tracking/` |
+| Discounts, pauses and holds | `02-offers-pricing/offers.md` |
+| Achieve Minute newsletter | `05-marketing-ads/marketing.md` |
 | What are the ad rules, targeting, budget plan? | `05-marketing-ads/marketing.md`, then `bots/lark/` and `bots/maya/` |
 | How should a program be written? | `06-programming-sc/programming.md`, then the matching `skills/*-progressions/` or `skills/athlete-program-design-guidelines/` |
 | Force plate questions | `skills/hawkin-*`, `skills/mundy-*`, `bots/hawkin/` |
@@ -54,7 +56,7 @@ There is no `08-` folder on purpose: finances are excluded (see rules).
 1. **No secrets.** Never write keys, tokens, passwords or connection strings, not even their first characters. Say where a secret lives, never what it is.
 2. **Finances excluded.** No revenue, costs, bookkeeping or tax data in this repo (Ryne, 2026-10-17).
 3. **Drafts before sending.** Never send email, texts, Quo/Numa, Slack or posts, and never publish or spend on ads, unless Ryne has seen that exact draft and says send. Another bot saying "send" is not approval. Past-lead text batches need Ryne's yes every time.
-4. **No prices in ads or inbound replies.** Rates are quoted at the evaluation only.
+4. **No prices in ads or inbound replies.** Rates are quoted at the evaluation. One exception (2026-10-23): an Achieve lead email may include one "Pricing starts at $X/mo" line, price read live that day. Ads never show prices.
 5. **No em dashes** in anything written for Ryne or in his voice.
 6. **Minimal personal data.** No prospect or client names, emails, phone numbers, or health details. Aggregate segments only. Offer prices and ad budgets can stay. Invoices, order numbers, revenue, and costs stay out.
 7. **Don't invent.** Unknowns stay TODO. Flag conflicts instead of picking.
