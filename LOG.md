@@ -2,6 +2,13 @@
 
 Dated changes to this repo and to the fleet facts it depends on. Newest first. One line per change. Business decisions go in `10-decisions-log/decisions.md`; this file tracks the repo itself.
 
+## 2026-10-31
+- Weekly brain audit (second run). Covered 2026-10-24 to 2026-10-31. Branch `brain-audit-2026-10-31` is built on `brain-v1`, so it also carries the 2026-10-24 audit commit, which reached `brain-v1` (PR #2) after PR #1 had already merged into `main`. Opened as a PR into `main`. Not merged.
+- NOW.md: cancellation rule, account change rule, approve-before-saving rule (2026-10-26); new Projects section (Page-based project management, 2026-10-30).
+- `07-operations/operations.md`: cancellation and account change policies (2026-10-26) with an open question on the courtesy pass; inbox sorting runs daily and its first fresh-week score.
+- `09-team-bots/bots.md`: Chief router-only and one-final-order rules; project Page owners and heartbeats; cite-or-label and relayed approval rules.
+- `10-decisions-log/decisions.md`: 2026-10-26 and 2026-10-30 decisions; two new open questions.
+
 ## 2026-10-24
 - Weekly brain audit (first run). Covered decisions from 2026-10-17 to 2026-10-24. Opened as a PR into `brain-v1`. Not merged.
 - NOW.md: signup target set to 20 a month (about 26 booked evals), replacing the open TODO; added the bot value target, follow-up schedule, Achieve Minute, lead-email pricing line, Gmail Drafts rule; Atlas renamed Red.

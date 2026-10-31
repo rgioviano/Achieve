@@ -1,5 +1,10 @@
 # Decisions log (newest first)
 
+- 2026-10-30: Page-based project management. A master Projects index plus one Page per project; owner bots read the Page before work and update it after; weekday morning heartbeats on the owner bots, exception-only. Achieve Pages: lead pipeline (Tally), Meta ads (Maya), Quo SMS cutover and Illinois Secure Choice (Penny). (Ryne, Chief TEAM.md)
+- 2026-10-30: Fleet rules: cite or label (state only what was confirmed, label guesses); an approval relayed by Chief that quotes Ryne counts as his yes; Chief sends each bot one final order per task. (Ryne, Chief, Red and Doc profile.json)
+- 2026-10-26: Cancellations must be more than 24 hours before session start; less notice is charged for that session. (Ryne, Chief memory)
+- 2026-10-26: Account change requests go to a human; Achieve needs at least 3 days to process any change. (Ryne, Chief memory)
+- 2026-10-26: Nothing is added or saved until Ryne approves the draft. (Ryne, Chief memory)
 - 2026-10-23: Bot value target: Ryne is on the $200/mo Grok Bot plan and wants the bots to earn $400 to $600 a month. Only evidenced wins count. Chief posts a Friday value update (Fri 9:20am CT, Administrative). (Ryne, shared memory)
 - 2026-10-23: Lead emails may include one "Pricing starts at $X/mo" line, price read live that day. Ads and all other inbound price mentions still get no prices. (Ryne)
 - 2026-10-23: Discount terms: referral 20% off the referrer's next month when the referred person signs up; siblings / second family member 15% off every month while both train, offered only when asked or when it will likely help close; discounts never stack; both include adults. (Ryne; terms first locked 2026-10-05)
@@ -37,5 +42,7 @@
 - Referral offer: the lead plan's $50-off alternative (decide before 2027-08-25) vs the locked 20% / 15% terms. TODO: is the $50 option dead now that the terms were restated 2026-10-23?
 - Ads budget: $700 October proposal with weekly 20% increases toward about $1,500 (2026-10-14) vs the $500/month lock. TODO: confirm.
 - Families/referrals launch email copy (pending).
+- Cancellations: does the "one courtesy pass" from the 2026-09-11 note and the `achieve-policies` skill still apply under the 2026-10-26 rule?
+- Account changes: is the 3-day processing time separate from the 5 days' notice to stop a debit in the `achieve-policies` skill, or does it replace it?
 
 Sources: Chief TEAM.md change log (2026-10-17 to 2026-10-23); shared memory 2026-10-14 to 2026-10-23; achieve-offers/2026-10-07-monthly-lead-plan.md section 7; Atlas (now Red), Maya, Max memory profile.md; Chief chat 2026-10-17.

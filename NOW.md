@@ -1,4 +1,4 @@
-# NOW: Achieve (as of 2026-10-24)
+# NOW: Achieve (as of 2026-10-31)
 
 Current priorities and live context only. Replace lines as they go stale; history goes in LOG.md and `10-decisions-log/`.
 
@@ -21,8 +21,16 @@ Current priorities and live context only. Replace lines as they go stale; histor
 - **Lead follow-ups** (Ryne, 2026-10-22): leads who don't respond get follow-ups on day 2, 5, 9, 14, 21 and 30 after first outreach, then the lead is Parked. Any reply or booking stops the schedule. Stages: Contacted, Replied, Parked (2026-10-23). Full flow in `04-sales-prospects/sales-process.md`.
 - Lead emails may include one "Pricing starts at $X/mo" line, with the price read live that day (Ryne, 2026-10-23). Every other price mention stays out.
 - Email drafts go into Ryne's Gmail Drafts (threaded replies). Texts stay as drafts in chat. Nothing sends without Ryne.
+- Ryne confirms before anything is added: nothing saves until he approves the draft (2026-10-26).
+- **Cancellations** (2026-10-26): a cancel must come more than 24 hours before the session start, because spots in limited-capacity sessions are held. Cancels with less than 24 hours' notice are charged for that session. See `07-operations/operations.md`.
+- **Account changes** (2026-10-26): when someone asks for an account change, bots refer them to a human and say Achieve needs at least 3 days to process any change.
 - Past-lead re-engage texts: Ryne approves every batch (text and recipients). Nothing auto-sends.
 - Referral and families launch email and team partner outreach are still on hold.
+
+## Projects (Page-based, approved 2026-10-30)
+- Each project has one Page. The owner bot reads it before starting work and updates it (and the master Projects index) when done. No duplicate Pages, nothing marked complete without checking the real result.
+- Owner bots run one morning heartbeat on weekdays and only tell Ryne when something is blocked, overdue, needs a decision or changes status.
+- Achieve projects: lead pipeline (Tally, about 8:05am CT), Meta ads (Maya, about 8:35am CT Mon, Wed, Fri), Quo SMS cutover (Penny, about 8:25am CT), Illinois Secure Choice (Penny, about 8:30am CT).
 
 ## Programming
 - Coach leads programs 1:1 with Ryne (since 2026-10-07). The Programming room is still active (Ryne, 2026-10-17).
@@ -33,4 +41,4 @@ Current priorities and live context only. Replace lines as they go stale; histor
 - Red (Achieve PM, brand lock; formerly Atlas), Chief (routes work), Tally (CRM), Penny (email, calendar, drafts), Maya and Lark (marketing and ads), Max (sales), Quill and Canvas (Achieve Minute), Coach (programs), Hawkin (force plates).
 - Max and Maya report through Red for Achieve work (2026-10-21).
 
-Sources: Chief TEAM.md change log (2026-10-21 to 2026-10-23); shared memory 2026-10-14 (signup target, ads proposal), 2026-10-22 (follow-up cadence, Gmail Drafts), 2026-10-23 (stages, Achieve Minute, pricing line, value target); `10-decisions-log/decisions.md`; `WS/achieve-offers/2026-10-16-ad-briefs.md` (Naperville); Chief chat 2026-10-17.
+Sources: Chief TEAM.md (Page-based project management, 2026-10-30) and change log (2026-10-21 to 2026-10-23); Chief memory 2026-10-26 (cancellations, account changes, approve before saving); shared memory 2026-10-14 (signup target, ads proposal), 2026-10-22 (follow-up cadence, Gmail Drafts), 2026-10-23 (stages, Achieve Minute, pricing line, value target); `10-decisions-log/decisions.md`; `WS/achieve-offers/2026-10-16-ad-briefs.md` (Naperville); Chief chat 2026-10-17.
