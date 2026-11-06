@@ -1,0 +1,5 @@
+099d77b7d146898d0a98daa1afb765a02c92f96a16588166bcc6b4f5c9045c46  bots/darwin/export/grok-bot-export-darwin.json
+9834ceca35ddd73f76e46b18b2df0e0c9cd3a65f2cb89622252b843555daf1bf  bots/pri/export/grok-bot-export-pri.json
+307758a39cd94a35c25e08318b8272f9f94f1c9cc7c8be894a4f2622d69b45ce  bots/th-exercise-library/export/grok-bot-export-th-exercise-library.json
+703ef575d903cf4f3005decbe391960961b31b9c25f7e0c9e2c9a948621b98e4  exports/2026-11-06/wave3/COMPLETENESS.md
+907706d72924c8cb0a064aeb306cab2c5bd8dce49bf3c2cdcc6dad270d34488b  exports/2026-11-06/wave3/INCLUDED.txt
