@@ -34,7 +34,7 @@ Current priorities and live context only. Replace lines as they go stale; histor
 - Achieve projects: lead pipeline (Tally, about 8:05am CT), Meta ads (Maya, about 8:35am CT Mon, Wed, Fri), Quo SMS cutover (Penny, about 8:25am CT), Illinois Secure Choice (Penny, about 8:30am CT).
 
 ## Programming
-- Coach leads programs 1:1 with Ryne (since 2026-10-07). The Programming room is still active (Ryne, 2026-10-17).
+- Coach leads programs 1:1 with Ryne (since 2026-10-07). The Programming room is gone (Ryne, 2026-11-05).
 - Never assign TrainHeroic programs unless Ryne says assign.
 - Known gap: 36 programming skills point to reference files from a deleted bot (exercise progressions CSV, tapering guide). See LOG.md 2026-10-17.
 

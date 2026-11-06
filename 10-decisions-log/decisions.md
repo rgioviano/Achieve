@@ -1,5 +1,6 @@
 # Decisions log (newest first)
 
+- 2026-11-05: Charlie (CFO bot) is deleted. The Programming room is gone; Coach keeps leading programs 1:1 with Ryne. Maya's Achieve Meta ads Page heartbeat (Mon, Wed, Fri about 8:35am CT) keeps running in November. Bot memory files are synced to this repo after a client and athlete scrub. (Ryne, Chief chat 2026-11-05 8:47pm CT)
 - 2026-11-04: Briefs move to 1:1 chats (Penny's morning brief in her 1:1, Chief's evening debriefs and Friday value update in the Chief 1:1); nothing posts in group chats. No priorities in briefs; the 6:50am Today's priorities routine is deleted. Weekly brain repo PRs auto-merge after `brain_lint.py` passes. (Ryne, TEAM.md)
 - 2026-11-03: Achieve leads lane (MAP, RULES, CHECK) is live for Penny, Tally and Max. Promote room owner-filter ON. (Ryne, TEAM.md)
 - 2026-11-02: Achieve Minute on HOLD until a sustainable rhythm is locked. (Ryne, TEAM.md)
@@ -26,7 +27,7 @@
 - 2026-10-17: Evaluation is free; the pricing PDF on file is the current price sheet. (Ryne, 2026-10-17)
 - 2026-10-17: Finances are left out of the brain entirely. (Ryne, 2026-10-17)
 - 2026-10-17: Company brain split into three repos (Achieve, IronBlueprint, Personal). Local drafts only until Ryne approves. (Chief chat)
-- 2026-10-17: Bot consolidation: Herald, Bolt, Warden, Cipher, Bottleneck retired; AI Expert folded into Linus; Programming room to be archived (superseded the same day: the Programming room stays active). (TEAM.md change log)
+- 2026-10-17: Bot consolidation: Herald, Bolt, Warden, Cipher, Bottleneck retired; AI Expert folded into Linus; Programming room to be archived (superseded the same day: the Programming room stays active; then retired 2026-11-05, Ryne). (TEAM.md change log)
 - 2026-10-09: 3 ABO Meta campaigns approved as paused drafts ($200 / $150 / $150); no spend until final yes plus real UGC. (Lead plan #1, #7)
 - 2026-10-09: Strip rates from all copy (ads, forms, SMS, magnets). (Lead plan #2) Lead-email exception added 2026-10-23.
 - 2026-10-09: Past-lead re-engage text approved for batch 1; Ryne approves every future batch (text plus recipients). Nothing auto-sends. (Lead plan #3)

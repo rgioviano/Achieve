@@ -1,4 +1,4 @@
-# PRI dig wrap rules (Oct 2026) — Strength Coach
+# PRI dig wrap rules (Oct 2026) - Strength Coach
 
 **Source:** PRI dig of Ryne’s Desktop/PRI + refs. Full brief: `/home/box/agent-data/agents/e9d0fc7f-22cc-4b14-80a6-4b8361108e36/memory/reference/pri-research-digs/2026-10.md`  
 **Use:** When athletes don’t respond to classic 90/90 or look Patho PEC / stiff BC. Scoped update, not a full rewrite. PRI still owns the per-athlete brief; SC applies these gates in the wrap.

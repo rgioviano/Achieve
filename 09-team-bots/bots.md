@@ -24,9 +24,9 @@ Full fleet and routines: personal-brain/08-bot-fleet/fleet.md.
 | Splice | Video editor. Ready-to-post edits from raw footage, never posts. On demand |
 | Maverick | Business advisor (advice only, no sends) |
 | Metric | Metric deep dives, experiment reads and charts for Achieve and IronBlueprint. On demand. Never touches money, ads or code (profile dated 2026-11-03) |
-| Charlie | CFO bot: reads QuickBooks, read-only. Finance details stay out of this repo. No agent folder found on the box 2026-11-05 (open question) |
 
-Each bot's routines: `bots/<name>/ROUTINES.md`. Promote room owner-filter ON (2026-11-03): only the @-mentioned bot answers; with no @, Quill drafts, Maya reviews, Lark Meta-QAs the final package once, Max only on offer or lead questions.
+Each bot's routines: `bots/<name>/ROUTINES.md`.
+Retired 2026-11-05 (Ryne): Charlie (CFO bot, deleted) and the Programming room (gone; Coach leads programs 1:1 with Ryne since 2026-10-07). Do not route work to either. Some skills and bot instructions still mention the Programming room or Charlie because they mirror the live skill library and profile.json text. Promote room owner-filter ON (2026-11-03): only the @-mentioned bot answers; with no @, Quill drafts, Maya reviews, Lark Meta-QAs the final package once, Max only on offer or lead questions.
 Achieve leads lane (2026-11-03): Penny, Tally and Max follow shared MAP, RULES and CHECK files; done claims need CHECK proof.
 
 Roster caps (locked 2026-10-06): new permanent bots need Ryne's yes after a Wednesday self-improvement scan.
@@ -34,4 +34,4 @@ Project Pages (2026-10-30): every bot reads the relevant project Page before sta
 Fleet rules (2026-10-30): cite or label (only state what was confirmed, label guesses); when Chief relays an approval that quotes Ryne, the bot treats it as his yes.
 Rule (Ryne, 2026-10-21): whenever a bot adds a script to its skill or routine, it must test-run it on real data and report the output before the change counts as done.
 
-Sources: Chief TEAM.md (updated 2026-10-30, Page-based project management); Chief and Red profile.json (2026-10-30 fleet rules); Chief TEAM.md change log to 2026-10-23; shared memory 2026-10-21 to 2026-10-23; profile.json descriptions in /home/box/agent-data/agents/* (Red, Rank, Splice, Maverick, Charlie).; Chief TEAM.md (updated 2026-11-04 evening); Metric profile.json.
+Sources: Chief TEAM.md (updated 2026-10-30, Page-based project management); Chief and Red profile.json (2026-10-30 fleet rules); Chief TEAM.md change log to 2026-10-23; shared memory 2026-10-21 to 2026-10-23; profile.json descriptions in /home/box/agent-data/agents/* (Red, Rank, Splice, Maverick).; Chief TEAM.md (updated 2026-11-04 evening); Metric profile.json.; Ryne, Chief chat 2026-11-05 8:47pm CT (Charlie deleted, Programming room gone).

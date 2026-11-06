@@ -7,4 +7,3 @@
 - (2026-09-11) The user's TrainHeroic account is signed in as RG.
 - (2026-09-11) Achieve TrainHeroic Exercise Library Google Sheet URL: https://docs.google.com/spreadsheets/d/1UnQjlyH_wbVGWDIHTU0BbXJlcNwkarQF9nTECDaQuW8/edit (file id 1UnQjlyH_wbVGWDIHTU0BbXJlcNwkarQF9nTECDaQuW8). Reuse this sheet on later exports; overwrite/replace rather than creating duplicates.
 - (2026-09-11) Never edit the IronBlueprint Stock Exercise Progressions Google Sheet (id 1kveJElUB335NQ_7zGqPbElJhxkmo2boJdH20R7qge1g). Use it read-only as a template; Achieve progressions go in a separate new sheet.
-- (2026-09-11) Achieve TrainHeroic Exercise Progressions Google Sheet: https://docs.google.com/spreadsheets/d/1Sjn2AxfGor3jwkCybvtrf12lC5E0zZttY6ztLladk38/edit (file id 1Sjn2AxfGor3jwkCybvtrf12lC5E0zZttY6ztLladk38). Separate from IronBlueprint template and from the alphabetical library export.

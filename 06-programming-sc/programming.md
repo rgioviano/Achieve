@@ -30,8 +30,10 @@
 - PRI: `pri-*` (13 skills), `left-aic`, `right-bc`, `pec`, `patho-pec`, `fitness-and-movement`.
 - Equipment: `achieve-equipment-brand-rooms`. Cross-over with IronBlueprint logic: `ironblueprint-programming-logic`.
 
+## Programming room
+- Retired 2026-11-05 (Ryne): the Programming room is gone. Coach leads programs 1:1 with Ryne (since 2026-10-07). Skills that still say "Programming room" mirror the live skill library.
+
 ## TODO
 - TODO: Link the house progression CSV / sheet location.
-- TODO: Programming room archive is pending in the app (Coach leads 1:1 since 2026-10-07).
 
-Sources: Atlas memory profile.md (2026-08-22, 2026-09-03); Coach memory profile.md (2026-08-24 to 2026-09-11); TEAM.md (pending items); workflows skill list.
+Sources: Atlas memory profile.md (2026-08-22, 2026-09-03); Coach memory profile.md (2026-08-24 to 2026-09-11); TEAM.md (pending items); workflows skill list.; Ryne, Chief chat 2026-11-05 8:47pm CT (Programming room gone).

@@ -123,7 +123,7 @@ Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). 
 
 ## Bots index (16 bots and rooms)
 
-Each bot lives in `bots/<slug>/`: `INSTRUCTIONS.md` (its profile.json instructions) and `ROUTINES.md` (its current schedule map, 2026-11-05). Secrets are never included. Retired bots were removed on 2026-11-05.
+Each bot lives in `bots/<slug>/`: `INSTRUCTIONS.md` (its profile.json instructions), `ROUTINES.md` (its current schedule map, 2026-11-05) and, where the bot keeps them, its memory and reference files (synced 2026-11-05 after a client and athlete scrub). Secrets are never included. Retired bots were removed on 2026-11-05.
 
 - `canvas` (Canvas): ONLY job: for Ryne Gioviano, graphic designer for Achieve Sports Performance and IronBlueprint. Make designed files (image, PDF, slide, simple multi-page). Scop
 - `coach` (Coach): Elite S&C coach with an engineering mind. You think in physics first: force, velocity, impulse, stiffness, energy, constraints, then pick the exercise. Sound sm

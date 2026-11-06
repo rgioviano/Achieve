@@ -12,9 +12,9 @@
 3. **Persistence sweet spot clusters around ~5–7 call attempts to first contact** (Velocify/Leads360: 93% of converters reached by call 6) and **~2–7 multi-channel attempts over ~6–8 days** (XANT/InsideSales cadence study). Going past ~7–8 pure attempts without engagement shows sharp diminishing returns. **[DATA]**
 4. **Spacing:** Aggressive Day-0 bursts (minutes/hours), then **~1–2 days** between touches for active contact sequences; Velocify also specifies timed call windows across ~2 weeks. Longer nurture shifts to value cadence (weekly/biweekly). **[DATA + OPINION]**
 5. **Channel mix beats single channel:** multi-media cadences raised contact rates dramatically vs phone-only in XANT data; email between calls raised phone contact odds in Velocify. **[DATA]**
-6. **Show-rate:** Instant booking confirmation + reminders (esp. multiple SMS/notifications) materially improve attendance in healthcare RCTs/meta-analyses—highly transferable to gym consults/trials. **[DATA]** Gym-specific show benchmarks in trade blogs are **[OPINION]** unless measured in your CRM.
+6. **Show-rate:** Instant booking confirmation + reminders (esp. multiple SMS/notifications) materially improve attendance in healthcare RCTs/meta-analyses-highly transferable to gym consults/trials. **[DATA]** Gym-specific show benchmarks in trade blogs are **[OPINION]** unless measured in your CRM.
 7. **Conflicts exist:** MIT/InsideSales and Velocify emphasize **&lt;5 min / &lt;1 min**; VanillaSoft–Telfer (U Ottawa) found **10–60 minutes** optimal for *win* outcomes vs &lt;10 min. Treat “call within minutes” as the operational default for inbound, but avoid robotic instant spam that feels like a robocaller. **[DATA conflict]**
-8. **Weak / over-cited stats:** “80% of sales require 5+ follow-ups” is widely repeated with **weak provenance**—prefer Velocify 6-call / XANT 2–7 attempt / Telfer ~5.7–5.9 attempt figures. **[FLAG]**
+8. **Weak / over-cited stats:** “80% of sales require 5+ follow-ups” is widely repeated with **weak provenance**-prefer Velocify 6-call / XANT 2–7 attempt / Telfer ~5.7–5.9 attempt figures. **[FLAG]**
 9. **“Lead Connect” / “DialedIn”:** No primary published contact-rate studies under those names were found; DialedIn is a dialer platform; LeadConnect appears LinkedIn tooling. Do not cite as research sources. **[GAP]**
 
 ---
@@ -26,9 +26,9 @@
 | Finding | Source | Type |
 |---|---|---|
 | Contacting within **5 min vs 30 min**: odds of contact drop **~100×**; odds of qualify drop **~21×**. Odds of contact drop **&gt;10×** in the first hour; qualify **&gt;6×**. After ~20 hours, additional dials can *hurt* contact/qualify. | InsideSales.com / MIT Lead Response Management Study (Oldroyd; ~15k leads, ~100k attempts; presented ~2007) | **[DATA]** |
-| Firms contacting within **1 hour** nearly **7×** more likely to qualify than those waiting **&gt;1 hour**; **&gt;60×** vs waiting **≥24 hours**. Audit of 2,241 companies: avg response **42 hours**; 23% never responded; only 37% within an hour. Separate analysis: **1.25M leads**, 29 B2C + 13 B2B. | HBR, March 2011 — Oldroyd, McElheran, Elkington, “The Short Life of Online Sales Leads” | **[DATA]** |
+| Firms contacting within **1 hour** nearly **7×** more likely to qualify than those waiting **&gt;1 hour**; **&gt;60×** vs waiting **≥24 hours**. Audit of 2,241 companies: avg response **42 hours**; 23% never responded; only 37% within an hour. Separate analysis: **1.25M leads**, 29 B2C + 13 B2B. | HBR, March 2011 - Oldroyd, McElheran, Elkington, “The Short Life of Online Sales Leads” | **[DATA]** |
 | Call within **1 minute** → **+391%** conversion vs baseline; **1–2 min** → **+160%**; **&lt;30 min** → **+62%**; **&lt;1 hr** → **+36%**; **&lt;24 hr** → **+17%**. **88%** of leads that eventually convert were called within first 24 hours. Several million internet leads (Leads360 / later Velocify). | Leads360 “Speed-to-Call” / Velocify Ultimate Contact Strategy (~3.5M leads, H1 2012 leads) | **[DATA]** |
-| Best odds for *win* outcomes in one large academic–industry dataset: first contact **10–60 minutes** (not &lt;10 min); still critical within first hour; drops after 24 hours. **~4M web leads** subset; overall **130M interactions / 45M contacts**. | VanillaSoft + Telfer School of Management (U Ottawa), preliminary ~2018 report | **[DATA — conflicts with MIT/Velocify on sub-10-min]** |
+| Best odds for *win* outcomes in one large academic–industry dataset: first contact **10–60 minutes** (not &lt;10 min); still critical within first hour; drops after 24 hours. **~4M web leads** subset; overall **130M interactions / 45M contacts**. | VanillaSoft + Telfer School of Management (U Ottawa), preliminary ~2018 report | **[DATA - conflicts with MIT/Velocify on sub-10-min]** |
 | Wed/Thu best contact days; **4–6pm** best contact block; **8–9am & 4–5pm** best qualify blocks (US, study era). | MIT / InsideSales LRM | **[DATA]** |
 | Day/time had *relatively small* impact vs persistency/speed in Telfer analysis. | VanillaSoft–Telfer | **[DATA conflict on daypart]** |
 
@@ -44,7 +44,7 @@
 | B2C local / gym ops guides typically: **instant SMS ack → call within minutes → email with booking link**. | Optimized Growth, ChalkItPro, iPT, Ardent GSI glossary, etc. | **[OPINION / PRACTITIONER]** |
 
 **Preferred first-touch order for high-intent local fitness inbound (synthesis):**
-1. **SMS** (immediate auto: received request + “we’ll call shortly” / book link) — TCPA consent required  
+1. **SMS** (immediate auto: received request + “we’ll call shortly” / book link) - TCPA consent required  
 2. **Phone** (human, ASAP)  
 3. **Voicemail** if no answer (short)  
 4. **Email** (same day: confirm interest + calendar link + what to expect)  
@@ -53,7 +53,7 @@ Phone remains the best-supported *conversation* channel; SMS is the best-support
 
 ### What to say in the first touch
 
-**[OPINION informed by patterns across vendor scripts + Acquisition.com public materials — not a single RCT]**
+**[OPINION informed by patterns across vendor scripts + Acquisition.com public materials - not a single RCT]**
 
 **Say:**
 - Who you are + business name  
@@ -68,7 +68,7 @@ Phone remains the best-supported *conversation* channel; SMS is the best-support
 - Guilt, pressure, fake scarcity  
 - Multiple simultaneous SMS blasts without consent  
 
-**Hormozi / Acquisition.com public patterns (high-level only):** Short question-style cold emails (“Are you still looking to …?”); messenger setter aims to get on phone fast—“TIME KILLS ALL DEALS”; Day-1 call + email + text; short curiosity voicemail (name + relevant reference + callback number). Source: Acquisition.com public `$100M Leads` cold-outreach download PDF (2023 copyright notice on page). **[PRACTITIONER / OPINION]**
+**Hormozi / Acquisition.com public patterns (high-level only):** Short question-style cold emails (“Are you still looking to …?”); messenger setter aims to get on phone fast-“TIME KILLS ALL DEALS”; Day-1 call + email + text; short curiosity voicemail (name + relevant reference + callback number). Source: Acquisition.com public `$100M Leads` cold-outreach download PDF (2023 copyright notice on page). **[PRACTITIONER / OPINION]**
 
 ---
 
@@ -80,11 +80,11 @@ Phone remains the best-supported *conversation* channel; SMS is the best-support
 | Cadence sweet spot **2–7 attempts**; after **7 attempts**, contact rates plummeted **&gt;half to ~14%**. | XANT / InsideSales Successful Sales Cadences | **[DATA]** |
 | Avg contact attempts for positive outcome: **5.7 (B2B)** / **5.9 (B2C)**; trend rising over years toward ~6. Front-load: many wins had **3–4 attempts in first 4–5 days**. | VanillaSoft–Telfer | **[DATA]** |
 | Optimal **5 emails** in first month (pre-contact); more than 5 → conversion drop. | Velocify | **[DATA]** |
-| Bridge Group (SDR comps research, often cited): teams with **≥9 attempts** reported higher productivity vs average ~8.2 — **B2B SDR context**, not gym B2C. | Bridge Group (via secondary roundups) | **[DATA — different context]** |
-| “80% of sales need 5+ follow-ups” | Common sales blogs | **[WEAK / OFTEN UNSOURCED — treat cautiously]** |
+| Bridge Group (SDR comps research, often cited): teams with **≥9 attempts** reported higher productivity vs average ~8.2 - **B2B SDR context**, not gym B2C. | Bridge Group (via secondary roundups) | **[DATA - different context]** |
+| “80% of sales need 5+ follow-ups” | Common sales blogs | **[WEAK / OFTEN UNSOURCED - treat cautiously]** |
 
 **Practical max without feeling spammy (synthesis):**  
-- **Active connect sequence:** ~**6 phone attempts** + **~3–5 SMS** + **~3–5 emails** over **~14–21 days**, interleaved—not 15 same-day texts.  
+- **Active connect sequence:** ~**6 phone attempts** + **~3–5 SMS** + **~3–5 emails** over **~14–21 days**, interleaved-not 15 same-day texts.  
 - **Stop escalating** after ~7–8 unanswered multi-channel attempts with **zero engagement**, then nurture or close-loop.
 
 ---
@@ -124,13 +124,13 @@ Front-load **3–4 attempts in first 4–5 days**, then wider spacing for ~5 mor
 
 **Flag:** Exact message copy and gym show % below Day 0–30 are **recommended synthesis**, not a single fitness RCT.
 
-#### Week 1 — Contact sprint
+#### Week 1 - Contact sprint
 
 | When | Channel | Purpose |
 |---|---|---|
 | T+0 sec | Auto SMS (+ email) | Ack request; set expectation; booking link optional |
 | T+1–5 min | Phone | Live qualify / book |
-| If no answer | Short VM + SMS | “Tried you—easy times to connect?” |
+| If no answer | Short VM + SMS | “Tried you-easy times to connect?” |
 | T+20–60 min | Phone #2 + email | Persist while intent hot |
 | T+1–2 hr | Phone #3 (if still open) | Final Day-0 call |
 | Day 2 | SMS or phone | Soft check-in / value bite |
@@ -138,18 +138,18 @@ Front-load **3–4 attempts in first 4–5 days**, then wider spacing for ~5 mor
 | Day 4–5 | Phone (Velocify Call 4 window) + SMS | Ask for best time / objection |
 | Day 7 | Phone or SMS “close the loop lite” | Still interested? Offer 2 time slots |
 
-#### Days 8–30 — Persist then nurture
+#### Days 8–30 - Persist then nurture
 
 | When | Channel | Purpose |
 |---|---|---|
-| Day 8–10 | Email / SMS | Value (tip, FAQ, transformation story—no inventing prices) |
+| Day 8–10 | Email / SMS | Value (tip, FAQ, transformation story-no inventing prices) |
 | Day 14–15 | Phone (Velocify 5–6) + email | Last high-effort connect push |
 | Day 22 | Email | Value / case theme |
 | Day 30 | Breakup / permission email or SMS | “Should I close your file / check back in X months?” |
 
 #### Longer nurture (30+ days) **[MOSTLY OPINION]**
 
-Monthly or biweekly value touches; re-enter active cadence on any reply, site visit, or new form fill. Hormozi-attributed **3-7-30 value sequence** (secondary writeups): Days 1–3 heavy value; next ~7 days objection-focused value every other day; next ~30 days ~2×/week success stories & insights—“value sequence,” not “buy now” spam. Treat as **practitioner pattern**, not peer-reviewed.
+Monthly or biweekly value touches; re-enter active cadence on any reply, site visit, or new form fill. Hormozi-attributed **3-7-30 value sequence** (secondary writeups): Days 1–3 heavy value; next ~7 days objection-focused value every other day; next ~30 days ~2×/week success stories & insights-“value sequence,” not “buy now” spam. Treat as **practitioner pattern**, not peer-reviewed.
 
 ---
 
@@ -162,7 +162,7 @@ Monthly or biweekly value touches; re-enter active cadence on any reply, site vi
 3. **Use ≥2 channels** (XANT +161% contact).  
 4. **Cap pre-contact email volume ~5/month** (Velocify).  
 5. **Cap call attempts to first contact around 6** before heavy diminishing returns (Velocify).  
-6. **SMS:** Obtain **prior express written consent** (US TCPA); identify business; honor STOP; respect quiet hours (often 8am–9pm recipient local; some states stricter). **[LEGAL / COMPLIANCE — not a conversion study]**
+6. **SMS:** Obtain **prior express written consent** (US TCPA); identify business; honor STOP; respect quiet hours (often 8am–9pm recipient local; some states stricter). **[LEGAL / COMPLIANCE - not a conversion study]**
 
 ### Preferred combo for gym / PT / local service
 
@@ -179,14 +179,14 @@ Monthly or biweekly value touches; re-enter active cadence on any reply, site vi
 
 ## 5. Message themes by touch (no invented prices)
 
-| Touch | Theme — SAY | AVOID |
+| Touch | Theme - SAY | AVOID |
 |---|---|---|
-| 0 — Auto SMS/email | Received your request; who we are; next step (call / book) | Pitch, discounts dump |
-| 1 — First live call | Confirm interest; ask goal + timeline; offer consult/intro | Closing hard on membership/PT price |
+| 0 - Auto SMS/email | Received your request; who we are; next step (call / book) | Pitch, discounts dump |
+| 1 - First live call | Confirm interest; ask goal + timeline; offer consult/intro | Closing hard on membership/PT price |
 | VM | Name, reason, callback number | Full script pitch |
-| 2–3 — Same-day/next-day | “Tried you earlier”; 2 time options; empathy for busy schedule | Guilt (“I’ve called 4 times”) |
+| 2–3 - Same-day/next-day | “Tried you earlier”; 2 time options; empathy for busy schedule | Guilt (“I’ve called 4 times”) |
 | Mid-sequence value | What happens in intro; who it’s for; one proof story; FAQ (parking, what to wear, session length) | Fake urgency, competitor bashing |
-| Objection touches | Time, money *process*, skepticism, past gym fail—address with questions + proof | Arguing |
+| Objection touches | Time, money *process*, skepticism, past gym fail-address with questions + proof | Arguing |
 | Breakup | Permission to close file or nudge later; easy yes/no | Passive-aggressive |
 | Booked appt | Confirm time/place; what to expect; how to reschedule | Upsell before they show |
 | Pre-show reminders | 24h + 2–3h: time, address, bring/wear, reply YES/reschedule | New offers that change the deal |
@@ -228,9 +228,9 @@ Fitness practitioner sources (ChalkItPro, Personal Training Profits, Optimized G
 | Remind **24 hours** and **2–3 hours** before | Same |
 | No-show: call within **~30–60 min**; rebook; follow at 24h / ~3 days | Same |
 | Track show rate by **lead source** (ads colder than referrals) | Same |
-| Published “benchmarks” like 70–85% gym tour show / 60–75% sales call show | Trade glossaries (e.g., Ardent GSI) — **verify in your data** |
+| Published “benchmarks” like 70–85% gym tour show / 60–75% sales call show | Trade glossaries (e.g., Ardent GSI) - **verify in your data** |
 
-**Transferable best practice:** Treat the consult like a clinic appointment—**confirm + dual reminders + easy reschedule + same-day no-show recovery**.
+**Transferable best practice:** Treat the consult like a clinic appointment-**confirm + dual reminders + easy reschedule + same-day no-show recovery**.
 
 ---
 
@@ -244,13 +244,13 @@ Sources: Acquisition.com public cold-outreach PDF; secondary blogs describing �
 | 9-word / short question email | Ultra-short desire question to spark reply (public examples in Acquisition.com PDF) |
 | Day 1 multi-channel | Call + email + text same day; continue calls days 2–7; emails days 3 & 8; texts days 1 & 4 |
 | Voicemail | Very short, curiosity/open loop |
-| 3-7-30 (secondary attribution) | Value-first nurture: heavy value days 1–3; objection value ~every other day for ~a week; then ~2×/week for ~a month; double conversion claimed in anecdotal portfolio story — **unverified primary data** |
+| 3-7-30 (secondary attribution) | Value-first nurture: heavy value days 1–3; objection value ~every other day for ~a week; then ~2×/week for ~a month; double conversion claimed in anecdotal portfolio story - **unverified primary data** |
 
 ---
 
 ## Recommended cadences (summary tables)
 
-### A. Data-native “Ultimate Contact” (Velocify) — phone + email
+### A. Data-native “Ultimate Contact” (Velocify) - phone + email
 
 See §3 table. Best when you have phone + email and consultative B2C/B2B mix.
 
@@ -282,7 +282,7 @@ See §3 table. Best when you have phone + email and consultative B2C/B2B mix.
 5. **“Lead Connect” / “DialedIn” studies:** Not found as primary research publications.  
 6. **“80% need 5 follow-ups”:** Viral, poorly sourced; replace with Velocify/XANT/Telfer numbers.  
 7. **Hormozi 3-7-30 / double conversion:** Circulates in newsletters/LinkedIn; treat as **anecdotal**.  
-8. **Study age:** Flagship MIT/HBR/Velocify work is ~2007–2012; mobile SMS culture and call-answer rates have changed—directionally still useful, absolute multiples may differ in 2026.  
+8. **Study age:** Flagship MIT/HBR/Velocify work is ~2007–2012; mobile SMS culture and call-answer rates have changed-directionally still useful, absolute multiples may differ in 2026.  
 9. **Close rate vs contact/qualify:** MIT study explicitly did **not** measure close ratios; Velocify emphasizes conversion; don’t conflate metrics.
 
 ---
@@ -290,23 +290,23 @@ See §3 table. Best when you have phone + email and consultative B2C/B2B mix.
 ## Source list (with links where available)
 
 ### Primary / near-primary research
-1. InsideSales.com / MIT — Lead Response Management Study (Oldroyd) — summary PDF: https://www.onecavo.com/wp-content/uploads/2015/11/MIT-InsideSales.com%5FLead-Response-Management.pdf  
+1. InsideSales.com / MIT - Lead Response Management Study (Oldroyd) - summary PDF: https://www.onecavo.com/wp-content/uploads/2015/11/MIT-InsideSales.com%5FLead-Response-Management.pdf  
 2. Alternate MIT study PDF: https://25649.fs1.hubspotusercontent-na2.net/hub/25649/file-13535879-pdf/docs/mit%5Fstudy.pdf  
-3. HBR — Oldroyd, McElheran, Elkington (Mar 2011), “The Short Life of Online Sales Leads”: https://hbr.org/2011/03/the-short-life-of-online-sales-leads — mirror PDF: https://thedenmangroupselling.wordpress.com/wp-content/uploads/2011/03/the-short-life-of-online-sales-leads-harvard-business-review.pdf  
-4. Leads360 — Speed-to-Call / Beyond Qualification: https://cdn2.hubspot.net/hubfs/69576/leads360_wp_speed_to_call.pdf  
-5. Velocify / Leads360 — Ultimate Contact Strategy (~3.5M leads): https://whitepapers.lakewoodmediagroup.net/sites/default/files/UltimateContactStrategy-final.pdf  
-6. XANT / InsideSales — “The Truth Behind Successful Sales Cadences” (479,140 activities): https://resources.insidesales.com/wp-content/uploads/2020/02/research-SuccessfulSalesCadence.pdf  
-7. VanillaSoft + Telfer School of Management (U Ottawa) — Data Driven Approach to Lead Conversion: https://vanillasoft.com/resources/lead-conversion-study-telfer  
-8. Robotham et al. (2016) — BMJ Open meta-analysis, digital notifications & clinic attendance: https://pmc.ncbi.nlm.nih.gov/articles/PMC5093388/  
-9. Perron et al. (2013) — BMC Health Serv Res, SMS vs telephone reminders RCT: https://bmchealthservres.biomedcentral.com/articles/10.1186/1472-6963-13-125  
-10. Guy et al. (2012) — Health Services Research, SMS reminders meta-analysis (widely cited in later reviews)
+3. HBR - Oldroyd, McElheran, Elkington (Mar 2011), “The Short Life of Online Sales Leads”: https://hbr.org/2011/03/the-short-life-of-online-sales-leads - mirror PDF: https://thedenmangroupselling.wordpress.com/wp-content/uploads/2011/03/the-short-life-of-online-sales-leads-harvard-business-review.pdf  
+4. Leads360 - Speed-to-Call / Beyond Qualification: https://cdn2.hubspot.net/hubfs/69576/leads360_wp_speed_to_call.pdf  
+5. Velocify / Leads360 - Ultimate Contact Strategy (~3.5M leads): https://whitepapers.lakewoodmediagroup.net/sites/default/files/UltimateContactStrategy-final.pdf  
+6. XANT / InsideSales - “The Truth Behind Successful Sales Cadences” (479,140 activities): https://resources.insidesales.com/wp-content/uploads/2020/02/research-SuccessfulSalesCadence.pdf  
+7. VanillaSoft + Telfer School of Management (U Ottawa) - Data Driven Approach to Lead Conversion: https://vanillasoft.com/resources/lead-conversion-study-telfer  
+8. Robotham et al. (2016) - BMJ Open meta-analysis, digital notifications & clinic attendance: https://pmc.ncbi.nlm.nih.gov/articles/PMC5093388/  
+9. Perron et al. (2013) - BMC Health Serv Res, SMS vs telephone reminders RCT: https://bmchealthservres.biomedcentral.com/articles/10.1186/1472-6963-13-125  
+10. Guy et al. (2012) - Health Services Research, SMS reminders meta-analysis (widely cited in later reviews)
 
 ### Practitioner / fitness / Hormozi (opinion unless noted)
-11. Acquisition.com — public cold outreach downloads PDF: https://www.acquisition.com/hubfs/$100M%20Leads%20Cold%20Outreach%20Downloads.pdf?hsLang=en  
-12. Optimized Growth — gym no-show prevention cadence: https://optimizedgrowth.com/gyms/blog/no-show-prevention-gym/  
-13. ChalkItPro — gym lead nurture sequences: https://www.chalkitpro.com/post/gym-lead-nurture-sequences  
-14. Personal Training Profits — consult show rate: https://personaltrainingprofits.net/sales/consult-show-rate-the-hidden-sales-lever/  
-15. Institute of Personal Trainers — lead follow-up systems: https://instituteofpersonaltrainers.com/encyclopedia-lead-follow-up-systems  
+11. Acquisition.com - public cold outreach downloads PDF: https://www.acquisition.com/hubfs/$100M%20Leads%20Cold%20Outreach%20Downloads.pdf?hsLang=en  
+12. Optimized Growth - gym no-show prevention cadence: https://optimizedgrowth.com/gyms/blog/no-show-prevention-gym/  
+13. ChalkItPro - gym lead nurture sequences: https://www.chalkitpro.com/post/gym-lead-nurture-sequences  
+14. Personal Training Profits - consult show rate: https://personaltrainingprofits.net/sales/consult-show-rate-the-hidden-sales-lever/  
+15. Institute of Personal Trainers - lead follow-up systems: https://instituteofpersonaltrainers.com/encyclopedia-lead-follow-up-systems  
 16. Secondary 3-7-30 writeup (Hormozi-attributed): https://b2bwhales.com/p/the-3-7-30-method-1dc7  
 
 ### Not used as evidence (searched; no suitable primary study)

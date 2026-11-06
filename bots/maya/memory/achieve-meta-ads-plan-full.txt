@@ -6,11 +6,11 @@ One campaign per month. Three ads. Packages from the June 2026 sheet. Adults tra
 Ryne Gioviano  ·  Achieve Sports Performance & Personal Training
 How to run this
 Open Ads Manager on the first business day of the month. Build only what that chapter specifies: one campaign, the ad sets listed, three ads. Instant Form dumps to SMS the same hour. The thank-you page is the 20-minute screen calendar plus that month’s PDF.
-Section 1 — the machine you use every week.
-Section 2 — packages, hours, and who buys what.
-Section 3 — August through mid-November (girls HS season).
-Section 4 — the 12 months, including full ad copy.
-Section 5 — weekly scoreboard.
+Section 1 - the machine you use every week.
+Section 2 - packages, hours, and who buys what.
+Section 3 - August through mid-November (girls HS season).
+Section 4 - the 12 months, including full ad copy.
+Section 5 - weekly scoreboard.
 1. The machine
 Campaign setup
 Objective: Leads (Instant Forms) every month.
@@ -23,7 +23,6 @@ People living in or recently in a 18-mile radius of the facility for parent camp
 Placements and tracking
 Advantage+ placements. Turn off Audience Network if it wastes spend. If Stories buy 3-second views and no form opens, restrict to Feeds + Reels.
 Pixel + Conversions API live before October spend. Events: ViewContent, Lead, Schedule, Purchase.
-UTM: utm_source=meta&utm_medium=paid&utm_campaign=YYYYMM_theme&utm_content=adA|adB|adC.
 Creative rules
 Film in the gym. 9:16 first. Words on screen in the first two seconds.
 One promise per ad. Permission on every athlete face.
@@ -36,7 +35,7 @@ Launch three ads. Even spend. Do not edit copy or targeting.
 4–7
 Read form opens and CTR. Kill an ad if CTR is under 0.8% and cost per form open is more than 2× the set average.
 8
-Keep the winner. Add one challenger — new first line, same package.
+Keep the winner. Add one challenger - new first line, same package.
 9–21
 70% winner / 30% challenger. Swap if the challenger wins CPL four days straight.
 22–30
@@ -149,14 +148,14 @@ Girls already “when I can”
 Foundation $229, or a written pause with a Nov 16 restart
 Call.
 College leavers
-—
+-
 Ask for one underclassman referral.
 HS girls not on the roster
 PDF only until Nov 16
 Do not start them on Build during dual-meet weeks.
 Target: 70% of current girl swimmers still paying on November 1.
 Text to current girl-swimmer parents
-Practice owns the week through November 14. We can keep her on Foundation — one short day a week at $229 a month for three months — written around duals. After state we can move her to Build (two days) at $309. Reply YES and we write the next block.
+Practice owns the week through November 14. We can keep her on Foundation - one short day a week at $229 a month for three months - written around duals. After state we can move her to Build (two days) at $309. Reply YES and we write the next block.
 Say on that call: athlete billing runs when sessions are used or at five weeks. Unused dual-meet weeks do not float. If you pause state week, the restart date is November 16.
 Spend split
 Dates
@@ -180,14 +179,14 @@ Room is done with adults at 10:00.
 4. The 12 months
 Build the month on day one. Expected range at $500: 14–22 leads, 3–5 closes on a normal month. June and the November 16 window can run hotter.
 MONTH 01
-October 2026  —  Morning Essential · Foundation for girls
+October 2026  -  Morning Essential · Foundation for girls
 Job
 Fill sessions that finish by 10:00 a.m. Keep current girls on Foundation. Do not start in-season high school girls on two days a week.
 Offers
 Cold adults: Essential, 3-month, $279/mo. Session before 10:00 a.m.
 Cold youth: Build, 6-month, $309/mo for multi-sport and boys.
 Warm girls: Foundation, 3-month, $229/mo. Book a November 16 Build screen on the same call.
-Magnet, warm: Keep Your Swimmer in the Water — 5 In-Season Dryland Rules.
+Magnet, warm: Keep Your Swimmer in the Water - 5 In-Season Dryland Rules.
 Magnet, youth: Winter Power Checklist.
 Budget and sets
 $200 Cold Adults / $150 Cold Youth / $150 Warm. Daily cap $16.40.
@@ -244,7 +243,7 @@ Put them on one package from the table in Section 2. Quote the monthly rate and 
 Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
 Deposit is month one of the package they chose.
 MONTH 02
-November 2026  —  Quiet, then Build on the 16th
+November 2026  -  Quiet, then Build on the 16th
 Job
 November 1–14 is state week. November 16 is the restart.
 Nov 1–14
@@ -290,7 +289,7 @@ Put them on one package from the table in Section 2. Quote the monthly rate and 
 Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
 Deposit is month one of the package they chose.
 MONTH 03
-December 2026  —  Book January mornings
+December 2026  -  Book January mornings
 Job
 Adults decide in December. They start the first week of January, before 10:00 a.m. Take $279 as month one of Essential now.
 Offer: Essential, 3-month, $279/mo, or 12-month Essential at $199/mo if they lock the year.
@@ -321,7 +320,7 @@ Put them on one package from the table in Section 2. Quote the monthly rate and 
 Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
 Deposit is month one of the package they chose.
 MONTH 04
-January 2027  —  Club and boys championships
+January 2027  -  Club and boys championships
 Job
 Girls who started Build on November 16 stay there. January ads talk to club short-course and IHSA boys.
 Close: Foundation $229 if they are in taper and can only train once. Build $309 if they can hold two days.
@@ -340,7 +339,7 @@ The screen tells us Foundation or Build. Then we write the next four weeks.
 HEADLINE
 Cut what does not race
 Ad C · PRIMARY TEXT
-Fourteen years of swim dryland in the Fox Valley. Evaluation first, then Foundation or Build — not a team circuit.
+Fourteen years of swim dryland in the Fox Valley. Evaluation first, then Foundation or Build - not a team circuit.
 Hit these numbers
 16–22 leads. 5–8 new Foundation or Build. Do not count November 16 girls already on Build.
 On the screen
@@ -350,7 +349,7 @@ Put them on one package from the table in Section 2. Quote the monthly rate and 
 Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
 Deposit is month one of the package they chose.
 MONTH 05
-February 2027  —  Spring Build
+February 2027  -  Spring Build
 Job
 Boys still in season stay on Foundation unless they ask. Cold ads go to baseball, lacrosse, track, soccer, volleyball club.
 Close: Build, 6-month, $309/mo.
@@ -359,7 +358,7 @@ Budget: $360 Cold / $90 Warm / $50.
 Target: parents 30–54, 18-mile, those sports as suggestions.
 Ad A · PRIMARY TEXT
 Spring tryouts reward kids who can produce force and stay available.
-Build is two days a week, $309 a month for six months, from an individual screen — not a shared speed class.
+Build is two days a week, $309 a month for six months, from an individual screen - not a shared speed class.
 HEADLINE
 Build · $309/mo · 6 months
 Ad B · PRIMARY TEXT
@@ -378,7 +377,7 @@ Put them on one package from the table in Section 2. Quote the monthly rate and 
 Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
 Deposit is month one of the package they chose.
 MONTH 06
-March 2027  —  Morning Essential
+March 2027  -  Morning Essential
 Job
 Adults who did not start in January. Same morning block.
 Close: Essential $279 / 3-month. Active $379 only if both days finish by 10:00 a.m.
@@ -406,7 +405,7 @@ Put them on one package from the table in Section 2. Quote the monthly rate and 
 Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
 Deposit is month one of the package they chose.
 MONTH 07
-April 2027  —  Swim off-season · Build
+April 2027  -  Swim off-season · Build
 Job
 This is the swimmer-growth month. Yardage drops. Two days a week fits.
 Close: Build $309 / 6-month. Foundation $229 if they can only train once.
@@ -435,7 +434,7 @@ Put them on one package from the table in Section 2. Quote the monthly rate and 
 Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
 Deposit is month one of the package they chose.
 MONTH 08
-May 2027  —  Lock summer on Build
+May 2027  -  Lock summer on Build
 Job
 Multi-sport off-season. Put 6 months on the calendar before vacation season.
 Close: Build $309 / 6-month, or $289 / 12-month if they lock the year.
@@ -463,7 +462,7 @@ Put them on one package from the table in Section 2. Quote the monthly rate and 
 Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
 Deposit is month one of the package they chose.
 MONTH 09
-June 2027  —  Summer swim
+June 2027  -  Summer swim
 Job
 Highest swim intent of the year. Close Foundation or Build from the screen.
 Close: Build $309 if they can train twice. Foundation $229 if summer league already owns the week.
@@ -476,7 +475,7 @@ Request the screen. Aurora.
 HEADLINE
 Summer dryland · Foundation or Build
 Ad B · PRIMARY TEXT
-This is for kids who already practice — not learn-to-swim camp.
+This is for kids who already practice - not learn-to-swim camp.
 Evaluate, measure, write Foundation or Build around the meet calendar.
 HEADLINE
 Built for kids who already swim
@@ -492,7 +491,7 @@ Put them on one package from the table in Section 2. Quote the monthly rate and 
 Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
 Deposit is month one of the package they chose.
 MONTH 10
-July 2027  —  Morning adults · Masters
+July 2027  -  Morning adults · Masters
 Job
 Keep the morning block full while families travel. Essential stays one morning. Add hybrid +$59 for weeks they are gone.
 Close: Essential $279 / 3-month. Active $379 only if both mornings exist.
@@ -519,7 +518,7 @@ Put them on one package from the table in Section 2. Quote the monthly rate and 
 Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
 Deposit is month one of the package they chose.
 MONTH 11
-August 2027  —  Last clean window, then Foundation
+August 2027  -  Last clean window, then Foundation
 Job
 First contest is August 21. Start girls on Build only if they begin before that. After the 21st, new high school girls close on Foundation. Morning Essential keeps filling the 10:00 cutoff.
 Magnet: Pre-Season Dryland Blueprint.
@@ -538,7 +537,7 @@ Multi-sport athletes: Build at $309 from a pre-season screen, before two-a-days 
 HEADLINE
 Ready before two-a-days
 Ad C · PRIMARY TEXT
-College swimmers leave in August. That does not open a 2:00 p.m. adult hour — adults train before 10:00 a.m.
+College swimmers leave in August. That does not open a 2:00 p.m. adult hour - adults train before 10:00 a.m.
 If you can be in the room in the morning, Essential is $279 a month. Request a screen.
 HEADLINE
 Morning Essential · $279/mo
@@ -553,7 +552,7 @@ Put them on one package from the table in Section 2. Quote the monthly rate and 
 Adults only book before 10:00 a.m. If they can only train after 5:00, wait-list them. Do not sell a 10 a.m.–5 p.m. slot that does not exist.
 Deposit is month one of the package they chose.
 MONTH 12
-September 2027  —  Foundation and referrals
+September 2027  -  Foundation and referrals
 Job
 Girls season is on. Harvest warm traffic. Ask current Foundation families for a club kid or a sibling. If cold swim-parent CPL is over $40 by day 10, move leftover budget to morning Essential.
 Warm offer: Foundation $229 / 3-month.

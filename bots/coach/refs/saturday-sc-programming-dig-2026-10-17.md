@@ -1,4 +1,4 @@
-# Saturday S&C programming dig — 2026-10-17
+# Saturday S&C programming dig - 2026-10-17
 
 **Window:** new online or newly indexed 2026-10-03 to 2026-10-17 (Europe PMC FIRST_PDATE plus PubMed entry date, about 25 targeted searches). Last week's papers and the do-not-re-brief list were checked and skipped.
 **Material:** YES. 5 items passed the gate (one is a pair of reviews on the same question). 2 read in full text; 3 abstract only, because the journal full text is closed or blocked. Each is labeled.

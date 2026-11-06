@@ -1,4 +1,4 @@
-# Saturday S&C programming dig — 2026-10-10
+# Saturday S&C programming dig - 2026-10-10
 
 One paper passed the gate this week (read in full).
 
@@ -12,7 +12,7 @@ Change: keep 2x/wk short plyo (~20 min, >=48 h apart) year-round for post-PHV at
 Don't change: maturity doesn't change WHETHER to plyo (no maturity interaction). Pre-PHV kids improve partly from growth alone.
 Testing: CMJ height missed changes that broad jump, triple hop, and 2.5 Hz hopping stiffness picked up. Don't judge a fast-SSC/stiffness block by CMJ height alone.
 Cue/number: post-PHV with no plyo lost stiffness in 12 weeks (d -0.58).
-Limits: small (n 7–10 per cell), single soccer club, boys only, no a-priori power; maturity offset ±0.5 y. Inference that this transfers to swimmers is unproven (swim has little ground contact) — treat as land-sport/HS athlete evidence.
+Limits: small (n 7–10 per cell), single soccer club, boys only, no a-priori power; maturity offset ±0.5 y. Inference that this transfers to swimmers is unproven (swim has little ground contact) - treat as land-sport/HS athlete evidence.
 
 ## Dropped
 - Suspension vs bodyweight RT in untrained adolescents (BMC SSMR 2026, 10.1186/s13102-026-02106-9): beats no-training control only; untrained; doesn't change a choice.
