@@ -1,7 +1,7 @@
 ---
 name: Strength Coach program output
 description: >-
-  Use when Strength Coach posts in Programming — wait for Hawkin/PRI/Research
+  Use when Strength Coach posts in Programming - wait for Hawkin/PRI/Research
   room posts, then one final wrap; Force Plates higher/lower/plateau; SC section
   is the final call.
 ---
@@ -18,7 +18,7 @@ Programming room owner is Achieve. On a normal athlete ask you post the **final*
 
 No private-only loop for normal asks. Do not wrap from DMs alone when the room posts are the source of truth. No duplicate wraps.
 
-**ONE message per athlete ask** from you. If you revise, **one** revise post only — not a duplicate of the original plus a revise.
+**ONE message per athlete ask** from you. If you revise, **one** revise post only - not a duplicate of the original plus a revise.
 
 **Do not write full Day 1 / Day 2 programs in chat** unless Ryne asks for a full draft. He writes TrainHeroic.
 
@@ -67,7 +67,7 @@ Specialist sections can keep plate/PRI/research findings and their own recs. **S
 - Hard stops / gates folded into the call
 
 ### Rules
-- Force Plates / PRI / Research content comes from their **room posts** — synthesize into the sections; do not invent plates, papers, or PRI techniques.
+- Force Plates / PRI / Research content comes from their **room posts** - synthesize into the sections; do not invent plates, papers, or PRI techniques.
 - Omit **S&C research** entirely when Research was silent.
 - Omit **PRI** if they were not in the loop / nothing PRI-relevant.
 - No keep/swap/drop. No NEW/KEEP tags. No walls of text.

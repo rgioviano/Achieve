@@ -8,7 +8,7 @@ description: >-
 ---
 # Isometrics programming guide
 
-Full source: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/isometrics-programming-guide.txt`
+Full source: `/home/box/agent-data/shared/sc-reference/isometrics-programming-guide.txt`
 
 ## Critical rules (always)
 - **Hold load = % of (max iso-push − BM)** for ankle/knee, or **(max push − system mass)** for hip. Never % of raw push including BM.
@@ -21,7 +21,7 @@ Full source: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/m
 - Notation: `sets×reps×dur (intra/inter-limb/inter-set)` e.g. `3×3×5s (3"/5"/2')`.
 
 ## By level
-- **Beginner (novice/LTAD yr1):** holds first — RPE 2–4, 30–60s, 20–40% BW → then push RPE 7–8, 8–10s @ 70–90%. No quasi. Session 25–50s, 2–3×/wk. Basic switch earliest ~12 mo if gated; advanced/quasi closer to **end of year 3**.
+- **Beginner (novice/LTAD yr1):** holds first - RPE 2–4, 30–60s, 20–40% BW → then push RPE 7–8, 8–10s @ 70–90%. No quasi. Session 25–50s, 2–3×/wk. Basic switch earliest ~12 mo if gated; advanced/quasi closer to **end of year 3**.
 - **Intermediate:** push RPE 9–10 / 80–100%, 3–5s; ballistic push 0.5–2s, 3–4×4–6; holds **65–80% BM-subtracted** when gated. Session 40–70s.
 - **Advanced:** full spectrum. Push 1.5–3s; ballistic daily OK; heavy hold 65–80% BM-sub 4–8s; light 40–60% 15–40s; ballistic hold 50–65% 1–2s; switch 35–60% (adv lighter ~30–40%); hybrid 30–40% often 1×/wk; catch 20–35% elite+gated, 4–15 contacts, ~2×/wk. Cap 60–90s.
 
@@ -33,9 +33,9 @@ Full source: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/m
 | Hold heavy | 16–48s | 4–8s | 65–80% BM-sub | Before free day if heavy |
 | Hold light | 30–90s | 15–30s | 40–60% BM-sub | Therapeutic/OA |
 | Ballistic hold | 16–48s | 1–2s | 50–65% BM-sub | Floor 50% |
-| Switch | ≤18 contacts | — | 35–60% | ~4.5×BW impact even light |
+| Switch | ≤18 contacts | - | 35–60% | ~4.5×BW impact even light |
 | Hybrid | push 8–18s / hold 32–54s | 2s / 6s | 30–40% | High fatigue ~1×/wk |
-| Catch | 4–15 contacts | — | 20–35% | Gates required |
+| Catch | 4–15 contacts | - | 20–35% | Gates required |
 
 ## KPI aims + gates (adv switch / catch)
 | Joint | Push aim | Hold gate (~8s) | Catch also needs |
@@ -58,7 +58,7 @@ Pathway: push → ballistic push → hold → ballistic hold → switch → adv 
 - **Eccentric block:** PUSH only; HOLDS after ecc ceases.
 - **Plyos:** progress RSIST with plyo ladder; back off quasi when shock plyos are the load; don't stack impact.
 
-## Natera decision rules — push vs hold vs ballistic vs switch
+## Natera decision rules - push vs hold vs ballistic vs switch
 - Self-reg / readiness / can't fail loaded hold → **PUSH**
 - 24–48h to game / key pitch next day → **PUSH** (ballistic if force-rich; grind microdose if hard-gainer)
 - Heavy hold → only if **training-free day follows**
@@ -80,7 +80,7 @@ Tendon 70–100%, 1–60s, vol 60–120s · Max force 80–100%, 3–5s, 30–90
 - **Ankle:** forefoot, extended knee, ~5° lean, ~5° heel raise → ~neutral/90°.
 - **Knee:** midfoot; knee 140–145°; hip 160–165°; trunk 10–15° from erect.
 - **Hip:** same angles supine; hold: shoulders + heel same height. System mass at heel ≈ 25–33% BW.
-- **Swim:** not in course — use sport-specific angles; don't copy running mid-stance; catch/switch impact is running-GRF specific.
+- **Swim:** not in course - use sport-specific angles; don't copy running mid-stance; catch/switch impact is running-GRF specific.
 
 ## RTP / tendon / OA (brief)
 Keep iso through full RTP. Ballistic mandatory (force@100ms lags). Tendon: long-ML + grind + ballistic; specific holds 70–80% × 20–40s at high RDR only with balanced running; athlete-specific pre-run iso. OA: holds 40–70% year-round, vol 90s→~10s as load rises; pushes passive 70–90%.
@@ -90,13 +90,13 @@ Novice = hold-first; trained = push-first. Prefer ballistic-hold **50–65%**. S
 
 ## Danny Lum rules (locked 2026-09-13)
 Cite Lum when used. Separate from Natera.
-1. **Push then own ~3s** (2021) — hard push + short hold > rapid-only for sprint/jump/force.
-2. **One angle vs many** (2022) — both raise strength; multi-angle edged power.
-3. **Small ISO dose most blocks** (2023) — not a 2-week gimmick.
-4. **ISO recovers cleaner than heavy dynamic** (Lum & Howatson) — in-season softer force option.
-5. **Primer at start position** (2024) — 3 hard ISOs where concentric starts.
-6. **Co-contraction squeeze** (2026) — adult/remote filler only.
-7. **Push vs hold** (Lum/Oranchuk 2026) — Push → strength/torque; Hold → size + tendon. Push for turnaround/force; Hold for tissue/length.
+1. **Push then own ~3s** (2021) - hard push + short hold > rapid-only for sprint/jump/force.
+2. **One angle vs many** (2022) - both raise strength; multi-angle edged power.
+3. **Small ISO dose most blocks** (2023) - not a 2-week gimmick.
+4. **ISO recovers cleaner than heavy dynamic** (Lum & Howatson) - in-season softer force option.
+5. **Primer at start position** (2024) - 3 hard ISOs where concentric starts.
+6. **Co-contraction squeeze** (2026) - adult/remote filler only.
+7. **Push vs hold** (Lum/Oranchuk 2026) - Push → strength/torque; Hold → size + tendon. Push for turnaround/force; Hold for tissue/length.
 
 ### Achieve picks
 - Jump turnaround / soft late stop → ISO Push ~quarter squat (shape angle)

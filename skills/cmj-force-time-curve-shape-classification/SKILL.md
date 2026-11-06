@@ -16,11 +16,11 @@ description: >-
 ---
 # CMJ Force-Time Curve Classification Guide
 
-**Sources:** Ryne Gioviano / Achieve CMJ Force-Time Curve Classification Guide; Yassir Kahook via Eric Cressey — [Breaking Down the CMJ Part 1](https://ericcressey.com/force-plate-countermovement-jump-1/) (phases) and [Part 2](https://ericcressey.com/breaking-down-the-countermovement-jump-part-2/) (graph shape is king). Use for every plate-driven prescription when a CMJ shape is available. Do not invent a shape; classify from raw Hawkin force-time (session-best). Hand full programs to Strength Coach — this guide informs the plate note and exercise direction only.
+**Sources:** Ryne Gioviano / Achieve CMJ Force-Time Curve Classification Guide; Yassir Kahook via Eric Cressey - [Breaking Down the CMJ Part 1](https://ericcressey.com/force-plate-countermovement-jump-1/) (phases) and [Part 2](https://ericcressey.com/breaking-down-the-countermovement-jump-part-2/) (graph shape is king). Use for every plate-driven prescription when a CMJ shape is available. Do not invent a shape; classify from raw Hawkin force-time (session-best). Hand full programs to Strength Coach - this guide informs the plate note and exercise direction only.
 
 ## Programming rule (Kahook / Cressey Part 2)
 
-**Shape is king for programming.** Metrics (jump height, peak force, RSI, TTT, EUR) matter for tracking and peer compare — keep them trending the right way — but two athletes with the same height can need opposite emphases. Shape diagnoses *how* they produce force; that drives the next block. Especially true for higher-level athletes where raw vertical force is not always the limiter — efficiency of the signature is.
+**Shape is king for programming.** Metrics (jump height, peak force, RSI, TTT, EUR) matter for tracking and peer compare - keep them trending the right way - but two athletes with the same height can need opposite emphases. Shape diagnoses *how* they produce force; that drives the next block. Especially true for higher-level athletes where raw vertical force is not always the limiter - efficiency of the signature is.
 
 
 ## Check the jumps before picking exercises
@@ -32,24 +32,24 @@ Plain rules:
 - If **braking is actually good** (early-peak or healthy bounce *and* short brake time) → **do not** program slow eccentric squats, deep yielding holds for “more brake,” or extra snap-downs / drop-catches aimed at braking.
 - If **unweighting is slow** → still train a faster drop. That does **not** cancel Late Peak braking work. Slow drop + late peak = faster get-down *and* a harder stop.
 - Match **isometric position to where force hangs** on the curve. Early Peak Plateau / early bimodal hang at the **braking → propulsion** change → use a **quarter-squat Split Squat ISO Push** (overcoming/ballistic). Do **not** default to mid-thigh if the hang is lower.
-- Same jump height does not mean the same program — shape decides the emphasis.
+- Same jump height does not mean the same program - shape decides the emphasis.
 
-Locked example: brake 122 ms + Early Peak Plateau means no long-ecc squat. Day 1 power iso is Split Squat ISO Push at about quarter-squat, not mid-thigh.
+Paige example (locked): brake 122 ms + Early Peak Plateau → no long-ecc squat; Day 1 power iso = Split Squat ISO Push at ~quarter-squat, not mid-thigh.
 
 Annabelle example (locked 2026-09-11): brake 170 ms looked “fine” on time, but Late Peak Bimodal + EUR ~1.0 = stop is *not* fine. Train the catch (yielding hold / drop-and-stick) plus faster drop. Do not skip braking work.
 
 ## Six phases (Kahook / Cressey Part 1)
 
-1. **Quiet / weighing** — still on plate; system reads body weight.
-2. **Unweighting** — rapid descent; force below system weight; negative COM velocity; hip/knee/ankle flexion.
-3. **Braking** — force returns above system weight while still descending; ends when velocity = 0.
-4. **Propulsive** — velocity positive; COM drives up through extension; ends when force → 0 N (takeoff).
-5. **Flight** — force ≈ 0 N (air time).
-6. **Landing** — positive force returns.
+1. **Quiet / weighing** - still on plate; system reads body weight.
+2. **Unweighting** - rapid descent; force below system weight; negative COM velocity; hip/knee/ankle flexion.
+3. **Braking** - force returns above system weight while still descending; ends when velocity = 0.
+4. **Propulsive** - velocity positive; COM drives up through extension; ends when force → 0 N (takeoff).
+5. **Flight** - force ≈ 0 N (air time).
+6. **Landing** - positive force returns.
 
 Achieve phase labels used elsewhere (unweight / brake / propulsive) map to 2–4 above.
 
-**Protocol notes (Part 1):** Prefer **hands-on-hips** for standardized lower-body isolation (arm swing adds a second propulsive peak and longer movement time). Cue consistently: *“jump as high as you can, as fast as you can”* — intent for height + speed, not a slow squat-jump.
+**Protocol notes (Part 1):** Prefer **hands-on-hips** for standardized lower-body isolation (arm swing adds a second propulsive peak and longer movement time). Cue consistently: *“jump as high as you can, as fast as you can”* - intent for height + speed, not a slow squat-jump.
 
 ## How to classify (propulsive phase)
 
@@ -67,7 +67,7 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 
 ## Early Peak Unimodal
 
-**Kahook:** One unified peak early. Efficient SSC; strong braking + propulsive working together. Limiter is usually **magnitude**, not quality — make the curve taller and narrower; raise overall output.
+**Kahook:** One unified peak early. Efficient SSC; strong braking + propulsive working together. Limiter is usually **magnitude**, not quality - make the curve taller and narrower; raise overall output.
 
 **Achieve / focus:** Maintain efficiency while overloading; preserve reactive strength; strength then high-velocity; complex training for transfer-point mechanics; avoid excess volume that disrupts coordination.
 
@@ -97,7 +97,7 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 
 **Params:** 60–100 contacts → 120–180; strength 3–4×4–6 @ 75–85% 1RM; VBT 0.5 → 0.9+ m/s; improve unweighting impulse; +5–10 cm drop height every 2–3 wk as technique allows.
 
-**Note:** If unweighting time is the limiter (slow fall; brake already fine), prefer faster drop cues / drop-squat jumps — not slow eccentrics or extra deep yielding isos (Achieve unweighting rule).
+**Note:** If unweighting time is the limiter (slow fall; brake already fine), prefer faster drop cues / drop-squat jumps - not slow eccentrics or extra deep yielding isos (Achieve unweighting rule).
 
 ---
 
@@ -108,7 +108,7 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 **Achieve / focus:** SSC coupling ecc↔con; cut amortization lag; intermuscular timing; amortization / isometric holds at transition; stability at peak braking.
 
 **Exercises:**
-- Ballistic isometrics — brief high-effort at peak-braking position
+- Ballistic isometrics - brief high-effort at peak-braking position
 - Unweighted / band-assisted plyos to cut transition lag
 - Rapid SSC, continuous force through the movement
 - Velocity-assisted (10–15% BW reduction)
@@ -120,7 +120,7 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 
 ## Late Peak Bimodal
 
-**Kahook:** Two peaks; higher peak late. Lower braking RFD and lower-output than early-peak bimodal. Same coordination/COM-control issue at peak braking **plus** capacity deficit — address **both**.
+**Kahook:** Two peaks; higher peak late. Lower braking RFD and lower-output than early-peak bimodal. Same coordination/COM-control issue at peak braking **plus** capacity deficit - address **both**.
 
 **Achieve / focus:** Movement re-education; progressive SSC; coordination; eccentric strength + body awareness; unweighting first so braking has a foundation.
 
@@ -140,12 +140,12 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 
 ## Early Peak Plateau
 
-**Kahook:** Spike early, then flatline. High braking RFD / higher-output (like early bimodal). Plateau flags the same efficiency / COM-control issue around peak braking — force comes on fast, but doesn’t convert into a clean immediate propulsive push.
+**Kahook:** Spike early, then flatline. High braking RFD / higher-output (like early bimodal). Plateau flags the same efficiency / COM-control issue around peak braking - force comes on fast, but doesn’t convert into a clean immediate propulsive push.
 
 **Achieve / focus:** Rapid force development; cut neural delay at transitions; amortization / isometric holds at transition; isometric + eccentric for momentum resistance; awareness before complex plyos.
 
 **Exercises:**
-- **First pick:** Split Squat ISO Push at ~quarter-squat (overcoming / ballistic) — matches the braking→propulsion hang
+- **First pick:** Split Squat ISO Push at ~quarter-squat (overcoming / ballistic) - matches the braking→propulsion hang
 - Not mid-thigh by default (that sits higher than this plateau)
 - Then: rapid initiation jumps / assisted SSC; cut transition lag
 - Ballistic 30–60% 1RM, max velocity
@@ -157,7 +157,7 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 
 ## Late Peak Plateau
 
-**Kahook:** Flatline first, higher peak later. Lower braking RFD / lower-output. Coordination + capacity — often the group most needing a **two-pronged** approach (build braking capacity + clean coordination).
+**Kahook:** Flatline first, higher peak later. Lower braking RFD / lower-output. Coordination + capacity - often the group most needing a **two-pronged** approach (build braking capacity + clean coordination).
 
 **Achieve / focus:** Fundamental patterns first; basic reactive systematically; broad strength base; basic amortization / isometric work; body awareness before complex methods.
 
@@ -175,9 +175,9 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 
 ## Plateau (Kahook seventh archetype)
 
-**Means:** Long stretch around peak force with **no single definitive spike** — peak effectively across the middle of the graph.
+**Means:** Long stretch around peak force with **no single definitive spike** - peak effectively across the middle of the graph.
 
-**Kahook:** Efficient SSC; generally strong braking + propulsive. Limiter is magnitude/duration (like early peak unimodal) — raise amplitude, **shorten TTT**, make the curve taller and narrower, raise output.
+**Kahook:** Efficient SSC; generally strong braking + propulsive. Limiter is magnitude/duration (like early peak unimodal) - raise amplitude, **shorten TTT**, make the curve taller and narrower, raise output.
 
 **Focus / exercises:** Borrow Early Peak Unimodal menu (concentric overload, reactive, weighted jumps) with explicit TTT / narrow-the-curve intent. Do not treat as a coordination-breakdown shape unless a trough or early spike+hold appears (then reclassify to bimodal/plateau early/late).
 
@@ -206,6 +206,6 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 1. Classify the athlete’s latest **session-best** CMJ curve (or note if trials disagree → Inconsistent).
 2. Name the pattern exactly as above (prefer Kahook seven + Inconsistent).
 3. Plate note = pattern meaning + the 1–2 primary focuses that match their numbers (phase times, EUR, RFD, unweight/brake).
-4. Exercise suggestions must come from that pattern’s list — not generic “swimmer” picks. Label off-plate gaps as off-plate.
+4. Exercise suggestions must come from that pattern’s list - not generic “swimmer” picks. Label off-plate gaps as off-plate.
 5. Cite actual Hawkin numbers; do not invent a curve shape Hawkin did not report.
 6. Do not write or assign full TrainHeroic programs unless Ryne asks; post direction in chat / Programming room.

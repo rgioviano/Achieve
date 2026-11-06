@@ -2,17 +2,17 @@
 name: Hormozi Grand Slam offers
 description: >-
   Use when designing or diagnosing a sales offer, package, pricing stack,
-  guarantee, or landing-page offer — Grand Slam / Value Equation mechanics
+  guarantee, or landing-page offer - Grand Slam / Value Equation mechanics
   (Hormozi $100M Offers).
 ---
 # Hormozi Grand Slam offers (sales)
 
-Use when designing, rewriting, or diagnosing a sales offer, package, pricing stack, guarantee, or landing-page / email offer for any brand — especially when something feels commoditized or price-shopped.
+Use when designing, rewriting, or diagnosing a sales offer, package, pricing stack, guarantee, or landing-page / email offer for any brand - especially when something feels commoditized or price-shopped.
 
 Source note: frameworks from Alex Hormozi’s *$100M Offers* (working summary on file). Do **not** paste long book text into client copy. Apply the mechanics in the brand’s own voice. Product locks and real capacity always win over theory.
 
 ## 1. Grand Slam Offer (what “good” means)
-An offer so clear and valuable that the only reason to say no is truly “not for me” — not “too expensive / same as others / I’ll think about it.” Goal: sell on **value**, not on being the cheapest.
+An offer so clear and valuable that the only reason to say no is truly “not for me” - not “too expensive / same as others / I’ll think about it.” Goal: sell on **value**, not on being the cheapest.
 
 ## 2. Starving crowd (market before offer)
 Prefer markets with:
@@ -36,14 +36,14 @@ Raise perceived value by working all four levers:
 Most businesses over-index on dream outcome and under-invest in **speed** and **ease**. When rewriting an offer or email, name which lever you’re moving.
 
 ## 4. Build sequence (problems → solutions → trim & stack)
-1. **Dream outcome** — what they actually want (not your feature list).
-2. **List problems** — every obstacle before / during / after buying (confusion, time, fear, money, logistics).
+1. **Dream outcome** - what they actually want (not your feature list).
+2. **List problems** - every obstacle before / during / after buying (confusion, time, fear, money, logistics).
 3. Map each problem to the four value levers.
-4. **Delivery vehicles** — how you solve each (1:1 vs group, DIY vs done-for-you, in-person vs remote, response speed).
-5. **Trim & stack** — keep high-value / low-cost-to-deliver pieces; stack into a named bundle so they buy the **outcome stack**, not a commodity price.
+4. **Delivery vehicles** - how you solve each (1:1 vs group, DIY vs done-for-you, in-person vs remote, response speed).
+5. **Trim & stack** - keep high-value / low-cost-to-deliver pieces; stack into a named bundle so they buy the **outcome stack**, not a commodity price.
 
 ## 5. Enhancers (after the core offer is strong)
-Use honestly — never fake scarcity.
+Use honestly - never fake scarcity.
 
 - **Scarcity (quantity):** real seat caps, cohort caps, growth-rate caps, limited bonuses.
 - **Urgency (time):** cohort start dates, seasonal windows, bonus/price windows that actually expire, exploding opportunities that decay.

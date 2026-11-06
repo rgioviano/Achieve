@@ -2,14 +2,14 @@
 name: IronBlueprint Programming Logic
 description: >-
   Use when Strength Coach (or any bot) designs or redesigns a program using
-  IronBlueprint Nexus logic — classify athlete vs general, then apply codebase
+  IronBlueprint Nexus logic - classify athlete vs general, then apply codebase
   session order, pairings, overhead, taper, and load rules to make decisions.
 ---
 # IronBlueprint Programming Logic
 
-When Ryne asks Strength Coach (or any bot) to **design or redesign a program**, make decisions the way the IronBlueprint Nexus engine does in code — not generic S&C textbooks, and not TrainHeroic house style alone.
+When Ryne asks Strength Coach (or any bot) to **design or redesign a program**, make decisions the way the IronBlueprint Nexus engine does in code - not generic S&C textbooks, and not TrainHeroic house style alone.
 
-Source of truth: `IronBluePrint/nexus-ai-agent` local checkout (`~/Projects/IronBlueprint`), code-reviewed 2026-09-04. Prefer code over README. For Achieve TrainHeroic look/feel (naming, weeks, SMR language), also use [Ryne programming style](sand-workflow:ryne-programming-style) — this skill owns **logic and constraints**.
+Source of truth: `IronBluePrint/nexus-ai-agent` local checkout (`~/Projects/IronBlueprint`), code-reviewed 2026-09-04. Prefer code over README. For Achieve TrainHeroic look/feel (naming, weeks, SMR language), also use [Ryne programming style](sand-workflow:ryne-programming-style) - this skill owns **logic and constraints**.
 
 ## 1. Classify the athlete first
 Decide before picking exercises:
@@ -19,16 +19,16 @@ Decide before picking exercises:
 - **Sport:** especially overhead sports (swim, throw, volleyball, tennis, baseball/softball pitching, etc.).
 - **Injuries / RTP / clearance:** if present, flag coach judgment; do not invent Hawkin auto-fixes.
 
-HS vs college vs pro is **not** a first-class engine branch — ask Ryne if level changes loading.
+HS vs college vs pro is **not** a first-class engine branch - ask Ryne if level changes loading.
 
 ## 2. Session shape (default counts)
-- **Athlete:** ~9 exercises — order **speed → power → strength primary → strength secondary → core → tertiary**.
+- **Athlete:** ~9 exercises - order **speed → power → strength primary → strength secondary → core → tertiary**.
   - Pairing letters: A1 speed; A2/A3 power; B1/B2 primary strength; C1/C2 secondary; D core + tertiary.
-- **General/adult:** ~6 exercises — order **strength primary → strength secondary → core → tertiary** (no speed/power block).
+- **General/adult:** ~6 exercises - order **strength primary → strength secondary → core → tertiary** (no speed/power block).
 
 Never skip the order. Never put true strength before speed/power on an athlete day unless Ryne overrides.
 
-## 3. Pairings (non-competing — hard preference)
+## 3. Pairings (non-competing - hard preference)
 **Strength pairs**
 - Bilateral knee dominant → pull
 - Bilateral or unilateral hip dominant → push
@@ -55,15 +55,15 @@ If sport is overhead (or Ryne says so):
 
 ## 6. Taper decisions
 If season is TAPER (or Ryne names a taper):
-- Prefer undulating / low-stress structure — no new exercise learning block, no intensification block.
+- Prefer undulating / low-stress structure - no new exercise learning block, no intensification block.
 - Cut weekly volume to **~40–60%** of the last normal baseline week.
 - Keep intensities reasonable (engine caps near ~95% 1RM); no surprise maxing.
 - Last hard S&C well before the meet (coach judgment; engine emphasizes volume cut + model bans).
 
 ## 7. Loads and progression
 - Estimate 1RM with Epley when needed: `weight × (1 + reps/30)`, then prescribe from % tables / verified 1RM if known.
-- Progress or regress from weeks on the lift, plateau, or declining trend — not vibes.
-- **Do not invent failed-set automation** — the engine has none. If a set fails, ask Ryne or state the coaching call explicitly.
+- Progress or regress from weeks on the lift, plateau, or declining trend - not vibes.
+- **Do not invent failed-set automation** - the engine has none. If a set fails, ask Ryne or state the coaching call explicitly.
 
 
 ## Check the jumps before picking exercises
@@ -78,7 +78,7 @@ When Hawkin / force-plate numbers exist, read them **before** building the sessi
 Do not invent plate numbers. If plates are missing, say so and program from Asana + last TrainHeroic + Research.
 
 ### Swim dryland pull note
-Default across the week: one knee-dominant lower day and one hip-dominant lower day, with vertical and horizontal pulls **across days**. Putting two pulls on one day and dropping a lower is an **in-season exception** only when pool volume, shoulder limits, or plates say lower quality is already fine — never as the house default. Never pair two pulls together.
+Default across the week: one knee-dominant lower day and one hip-dominant lower day, with vertical and horizontal pulls **across days**. Putting two pulls on one day and dropping a lower is an **in-season exception** only when pool volume, shoulder limits, or plates say lower quality is already fine - never as the house default. Never pair two pulls together.
 
 ## 8. Asymmetry / Hawkin
 - The engine does **not** auto-apply Hawkin LSI or force-plate asymmetry.

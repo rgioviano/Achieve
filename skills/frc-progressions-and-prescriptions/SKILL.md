@@ -7,7 +7,7 @@ description: >-
 ---
 # FRC progressions and prescriptions
 
-Source: Achieve Google Doc *Functional Range Conditioning (FRC) Progressions* (Drive). Full cleaned text: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/frc-progressions.txt`. Do not store or surface FAS member logins from the doc.
+Source: Achieve Google Doc *Functional Range Conditioning (FRC) Progressions* (Drive). Full cleaned text: `/home/box/agent-data/shared/sc-reference/frc-progressions.txt`. Do not store or surface FAS member logins from the doc.
 
 Ryne overlay: methods generally go **in order**. **CARs** maintain mobility / maximize available space. **PAILs/RAILs** increase mobility. **PRH → PRLO → Hover → ERR** build strength and control at end range.
 
@@ -15,14 +15,14 @@ Swimmer dryland context: [Swim dryland programming](sand-workflow:swim-dryland-p
 
 ## Session placement
 - CARs: after PRI techniques, before dynamic warm-up.
-- PAILs/RAILs and end-range work: mobility / prep or dedicated end-range block — not competing with high-CNS primary lifts in the same slot.
+- PAILs/RAILs and end-range work: mobility / prep or dedicated end-range block - not competing with high-CNS primary lifts in the same slot.
 
 ## Ladder (order)
-1. **CARs** — maintain / express available ROM
-2. **PAILs/RAILs** — expand usable ROM + tissue adaptation
-3. **PRH** → **PRLO** → **Hover** → **ERR** — teach the nervous system to own the new range
+1. **CARs** - maintain / express available ROM
+2. **PAILs/RAILs** - expand usable ROM + tissue adaptation
+3. **PRH** → **PRLO** → **Hover** → **ERR** - teach the nervous system to own the new range
 
-PAILs/RAILs gain the range; end-range loading solidifies control. CARs help keep what you own. Cramping at end range usually means the tissue is unused to the request — regress volume/angle, don't force.
+PAILs/RAILs gain the range; end-range loading solidifies control. CARs help keep what you own. Cramping at end range usually means the tissue is unused to the request - regress volume/angle, don't force.
 
 ---
 
@@ -70,7 +70,7 @@ PAILs/RAILs gain the range; end-range loading solidifies control. CARs help keep
 **Pool:** Seated 90/90 hip IR/ER; All Fours Swiss ball shoulder flex/habd; Swiss ball shoulder ER; Kneeling wrist extension (hang-clean catch); Prone shoulder IR (small prop OK).
 
 ### Passive Range Lift-Offs (PRLO)
-- Leave room near PROM — don't start at absolute end.
+- Leave room near PROM - don't start at absolute end.
 - Progress closer to PROM while dropping reps; controlled eccentric failure, no cheat.  
   `20°×12–15 → 10°×8–10 → 5°×6–8 → at PROM (sticky)×3–5`
 

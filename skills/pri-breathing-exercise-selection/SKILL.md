@@ -1,14 +1,14 @@
 ---
 name: PRI breathing exercise selection
 description: >-
-  Use this when choosing Achieve breathing, PRI repositioning, or
-  warm-up/tertiary exercises from Left AIC / Right BC / PEC findings, especially
-  for swimmers and overhead athletes. Open the PRI course and handout skills
-  linked below for expert-depth theory, tests, decision trees, and hierarchies.
+  Use when choosing Achieve breathing, PRI repositioning, or warm-up/tertiary
+  exercises from Left AIC / Right BC / PEC findings, especially for swimmers and
+  overhead athletes. Open the PRI course and handout skills linked below for
+  expert-depth theory, tests, decision trees, and hierarchies.
 ---
 # PRI breathing exercise selection
 
-Full source: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/pri-breathing-exercise-selection.txt` (Ryne Gioviano, *PRI Foundations for the Strength Coach*).
+Full source: `/home/box/agent-data/shared/sc-reference/pri-breathing-exercise-selection.txt` (Ryne Gioviano, *PRI Foundations for the Strength Coach*).
 
 ## Core idea
 Humans are asymmetrical. Fix pelvis/ribcage position **before** loading. Breathing/PRI sits early in the warm-up so we don't squat a flared, extended frame.
@@ -28,17 +28,28 @@ Red flags (inform warm-up/tertiary, don't diagnose): can't toe-touch, heels-up s
 | Retro Stairs | Left glute med / Left AF IR |
 | Standing Resisted Wall Reach | Serratus, thoracic flexion, lat inhibition |
 
+Still generally **one** athlete-specific technique at warm-up and end of session (same drill). Very patterned or in-pain athletes may get a second warm-up-only drill.
+
+### Standing Serratus Squat vs Standing Wall Press with L PME
+Pick from Postural Respiration lists - do not paraphrase as "stiff mid-back."
+
+- **Standing Serratus Squat** (Anterior Neck Inhibition list, p.76; also filed under L LT/L Serratus and L PME): forward head, neck that won't relax on reaches, limited horizontal abduction or cervical rotation. Script (appendix p.18): face wall, elbows at shoulder height bent 90°, press elbows into wall, round/tuck, squat until knees touch the wall, heels down, 4–5 breaths filling the upper back ×5.
+- **Standing Wall Press with Left Posterior Mediastinum Expansion** (Left Posterior Mediastinum list, p.77): limited right trunk rotation, limited right apical expansion, limited left shoulder horizontal abduction, or difficulty with the Posterior Mediastinum Respiratory Reach Test. Script (appendix p.36): hands on wall, 1–2 inch block or towel under the **left** hand, maximally round, inhale while gently pressing and fill the **left** upper back, 4–5 breaths ×5.
+- The "very stiff/rigid back" / forward locomotion without rib rotation line belongs to the **p.75 PEC Paravertebral** list (Squatting Bar Reach, Heel Stair Descents, etc.), not the Wall Press indication.
+- Platt rule of thumb (appendix p.52): right intercostal work ≈ frontal plane; left posterior mediastinum ≈ transverse plane.
+
 ## Squat breathing variations
-1. Partial exhale down, full exhale up — weaker abs / heavier loads
-2. Exhale down, hold 1–3 breaths at bottom, exhale up — extension breathers / PEC-Right BC
-3. Inhale down, exhale up — earned; established ZOA only
+1. Partial exhale down, full exhale up - weaker abs / heavier loads
+2. Exhale down, hold 1–3 breaths at bottom, exhale up - extension breathers / PEC-Right BC
+3. Inhale down, exhale up - earned; established ZOA only
 
 Detail and Left AIC/PEC rationale: open [PRI The Squat and Respiration](sand-workflow:pri-squat-and-respiration).
 
 ## Programming link
 - Pair extension-heavy strength with a flexion/reach or breathing check (e.g. trap-bar + serratus/child's-pose breathing).
-- Swimmers: every program needs some squat-and-reach / wall-reach work, lat inhibition, serratus + subscap focus — not cuff isolation alone.
+- Swimmers: every program needs some squat-and-reach / wall-reach work, lat inhibition, serratus + subscap focus - not cuff isolation alone.
 - Success isn't only bar weight; can they keep neutrality (toe-touch / SLR) after training?
+- Lift order after restoration gates: [Fitness and Movement](sand-workflow:fitness-and-movement).
 
 ## Deep PRI course references (open when …)
 

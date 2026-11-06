@@ -2,7 +2,7 @@
 name: Lead contact and follow-up
 description: >-
   Use when drafting first contact or follow-up for inbound leads (forms, Instant
-  Form, calls, SMS, email) — speed, cadence, channels, message themes, and when
+  Form, calls, SMS, email) - speed, cadence, channels, message themes, and when
   to stop.
 ---
 # Lead contact and follow-up
@@ -110,6 +110,7 @@ Before sending a draft pack:
 - [ ] Stop / breakup defined
 - [ ] Booked leads get confirm + dual reminders
 - [ ] Brand voice + product locks applied; no invented prices/proof
+- [ ] [Pre-draft check](sand-workflow:pre-draft-check) passed for every recipient: name plus phone or email match the sheet, no Gmail/Quo touch in the last 48h that changes it, offered times in the future and open on the calendar, "parent" only if confirmed, no prices unless read live today
 
 ## Source note
 

@@ -7,8 +7,10 @@ description: >-
 # Bilateral Horizontal Push progressions
 
 CSV category: `Bilateral Horizontal Push`
-Authoritative rows: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/exercise-progressions.csv`
-Category dump: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/exercise-categories/bilateral-horizontal-push-progressions.md`
+Authoritative rows: `/home/box/agent-data/shared/sc-reference/exercise-progressions.csv`
+Category dump: `/home/box/agent-data/shared/sc-reference/exercise-categories/bilateral-horizontal-push-progressions.md`
+
+**Source of truth:** `exercise-progressions.csv` at `/home/box/agent-data/shared/sc-reference/` is authoritative. The ladder below is a summary built from an older sheet and may be outdated (names, regressions, alternatives). Before naming an exercise in a program, confirm it in the CSV; if they differ, use the CSV and say so.
 
 ## Rules
 - Filter by level + equipment + intent from the CSV.

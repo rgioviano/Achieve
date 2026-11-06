@@ -7,7 +7,7 @@ description: >-
 ---
 # PRI shoulder pain prescription (overhead)
 
-**Source:** PRI *Advanced Integration* pp. 196–199 — *Overhead Shoulder Instability and Tendonitis*. Full cleaned text: `/home/box/agent-data/agents/e9d0fc7f-22cc-4b14-80a6-4b8361108e36/memory/reference/pri-shoulder-pain-prescription.txt`
+**Source:** PRI *Advanced Integration* pp. 196–199 - *Overhead Shoulder Instability and Tendonitis*. Full cleaned text: `/home/box/agent-data/agents/e9d0fc7f-22cc-4b14-80a6-4b8361108e36/memory/reference/pri-shoulder-pain-prescription.txt`
 
 **Cross-links:** [PRI Impingement and Instability](sand-workflow:pri-impingement-instability) (theory / positional impingement) · [PRI Right BC Treatment Guidelines](sand-workflow:pri-right-bc-treatment-guidelines) · [PRI Postural Respiration](sand-workflow:pri-postural-respiration) · [PRI Swimming An In-Depth Look](sand-workflow:pri-swimming-in-depth) · [Swim dryland programming](sand-workflow:swim-dryland-programming) (stroke context) · [PRI Non-Manual Techniques Workshop](sand-workflow:pri-non-manual-techniques-workshop)
 
@@ -25,10 +25,10 @@ Keep **Left IO/TA** in the game on every menu below.
 
 ---
 
-## Right bicipital tendonitis — mechanics
+## Right bicipital tendonitis - mechanics
 
 1. ↓ Trunk / chest-wall rotation **to the right**
-2. ↓ Rib **external rotation** (front ribs up + rib-cage retract, usually **right**) during L IO/TA co-contraction — weak serratus / forward shoulder. Prefer **\*** techniques.
+2. ↓ Rib **external rotation** (front ribs up + rib-cage retract, usually **right**) during L IO/TA co-contraction - weak serratus / forward shoulder. Prefer **\*** techniques.
 3. Lat overuse as humeral **IR** engine because scap position kills subscap + serratus
 
 Muscle map: serratus · subscap · lat (not “more lat pull”).
@@ -55,7 +55,7 @@ Muscle map: serratus · subscap · lat (not “more lat pull”).
 
 ---
 
-## Right shoulder impingement — mechanics
+## Right shoulder impingement - mechanics
 
 1. Poor rib-cage expansion with diaphragmatic breathing  
 2. Poor abs **co-contract on inhale** (keep ZOA while expanding)  
@@ -89,7 +89,7 @@ Also → intra-scapular weakness. Muscle map: traps · triceps.
 2. Confirm L IO/TA + COM / thorax-abduction story before loading cuff isolation.  
 3. Bicipital → \* serratus / R trunk / R HG IR menu. Impingement → R LT/tricep + abs-on-inhale menu.  
 4. Swimmers: also open swim-dryland + PRI swimming; this PDF is the named technique bank.  
-5. Neutrality / Right BC gates still come from Postural Respiration / Right BC guidelines / I&I — this skill is the **prescription sheet**, not the full course.
+5. Neutrality / Right BC gates still come from Postural Respiration / Right BC guidelines / I&I - this skill is the **prescription sheet**, not the full course.
 
 ## Anti-patterns
 - More lat-driven IR or heavy pull volume for “shoulder stability”

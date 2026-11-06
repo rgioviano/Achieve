@@ -9,7 +9,7 @@ description: >-
 
 Durable playbook for gauging effectiveness and acting. Label **[Documented]** (platform Help) vs **[Opinion]** (operating rule). Never invent account spend/CPA/ROAS/CPL. Prefer official Meta Business Help / Google Ads Help over blogs.
 
-Source deep-dive (2026-10-01): `/workspace/ads-metrics-expertise-2026-10-01.md` — refresh that file + this skill when monthly Meta/Google knowledge routines find material metric changes.
+Source deep-dive (2026-10-01): `/workspace/ads-metrics-expertise-2026-10-01.md` - refresh that file + this skill when monthly Meta/Google knowledge routines find material metric changes.
 
 ## Unified framework
 
@@ -31,7 +31,7 @@ Source deep-dive (2026-10-01): `/workspace/ads-metrics-expertise-2026-10-01.md` 
    High Lost IS (rank) → quality + bids/targets, not vanity CTR.
 ```
 
-**Ignore early in learning [Opinion]:** day-1 CPL/CPA spikes; single-day CTR/CPM noise; QS “—” on new keywords; comparing Meta Instant Form CPL to Google CPA without the same CRM definition.
+**Ignore early in learning [Opinion]:** day-1 CPL/CPA spikes; single-day CTR/CPM noise; QS “-” on new keywords; comparing Meta Instant Form CPL to Google CPA without the same CRM definition.
 
 ---
 
@@ -85,7 +85,7 @@ Impressions ÷ reach. Rising frequency + flat reach + falling CTR + rising cost/
 3. Conversion rate
 4. Search terms + landing pages (esp. Final URL Expansion)
 5. Lost IS (budget) vs Lost IS (rank)
-6. Diagnostics only: Quality Score components, Avg CPC, CTR — QS is **not a KPI / not auction input** **[Documented]**
+6. Diagnostics only: Quality Score components, Avg CPC, CTR - QS is **not a KPI / not auction input** **[Documented]**
 
 ### Primary vs secondary **[Documented]**
 Primary = Conversions column + bidding. Secondary = All conversions only. Soft micros as Primary pollute Smart Bidding.

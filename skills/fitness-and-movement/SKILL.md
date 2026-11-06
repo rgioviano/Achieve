@@ -1,13 +1,14 @@
 ---
 name: Fitness and Movement
 description: >-
-  Use when ordering gym lifts, not PRI restoration: left unilateral then right
-  then bilateral, left RDL before right, deadlift before squat. Not approved
-  restoration exercises.
+  Use for lift-program order from PRI Integration for Fitness and Movement (2020
+  five steps, 2018 plane notes). Not for PRI restoration techniques.
 ---
 # Fitness and Movement programming
 
 This is exercise-program order from PRI Integration for Fitness and Movement (revision September 8, 2020). It is not a Postural Restoration Institute restoration program. Do not coach these lifts as PRI repositioning. Restoration owns 90-90, balloon, adductor pull-back, wall-supported reach, hemi 90-90, and the serratus and low-trap programs. This skill owns how a strength program is ordered once you are programming lifts.
+
+The 2018 manual (revision April 12, 2018) is the same exercise set organized by plane. The 2020 manual adds Screening and the five-step ladder below. No 2018 rule contradicts this skill. Sheet PDFs under Desktop/PRI Techniques/Fitness & Movement are pages from the 2018 manual; **cite the printed title on the sheet, not the filename** (filenames often differ).
 
 The 2020 programming pages do not contain a Patho PEC branch. If they can toe-touch or deep-squat and bilateral ADT and PADT are positive, the Patho PEC skill comes before this five-step ladder.
 
@@ -67,9 +68,17 @@ Deadlift proficiency before squat. That sentence is on manual page 111.
 
 Back squat needs more than 30 degrees of shoulder horizontal abduction. Do not tell an athlete with 35 degrees that their Postural Respiration test is negative.
 
+**Squat variety (PRI, F&M 2020 p.117):** a good squatter has variability - goblet, narrow stance, sumo, back, front, Zercher, etc., with the trunk "unlocked" and varying arm placement. Fits Achieve's no-lifetime-bans rule: do not lock one squat forever by pattern.
+
+**Trap Bar Deadlift (PRI, F&M 2018 p.163 / 2020 appendix p.63):** exhale ribs "down and back"; relax the low back to send hips back and down; push with the entire foot (more heel) while scooping the sitz bones under; do not lift the chest or jut the ribcage. Optional variation: rotate the hex bar counterclockwise to assist left grounding, only if the left pelvis stays lateralized and elevated. Sheet does not name handle height - **Achieve floor rule stays: high handles only.**
+
 Squat airflow conflict, keep both: Fitness and Movement page 116 prints inhale down, exhale up as the general programming rule, with an exhale at the top to set the thorax. Thomsen's Pelvis handout prints inhale-down as the earned third variant, and tells heavy lifts to partial-exhale down and finish the exhale up. If they are still a restoration case or red, use Thomsen. If steps 1 to 4 hold and the ZOA holds, the Fitness and Movement rule is the printed programming rule. Do not inhale on the way up.
 
 Symmetrical presses and overhead sit in this same late bucket. If the Right BC gates are failed, go back to that skill. Do not put a soft press here to build serratus.
+
+**Late landmine press options (after steps 1–4 hold; not a shoulder-pain fix):**
+- Alternating Thoracic Landmines / Standing Alternating Thoracic Abduction (printed title; file often named Standing Alternating Landmine Press): thorax laterally over the non-pressing arm; exhale press on the right, inhale press on the left; sets of 8–10 (F&M 2018 p.197).
+- Left Stance One Arm Landmine / Standing Left AF IR with Right Trunk Rotation (file often Left Stance 1-Arm Landmine Press): left-arm press, left foot behind right; do not extend the left low back; sets of 5–10 (F&M 2018 p.249).
 
 ## Hard stops
 
@@ -79,6 +88,7 @@ Symmetrical presses and overhead sit in this same late bucket. If the Right BC g
 - Do not overhead-press a red athlete or anyone whose apical tests are still asymmetric.
 - Do not use the Forward Locomotor Movement lat column as exercise one. It is gait description.
 - Do not drop the Patho PEC gate because these five steps never mention it.
+- Do not cite F&M sheet filenames as technique names; use the printed title.
 
 ## Handoff
 

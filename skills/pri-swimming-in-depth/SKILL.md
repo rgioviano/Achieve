@@ -3,18 +3,18 @@ name: PRI Swimming An In-Depth Look
 description: >-
   Use this when applying a PRI lens to swimming pattern, stroke pathomechanics,
   lat/BC/PEC themes, and dryland implications for freestyle, fly, back, or
-  breast — separate from pool turn/start ISO angles and Achieve stroke dryland
+  breast - separate from pool turn/start ISO angles and Achieve stroke dryland
   playbook.
 ---
 # PRI Swimming: An In-Depth Look (Berge)
 
-**Source:** `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/pri-swimming-in-depth-look.txt`  
-Torin Berge, PT, PRC — *Swimming: An In-Depth Look at Mechanics, Pathomechanics and Management with a PRI Perspective* (Hruska Clinic).
+**Source:** `/home/box/agent-data/shared/sc-reference/pri-swimming-in-depth-look.txt`  
+Torin Berge, PT, PRC - *Swimming: An In-Depth Look at Mechanics, Pathomechanics and Management with a PRI Perspective* (Hruska Clinic).
 
 **Separate skills (do not merge):**
-- [Swim turn and start ISO angles](sand-workflow:swim-turn-and-start-iso-angles) — pool-transfer isometric joint angles
-- [Swim dryland programming](sand-workflow:swim-dryland-programming) — Achieve stroke/start/turn/UW dryland rules, volume bias, shoulder menus
-- This skill — **PRI pattern / pathomechanics** lens
+- [Swim turn and start ISO angles](sand-workflow:swim-turn-and-start-iso-angles) - pool-transfer isometric joint angles
+- [Swim dryland programming](sand-workflow:swim-dryland-programming) - Achieve stroke/start/turn/UW dryland rules, volume bias, shoulder menus
+- This skill - **PRI pattern / pathomechanics** lens
 
 Cross-links: [PRI breathing exercise selection](sand-workflow:pri-breathing-exercise-selection) · [PRI Postural Respiration](sand-workflow:pri-postural-respiration) · [PRI Right BC Treatment Guidelines](sand-workflow:pri-right-bc-treatment-guidelines) · [PRI Impingement and Instability](sand-workflow:pri-impingement-instability) · [PRI Myokinematic Restoration](sand-workflow:pri-myokinematic-restoration) · [FRC progressions and prescriptions](sand-workflow:frc-progressions-and-prescriptions)
 
@@ -26,7 +26,7 @@ Unique demands (Berge):
 - UE-primary propulsion; highly technique-dependent; high drag → streamlining (max shoulder flexion/abduction).
 - Mostly **prone** → encourages spinal extension; buoyancy reduces gravity "corrections."
 - Extreme repetition (e.g. ~14,400 arm pulls/week at 6k yd × 6 with ~10 strokes/25 yd).
-- Breath pattern: mouth inhale, prolonged hold / nasal exhale under water — often carried onto land as dysfunctional breath-holding / hyperinflation vs nose-in / mouth-out diaphragmatic norms.
+- Breath pattern: mouth inhale, prolonged hold / nasal exhale under water - often carried onto land as dysfunctional breath-holding / hyperinflation vs nose-in / mouth-out diaphragmatic norms.
 
 **Injury profile:** shoulder impingement / cuff–biceps tendinopathy / instability most common (disabling shoulder pain reported ~27–87% competitive); also low back and knees.
 
@@ -60,7 +60,7 @@ Left AIC / Right BC make reciprocal trunk/neck rotation and rib expansion side-b
 4. Efficient, well-positioned diaphragm  
 5. Flexibility: hip flexors, back extensors, lats, pecs, neck, shoulder ERs  
 
-**Order:** achieve/maintain **neutral posture with trunk flexion + thoracic rotation + abs + breathing** *before* chasing isolated cuff/scap work. Patterned ribs put scapulae in the wrong place — cuff work on a bad thorax fails.
+**Order:** achieve/maintain **neutral posture with trunk flexion + thoracic rotation + abs + breathing** *before* chasing isolated cuff/scap work. Patterned ribs put scapulae in the wrong place - cuff work on a bad thorax fails.
 
 ---
 
@@ -74,14 +74,14 @@ Left AIC / Right BC make reciprocal trunk/neck rotation and rib expansion side-b
 **Management focus:**
 - Lumbar/thoracic flexion with abs + breathing (e.g. Standing Wall Supported Reach)  
 - Glute control in that flexed position  
-- Reciprocal trunk rotation once sagittal flexion holds (e.g. All Four Belly Lift Reach — serratus as goal exercise)  
+- Reciprocal trunk rotation once sagittal flexion holds (e.g. All Four Belly Lift Reach - serratus as goal exercise)  
 - Subscap without lat dominance for HG control  
 - Lateral chest wall / lat / hip flexor flexibility  
 
 ### Butterfly
 Strongest **PEC** demand (no rotation; head/trunk extension for breath + dolphin). Painful shoulders: wider hand entry, ↓ serratus at entry, ↓ subscap/teres minor; lat/pec unchanged but serratus down throughout.
 
-**Management:** After neutrality, emphasize PEC inhibition — sagittal abs/hamstrings/glutes (Functional Squat with Low Trap), posterior mediastinum expansion (Squatting Bar Reverse Reach), lat/pec flexibility in thoracic flexion. Options: All Four Belly Lift, Reverse Door Squats, Paraspinal Inhibition, LT press-downs with abs; goal Functional Squat + Low Trap ~level 3–4.
+**Management:** After neutrality, emphasize PEC inhibition - sagittal abs/hamstrings/glutes (Functional Squat with Low Trap), posterior mediastinum expansion (Squatting Bar Reverse Reach), lat/pec flexibility in thoracic flexion. Options: All Four Belly Lift, Reverse Door Squats, Paraspinal Inhibition, LT press-downs with abs; goal Functional Squat + Low Trap ~level 3–4.
 
 ### Backstroke
 Face out (less respiratory hold demand) but **subscap + teres minor** become power muscles (~30% less lat EMG than those). Main risk: anterior instability / impingement if inadequate body roll at entry → humeral hyperextension. Limited cervical axial rotation (R BC/PEC) limits thoracic roll under a still head.
@@ -89,7 +89,7 @@ Face out (less respiratory hold demand) but **subscap + teres minor** become pow
 **Management (plus freestyle needs):** Thoracic rotation with LT/triceps (e.g. Standing Resisted Right Diagonal Flexion in Right AIC); HG IR with LT **without lat** (e.g. Supine Resisted Right HG IR with Left HG ER); dynamic HG with ST/TS stability.
 
 ### Breaststroke
-Least shoulder complaints (hands stay forward; less hyper-extension/rotation demand). Unique issue: **breaststroker's knee** (MCL / PF / pes) — correlated with more hip abduction / less FA IR in whip kick. Freestyle mileage predisposes anterior pelvis / limited FA IR–adduction → compensatory ER/abd → medial knee stress.
+Least shoulder complaints (hands stay forward; less hyper-extension/rotation demand). Unique issue: **breaststroker's knee** (MCL / PF / pes) - correlated with more hip abduction / less FA IR in whip kick. Freestyle mileage predisposes anterior pelvis / limited FA IR–adduction → compensatory ER/abd → medial knee stress.
 
 **Management:** Lumbopelvic-femoral position/control; FA IR via posterior hip / outlet (e.g. R Sidelying Supported L Glute Med in Hip Extension); FA IR strength with adductors + glute med (e.g. Seated Resisted Alternating Reciprocal Quad Sets with FA IR). Shoulder work similar to fly but less PEC bias.
 
@@ -112,8 +112,8 @@ For **ISO angles** on wall/block transfer, use swim-turn-and-start-iso-angles. F
 
 - Band pull-aparts / cuff isolation as the only "swim shoulder" fix while thorax is PEC/Right BC.  
 - Feed more lat pull volume on dryland without serratus / subscap / flexion opposition.  
-- Ignore unilateral breath preference as "just preference" — check trunk/cervical rotation.  
-- Treat breaststroker's knee with only local knee care — check FA IR / pelvic position.  
+- Ignore unilateral breath preference as "just preference" - check trunk/cervical rotation.  
+- Treat breaststroker's knee with only local knee care - check FA IR / pelvic position.  
 - Confuse this skill with pool ISO angle selection or the Achieve dryland stroke playbook.
 
 ---

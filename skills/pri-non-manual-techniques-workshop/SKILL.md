@@ -9,12 +9,12 @@ description: >-
 # PRI Primary Non-Manual Techniques Workshop
 
 **Sources (synthesized into one skill):**
-- Typed notes (clean cues): `.../memory/reference/pri-nm-techniques-workshop-typed-notes.txt` — Feb 2023 workshop notes  
-- Complete manual (structure/hierarchies): `.../memory/reference/pri-primary-nm-techniques-workshop-manual.txt` — *PRImary Non-Manual Techniques Workshop* complete manual Feb 2023 (© 2018–2023 PRI)
+- Typed notes (clean cues): `.../memory/reference/pri-nm-techniques-workshop-typed-notes.txt` - Feb 2023 workshop notes  
+- Complete manual (structure/hierarchies): `.../memory/reference/pri-primary-nm-techniques-workshop-manual.txt` - *PRImary Non-Manual Techniques Workshop* complete manual Feb 2023 (© 2018–2023 PRI)
 
 **Extraction quality:** Both PDFs yielded searchable text via `pdftotext` (no OCR required). Manual is image-heavy for technique photos (positional outline pages are mostly figure plates); use typed notes for coaching cues and manual for program organization / reference-center theory.
 
-Prefer **non-manual** techniques in Achieve. This skill teaches when-to-use families, cueing, reference/referent logic, and neuro-motor order — not a full reprint of 300+ CD techniques.
+Prefer **non-manual** techniques in Achieve. This skill teaches when-to-use families, cueing, reference/referent logic, and neuro-motor order - not a full reprint of 300+ CD techniques.
 
 Cross-links: [PRI Myokinematic Restoration](sand-workflow:pri-myokinematic-restoration) · [PRI Pelvis Restoration](sand-workflow:pri-pelvis-restoration) · [PRI Postural Respiration](sand-workflow:pri-postural-respiration) · [PRI Right BC Treatment Guidelines](sand-workflow:pri-right-bc-treatment-guidelines) · [PRI breathing exercise selection](sand-workflow:pri-breathing-exercise-selection) · [PRI Impingement and Instability](sand-workflow:pri-impingement-instability)
 
@@ -22,7 +22,7 @@ Cross-links: [PRI Myokinematic Restoration](sand-workflow:pri-myokinematic-resto
 
 ## 1. How PRI Non-Manual programs are organized
 
-Introductory courses each have Non-Manual CDs organized by **muscle, inhibition, and integration**, ordered by how you would isolate → inhibit → integrate. Integration program: 300+ techniques across nine positions; Integration symbol = thorax–pelvis via abdominals (**inhibit a pattern / facilitate a position** — not "strengthen abs").
+Introductory courses each have Non-Manual CDs organized by **muscle, inhibition, and integration**, ordered by how you would isolate → inhibit → integrate. Integration program: 300+ techniques across nine positions; Integration symbol = thorax–pelvis via abdominals (**inhibit a pattern / facilitate a position** - not "strengthen abs").
 
 **Reference centers (Integration):** left abdominals, left ischial seat, left heel, right arch.
 
@@ -39,16 +39,16 @@ Introductory courses each have Non-Manual CDs organized by **muscle, inhibition,
 ### Hard progression rules
 - Neuro-motor position order follows Integration demand (exceptions: R Glute Max differs Myo vs Pelvis; Inhibition programs; R Low Trap/Tricep order on Postural CD).  
 - **Bilateral inhibition always precedes unilateral.**  
-- If a technique "looks in the wrong muscle folder," assume intentional facilitation via inhibitory muscle/position/process — don't reshuffle by bodybuilding logic.  
+- If a technique "looks in the wrong muscle folder," assume intentional facilitation via inhibitory muscle/position/process - don't reshuffle by bodybuilding logic.  
 - Example: 90-90 Supported Hip Lift with Hemibridge **always** precedes 90-90 Hip Lift with Balloon.
 
 ### Why BC muscle order is R LT/Tricep → L LT/Serratus → R Serratus → R Subscap
 Typical L AIC + R BC: pelvis/spine/diaphragm oriented right; thorax rotates back left above diaphragm for frontal balance and R reach. Right-handedness promotes that left upper rotation and disadvantages R low trap / triceps / serratus.
 
-1. **R low trap + tricep** — retract/posterior-tilt scapula; stabilize spine with L abs; elbow extension; thoracic flexion; lat down.  
-2. **L low trap + L serratus** — reorient upper thorax; stabilize upper quadrants during R reach.  
-3. **R serratus** — stabilize R scapula for R reach **without** needing left upper trunk rotation.  
-4. **R subscap** — HG IR independent of overactive lat (after neutrality).
+1. **R low trap + tricep** - retract/posterior-tilt scapula; stabilize spine with L abs; elbow extension; thoracic flexion; lat down.  
+2. **L low trap + L serratus** - reorient upper thorax; stabilize upper quadrants during R reach.  
+3. **R serratus** - stabilize R scapula for R reach **without** needing left upper trunk rotation.  
+4. **R subscap** - HG IR independent of overactive lat (after neutrality).
 
 Later positions in each muscle set demand **more isolation with more substitution inhibition**.
 
@@ -85,7 +85,7 @@ Open the matching course skill for test gates (ADT/PADT, apical, etc.) before pi
 
 ---
 
-## 4. Workshop technique cards (from typed notes — Achieve-usable)
+## 4. Workshop technique cards (from typed notes - Achieve-usable)
 
 Each card: **Reference / Referent(s)** → inhibit → who it's for → coaching notes.
 
@@ -198,7 +198,7 @@ Always re-test course screens after a technique block.
 - Cherry-pick "cool" late positions (prone/standing isolations) before early ones work.  
 - Unilateral inhibition before bilateral.  
 - Cue techniques as ab hypertrophy or generic mobility.  
-- Ignore reference/referent sensing — without tactile co-reference the neuro outcome weakens.  
+- Ignore reference/referent sensing - without tactile co-reference the neuro outcome weakens.  
 - Skip course test gates and jump folders by symptom name alone ("shoulder" → random serratus).
 
 ---
@@ -209,6 +209,6 @@ Always re-test course screens after a technique block.
 - Tertiary: match folder to remaining test (R LT/tricep vs L serratus vs inhibition).  
 - Write **reference sense** in athlete cues ("left heel + left abs," "right arch," "left sit bone").  
 - Swimmers: bias Stair Short Seated Balloon / Wall Reach / All Four Belly Lift Reach / R apical sidelying + later R subscap only after BC neutrality language.  
-- Keep clinician manuals (Superior T4, Subclavius, Infraclavicular) out of gym improvisation — see Right BC guidelines skill.
+- Keep clinician manuals (Superior T4, Subclavius, Infraclavicular) out of gym improvisation - see Right BC guidelines skill.
 
 Open course skills for theory depth; open this skill for technique selection and cueing.

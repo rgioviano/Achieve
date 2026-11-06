@@ -11,7 +11,7 @@ description: Use this when choosing what an Achieve athlete’s training block s
 ---
 # Athlete phase focus breakdown
 
-Full source: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/athlete-phase-focus-breakdown.txt`
+Full source: `/home/box/agent-data/shared/sc-reference/athlete-phase-focus-breakdown.txt`
 
 | Phase | Focus | Typical loading | Timing |
 |---|---|---|---|

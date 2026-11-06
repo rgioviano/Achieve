@@ -1,14 +1,14 @@
 ---
 name: Program Design Basics
 description: >-
-  Use this when writing or checking an Achieve session structure — order,
+  Use this when writing or checking an Achieve session structure - order,
   pairings, 1–4x/week layout, sets/reps defaults, deload, and cook-vs-chef house
   rules from Ryne’s Program Design Basics.
 ---
 # Program Design Basics
 
 Source (Ryne Gioviano):  
-`/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/program-design-basics.txt`  
+`/home/box/agent-data/shared/sc-reference/program-design-basics.txt`  
 PDF: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/program-design-basics.pdf`
 
 Cook vs chef: new coaches follow this recipe until told otherwise. ~1-hour sessions. Deviate only when earned / instructed.
@@ -83,7 +83,7 @@ Often D1/D2/D3 with core, or as a filler with a heavy lift (e.g. Trap Bar DL + C
 - By slot: B1/B2 often 6–8 (adv strength 3–6); C1/C2 8–10 (sometimes 12); core D1/D2 time 20–45s or 10–15 reps; tertiary D3 10–12 (to 15).
 
 ## Deload & progression
-- Blocks 4+ weeks: last week deload — drop anything >3 sets down to 3; keep intensity.
+- Blocks 4+ weeks: last week deload - drop anything >3 sets down to 3; keep intensity.
 - Non-loaded / timed work: +5 seconds per week.
 - Start conservative. Assessment, training age, injuries, sport, and season override defaults.
 

@@ -8,8 +8,8 @@ description: >-
 ---
 # PRI Impingement & Instability (course skill)
 
-**Source (full text):** `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/pri-impingement-instability.txt`  
-*(OCR from scanned PDF — Prefer cross-checking exercise titles against Postural Respiration clean appendix when OCR is noisy. Host copy notes Achieve / James Anderson June 2019.)*  
+**Source (full text):** `/home/box/agent-data/shared/sc-reference/pri-impingement-instability.txt`  
+*(OCR from scanned PDF - Prefer cross-checking exercise titles against Postural Respiration clean appendix when OCR is noisy. Host copy notes Achieve / James Anderson June 2019.)*  
 **Manual:** *Impingement & Instability* (PRI, © 2007–2019).  
 **Course level:** Secondary / advanced relative to Myokinematic, Pelvis, and Postural Respiration intros.
 
@@ -22,20 +22,20 @@ PRI definitions (manual "PRI Concepts of Impingement and Instability"):
 - Impingement here is **not** attributed primarily to abnormalities of the shape of long bones/articulating surfaces.  
 - It reflects **occult dynamic instability** from **malaligned structural position/orientation**.  
 - It reflects **Left AIC and Right BC patterns of compensation**.  
-- Assessed/addressed with PRI approaches. Symptoms can mimic primary impingement, but **positional impingement** is different. Traditional conservative/operative approaches aimed at assumed primary impingement often failed until the **patterned instability** (Left AIC/Right BC unilateral dominance, habit, consistent hand/foot usage) was addressed first — then impingement resolved secondarily.
+- Assessed/addressed with PRI approaches. Symptoms can mimic primary impingement, but **positional impingement** is different. Traditional conservative/operative approaches aimed at assumed primary impingement often failed until the **patterned instability** (Left AIC/Right BC unilateral dominance, habit, consistent hand/foot usage) was addressed first - then impingement resolved secondarily.
 
 ### Instability framing (Position vs Primary table)
 **Frequency**
-- Acute — maintain neutral position  
-- Recurrent — reposition and immediately address joint internal rotation  
-- Chronic — after repositioning, maximize with **Right AIC / Left BC** tri-planar neuromotor strength and skills  
+- Acute - maintain neutral position  
+- Recurrent - reposition and immediately address joint internal rotation  
+- Chronic - after repositioning, maximize with **Right AIC / Left BC** tri-planar neuromotor strength and skills  
 
 **Etiology:** atraumatic positional patterns → retrain opposition muscles of Left AIC/Right BC after repositioning (PRI non-manual or manual). Distinguish microtraumatic/repetitive, voluntary/involuntary, traumatic macro, congenital (primary column).
 
 **Direction**
-- Unidirectional — see PRI pathology table; **1 PRI test per girdle joint is negative**  
-- Bidirectional — **2 PRI tests negative** per girdle joint in different planes  
-- Multidirectional — **2+ PRI tests negative** per girdle joint in **2+ planes**  
+- Unidirectional - see PRI pathology table; **1 PRI test per girdle joint is negative**  
+- Bidirectional - **2 PRI tests negative** per girdle joint in different planes  
+- Multidirectional - **2+ PRI tests negative** per girdle joint in **2+ planes**  
 
 **Degree:** subluxation refers to FA, HG, MT joints (vs dislocation on primary side). Patient volition: involuntary as produced by PRI examiner vs voluntary.
 
@@ -46,7 +46,7 @@ Primary column: capsular stiffness; joint degeneration; malformation of arthroki
 ### Pitfalls to stabilization rehabilitation (manual list)
 Failure to address pain/hypomobility; failure to follow progression steps; failure to ensure proper patterns of movement; failure to ensure proper muscle firing sequences; allowing incorrect movement patterns; failure to understand mechanics of selected movements; failure to understand demands of patient's functional activities; failure to involve the whole (pattern), etc.
 
-### Overview table — possible I&I associated with Left AIC / Right BC
+### Overview table - possible I&I associated with Left AIC / Right BC
 Examples (RIGHT vs LEFT columns in manual):
 - Hallux limitus (active R / passive L)  
 - Ankle inversion sprains (R) vs talocalcaneal instability (L)  
@@ -74,16 +74,16 @@ Agenda: Left AIC foot and ankle pattern; PEC foot and ankle; calcaneal instabili
 Genu hyperextension instability; anterior medial vs lateral knee instability paired to Right vs Left pattern columns.
 
 ### Hip / groin / FA–AF
-Hip and groin impingement lab; anteromedial FA vs anterosuperior AF; multidirectional FA instability; snapping hip syndrome (lateral FA instability secondary to long/weak glute med/min — femoral head migrates; often left; clicks with FA IR/ER more than AF).
+Hip and groin impingement lab; anteromedial FA vs anterosuperior AF; multidirectional FA instability; snapping hip syndrome (lateral FA instability secondary to long/weak glute med/min - femoral head migrates; often left; clicks with FA IR/ER more than AF).
 
 ### Ilio-sacral
-Ilium stability depends on position/efficiency of iliacus, glute med/min, biceps femoris, adductor brevis, pectineus — stabilize ilium during contralateral swing; sagittal/frontal force closure for acetabulum-on-femur. Poor iliacus/pectineus-adductor position → reduced ilium stability; ground forces facilitate superior-posterior sacral advancement (ilio-sacral internal rotation) → unilateral lordosis themes (cross-ref Pelvis Restoration).
+Ilium stability depends on position/efficiency of iliacus, glute med/min, biceps femoris, adductor brevis, pectineus - stabilize ilium during contralateral swing; sagittal/frontal force closure for acetabulum-on-femur. Poor iliacus/pectineus-adductor position → reduced ilium stability; ground forces facilitate superior-posterior sacral advancement (ilio-sacral internal rotation) → unilateral lordosis themes (cross-ref Pelvis Restoration).
 
 ### Scapular-thoracic / HG
 Scapula-thoracic instability; Hruska classification of scapular resting position; superior posterior HG impingement when patterned IR is forced (links to Postural Respiration Right BC humeral test position warning); multidirectional HG instability; need **subscapularis** for true HG IR after lat/pec pathways are inhibited.
 
 ### Right AIC / Left BC frontal-plane view
-Manual includes Right AIC / Left BC posterior frontal-plane figures (left thoracic abduction / right thoracic adduction language) — the flip side after successful inhibition of Left AIC/Right BC, used when maximizing chronic instability rehab.
+Manual includes Right AIC / Left BC posterior frontal-plane figures (left thoracic abduction / right thoracic adduction language) - the flip side after successful inhibition of Left AIC/Right BC, used when maximizing chronic instability rehab.
 
 ---
 
@@ -94,9 +94,9 @@ I&I uses intro PRI tests as the language of "how many tests are negative per gir
 **Examples of clinical clusters (OCR treatment pages):**
 - + Left ADT; decreased/limited Left FA IR; medial tibial plateau pain with medial footwear issues → orthotic/footwear notes; achieve bilateral Adduction and Abduction Lift scores ≥3; maximize Right AF ER; balance hamstrings with left medial hamstring focus; standing supported Left AF IR with right FA abduction integration.  
 - Snapping hip test results themes: ↑ passive FA abduction; limited active FA abduction strength; ipsilateral Adduction Lift >3 / Abduction Lift findings → hierarchy below.  
-- Right BC cluster after upright work: Right apical expansion tests; Mermaid (Right Sidelying Right Apical Expansion with Left Arm Reach and Left Adductor); seated resisted alternating tricep pull-downs; seated right scapular pull-back with right HG — if some tests become + again after upright alternating, revisit.
+- Right BC cluster after upright work: Right apical expansion tests; Mermaid (Right Sidelying Right Apical Expansion with Left Arm Reach and Left Adductor); seated resisted alternating tricep pull-downs; seated right scapular pull-back with right HG - if some tests become + again after upright alternating, revisit.
 
-**Hruska Classification of Scapular Resting Position & Testing** — appendix item on Day 2 agenda; use when scapular-thoracic instability is the complaint after thorax neutrality attempts.
+**Hruska Classification of Scapular Resting Position & Testing** - appendix item on Day 2 agenda; use when scapular-thoracic instability is the complaint after thorax neutrality attempts.
 
 ---
 
@@ -123,7 +123,7 @@ Same composite facilitate/inhibit tables as intros. I&I-specific emphasis:
 1. Reposition  
 2. Ipsilateral Adduction and Abduction Lift scores of 3 or better with contralateral obturator foramen / ischium sense; consider sidelying supported left medial and posterior expansion with ipsilateral hip flexor inhibition; sidelying lateral thoracic expansion with balloon / intercostal inhibition to allow glute med shortening  
 3. For left frontal/transverse FA instability maximize left calcaneal eversion; for right, right calcaneal eversion (Calcaneal Eversion Programs)  
-4. Stabilize adductor activity in frontal plane — Standing Left AF IR with contralateral FA adduction; Standing Resisted Adductor Pull In; with left IO/TA; etc.  
+4. Stabilize adductor activity in frontal plane - Standing Left AF IR with contralateral FA adduction; Standing Resisted Adductor Pull In; with left IO/TA; etc.  
 5. Left stance upright integration / right stance upright integration activities  
 
 ### Knee / medial tibial / Left FA IR cluster hierarchy themes
@@ -138,7 +138,7 @@ Restore iliacus / glute med-min / biceps femoris / adductor brevis / pectineus p
 - Seated right scapular pull-back with right HG  
 - If tests return + after upright alternating → regress  
 
-### Right BC position progression (overview page — mirrors Postural)
+### Right BC position progression (overview page - mirrors Postural)
 Right low trap & right tricep → Left low trap & left serratus → Right serratus → Right subscapularis, with supine/sidelying/seated/standing/all-four/prone position ladders.
 
 ### Right subscapularis program themes
@@ -155,12 +155,12 @@ Supine resisted right HG IR; supine resisted right tricep extension with right H
 ## 6. What NOT to do / common errors
 
 - Do **not** treat positional impingement as primary bony "spurs first" without clearing Left AIC/Right BC patterning.  
-- Do **not** strengthen into the patterned IR with lat-dominated HG IR — that feeds superior posterior HG impingement mechanics.  
+- Do **not** strengthen into the patterned IR with lat-dominated HG IR - that feeds superior posterior HG impingement mechanics.  
 - Do **not** skip progression steps or allow incorrect firing sequences (listed pitfalls).  
 - Do **not** call multidirectional instability "core weakness" without counting **how many PRI tests are negative across planes**.  
 - Do **not** jump to chronic Right AIC/Left BC max strength before acute/recurrent repositioning + IR restoration.  
 - Do **not** ignore foot/calcaneal frontal-plane pieces when FA frontal-plane instability keeps returning.  
-- Do **not** use I&I as a first course — intros first (Myokinematic / Pelvis / Postural).  
+- Do **not** use I&I as a first course - intros first (Myokinematic / Pelvis / Postural).  
 
 ---
 
@@ -173,7 +173,7 @@ Supine resisted right HG IR; supine resisted right tricep extension with right H
 | ZOA / Right BC / PEC thorax | [Postural Respiration](sand-workflow:pri-postural-respiration) |
 | When neutrality exists intermittently but joints impinge or go multi-directionally unstable; scapular-thoracic & HG IR details; calcaneal/knee/FA/IS tables | **This course** |
 
-Postural Respiration treatment guidelines explicitly route "all BC tests − but insufficient right scapular-thoracic function" toward BC manuals (Infraclavicular Pump, Sibson, Intercostal) and right serratus — that is the doorway into I&I thinking for the upper quarter.
+Postural Respiration treatment guidelines explicitly route "all BC tests − but insufficient right scapular-thoracic function" toward BC manuals (Infraclavicular Pump, Sibson, Intercostal) and right serratus - that is the doorway into I&I thinking for the upper quarter.
 
 ---
 
@@ -182,6 +182,6 @@ Postural Respiration treatment guidelines explicitly route "all BC tests − but
 - Overhead/swim athletes with lat-dominant IR and scapular winging after breathing work → subscapularis + serratus + low trap order; inhibit lat.  
 - Recurrent groin/hip "impingement" language from athletes → screen ADT/FA IR/AF IR and pattern before loading deep flexion IR under load.  
 - Medial knee / footwear complaints with Left AIC → lift-test gates + Left AF IR integration; don't only strengthen VMO.  
-- Keep I&I as the "why the joint keeps yelling after intros" reference, not the first warm-up picker — start with [PRI breathing exercise selection](sand-workflow:pri-breathing-exercise-selection) then the matching intro skill.
+- Keep I&I as the "why the joint keeps yelling after intros" reference, not the first warm-up picker - start with [PRI breathing exercise selection](sand-workflow:pri-breathing-exercise-selection) then the matching intro skill.
 
 Open the full OCR reference for complete pathology tables, calcaneal programs, and appendix exercise numbers.

@@ -2,6 +2,16 @@
 
 Dated changes to this repo and to the fleet facts it depends on. Newest first. One line per change. Business decisions go in `10-decisions-log/decisions.md`; this file tracks the repo itself.
 
+## 2026-11-05
+- Full sync from Grok Bot (Ryne asked 2026-11-05 for the repos to be an exact copy of what is running now, including current routines). Not limited to the last 7 days.
+- `skills/`: re-copied every skill from the Grok Bot library that belongs in this repo; removed skills that left the library; em dashes swapped for hyphens and non-business email addresses replaced.
+- `bots/`: `INSTRUCTIONS.md` regenerated from each bot's current profile.json; new `ROUTINES.md` per bot with its current schedule map; stale on-disk automation.json copies removed; folders for retired or renamed bots removed (git history keeps them).
+- AGENTS.md and START-HERE.md: the weekly brain repo update now merges into main after `brain_lint.py` passes (Ryne, 2026-11-04).
+- `09-team-bots/bots.md`: Chief priorities removed (deleted 2026-11-04), Penny brief in her 1:1, Tally inbound watch Mon to Sat about 6:25am, Eval Brief on demand, Metric added, Promote owner-filter and leads lane.
+- NOW.md: Tally schedule fixed; Achieve Minute on HOLD (2026-11-02).
+- `10-decisions-log/decisions.md`: 2026-11-01 to 2026-11-04 decisions.
+- `bots/atlas` renamed `bots/red`; `bots/seo-aeo-auditor` renamed `bots/rank`; `bots/metric` added.
+
 ## 2026-10-31
 - Weekly brain audit (second run). Covered 2026-10-24 to 2026-10-31. Branch `brain-audit-2026-10-31` is built on `brain-v1`, so it also carries the 2026-10-24 audit commit, which reached `brain-v1` (PR #2) after PR #1 had already merged into `main`. Opened as a PR into `main`. Not merged.
 - NOW.md: cancellation rule, account change rule, approve-before-saving rule (2026-10-26); new Projects section (Page-based project management, 2026-10-30).

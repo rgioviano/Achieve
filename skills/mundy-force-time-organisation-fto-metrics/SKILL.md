@@ -8,24 +8,24 @@ description: >-
 ---
 # Mundy Force-Time Organisation (FTO) metrics
 
-**Source:** Peter Mundy (@drpetermundy) Instagram Force-Time Organisation series (Sep 2026). Framework for comprehensive CMJ analysis; he also posts a reduced set. Not a published standards document — use as a coaching metric screen. Reliability is a **condition of use**, not an FTO criterion.
+**Source:** Peter Mundy (@drpetermundy) Instagram Force-Time Organisation series (Sep 2026). Framework for comprehensive CMJ analysis; he also posts a reduced set. Not a published standards document - use as a coaching metric screen. Reliability is a **condition of use**, not an FTO criterion.
 
 ## Phase organisation
 
 Organise reported metrics by phase, then by outcome:
 
-1. **Unweighting** — descent initiation; force below body weight. Mundy has explored adding **min force** in unweighting.
-2. **Braking** — force above body weight while still descending; ends near zero velocity.
-3. **Propulsion** — positive velocity to takeoff.
-4. **Outcome** — jump height (and related takeoff descriptors).
+1. **Unweighting** - descent initiation; force below body weight. Mundy has explored adding **min force** in unweighting.
+2. **Braking** - force above body weight while still descending; ends near zero velocity.
+3. **Propulsion** - positive velocity to takeoff.
+4. **Outcome** - jump height (and related takeoff descriptors).
 
-Headline framing from the series: **seven determinants, one outcome** — phase determinants explain how height was produced.
+Headline framing from the series: **seven determinants, one outcome** - phase determinants explain how height was produced.
 
 ## Metric selection rules
 
 - **Relative force over absolute force** when body mass differs or you are ranking athletes. Absolute force largely ranks by body mass.
 - **Relative average propulsive force × propulsive time** beats looking at propulsive impulse alone.
-- **P1:P2 Propulsive Impulse Index** — use when early vs late propulsive impulse split matters for how force is organised through propulsion (pair with the force-time curve, not instead of it).
+- **P1:P2 Propulsive Impulse Index** - use when early vs late propulsive impulse split matters for how force is organised through propulsion (pair with the force-time curve, not instead of it).
 - Prefer **peak relative braking force** in the FTO framing when that is the braking metric under discussion (comments on the series ask why peak vs average; stick to what you actually have on the test and label it).
 - **Metric redundancy should be mechanical, not statistical.** Correlated numbers can still mean different things; drop a metric only when it adds no distinct mechanical information for the decision you are making.
 - Base units stay primary: **force, time, velocity, displacement**.

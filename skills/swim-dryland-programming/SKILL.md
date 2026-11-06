@@ -10,10 +10,10 @@ description: >-
 Full notes: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/strength-conditioning-programming-for-swimmers.txt`
 
 **Separate skills (do not merge):**
-- [PRI Swimming An In-Depth Look](sand-workflow:pri-swimming-in-depth) — PRI pathomechanics / PEC–AIC–BC
-- [PRI shoulder pain prescription](sand-workflow:pri-shoulder-pain-prescription) — Advanced Integration bicipital vs impingement technique menus
-- [Swim turn and start ISO angles](sand-workflow:swim-turn-and-start-iso-angles) — pool-transfer isometric angles
-- [FRC progressions and prescriptions](sand-workflow:frc-progressions-and-prescriptions) — CARs / PAILs / swimmer hovers / ERR
+- [PRI Swimming An In-Depth Look](sand-workflow:pri-swimming-in-depth) - PRI pathomechanics / PEC–AIC–BC
+- [PRI shoulder pain prescription](sand-workflow:pri-shoulder-pain-prescription) - Advanced Integration bicipital vs impingement technique menus
+- [Swim turn and start ISO angles](sand-workflow:swim-turn-and-start-iso-angles) - pool-transfer isometric angles
+- [FRC progressions and prescriptions](sand-workflow:frc-progressions-and-prescriptions) - CARs / PAILs / swimmer hovers / ERR
 - House session order: [Athlete program design guidelines](sand-workflow:athlete-program-design-guidelines)
 
 This skill owns **stroke-specific dryland bias, starts/turns/UW, scapular rules, shoulder pain fixes, and in-season constraints**.
@@ -72,7 +72,7 @@ This skill owns **stroke-specific dryland bias, starts/turns/UW, scapular rules,
 
 ### Breaststroke
 - Tall kneeling core (OH reach, anti-rotation, MB OH throws) for straight-hip + stability
-- **PADT negative bilaterally** required for breast kick — else ipsilateral LBP / knee / groin
+- **PADT negative bilaterally** required for breast kick - else ipsilateral LBP / knee / groin
 - Knee flexion **with straight hips**: Swiss ball / slideboard / TRX curls, Nordics, GHD, SHELC
 - Breaststroker’s knee often **missing hip IR** → IR-bias SL squat etc.
 - Assess: hip IR/ER, extension + adduction drop, prone hip ext, PF/DF
@@ -117,9 +117,9 @@ Full Advanced Integration banks: [PRI shoulder pain prescription](sand-workflow:
 
 **General shoulder pain**
 1. Lat hang (standing lat inhibition 1)
-2. L sidelying weighted R HG HA + R FA ER (R low trap / R triceps 4) — R scap retraction + L IO → R HG IR theme
-3. Supine resisted R HG IR + L HG ER (R low trap / R triceps 16) — R towel wedge, towel under L elbow; keep L ZOA/PME/IO
-4. L SL resisted R HG IR (R subscap 2) — L ZOA + L trunk rotation + R HG IR
+2. L sidelying weighted R HG HA + R FA ER (R low trap / R triceps 4) - R scap retraction + L IO → R HG IR theme
+3. Supine resisted R HG IR + L HG ER (R low trap / R triceps 16) - R towel wedge, towel under L elbow; keep L ZOA/PME/IO
+4. L SL resisted R HG IR (R subscap 2) - L ZOA + L trunk rotation + R HG IR
 
 **Impingement:** abs exhale + stay contracted on inhale (rib expansion); lat inhibition; R low trap + R triceps.
 
@@ -127,7 +127,7 @@ Full Advanced Integration banks: [PRI shoulder pain prescription](sand-workflow:
 
 **L shoulder pain (often MDI):** treat as bilateral / longer course. After repositioning → L posterior mediastinum expansion (reach + L abs); may need L pec inhibition. AF belly lift reach; modified AFBL pad under L hand; long seated alternating crossovers; AF belly lift.
 
-**Long seated supported press downs** (R iliacus/psoas **or** abs) — useful when UT / FHP / bicipital / rounded shoulders / flat back / tight calves / anterior scalenes themes stack.
+**Long seated supported press downs** (R iliacus/psoas **or** abs) - useful when UT / FHP / bicipital / rounded shoulders / flat back / tight calves / anterior scalenes themes stack.
 
 ---
 
@@ -137,7 +137,7 @@ Candidate weakness map: front squat velocity, **1RM pull-up**, trap-bar DL, **no
 
 Published protocol notes: pull-up 1RM; back squat velocity @ **½ BW** to hip-crease-below-knee (rope depth), Tendo average concentric m/s; non-CMJ with **1s pause** at depth.
 
-Use as **screens**, not automatic auto-gates — individualize to training age and season.
+Use as **screens**, not automatic auto-gates - individualize to training age and season.
 
 ---
 

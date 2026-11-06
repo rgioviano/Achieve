@@ -27,8 +27,8 @@ Read this page first. It tells you what is in this repo and which one file answe
 | `07-operations/` | Hours, booking, cancellation, email and calendar rules |
 | `09-team-bots/` | Which bots work Achieve and what each owns |
 | `10-decisions-log/` | Business decisions, dated, newest first |
-| `bots/<name>/` | Each Achieve bot: `INSTRUCTIONS.md` plus its memory, reference and routine files (secrets removed). Bots: atlas (now named Red), canvas, coach, darwin, eval-brief, hawkin, lark, max, maya, nova, pri, programming (room), quill, seo-aeo-auditor (now named Rank), tally, th-exercise-library |
-| `skills/<slug>/SKILL.md` | 90 skills copied from Ryne's Grok Bot skill library (index in README.md) |
+| `bots/<name>/` | Each Achieve bot: `INSTRUCTIONS.md` plus its memory, reference and routine files (secrets removed). Each bot also has `ROUTINES.md`. Bots: red (formerly atlas), canvas, coach, darwin, eval-brief, hawkin, lark, max, maya, metric, nova, pri, programming (room), quill, rank (formerly seo-aeo-auditor), tally, th-exercise-library |
+| `skills/<slug>/SKILL.md` | 99 skills copied from Ryne's Grok Bot skill library (index in README.md) |
 
 There is no `08-` folder on purpose: finances are excluded (see rules).
 
@@ -64,5 +64,5 @@ There is no `08-` folder on purpose: finances are excluded (see rules).
 
 ## How to change this repo
 - Propose edits as a pull request or diff. Ryne approves. Nothing merges on its own.
-- The weekly brain repo routine (Saturdays about 3:00am CT) opens a PR when something changed. It never merges.
+- The weekly brain repo routine (Saturdays about 3:00am CT) opens a PR when something changed and, since 2026-11-04 (Ryne), merges it into main after `brain_lint.py` passes.
 - Date every new fact (YYYY-MM-DD) and add a line to `LOG.md`.

@@ -34,7 +34,7 @@ This is the company brain for **Achieve Sports Performance**, Ryne Gioviano's st
 ## How to read and update this brain
 - Read AGENTS.md first, then README.md, then only the folders your task needs.
 - Every file ends with a **Sources:** line. Keep it current when you edit.
-- Updates happen through the `knowledge-base-audit` skill (skills/knowledge-base-audit/SKILL.md): propose a diff, Ryne approves, then apply. Never auto-commit or push.
+- Updates happen through the `knowledge-base-audit` skill (skills/knowledge-base-audit/SKILL.md): propose a diff, Ryne approves, then apply. Exception (Ryne, 2026-11-04): the weekly brain repo update merges its PR into main automatically once `brain_lint.py` passes. Never force-push.
 - Date every new fact (YYYY-MM-DD). New decisions also go in the decisions log with the date.
 - Prefer editing an existing file over creating a new one. Keep files short; link instead of copying.
 - Skills referenced by name (for example `achieve-mail`) live in Ryne's Grok Bot skill library. Link by name; do not copy whole skills in.
