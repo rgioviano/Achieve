@@ -40,7 +40,7 @@ Contact@achieve-personaltraining.com | Text: 630.340.4114
 - Policy once, no apology theater. Scheduling: one or two concrete times. If they already named a window, pick the slot yourself.
 - No emojis, circling back, or corporate softeners.
 - No em dashes (-). Use periods, commas, or parentheses.
-- Cancel/refund emails he owns: he often BCC `kara@achieve-personaltraining.com` so she can run the account change. Do not BCC until he says send, and only if that is how he sent the last similar one. A contract-hold to the parent may go CC instead.
+- Cancel/refund emails he owns: he often BCCs her so she can run the account change. Do not BCC until he says send, and only if that is how he sent the last similar one. A contract-hold to the parent may go CC instead.
 
 ## Numa texts
 
@@ -82,7 +82,7 @@ Rewrite this section after each sent-vs-draft compare. Newest first. Drop bullet
 - (2026-08-31) Contact@ short logistics: match `The Achieve Team` when that's already on the thread. Drop Hi on a one-line confirm (`FirstName,`). Don't restate their numbers. Don't jump to a Success Session. Named booking-bug slot: you'll book them, mention the backend fix so they can try the app, don't ask for more times. Pause-restart: pick the first Monday in their window yourself, skip the re-rate line on an already-paused thread. `Thanks!` is fine.
 - (2026-08-31) Hybrid restart (parent / returning athlete): glad they're back + they did well. Pick hybrid (1x in-person + 1-2 remote on the app with videos/cues). Ask if that works and how soon. Full CSCS.
 - (2026-08-31) SCDD E4 last-note sent as-is: `Last note from me... Enrollment closes September 13, then we're done taking new athletes for this block. If it's a no or the timing's off, totally fine - just say so and I'll stop pinging you. If you still want in, reply yes and I'll get you set up.` E3 no-eval rewrite sent as-is (few weeks left / Sep 13 / start of short course / reply yes). Gmail may still rewrite the website line into a tracking URL; draft as plain www text.
-- (2026-08-28) Restart/return: do not use the short "3 days then book" logistics reply. Confirm the start date (e.g. Sept 1), say evenings/Sundays (or the real fit), name 1-2 peer athletes as proof, close with warmth (`Looking forward to having her back in!`) instead of Thanks. BCC `kara@achieve-personaltraining.com` on the account change.
+- (2026-08-28) Restart/return: do not use the short "3 days then book" logistics reply. Confirm the start date (e.g. Sept 1), say evenings/Sundays (or the real fit), name 1-2 peer athletes as proof, close with warmth (`Looking forward to having her back in!`) instead of Thanks. BCC her on the account change.
 - (2026-08-28) When they give a clear morning window, pick the slot yourself and send paperwork in the same email (WaiverKing link, computer not phone/tablet, dressed for activity, warm look-forward close) rather than asking which of two times.
 - (2026-08-28) Contact@ equipment check (parent of a remote athlete): affirm the setup works, ask one concrete gear question (e.g. how heavy the dumbbells get). Do not jump to booking the Success Session. `The Achieve Team` closer is fine on contact@.
 - (2026-08-28) SCDD E2 force-plate follow-up: he sent the chat template as-is. Afternoon/evening this week or next.
