@@ -1,23 +1,24 @@
 ---
 name: Programming drafts only
 description: >-
-  Use in the Programming channel: Achieve posts Asana; Hawkin/PRI/Research each
-  post one room message; Coach waits then posts one final prescription.
+  Use when Coach writes an athlete program with Ryne: specialists send one
+  private note to Coach; Coach posts one final prescription in chat. The
+  Programming room is gone.
 ---
 # Programming direction only
 
-## Default (room-flow locked 2026-10-02; wrap shape same day)
+## Default (1:1 Coach flow; Programming room gone 2026-11-05)
 
-**Room owner: Achieve.** Follow [Room owner-filter](sand-workflow:room-owner-filter).
+**Owner: Coach** (`5d64c948-3315-41b3-b9a6-196b4d1e2072`) with Ryne in chat. Follow [Room owner-filter](sand-workflow:room-owner-filter) only when a live room is involved; programming work itself is Coach's 1:1.
 
-**One final public prescription per athlete ask**: from **Coach** (`5d64c948-3315-41b3-b9a6-196b4d1e2072`) in the Programming room (`7c23ca84-4ef9-4dd7-8421-66e0ab6932ec`), after specialists have posted in the room. Strength Coach is deleted; do not wait on it or hand work to it.
+**One final public prescription per athlete ask**: from **Coach**, after specialists have sent their notes. Strength Coach is deleted; do not wait on it or hand work to it.
 
 ### Flow when Ryne names an athlete
-1. **Achieve** (owner) - one room message: Asana context (sport, stroke/position, days/week, constraints, tags, last block notes if known). Wake the loop.
-2. **Specialists** - each posts **ONE public room message** in order: **Hawkin → PRI → S&C Research** (Research only if needed; may stay silent). No private-only loop for normal asks.
-3. **Coach** (replaces the deleted Strength Coach): wait for those room posts (and Asana), then post **exactly one** final wrap using [Strength Coach program output](sand-workflow:strength-coach-program-output). Incorporate their posts plus dose, exercises, and direction. No duplicate wraps.
+1. **Context** - Asana (or Ryne) supplies sport, stroke/position, days/week, constraints, tags, last block notes if known.
+2. **Specialists** - each sends **ONE private note to Coach** in order when needed: **Hawkin → PRI → S&C Research** (Research only if needed; may stay silent). Do not wait on a shared room.
+3. **Coach**: wait for those notes (and Asana), then post **exactly one** final wrap using [Strength Coach program output](sand-workflow:strength-coach-program-output). Incorporate their notes plus dose, exercises, and direction. No duplicate wraps.
 
-### Strength Coach post shape (2026-10-02)
+### Coach post shape
 Use sections: Force Plates → S&C research (omit if silent) → PRI (omit if not in loop) → Strength Coach. Flex bullet counts; omit empty sections. No full Day 1/2 unless Ryne asks. Details live in strength-coach-program-output.
 
 No hang / SSC / propulsion-speak. Spectators quiet unless @-mentioned.

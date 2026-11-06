@@ -58,7 +58,7 @@ Bring back, per thread that needs a reply:
 Then write the reply as a **draft in chat**, in the owner's texting voice, not email voice:
 
 - Always greet: `Hi, FirstName.` - comma after Hi, period after the name. Never skip it, even mid-thread.
-- 1–3 sentences. Lead with the answer, not an apology.
+- 1-3 sentences. Lead with the answer, not an apology.
 - "We" for the business. No email signature, no subject-line structure, no emojis.
 - Do not invent prices, availability, or commitments. If a fact is missing (a class has to be checked first), flag it outside the draft rather than guessing.
 

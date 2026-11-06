@@ -24,7 +24,7 @@ A Last Name | B First Name | C Month | D Contact Date | E Stage | F Contact Coun
 - O/P added 2026-10-22 for the lead follow-up flow. Dates are real dates shown M/d/yy (write with parseInput=true, e.g. 10/21/26). The monthly summary table (AVERAGES row, ~289) and the Dashboard 2026 column are hard values, not formulas on this tab.
 - **Eval?** = Yes when the person actually did an eval. Ryne's rule: everyone with Sign-Up = Yes did an eval.
 
-Older year tabs have their own consult columns (2018–2025: Set Up Consultation / Attended Consultation; 2016–2017: Consultation). Follow each tab's own header; don't force 2026's shape onto them.
+Older year tabs have their own consult columns (2018-2025: Set Up Consultation / Attended Consultation; 2016-2017: Consultation). Follow each tab's own header; don't force 2026's shape onto them.
 
 ## Stage - exact values only
 
@@ -81,7 +81,7 @@ If Sign-Up = Yes, Stage = Signed. If Sign-Up = No, Stage = Lost (unless Comments
   - No-shows
   - Signed
 - Put raw counts next to every percentage.
-- Targets: about 20 booked and 35–38 leads a month. For October 2026 only, the target is 12–15 booked counted from 10/7 to 10/31.
+- Targets: about 20 booked and 35-38 leads a month. For October 2026 only, the target is 12-15 booked counted from 10/7 to 10/31.
 
 ## Rates
 
@@ -99,7 +99,7 @@ Add a row only when someone **inquires about training**: a WordPress Lead Form, 
 - College observation, job-shadow, or class-requirement asks
 - Existing-client ops mail
 - People already on the sheet (match email, then phone, then name)
-- Bob Jaeckel (`[email kept out of repo]`): no draft, no follow-up, no new row
+- The known do-not-contact ghost lead listed in `/home/box/agent-data/shared/lanes/achieve-leads/RULES.md`: no draft, no follow-up, no new row
 
 If a non-prospect was added by mistake, delete the row.
 
@@ -116,7 +116,7 @@ If a non-prospect was added by mistake, delete the row.
 5. **Contact Date** is the first inquiry date (America/Chicago). **Month** is that month's name.
 6. Set Stage = `New inquiry` on add. Leave Contact Count blank until an outbound touch is evidenced.
 
-SCDD Instant Form watch and the E1–E4 sequences are retired (2026-09-15).
+SCDD Instant Form watch and the E1-E4 sequences are retired (2026-09-15).
 
 ## Gap fill
 

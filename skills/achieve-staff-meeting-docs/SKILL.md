@@ -13,7 +13,7 @@ Biweekly Achieve staff meeting (Wed ~2pm CT) agenda in Google Drive, or any edit
 ## Create the doc
 1. In Achieve Drive, duplicate **Achieve Staff Meeting Template** (or the most recent filled `Staff Meeting - MM.DD.YY` if the template is missing).
 2. Name exactly: `Staff Meeting - MM.DD.YY` (example: `Staff Meeting - 11.04.26`). Do not use older “Achieve Staff Meeting …” titles.
-3. Before filling, skim 2–3 recent past meeting docs and match their section order, table look, and fill density.
+3. Before filling, skim 2-3 recent past meeting docs and match their section order, table look, and fill density.
 4. Aim to finish before Ryne’s ~1pm CT prep block; send Chief the doc link when solid (bulleted status, no em dashes).
 5. Mark unverified items clearly; leave `[Ryne]` for items only he can fill. Do not invent facts.
 

@@ -10,7 +10,7 @@ description: >-
 
 **Source (full text):** `/home/box/agent-data/shared/sc-reference/pri-impingement-instability.txt`  
 *(OCR from scanned PDF - Prefer cross-checking exercise titles against Postural Respiration clean appendix when OCR is noisy. Host copy notes Achieve / James Anderson June 2019.)*  
-**Manual:** *Impingement & Instability* (PRI, © 2007–2019).  
+**Manual:** *Impingement & Instability* (PRI, © 2007-2019).  
 **Course level:** Secondary / advanced relative to Myokinematic, Pelvis, and Postural Respiration intros.
 
 ---
@@ -73,7 +73,7 @@ Agenda: Left AIC foot and ankle pattern; PEC foot and ankle; calcaneal instabili
 ### Knee
 Genu hyperextension instability; anterior medial vs lateral knee instability paired to Right vs Left pattern columns.
 
-### Hip / groin / FA–AF
+### Hip / groin / FA-AF
 Hip and groin impingement lab; anteromedial FA vs anterosuperior AF; multidirectional FA instability; snapping hip syndrome (lateral FA instability secondary to long/weak glute med/min - femoral head migrates; often left; clicks with FA IR/ER more than AF).
 
 ### Ilio-sacral

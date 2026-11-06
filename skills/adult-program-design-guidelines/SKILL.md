@@ -20,12 +20,12 @@ Full source: `/home/box/agent-data/shared/sc-reference/adult-program-design-guid
 - Conservative loading vs athletes at the same training age. Quality over load.
 
 ## Session order
-SMR (3–5) → breathing (also finish with breathing) → warm-up (5–6 prep + 2 dynamics) → strength (2 primary + 2 secondary in non-competing pairs) → core (1–2, different categories) → tertiary (1).
+SMR (3-5) → breathing (also finish with breathing) → warm-up (5-6 prep + 2 dynamics) → strength (2 primary + 2 secondary in non-competing pairs) → core (1-2, different categories) → tertiary (1).
 
 ## Strength rules
 - Primary: multi-joint overload; unilateral preferred for adults.
 - Pairing: knee-dominant with pull; hip-dominant with push. Never two lowers / two pushes / two pulls.
 - Each day: one bilateral lower and one unilateral lower (or vice versa), plus one push and one pull.
-- Frequency coverage: 1–4×/week category maps in the source file - open it when building the week.
+- Frequency coverage: 1-4×/week category maps in the source file - open it when building the week.
 
 Re-read the full source before a detailed adult program.

@@ -10,7 +10,7 @@ description: >-
 # PRI Postural Respiration (course skill)
 
 **Source (full text):** `/home/box/agent-data/shared/sc-reference/pri-postural-respiration.txt`  
-**Manual:** *Postural Respiration – An Integrated Approach to Treatment of Patterned Thoraco-Abdominal Pathomechanics* (PRI, © 2000–2019).  
+**Manual:** *Postural Respiration - An Integrated Approach to Treatment of Patterned Thoraco-Abdominal Pathomechanics* (PRI, © 2000-2019).  
 **Course family:** One of three introductory courses (with Myokinematic Restoration and Pelvis Restoration). Impingement & Instability is the secondary course that extends Right BC / scapular-thoracic logic.
 
 This skill is for expert-level discussion and Achieve programming decisions. It does **not** replace formal PRI coursework or clinical diagnosis. Prefer non-manual techniques in S&C; manual techniques are listed only so you understand clinician pathways.
@@ -43,7 +43,7 @@ Respiratory dysfunction (e.g. asthma) and occupational/repetitive positions can 
 ### Polyarticular chains (Postural Respiration definitions)
 
 **Anterior Interior Chain (AIC)**  
-Two AIC tracts (L and R). Attachments from costal cartilage/bone of ribs 7–12 to lateral patella, fibular head, lateral tibial condyle. Core members: **diaphragm + psoas**, with iliacus, TFL, biceps femoris, vastus lateralis. Influence respiration, trunk/ribcage/spine rotation, and LE position.
+Two AIC tracts (L and R). Attachments from costal cartilage/bone of ribs 7-12 to lateral patella, fibular head, lateral tibial condyle. Core members: **diaphragm + psoas**, with iliacus, TFL, biceps femoris, vastus lateralis. Influence respiration, trunk/ribcage/spine rotation, and LE position.
 
 Suboptimal AIC mechanics (manual AIC section):
 1. Diaphragm pulls dorsal (thoracic) spine up and forward  
@@ -54,7 +54,7 @@ Suboptimal AIC mechanics (manual AIC section):
 6. Ilium anterior + forward → femur oriented inward; psoas fails as femoral ER; VL and biceps femoris become antagonistic hip stabilizers
 
 **Brachial Chain (BC)**  
-Two BC tracts over anterior pleural/cervical area. Influence cervical rotation, shoulder dynamics, apical inspiratory expansion. Attach from costal cartilages/bone of ribs 4–7 and xiphoid to occipital bone, mandible, coracoid. Members: **triangularis sterni, SCM, scalenes, pec minor, intercostals, pharynx/anterior neck**.  
+Two BC tracts over anterior pleural/cervical area. Influence cervical rotation, shoulder dynamics, apical inspiratory expansion. Attach from costal cartilages/bone of ribs 4-7 and xiphoid to occipital bone, mandible, coracoid. Members: **triangularis sterni, SCM, scalenes, pec minor, intercostals, pharynx/anterior neck**.  
 - Right BC opposed by right PEC, lower trap, serratus, external rib rotators, **plus left internal obliques**  
 - Left BC opposed by left PEC, lower trap, serratus, external rib rotators, **plus right internal obliques**
 
@@ -62,7 +62,7 @@ Two BC tracts over anterior pleural/cervical area. Influence cervical rotation, 
 Posterior extensors / QL system that closes the posterior mediastinum and drives bilateral extension bias when both sides are "on."
 
 ### Zone of Apposition (ZOA) - central concept of this course
-ZOA = cylindrical portion of diaphragm apposed to inner aspect of lower rib cage (from costal insertion up to costophrenic angle where fibers leave the rib cage to form the free dome). In standing quiet breathing ≈ **¼–⅓ of total rib cage surface**; at rest overall ≈ **~30%**. Controlled by abdomen/obliques; directs diaphragmatic tension. Rib cage and abdomen are always mechanically coupled through ZOA.
+ZOA = cylindrical portion of diaphragm apposed to inner aspect of lower rib cage (from costal insertion up to costophrenic angle where fibers leave the rib cage to form the free dome). In standing quiet breathing ≈ **¼-⅓ of total rib cage surface**; at rest overall ≈ **~30%**. Controlled by abdomen/obliques; directs diaphragmatic tension. Rib cage and abdomen are always mechanically coupled through ZOA.
 
 - Elevated anterior, externally rotated ribs → **decreased ZOA** (uni- or bilateral) depending on pattern, abdominal weakness, and use  
 - Chronic hyperinflation changes diaphragm dimensions **exclusively in the ZOA** (manual cites)  
@@ -88,7 +88,7 @@ Mnemonic **DATES**: Descending aorta, Azygous/hemiazygous, Thoracic duct, Esopha
 Left hemi-pelvis anterior/forward; mass/orientation to the right; left ZOA lost; left anterior ribs elevated; airflow often easier into left upper chest with compensatory strategies. Compels Right BC above the diaphragm to keep the person facing forward.
 
 ### Right BC
-Compensatory upper thorax/rib cage orientation (often described as thorax rotating back toward left above diaphragm for frontal-plane balance and right UE reach). Right low trap, triceps, serratus lose normal scapular retraction / spinal stabilization / rib IR–ER roles because of right-handed activity + left upper trunk rotation.
+Compensatory upper thorax/rib cage orientation (often described as thorax rotating back toward left above diaphragm for frontal-plane balance and right UE reach). Right low trap, triceps, serratus lose normal scapular retraction / spinal stabilization / rib IR-ER roles because of right-handed activity + left upper trunk rotation.
 
 Manual Right BC upright scapular pattern cues (visual): forward rib cage with possible rib hump; humeral IR in the patterned position can drive **posterior-superior humeral glenoid impingement** (link to Impingement & Instability).
 
@@ -131,7 +131,7 @@ Composite tables in the manual treat these as the typical coupled system. Cervic
 **PEC opposition:** abdominal obliques.
 
 ### Adduction Drop Test (procedure + meaning)
-Sidelying, bottom hip/knee flexed ~90°. Passively flex–abduct–extend top hip to neutral keeping ~90° knee flexion; stabilize pelvis so it does not fall back / allow femoral IR. Top innominate directly over bottom (too cephalad → false +; too caudal → false −).  
+Sidelying, bottom hip/knee flexed ~90°. Passively flex-abduct-extend top hip to neutral keeping ~90° knee flexion; stabilize pelvis so it does not fall back / allow femoral IR. Top innominate directly over bottom (too cephalad → false +; too caudal → false −).  
 **Positive:** femur will not adduct (restriction from anterior-inferior acetabular labral rim, transverse ligament, piriformis, or posterior-inferior femoral neck on posterior-inferior acetabular rim) - often secondary to anteriorly rotated, forward hemipelvis. **Usually left in Left AIC.**
 
 ### Standing reach / active ZOA screen
@@ -164,9 +164,9 @@ Track as positive/negative:
 | B PEC | L IO/TA, R external obliques | B paravertebrals, R QL |
 
 ### Cross-course composite (know what other courses own)
-**Myokinematic (L AIC / AF–FA):** facilitate L AF hamstrings, L AF IC adductor, R AF glute max, L FA ant glute med/min, R FA post glute med/min, L IO/TA; inhibit L TFL, R FA adductor magnus, L psoas, L FA piriformis, R AF piriformis, R VL.
+**Myokinematic (L AIC / AF-FA):** facilitate L AF hamstrings, L AF IC adductor, R AF glute max, L FA ant glute med/min, R FA post glute med/min, L IO/TA; inhibit L TFL, R FA adductor magnus, L psoas, L FA piriformis, R AF piriformis, R VL.
 
-**Pelvis (inlet/outlet language):** facilitate pelvic inlet (L proximal iliacus, R sartorius, R rectus femoris, L IO/TA) and outlet (L proximal obturator, L iliococcygeus, L puborectalis/pubococcygeus, R glute max, R piriformis, R coccygeus); inhibit inlet (R thoracic hemi-diaphragm, R IO/EO, L paravertebrals) and outlet (R adductor magnus, R hamstrings, L piriformis, L coccygeus, L glute max) - per Left AIC–related table.
+**Pelvis (inlet/outlet language):** facilitate pelvic inlet (L proximal iliacus, R sartorius, R rectus femoris, L IO/TA) and outlet (L proximal obturator, L iliococcygeus, L puborectalis/pubococcygeus, R glute max, R piriformis, R coccygeus); inhibit inlet (R thoracic hemi-diaphragm, R IO/EO, L paravertebrals) and outlet (R adductor magnus, R hamstrings, L piriformis, L coccygeus, L glute max) - per Left AIC-related table.
 
 ---
 

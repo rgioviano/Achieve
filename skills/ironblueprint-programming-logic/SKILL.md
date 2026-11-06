@@ -56,7 +56,7 @@ If sport is overhead (or Ryne says so):
 ## 6. Taper decisions
 If season is TAPER (or Ryne names a taper):
 - Prefer undulating / low-stress structure - no new exercise learning block, no intensification block.
-- Cut weekly volume to **~40–60%** of the last normal baseline week.
+- Cut weekly volume to **~40-60%** of the last normal baseline week.
 - Keep intensities reasonable (engine caps near ~95% 1RM); no surprise maxing.
 - Last hard S&C well before the meet (coach judgment; engine emphasizes volume cut + model bans).
 

@@ -19,7 +19,7 @@ description: >-
 4. **Required filter:** At the top of the list, ensure the dropdown is set to **My Exercises** (not All Exercises / stock TrainHeroic). Ryne rule: always My Exercises only - never include stock TrainHeroic exercises in any export or list.
 5. Confirm the list is team customs:
    - Heading shows **My Exercises**
-   - Pagination like `1–100 of N` (demo had ~1668; use live count)
+   - Pagination like `1-100 of N` (demo had ~1668; use live count)
    - Columns typically: checkbox, thumbnail, Title, Type, Video, Points of Performance, Suggested Swaps, Tags, Created By
    - Created By shows Achieve team (e.g. Ryne Gioviano / The Achieve T…)
 6. Rows per page can be 100. Paginate through all pages when exporting the full library.

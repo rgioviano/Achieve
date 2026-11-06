@@ -10,7 +10,7 @@ description: >-
 
 **Sources (synthesized into one skill):**
 - Typed notes (clean cues): `.../memory/reference/pri-nm-techniques-workshop-typed-notes.txt` - Feb 2023 workshop notes  
-- Complete manual (structure/hierarchies): `.../memory/reference/pri-primary-nm-techniques-workshop-manual.txt` - *PRImary Non-Manual Techniques Workshop* complete manual Feb 2023 (© 2018–2023 PRI)
+- Complete manual (structure/hierarchies): `.../memory/reference/pri-primary-nm-techniques-workshop-manual.txt` - *PRImary Non-Manual Techniques Workshop* complete manual Feb 2023 (© 2018-2023 PRI)
 
 **Extraction quality:** Both PDFs yielded searchable text via `pdftotext` (no OCR required). Manual is image-heavy for technique photos (positional outline pages are mostly figure plates); use typed notes for coaching cues and manual for program organization / reference-center theory.
 
@@ -22,7 +22,7 @@ Cross-links: [PRI Myokinematic Restoration](sand-workflow:pri-myokinematic-resto
 
 ## 1. How PRI Non-Manual programs are organized
 
-Introductory courses each have Non-Manual CDs organized by **muscle, inhibition, and integration**, ordered by how you would isolate → inhibit → integrate. Integration program: 300+ techniques across nine positions; Integration symbol = thorax–pelvis via abdominals (**inhibit a pattern / facilitate a position** - not "strengthen abs").
+Introductory courses each have Non-Manual CDs organized by **muscle, inhibition, and integration**, ordered by how you would isolate → inhibit → integrate. Integration program: 300+ techniques across nine positions; Integration symbol = thorax-pelvis via abdominals (**inhibit a pattern / facilitate a position** - not "strengthen abs").
 
 **Reference centers (Integration):** left abdominals, left ischial seat, left heel, right arch.
 
@@ -58,12 +58,12 @@ Later positions in each muscle set demand **more isolation with more substitutio
 
 | Position | Best for |
 |---|---|
-| Supine | Bilateral sensory comparison; ANS outcomes (SLR); cranial–pelvis sagittal tilt; early facilitation |
+| Supine | Bilateral sensory comparison; ANS outcomes (SLR); cranial-pelvis sagittal tilt; early facilitation |
 | Sidelying | Best **non-dominant unilateral compensatory inhibition** |
 | All Four | Flexed appendage co-activation during thoraco-abdominal flexion; best respiratory position |
 | Short Seated | Best passive reposition |
 | Long Seated | Best desirable position to strive for and maintain |
-| Seated | Thoracic–pelvis rotation without thoracic–cervical hyperactivity |
+| Seated | Thoracic-pelvis rotation without thoracic-cervical hyperactivity |
 | Standing | Re-biasing alternating lateralized cortical / centering sense |
 | Prone | Inhibit L TFL via L FA IR |
 | Kneeling | L glute med isolation with hamstrings shortened |
@@ -109,7 +109,7 @@ Each card: **Reference / Referent(s)** → inhibit → who it's for → coaching
 
 ### Long Seated Press Down
 - **Ref:** R lat post upper chest (R LT/tricep) R>L; L post heel L>R. **Referent:** L IO/TA L>R.  
-- **Inhibit:** Hip and neck flexors via hamstring–tricep cross-reference.  
+- **Inhibit:** Hip and neck flexors via hamstring-tricep cross-reference.  
 - **For:** protracted shoulders + deep lumbar curve; periscapular weakness; bicipital tendinitis; sitters who overwork rectus + anterior chest/neck.  
 - **Cues:** Awareness of 90° SLR with neutral thoracic orientation; balance mid/lower trap, SA, rhomboids, subscap with tricep; enhances subscap/SA with abs + dorsiflexion.
 
@@ -136,7 +136,7 @@ Each card: **Reference / Referent(s)** → inhibit → who it's for → coaching
 - **Ref:** L IO/TA, L heel. **Referent:** R LT/triceps.  
 - **Inhibit:** R calcaneus; R ischial seat; L canines / R molars; L post hip; L LT/triceps (+ R bicep/pec); R ant AF capsule; R IO/TA.  
 - **For:** vestibular leftward figure-8 difficulty; Superior T4; L hemidiaphragm weakness/SOB; clenchers; post MMOO/MOOO orthotic.  
-- **Cues:** Pillow under pelvis aligns pelvis–cranial bowls; wall anchors feet for torso–pelvis–cranium axis.
+- **Cues:** Pillow under pelvis aligns pelvis-cranial bowls; wall anchors feet for torso-pelvis-cranium axis.
 
 ### Seated Resisted Reciprocal Pull Downs
 - Keep upper trunk turned right. A emphasize inhale; B emphasize exhale.  
@@ -166,7 +166,7 @@ Each card: **Reference / Referent(s)** → inhibit → who it's for → coaching
 
 ### Modified Two Point Gait with Left AF IR
 - Poles slow pelvis timing vs scapular alternation; R pole lever with R triceps → R LT + pelvic floor for L AF IR cognition.  
-- **Inhibit:** ipsilateral UE–LE ambulatory pattern (R UE with R LE / L with L).  
+- **Inhibit:** ipsilateral UE-LE ambulatory pattern (R UE with R LE / L with L).  
 - **For:** ataxia; scissor gait.
 
 ### Standing Right Knee Flexion with Resisted Left Hamstring and Right Trunk Rotation
@@ -205,7 +205,7 @@ Always re-test course screens after a technique block.
 
 ## 7. Achieve programming translation
 
-- Warm-up: 1–2 repositioning techniques from the map (often 90-90 balloon or stair short seated balloon + one sidelying).  
+- Warm-up: 1-2 repositioning techniques from the map (often 90-90 balloon or stair short seated balloon + one sidelying).  
 - Tertiary: match folder to remaining test (R LT/tricep vs L serratus vs inhibition).  
 - Write **reference sense** in athlete cues ("left heel + left abs," "right arch," "left sit bone").  
 - Swimmers: bias Stair Short Seated Balloon / Wall Reach / All Four Belly Lift Reach / R apical sidelying + later R subscap only after BC neutrality language.  

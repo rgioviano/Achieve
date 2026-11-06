@@ -29,4 +29,4 @@ Standing assignment locked 2026-09-09 (timing floor locked same day). Sales draf
 - Downsell/keep patterns still apply if relevant (1x/week, pause) - see Mozi + cancel locks.
 
 ## Out of scope
-SCDD Instant Form first text and SCDD E1–E4 stay product locks. Do not rewrite those as Reactivate.
+SCDD Instant Form first text and SCDD E1-E4 stay product locks. Do not rewrite those as Reactivate.

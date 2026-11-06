@@ -32,7 +32,7 @@ PAILs/RAILs gain the range; end-range loading solidifies control. CARs help keep
 
 **Cue:** Inhale, trap air low abs, shallow breath. Stabilize everything else. Outer limit of the circle; expand each rep. Dense air (honey/molasses).
 
-**Rx:** 1 set × 2–3 reps per direction.
+**Rx:** 1 set × 2-3 reps per direction.
 
 **Movement pool:**
 - Spine: All Fours segmented cat/camel; tall kneeling T/L; standing T/L
@@ -49,8 +49,8 @@ PAILs/RAILs gain the range; end-range loading solidifies control. CARs help keep
 **Procedure (condensed):** Stretch position → active into stretch → passive hold → build irradiated isometric (PAILs) with low-ab brace → on relax, active RAILs deeper → hold new range → re-establish passive.
 
 **Achieve Rx (overrides course 2-min passive):**
-- Passive stretch **45–60s** (not 2 min)
-- **1 set of 3** progressive holds, **5–7s** each, for both progressive and regressive angles
+- Passive stretch **45-60s** (not 2 min)
+- **1 set of 3** progressive holds, **5-7s** each, for both progressive and regressive angles
 
 **Movement pool:**
 - Spine: All Fours flexion/extension PAILs/RAILs
@@ -72,7 +72,7 @@ PAILs/RAILs gain the range; end-range loading solidifies control. CARs help keep
 ### Passive Range Lift-Offs (PRLO)
 - Leave room near PROM - don't start at absolute end.
 - Progress closer to PROM while dropping reps; controlled eccentric failure, no cheat.  
-  `20°×12–15 → 10°×8–10 → 5°×6–8 → at PROM (sticky)×3–5`
+  `20°×12-15 → 10°×8-10 → 5°×6-8 → at PROM (sticky)×3-5`
 
 **Pool:** Seated 90/90 hip IR/ER; Sidelying hip ER; All Fours Swiss ball shoulder flex/habd; Swiss ball shoulder ER; Prone GH IR.
 
@@ -85,7 +85,7 @@ PAILs/RAILs gain the range; end-range loading solidifies control. CARs help keep
 ### End-Range Rotational Training (ERR)
 - Small circles (~tennis ball) at end range (hips / GH / scap / spine as listed).
 - Progress TUT and zone division:  
-  `10s ea (20s) → 15s (30s) → 20s (40s) → 25–30s ea (50–60s)`
+  `10s ea (20s) → 15s (30s) → 20s (40s) → 25-30s ea (50-60s)`
 
 **Pool:** Prone shoulder flex/habd ERR; Kneeling or full straight-arm plank scapular rotation ERR; Pike scapular rotation ERR; Tall kneeling spinal ERR w/ med ball.
 

@@ -7,7 +7,7 @@ description: >-
 ---
 # PRI shoulder pain prescription (overhead)
 
-**Source:** PRI *Advanced Integration* pp. 196–199 - *Overhead Shoulder Instability and Tendonitis*. Full cleaned text: `/home/box/agent-data/agents/e9d0fc7f-22cc-4b14-80a6-4b8361108e36/memory/reference/pri-shoulder-pain-prescription.txt`
+**Source:** PRI *Advanced Integration* pp. 196-199 - *Overhead Shoulder Instability and Tendonitis*. Full cleaned text: `/home/box/agent-data/agents/e9d0fc7f-22cc-4b14-80a6-4b8361108e36/memory/reference/pri-shoulder-pain-prescription.txt`
 
 **Cross-links:** [PRI Impingement and Instability](sand-workflow:pri-impingement-instability) (theory / positional impingement) · [PRI Right BC Treatment Guidelines](sand-workflow:pri-right-bc-treatment-guidelines) · [PRI Postural Respiration](sand-workflow:pri-postural-respiration) · [PRI Swimming An In-Depth Look](sand-workflow:pri-swimming-in-depth) · [Swim dryland programming](sand-workflow:swim-dryland-programming) (stroke context) · [PRI Non-Manual Techniques Workshop](sand-workflow:pri-non-manual-techniques-workshop)
 
@@ -19,7 +19,7 @@ This skill owns the **overhead athlete right bicipital tendonitis vs right impin
 
 **Most common overhead problems:** bicipital tendonitis · shoulder impingement
 
-**Most common reason:** COM does not shift adequately over the stance / contralateral leg as the **thorax abducts under the side** the shoulder is flexing into. Fix the patterned trunk–rib–scap problem; don’t only chase local cuff.
+**Most common reason:** COM does not shift adequately over the stance / contralateral leg as the **thorax abducts under the side** the shoulder is flexing into. Fix the patterned trunk-rib-scap problem; don’t only chase local cuff.
 
 Keep **Left IO/TA** in the game on every menu below.
 

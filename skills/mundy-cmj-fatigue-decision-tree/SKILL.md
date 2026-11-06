@@ -19,7 +19,7 @@ description: >-
 
 ## Multi-domain context (optional)
 
-Rebelo et al. (2026), *Monitoring training effects in athletes: a multidimensional framework for decision making* (Sports Med 56:1603–1624), as cited on the account: neuromuscular (plates) sits beside external load, internal load, autonomic/cardiovascular, biochemical/hormonal, and psychological/social/sleep. A CMJ dip alone is not a full readiness call when other domains disagree.
+Rebelo et al. (2026), *Monitoring training effects in athletes: a multidimensional framework for decision making* (Sports Med 56:1603-1624), as cited on the account: neuromuscular (plates) sits beside external load, internal load, autonomic/cardiovascular, biochemical/hormonal, and psychological/social/sleep. A CMJ dip alone is not a full readiness call when other domains disagree.
 
 ## How to use in a brief
 

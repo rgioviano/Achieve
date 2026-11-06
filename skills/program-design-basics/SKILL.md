@@ -2,7 +2,7 @@
 name: Program Design Basics
 description: >-
   Use this when writing or checking an Achieve session structure - order,
-  pairings, 1–4x/week layout, sets/reps defaults, deload, and cook-vs-chef house
+  pairings, 1-4x/week layout, sets/reps defaults, deload, and cook-vs-chef house
   rules from Ryne’s Program Design Basics.
 ---
 # Program Design Basics
@@ -70,17 +70,17 @@ Often D1/D2/D3 with core, or as a filler with a heavy lift (e.g. Trap Bar DL + C
 | D3 Prone 1-Arm Y On Table | D3 Sidelying 1-Arm DB ER |
 
 ## Weekly frequency
-- **1–3x/week:** full body every session (power → strength → core → tertiary).
+- **1-3x/week:** full body every session (power → strength → core → tertiary).
 - **4x/week:** upper/lower split (consecutive days need recovery).
 
 ## Structure counts
-- Breathing: 1–2. Warm-up / movement prep: 6–8 (eval-driven).
-- Athletes ~8–9 total training exercises; adults ~6–7. Mostly supersets/tri-sets. ~1 hour.
+- Breathing: 1-2. Warm-up / movement prep: 6-8 (eval-driven).
+- Athletes ~8-9 total training exercises; adults ~6-7. Mostly supersets/tri-sets. ~1 hour.
 
 ## Sets / reps (defaults)
-- Sets: **3** standard. Advanced sometimes 4–5 only when sport stress is low (off-season / early season / break). Taper: 1–2 main sets (~40–60% volume cut).
-- Reps: **8** standard. Accessories up to 12. Strength meso for intermediate/advanced: 3–6 after pattern is owned.
-- By slot: B1/B2 often 6–8 (adv strength 3–6); C1/C2 8–10 (sometimes 12); core D1/D2 time 20–45s or 10–15 reps; tertiary D3 10–12 (to 15).
+- Sets: **3** standard. Advanced sometimes 4-5 only when sport stress is low (off-season / early season / break). Taper: 1-2 main sets (~40-60% volume cut).
+- Reps: **8** standard. Accessories up to 12. Strength meso for intermediate/advanced: 3-6 after pattern is owned.
+- By slot: B1/B2 often 6-8 (adv strength 3-6); C1/C2 8-10 (sometimes 12); core D1/D2 time 20-45s or 10-15 reps; tertiary D3 10-12 (to 15).
 
 ## Deload & progression
 - Blocks 4+ weeks: last week deload - drop anything >3 sets down to 3; keep intensity.
@@ -88,7 +88,7 @@ Often D1/D2/D3 with core, or as a filler with a heavy lift (e.g. Trap Bar DL + C
 - Start conservative. Assessment, training age, injuries, sport, and season override defaults.
 
 ## Logistics
-Start on younger athletes (11–14) and master this format before nuanced cases. Check eval results. Collaborate with other coaches.
+Start on younger athletes (11-14) and master this format before nuanced cases. Check eval results. Collaborate with other coaches.
 
 ## Related skills
 - [Athlete program design guidelines](sand-workflow:athlete-program-design-guidelines)

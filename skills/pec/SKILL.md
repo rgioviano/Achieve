@@ -72,7 +72,7 @@ Squat breathing, if a squat is already allowed, follows Thomsen, not the Fitness
 
 ## PEC positional guidelines (gym cues)
 
-From Fitness & Movement 2018 pp.290–292 (also 2020 appendix ~pp.105–107). Floor-usable position cues for PEC athletes; not manual techniques.
+From Fitness & Movement 2018 pp.290-292 (also 2020 appendix ~pp.105-107). Floor-usable position cues for PEC athletes; not manual techniques.
 
 - **Supine:** fully exhale to flex the T8 midzone via rib IR; close the infrasternal angle; reach both arms to the ceiling (left inhale, right exhale); inhibit pecs and anterior neck. Ball between the knees for adductors - watch do not overuse the right adductor.
 - **Sitting:** keep the sternum facing forward (not upward); feel the back of the ribs rest against the chair.

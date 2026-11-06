@@ -10,7 +10,7 @@ description: >-
 Full notes: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/strength-conditioning-programming-for-swimmers.txt`
 
 **Separate skills (do not merge):**
-- [PRI Swimming An In-Depth Look](sand-workflow:pri-swimming-in-depth) - PRI pathomechanics / PEC–AIC–BC
+- [PRI Swimming An In-Depth Look](sand-workflow:pri-swimming-in-depth) - PRI pathomechanics / PEC-AIC-BC
 - [PRI shoulder pain prescription](sand-workflow:pri-shoulder-pain-prescription) - Advanced Integration bicipital vs impingement technique menus
 - [Swim turn and start ISO angles](sand-workflow:swim-turn-and-start-iso-angles) - pool-transfer isometric angles
 - [FRC progressions and prescriptions](sand-workflow:frc-progressions-and-prescriptions) - CARs / PAILs / swimmer hovers / ERR
@@ -29,7 +29,7 @@ This skill owns **stroke-specific dryland bias, starts/turns/UW, scapular rules,
      - Wall supported reach → band-resisted wall reach → squatting bar reach → squatting bar reverse reach
    - UT / neck inhibition: rib-cage IR, SCM balance
 
-2. **Streamline triad** (fly, breast, sprint free, UW): full **shoulder flexion + hip extension + plantar flexion**. Normal PF ROM **40–50°**. Much "toe point" = **midfoot flexion**.
+2. **Streamline triad** (fly, breast, sprint free, UW): full **shoulder flexion + hip extension + plantar flexion**. Normal PF ROM **40-50°**. Much "toe point" = **midfoot flexion**.
 
 3. **Catch pain** = over-active lat + under-active subscap. Impingement theme: better **R triceps + L ZOA**, lat inhibition, rib expansion, **R HG IR** (R scap retraction).
 
@@ -99,9 +99,9 @@ This skill owns **stroke-specific dryland bias, starts/turns/UW, scapular rules,
 
 ## Turns
 
-- Push-off knee **110–120°** (SSC): mid-pause squats, paused box jumps, heavy partials in that range, hurdle / depth jumps, bands/chains
+- Push-off knee **110-120°** (SSC): mid-pause squats, paused box jumps, heavy partials in that range, hurdle / depth jumps, bands/chains
 - Compact flip = spinal flexion (same PEC/toe-touch theme as starts)
-- Season: full-depth early → bias **½ squat / 110–120°** closer to championship meets
+- Season: full-depth early → bias **½ squat / 110-120°** closer to championship meets
 
 ## Underwater / kick
 
@@ -145,6 +145,6 @@ Use as **screens**, not automatic auto-gates - individualize to training age and
 
 1. Stroke / event + season → volume bias + in-season constraints  
 2. Pain? → shoulder menu / PADT (breast) / extension posture before loading more pull  
-3. Starts/turns/UW priorities this block? → horizontal/split power + 110–120° + PF/first ray  
+3. Starts/turns/UW priorities this block? → horizontal/split power + 110-120° + PF/first ray  
 4. Always include squat-and-reach + 2 core; add rolling/rotation for free/back  
 5. Pair FRC swimmer hovers / HA when end-range ownership is the limiter; pair PRI breathing when ZOA / roll / neck is the limiter

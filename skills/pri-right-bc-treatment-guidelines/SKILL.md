@@ -9,7 +9,7 @@ description: >-
 # PRI Right BC Treatment Guidelines (handout skill)
 
 **Primary source:** `/home/box/agent-data/shared/sc-reference/pri-right-bc-treatment-guidelines.txt`  
-*(Postural Respiration handout p.47 - Right BC PRI Treatment Guidelines, © 2000–2013 PRI)*  
+*(Postural Respiration handout p.47 - Right BC PRI Treatment Guidelines, © 2000-2013 PRI)*  
 **Companion overview (fuller decision tree with I&I / R serratus / R subscap branches):** `.../pri-right-bc-treatment-guidelines-overview-appendix.txt` (from Postural Respiration appendix) and the full course extract `pri-postural-respiration.txt`.
 
 This skill is the **operational decision tree** for Right BC after ZOA work. Prefer non-manual techniques in Achieve S&C. Manual Superior T4 / Subclavius / Infraclavicular / Sibson / Intercostal paths are listed so you understand **clinician** pathways - do not improvise them in the gym.
@@ -56,7 +56,7 @@ Achieve equivalents often used in warm-up: 90-90 balloon family, wall-supported 
 → **Right Low Trap & Right Tricep Program** (primary neuromotor next step when thorax/BC tests clear).
 
 ### Branch B - All or some tests remain + after ZOA NM
-→ **Clinician path:** Left AIC and Sternal – With Active Pelvic Tilt **manual** techniques.  
+→ **Clinician path:** Left AIC and Sternal - With Active Pelvic Tilt **manual** techniques.  
 → If still +: **Right Superior T4 Manual Technique**.  
 → Then recheck:
 

@@ -1,7 +1,7 @@
 ---
 name: PRI Pelvis Restoration
 description: >-
-  Use this when programming or discussing pubo-sacral / pelvic inlet–outlet PRI
+  Use this when programming or discussing pubo-sacral / pelvic inlet-outlet PRI
   - Left AIC vs PEC vs Patho PEC pelvis patterns, ADT/PADT/PART/Hruska tests,
   ilio-sacral instability hierarchy, pelvic diaphragm goals, or when Pelvis
   Restoration is the correct course vs Myokinematic or Postural Respiration.
@@ -9,7 +9,7 @@ description: >-
 # PRI Pelvis Restoration (course skill)
 
 **Source (full text):** `/home/box/agent-data/shared/sc-reference/pri-pelvis-restoration.txt`  
-**Manual:** *Pelvis Restoration – An Integrated Approach to Treatment of Patterned Pubo-Sacral Pathomechanics* (PRI, © 2010–2024).  
+**Manual:** *Pelvis Restoration - An Integrated Approach to Treatment of Patterned Pubo-Sacral Pathomechanics* (PRI, © 2010-2024).  
 **Course family:** Introductory course alongside Myokinematic Restoration and Postural Respiration.
 
 Expert reference for Achieve programming and intelligent discussion. Not a license to diagnose or perform manual pelvic techniques.
@@ -224,7 +224,7 @@ Manual includes dedicated squat ascend/descend respiratory coaching in the pelvi
 - Do **not** treat PEC as "two Left AICs" without bilateral test logic and bilateral inlet/outlet goals.  
 - Do **not** miss Patho PEC: Standing Reach of **0"** with **+ PART** and **Functional Squat > 3/5** is not a win - it is a different bucket.  
 - Do **not** skip repositioning into hemi 90-90 neutrality before upright single-leg frontal-plane drills.  
-- Do **not** jump to reciprocal alternating activity before inlet/outlet facilitation–inhibition hierarchy and PADT resolution.  
+- Do **not** jump to reciprocal alternating activity before inlet/outlet facilitation-inhibition hierarchy and PADT resolution.  
 - Do **not** ignore IS instability hierarchy in Left AIC patients who keep losing neutrality.  
 - S&C should not improvise manual IP ER / IsP IR / pelvic floor techniques - keep non-manual menus.
 
