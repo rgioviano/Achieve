@@ -1,4 +1,4 @@
-# VALD Practitioner’s Guide to Program Design — Strength Coach Notes
+# VALD Practitioner’s Guide to Program Design - Strength Coach Notes
 
 **Audience:** Strength Coach (Achieve Sports Performance / Ryne Gioviano)  
 **Use:** Actionable rules when wrapping athlete programs (drafts only; Ryne writes TrainHeroic).  
@@ -72,7 +72,7 @@
 ### Default session order (ascending)
 - Put explosive/plyometric work **early**, before fatigue accumulates; maximal intent + minimal fatigue → better neuromuscular performance.
 - Default sequence: high-velocity explosive work → heavier compound strength → accessories later for volume/hypertrophy targets.
-- **Exception — PAPE:** heavy conditioning activity before explosives to potentiate power. Often impractical in routine sessions because of long recovery between conditioning and explosives.
+- **Exception - PAPE:** heavy conditioning activity before explosives to potentiate power. Often impractical in routine sessions because of long recovery between conditioning and explosives.
 
 ### Simple vs advanced power programs (context from guide)
 - **In-season / developing:** simple mix (squats, sprints, jumps, isometrics) can maintain/improve power depending on sport and training history.
@@ -130,7 +130,7 @@ Nearly all can improve performance if dosed well; dosage is the hard part.
 
 ### Continuum of variation
 - **Non-varied:** same exercises/parameters/objectives; overload as athlete adapts. Sessions → weeks → program.
-- Models (linear, undulating, phase) are points on a continuum of how much emphasis/intensity/volume varies over time—not totally different sciences.
+- Models (linear, undulating, phase) are points on a continuum of how much emphasis/intensity/volume varies over time-not totally different sciences.
 - Session-to-session differences across models are small; organization of volume/intensity/emphasis over time is what differs.
 
 ### High–low model (in-season friendly)
@@ -162,7 +162,7 @@ Nearly all can improve performance if dosed well; dosage is the hard part.
 - Resistance progression typically: intensity first, then strategic volume as adaptation shows.
 - VBT can progress via load, velocity, or both (same load, faster velocity = adaptation even if bar weight unchanged).
 - When meaningful adaptation stalls under any model: temporary workload reduction / deload is appropriate.
-- If monitoring causes **frequent** priority flips, the overall workload or structure—not the athlete—is likely wrong.
+- If monitoring causes **frequent** priority flips, the overall workload or structure-not the athlete-is likely wrong.
 
 ### Low-tech autoregulation (when plates/VBT unavailable)
 - **2-for-2 rule:** if athlete does ≥2 extra reps above target on the final set in **two consecutive sessions**, increase load.
@@ -294,22 +294,22 @@ Immediate feedback optimizes the session; long-term trends decide progression/re
 
 ---
 
-## Quick wrap checklist (Strength Coach — Achieve programs)
+## Quick wrap checklist (Strength Coach - Achieve programs)
 
 Use when wrapping athlete programs (draft recommendations for Ryne / TrainHeroic):
 
 1. **Needs locked?** Sport demands → bottlenecks → 2–4 KPIs with test methods and norms.
 2. **Phase intent clear?** One primary quality (or small set) for 2–8 weeks; know what “done” looks like on tests.
 3. **Session order set?** Explosives early → compounds → accessories (unless deliberate PAPE with recovery time).
-4. **One progression lever?** Intensity *or* volume *or* frequency *or* one constraint this microcycle—not all four.
+4. **One progression lever?** Intensity *or* volume *or* frequency *or* one constraint this microcycle-not all four.
 5. **Dose sane?** Trained strength: >80% 1RM, 2–4 × 2–5, 2–3×/wk as a MED starting point; respect 12–72 h fatigue.
 6. **Power/reactive covered if needed?** Combine HSR + plyos when jump/power is a goal; match slow vs fast SSC to contact-time demands; use VBT zones/loss if available.
 7. **In-season shape?** High–low stacking or microdosing if calendar is tight; keep simple menus for developing athletes.
-8. **Load + response pair?** External work planned *and* a readiness/response check (CMJ metrics, velocity at fixed load, wellness)—with alt prescriptions if clearly down.
-9. **Individualization path?** Shared framework → group → profile-based mods (strength- vs power-limited, asymmetry, tissue deficits)—not 30 unique philosophies.
+8. **Load + response pair?** External work planned *and* a readiness/response check (CMJ metrics, velocity at fixed load, wellness)-with alt prescriptions if clearly down.
+9. **Individualization path?** Shared framework → group → profile-based mods (strength- vs power-limited, asymmetry, tissue deficits)-not 30 unique philosophies.
 10. **Hard stops reviewed?** No novelty chasing, no monotony stacks, no metric soup, no fatigued “baselines,” no HSR drowning sprint work when speed is the KPI.
 11. **Youth/HS special?** Controllable KPIs (speed, availability, force) over size miracles; track attendance/completion as part of the program.
-12. **Close the loop:** After the block, did the chosen KPIs move for the reasons you intended? If not, change stimulus or dose—not just the exercise name.
+12. **Close the loop:** After the block, did the chosen KPIs move for the reasons you intended? If not, change stimulus or dose-not just the exercise name.
 
 ---
 

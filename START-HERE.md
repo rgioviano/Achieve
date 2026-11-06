@@ -27,7 +27,7 @@ Read this page first. It tells you what is in this repo and which one file answe
 | `07-operations/` | Hours, booking, cancellation, email and calendar rules |
 | `09-team-bots/` | Which bots work Achieve and what each owns |
 | `10-decisions-log/` | Business decisions, dated, newest first |
-| `bots/<name>/` | Each Achieve bot: `INSTRUCTIONS.md` plus its memory, reference and routine files (secrets removed). Each bot also has `ROUTINES.md`. Bots: red (formerly atlas), canvas, coach, darwin, eval-brief, hawkin, lark, max, maya, metric, nova, pri, programming (room), quill, rank (formerly seo-aeo-auditor), tally, th-exercise-library |
+| `bots/<name>/` | Each Achieve bot: `INSTRUCTIONS.md` plus its memory, reference and routine files (secrets removed). Each bot also has `ROUTINES.md`. Bots: red (formerly atlas), canvas, coach, darwin, eval-brief, hawkin, lark, max, maya, metric, nova, pri, quill, rank (formerly seo-aeo-auditor), tally, th-exercise-library |
 | `skills/<slug>/SKILL.md` | 99 skills copied from Ryne's Grok Bot skill library (index in README.md) |
 
 There is no `08-` folder on purpose: finances are excluded (see rules).

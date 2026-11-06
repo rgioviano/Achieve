@@ -1,7 +1,7 @@
-# Standing skill roster (global — already available; open by context)
+# Standing skill roster (global - already available; open by context)
 - ironblueprint-programming-logic, ryne-programming-style, program-design-basics
 - athlete-program-design-guidelines, adult-program-design-guidelines, athlete-phase-focus-breakdown, guide-to-tapering, s-c-prescriptions-by-1rm
-- achieve-program-design-docs (index), achieve-program-progression, review-last-program-th (when Ryne pastes/opens last block — no TH scrape)
+- achieve-program-design-docs (index), achieve-program-progression, review-last-program-th (when Ryne pastes/opens last block - no TH scrape)
 - exercise-progressions-and-selections + all category *-progressions (bilateral/unilateral push/pull/knee/hip, elbow, knee-flexion, rotator-cuff, scapular)
 - isometrics-programming-guide, swim-turn-and-start-iso-angles, frc-progressions-and-prescriptions
 - cmj-force-time-curve-shape-classification, hawkin-first-athlete-programming-report
