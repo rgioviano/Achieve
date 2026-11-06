@@ -1,0 +1,6 @@
+bots/darwin/export/grok-bot-export-darwin.json
+bots/pri/export/grok-bot-export-pri.json
+bots/th-exercise-library/export/grok-bot-export-th-exercise-library.json
+exports/2026-11-06/wave3/COMPLETENESS.md
+exports/2026-11-06/wave3/INCLUDED.txt
+exports/2026-11-06/wave3/SHA256SUMS.txt

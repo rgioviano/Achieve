@@ -1,0 +1,9 @@
+f34e5d6ced3a457fe9ad6c0f836805b28b81ea6ef53ebabbeaf8bd14ea54f38b  bots/hawkin/export/grok-bot-export-hawkin.json
+a78f05b9e9ce634075b8324a499958edf820d99d47575c743bfb8831a8e0bb05  bots/lark/export/grok-bot-export-lark.json
+22d2a85370662373c9b9fd64ba9259b1a2d2bea47771dd4ddd30bad54ada911e  bots/max/export/grok-bot-export-max.json
+4d55bc2321158968e33c5b0826ec180b811a50296f75490fd40799e37f0e20c7  bots/maya/export/grok-bot-export-maya.json
+36d7bf8d2a5f074e768622cca68161b86af6020f2762c55fd4d682034176cd03  bots/quill/export/grok-bot-export-quill.json
+4b9279f80f28d9f777964301a36e48528acee079f9c3597f1df70e541b9c0893  bots/rank/export/grok-bot-export-rank.json
+495d008ca18f41d9564e4655fe00c8aa6a4e4ec75f277a518913ff70d281232e  bots/red/export/grok-bot-export-red.json
+14b17319c5b3fe532c1d7dc817fde4e20039dac39a080e2df61c4292299c5091  exports/2026-11-06/wave2/COMPLETENESS.md
+a61b84f4cc6a7c1410777b56a477af4fb2e47be0782484258a9d1bbbe4c92877  exports/2026-11-06/wave2/INCLUDED.txt
