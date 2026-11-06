@@ -25,7 +25,7 @@ Cited via Conor Harris:
 
 | | **Narrow** | **Wide** |
 |---|---|---|
-| Typical bias | External rotation; feet more **supination**; more A–P space, less frontal | Internal rotation / compression; feet more **pronation**; more frontal space, less A–P |
+| Typical bias | External rotation; feet more **supination**; more A-P space, less frontal | Internal rotation / compression; feet more **pronation**; more frontal space, less A-P |
 | Stance preference | Staggered / **split**; avoid grinding bilateral IR | **Bilateral**; less space for split |
 | Movement strategy | **Elastic** - muscle more isometric; tendons stretch/recoil (“free energy”) | **Muscular** - classic ecc→con; high force, slower / costlier |
 | Sport fit (examples) | Guards, springy skill - short GCT | Linemen / “force over time” tasks |
@@ -94,7 +94,7 @@ Speed: still progress max velocity + repeat sprint (e.g. 10×10 Hansen) **regard
 ### Wide / muscular - superpower
 - Return to **higher intensity bilateral** lower + upper
 - Faster movements: allow more time to produce force; load **slightly heavier** than Narrow superpower group
-- “Peak” feel: 1–3RM near season OK for this archetype (physio + psych)
+- “Peak” feel: 1-3RM near season OK for this archetype (physio + psych)
 - Still build plyo volume for sport resiliency even if not their native love
 
 **Plate targets:** ↑ JH, ↓ TTT, **deeper** CM (ideally: fast load + hard brake so TTT still improves with more depth). Curve: bimodal secondary → primary, or primary → unimodal as elastic qualities catch up. Four-jump RSI ↑ mainly via **↑ JH**, GCT steady or slightly better.

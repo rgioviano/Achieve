@@ -43,7 +43,7 @@ Only use the browser steps below if he says to pull it yourself.
    - Months checked
    - Latest week labels (e.g. Week 4 Day 1, Week 4 Day 4)
    - Exercises with sets/reps/loads when visible
-   - Prep/breathing to carry (e.g. Left AIC/Right BC, SMR – Swimming)
+   - Prep/breathing to carry (e.g. Left AIC/Right BC, SMR - Swimming)
    - Primaries to keep vs rotate next block
 
 6. **Then** Hawkin (athletes) and program design. If the calendar is empty, say so - don’t invent a prior block.

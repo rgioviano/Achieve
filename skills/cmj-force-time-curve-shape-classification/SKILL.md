@@ -3,20 +3,12 @@ name: CMJ force-time curve shape classification
 description: >-
   Use when classifying a CMJ propulsive-phase force-time curve shape from raw
   Hawkin data, or when giving plate-driven training direction from that shape.
-  Sources: Achieve CMJ guide + Kahook/Cressey CMJ Parts 1–2 (phases; graph shape
-  is king).
----
----
-name: CMJ force-time curve shape classification
-description: >-
-  Use when classifying a CMJ propulsive-phase force-time curve shape from raw
-  Hawkin data, or when giving plate-driven training direction from that shape.
-  Sources: Achieve CMJ guide + Kahook/Cressey CMJ Parts 1–2 (phases; graph shape
+  Sources: Achieve CMJ guide + Kahook/Cressey CMJ Parts 1-2 (phases; graph shape
   is king).
 ---
 # CMJ Force-Time Curve Classification Guide
 
-**Sources:** Ryne Gioviano / Achieve CMJ Force-Time Curve Classification Guide; Yassir Kahook via Eric Cressey - [Breaking Down the CMJ Part 1](https://ericcressey.com/force-plate-countermovement-jump-1/) (phases) and [Part 2](https://ericcressey.com/breaking-down-the-countermovement-jump-part-2/) (graph shape is king). Use for every plate-driven prescription when a CMJ shape is available. Do not invent a shape; classify from raw Hawkin force-time (session-best). Hand full programs to Strength Coach - this guide informs the plate note and exercise direction only.
+**Sources:** Ryne Gioviano / Achieve CMJ Force-Time Curve Classification Guide; Yassir Kahook via Eric Cressey - [Breaking Down the CMJ Part 1](https://ericcressey.com/force-plate-countermovement-jump-1/) (phases) and [Part 2](https://ericcressey.com/breaking-down-the-countermovement-jump-part-2/) (graph shape is king). Use for every plate-driven prescription when a CMJ shape is available. Do not invent a shape; classify from raw Hawkin force-time (session-best). Hand full programs to Coach - this guide informs the plate note and exercise direction only.
 
 ## Programming rule (Kahook / Cressey Part 2)
 
@@ -34,9 +26,9 @@ Plain rules:
 - Match **isometric position to where force hangs** on the curve. Early Peak Plateau / early bimodal hang at the **braking → propulsion** change → use a **quarter-squat Split Squat ISO Push** (overcoming/ballistic). Do **not** default to mid-thigh if the hang is lower.
 - Same jump height does not mean the same program - shape decides the emphasis.
 
-Paige example (locked): brake 122 ms + Early Peak Plateau → no long-ecc squat; Day 1 power iso = Split Squat ISO Push at ~quarter-squat, not mid-thigh.
+Early Peak Plateau example (locked): brake 122 ms + Early Peak Plateau → no long-ecc squat; Day 1 power iso = Split Squat ISO Push at ~quarter-squat, not mid-thigh.
 
-Annabelle example (locked 2026-09-11): brake 170 ms looked “fine” on time, but Late Peak Bimodal + EUR ~1.0 = stop is *not* fine. Train the catch (yielding hold / drop-and-stick) plus faster drop. Do not skip braking work.
+Late Peak Bimodal example (locked 2026-09-11): brake 170 ms looked “fine” on time, but Late Peak Bimodal + EUR ~1.0 = stop is *not* fine. Train the catch (yielding hold / drop-and-stick) plus faster drop. Do not skip braking work.
 
 ## Six phases (Kahook / Cressey Part 1)
 
@@ -47,7 +39,7 @@ Annabelle example (locked 2026-09-11): brake 170 ms looked “fine” on time, b
 5. **Flight** - force ≈ 0 N (air time).
 6. **Landing** - positive force returns.
 
-Achieve phase labels used elsewhere (unweight / brake / propulsive) map to 2–4 above.
+Achieve phase labels used elsewhere (unweight / brake / propulsive) map to 2-4 above.
 
 **Protocol notes (Part 1):** Prefer **hands-on-hips** for standardized lower-body isolation (arm swing adds a second propulsive peak and longer movement time). Cue consistently: *“jump as high as you can, as fast as you can”* - intent for height + speed, not a slow squat-jump.
 
@@ -57,7 +49,7 @@ Phases: weighing → unweighting (force < BW) → braking (force > BW while desc
 
 Classify on the **smoothed** force trace of the **propulsive** phase (and the braking→propulsion transition for early peaks), as % through propulsion. Require a real trough between peaks before calling bimodal. Peak timing windows:
 
-- **Early peak:** dominant peak in first ~25–35% of propulsion (often at the braking→propulsion transition)
+- **Early peak:** dominant peak in first ~25-35% of propulsion (often at the braking→propulsion transition)
 - **Late peak:** dominant peak in final ~40% / later half of propulsion
 - **Plateau:** force sustains near peak (>~90%) across a large share of early/mid propulsion rather than a clean peak-and-decline; or a long stretch around peak with no single definitive spike (**Plateau** archetype)
 
@@ -74,11 +66,11 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 **Exercises:**
 - Strength: pin/rack → concentric-focused work
 - Band-assisted plyometrics for propulsive velocity
-- Depth jumps 30–40 cm, GCT <250 ms
-- Weighted jump squats 30–45% 1RM, max velocity
+- Depth jumps 30-40 cm, GCT <250 ms
+- Weighted jump squats 30-45% 1RM, max velocity
 - Reactive strength circuits, multi-planar, adequate rest
 
-**Params:** 80–120 contacts/session; strength 3–4×3–5 @ 85–95% 1RM; VBT 0.5–0.75 → 0.9+ m/s mean; maintain propulsive/braking impulse ratio; +2–5% load every 2–3 wk; full recovery between sessions.
+**Params:** 80-120 contacts/session; strength 3-4×3-5 @ 85-95% 1RM; VBT 0.5-0.75 → 0.9+ m/s mean; maintain propulsive/braking impulse ratio; +2-5% load every 2-3 wk; full recovery between sessions.
 
 ---
 
@@ -92,10 +84,10 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 - Eccentric + concentric strength for braking RFD
 - Drop catch, loaded altitude landings
 - Progressive plyos (lower intensity first)
-- Depth jumps start 20–30 cm, progress
-- Ballistic 40–60% 1RM, velocity focus
+- Depth jumps start 20-30 cm, progress
+- Ballistic 40-60% 1RM, velocity focus
 
-**Params:** 60–100 contacts → 120–180; strength 3–4×4–6 @ 75–85% 1RM; VBT 0.5 → 0.9+ m/s; improve unweighting impulse; +5–10 cm drop height every 2–3 wk as technique allows.
+**Params:** 60-100 contacts → 120-180; strength 3-4×4-6 @ 75-85% 1RM; VBT 0.5 → 0.9+ m/s; improve unweighting impulse; +5-10 cm drop height every 2-3 wk as technique allows.
 
 **Note:** If unweighting time is the limiter (slow fall; brake already fine), prefer faster drop cues / drop-squat jumps - not slow eccentrics or extra deep yielding isos (Achieve unweighting rule).
 
@@ -111,10 +103,10 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 - Ballistic isometrics - brief high-effort at peak-braking position
 - Unweighted / band-assisted plyos to cut transition lag
 - Rapid SSC, continuous force through the movement
-- Velocity-assisted (10–15% BW reduction)
+- Velocity-assisted (10-15% BW reduction)
 - Reactive progressions, minimal GCT
 
-**Params:** 100–150 contacts, quality first; strength 3–4×3–6 @ 80–90% 1RM with tempo for coordination; VBT 0.5–0.75 → 1.0+ m/s; +5–10% velocity every 2–3 wk as coordination improves.
+**Params:** 100-150 contacts, quality first; strength 3-4×3-6 @ 80-90% 1RM with tempo for coordination; VBT 0.5-0.75 → 1.0+ m/s; +5-10% velocity every 2-3 wk as coordination improves.
 
 ---
 
@@ -132,9 +124,9 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 - Assisted movement for coordination
 - Targeted strength for force-production gaps
 
-**Params:** 40–80 contacts, quality only; strength 3–4×4–6 @ 80–90% 1RM; VBT 0.5 → 0.75+ m/s; expect 12–20 weeks for meaningful pattern change.
+**Params:** 40-80 contacts, quality only; strength 3-4×4-6 @ 80-90% 1RM; VBT 0.5 → 0.75+ m/s; expect 12-20 weeks for meaningful pattern change.
 
-**Locked (Annabelle, 2026-09-11):** Do not call braking “fine” from a decent brake *time*. Late Peak Bimodal *is* a braking-quality problem. Pair faster drop (if unweight is slow) with a harder stop (yielding hold or drop-and-stick). Skip slow eccentric squats that teach lingering.
+**Locked (Late Peak Bimodal, 2026-09-11):** Do not call braking “fine” from a decent brake *time*. Late Peak Bimodal *is* a braking-quality problem. Pair faster drop (if unweight is slow) with a harder stop (yielding hold or drop-and-stick). Skip slow eccentric squats that teach lingering.
 
 ---
 
@@ -148,10 +140,10 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 - **First pick:** Split Squat ISO Push at ~quarter-squat (overcoming / ballistic) - matches the braking→propulsion hang
 - Not mid-thigh by default (that sits higher than this plateau)
 - Then: rapid initiation jumps / assisted SSC; cut transition lag
-- Ballistic 30–60% 1RM, max velocity
+- Ballistic 30-60% 1RM, max velocity
 - Awareness → loaded → unloaded plyo only if coordination is still messy
 
-**Params:** 80–120 contacts, max quality; strength 3–4×4–6 @ 75–85% 1RM with pauses; VBT 0.5 → 0.75+ m/s; 2–3 min rest between high-intensity efforts.
+**Params:** 80-120 contacts, max quality; strength 3-4×4-6 @ 75-85% 1RM with pauses; VBT 0.5 → 0.75+ m/s; 2-3 min rest between high-intensity efforts.
 
 ---
 
@@ -169,7 +161,7 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 - Basic plyos only (small jumps / simple hops) at first
 - Quality-focused resistance training
 
-**Params:** 20–60 contacts, quality only; strength 3–4×6–8 @ 70–80% 1RM, technique first; VBT 0.5 → 0.5–0.75 m/s; 16–24 weeks for fundamental change.
+**Params:** 20-60 contacts, quality only; strength 3-4×6-8 @ 70-80% 1RM, technique first; VBT 0.5 → 0.5-0.75 m/s; 16-24 weeks for fundamental change.
 
 ---
 
@@ -196,7 +188,7 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 - Basic strength for consistent reps
 - Bodyweight competency before load
 
-**Params:** 20–40 contacts, quality + consistency; strength 3–4×8–12 @ 60–75% 1RM; VBT 0.5 → 0.5–0.75 m/s; 12–20 weeks for basic consistency.
+**Params:** 20-40 contacts, quality + consistency; strength 3-4×8-12 @ 60-75% 1RM; VBT 0.5 → 0.5-0.75 m/s; 12-20 weeks for basic consistency.
 
 ---
 
@@ -205,7 +197,7 @@ Seven Kahook archetypes below (+ Achieve **Inconsistent** when trial-to-trial sh
 0. Apply **Check the jumps before picking exercises** (bans first, then picks).
 1. Classify the athlete’s latest **session-best** CMJ curve (or note if trials disagree → Inconsistent).
 2. Name the pattern exactly as above (prefer Kahook seven + Inconsistent).
-3. Plate note = pattern meaning + the 1–2 primary focuses that match their numbers (phase times, EUR, RFD, unweight/brake).
+3. Plate note = pattern meaning + the 1-2 primary focuses that match their numbers (phase times, EUR, RFD, unweight/brake).
 4. Exercise suggestions must come from that pattern’s list - not generic “swimmer” picks. Label off-plate gaps as off-plate.
 5. Cite actual Hawkin numbers; do not invent a curve shape Hawkin did not report.
-6. Do not write or assign full TrainHeroic programs unless Ryne asks; post direction in chat / Programming room.
+6. Do not write or assign full TrainHeroic programs unless Ryne asks; post direction in chat with Coach and Ryne.

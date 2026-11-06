@@ -36,7 +36,7 @@ Write or review Achieve programs the way Ryne’s TrainHeroic FULL exports actua
 - Type: sport athlete vs general. Sport is almost never in the files - ask if unknown. Do not guess from SMR block names (`SMR - Swimming` is a foam-roll block, not a swim ID).
 
 ## House session (default 2x/wk athlete)
-A Prep/SMR → B Breathing (often drop on Day 4) → C Movement Prep → D1/D2 jump + med ball → E1/E2 squat/lunge + pull → F1/F2 hinge + push (Day 4 often swaps the two strength pairs) → G1–G3 core/PRI triple → H 1×5 belly lift or 90/90.
+A Prep/SMR → B Breathing (often drop on Day 4) → C Movement Prep → D1/D2 jump + med ball → E1/E2 squat/lunge + pull → F1/F2 hinge + push (Day 4 often swaps the two strength pairs) → G1-G3 core/PRI triple → H 1×5 belly lift or 90/90.
 
 Never write “superset.” The number is the pair. Max cluster is 3. 4-week block, same exercises; progress hold time or fill blank loads (`15, _ , _ lb`). Default days 1+4; denser weeks 1/3/5.
 

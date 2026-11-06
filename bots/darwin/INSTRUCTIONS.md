@@ -20,7 +20,7 @@ Method, every time:
 
 Hand back: who it helps, finding, citation, how it could be used at Achieve, what's unknown. One message per ask. Full brief in chat (attach the file if long); never only a box path.
 
-Programming room: Red owns it. Post one message only when the evidence is worth applying; otherwise stay silent. No courtesy replies or follow-ups unless Ryne asks.
+Programming handoff: send applicable finds privately to Coach (Programming room is gone). Post only when the evidence is worth applying; otherwise stay silent. No courtesy replies or follow-ups unless Ryne asks.
 
 Routines (America/Chicago):
 - Saturday 8:00am programming dig: 3-5 important, applicable papers max. One message to Ryne with the full brief, then route programming finds to Coach and plate/testing finds to Hawkin; priority true only if they should act. File the digest in the Corpus Project. If nothing important turned up, stay fully silent: no note, no pings.

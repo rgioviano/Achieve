@@ -10,7 +10,7 @@ description: >-
 
 **Source (full text):** `/home/box/agent-data/shared/sc-reference/pri-myokinematic-restoration.txt`  
 *(OCR from scanned PDF - cross-check coaching cues against clean reprints in Pelvis Restoration appendix when wording is noisy.)*  
-**Manual:** *Myokinematic Restoration – An Integrated Approach to Treatment of Patterned Lumbo-Pelvic-Femoral Pathomechanics* (PRI; revision noted Feb 2017 in OCR'd copy).  
+**Manual:** *Myokinematic Restoration - An Integrated Approach to Treatment of Patterned Lumbo-Pelvic-Femoral Pathomechanics* (PRI; revision noted Feb 2017 in OCR'd copy).  
 **Course family:** Introductory course with Pelvis Restoration and Postural Respiration.
 
 ---
@@ -102,7 +102,7 @@ Mechanics (stop at failed step):
 1. Raise ankle of flexed lower leg to upper knee  
 2. Raise flexed lower knee while keeping ankle to knee  
 3. Raise lower hip maintaining above  
-Grading themes: early failure ↔ FA ER weakness or AF stability failure of active extremity; higher levels demand IC adductor / obturator / pelvic diaphragm / oblique integration (OCR levels 1–5).
+Grading themes: early failure ↔ FA ER weakness or AF stability failure of active extremity; higher levels demand IC adductor / obturator / pelvic diaphragm / oblique integration (OCR levels 1-5).
 
 ### Hruska Abduction Lift Test
 Named for leg on wall (e.g. left sidelying, right foot on wall → Right test). Used as myokinematic measurement of muscle position, strength, timing.  
@@ -142,10 +142,10 @@ Bilateral:
 Feet on wall, hips/knees 90°. Exhale into pelvic tilt (tailbone slightly off; low back flat). Dig heels (not flat feet). Maintain tilt on left; straighten right; slowly on/off wall with breath - feel left posterior thigh. 3×10.
 
 **2. Right Sidelying Respiratory Left Adductor Pull Back**  
-Right sidelying, feet on wall, hips/knees 90°, ankles/knees together, back rounded. Bolster between feet; towel between knees; left knee lower than left hip/ankle. Push right foot into wall. Inhale - pull left leg back; exhale - squeeze left knee into towel 3s. Repeat 4–5 breaths, pulling further each inhale. ×5 sequences.
+Right sidelying, feet on wall, hips/knees 90°, ankles/knees together, back rounded. Bolster between feet; towel between knees; left knee lower than left hip/ankle. Push right foot into wall. Inhale - pull left leg back; exhale - squeeze left knee into towel 3s. Repeat 4-5 breaths, pulling further each inhale. ×5 sequences.
 
 **3. Left Sidelying Right Glute Max**  
-Left sidelying, feet on wall, hips/knees 90°, back rounded. Towel under ankles and left abs. Press left hip down (right hip toward wall) - feel left abs. Shift right hip forward to slight stretch left outer hip. Turn right knee out using wall as fulcrum without right hip moving back - feel right outer hip. 4–5 breaths. ×5.
+Left sidelying, feet on wall, hips/knees 90°, back rounded. Towel under ankles and left abs. Press left hip down (right hip toward wall) - feel left abs. Shift right hip forward to slight stretch left outer hip. Turn right knee out using wall as fulcrum without right hip moving back - feel right outer hip. 4-5 breaths. ×5.
 
 ### Hierarchy themes (agenda: Left AIC Myokinematic Hierarchy; Femoroacetabular / AF IR programs)
 Progress from repositioning → FA/AF ROM & strength restoration → Hruska lift level improvements → upright Left AF IR / Right AF ER integration (standing wall-supported left knee flexion with resisted right glute max; all-four right glute max; standing resisted patterns; lateral walking integration; right adductor magnus inhibition in hooklying; left posterior capsule inhibition standing; QL/psoas inhibition pairs).

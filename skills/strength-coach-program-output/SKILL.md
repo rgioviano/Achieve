@@ -1,22 +1,22 @@
 ---
 name: Strength Coach program output
 description: >-
-  Use when Strength Coach posts in Programming - wait for Hawkin/PRI/Research
-  room posts, then one final wrap; Force Plates higher/lower/plateau; SC section
-  is the final call.
+  Use when Coach posts a program wrap - wait for Hawkin/PRI/Research specialist
+  notes, then one final wrap; Force Plates higher/lower/plateau; SC section is
+  the final call.
 ---
 # Strength Coach program output
 
-## Default (locked 2026-10-02 by Ryne; room-flow update same day via Achieve)
+## Default (locked 2026-10-02 by Ryne; Programming room gone 2026-11-05)
 
-Programming room owner is Achieve. On a normal athlete ask you post the **final** prescription in Programming after specialists have posted.
+Coach owns the wrap with Ryne. On a normal athlete ask you post the **final** prescription in chat after specialists have sent their notes.
 
-**Public room flow (normal asks):**
-1. Wait for Achieve’s Asana room post.
-2. Wait for **one public room message each** from specialists in order: **Hawkin → PRI → S&C Research** (Research only if needed; they may stay silent).
-3. Then post **exactly one** final wrap incorporating those room posts plus your expertise (dose, exercises, direction).
+**Flow (normal asks):**
+1. Get the athlete context from Asana (or Ryne).
+2. Wait for **one private note each** from specialists in order: **Hawkin → PRI → S&C Research** (Research only if needed; they may stay silent).
+3. Then post **exactly one** final wrap in Coach's chat with Ryne, incorporating those notes plus your expertise (dose, exercises, direction).
 
-No private-only loop for normal asks. Do not wrap from DMs alone when the room posts are the source of truth. No duplicate wraps.
+No duplicate wraps.
 
 **ONE message per athlete ask** from you. If you revise, **one** revise post only - not a duplicate of the original plus a revise.
 
@@ -63,11 +63,11 @@ Specialist sections can keep plate/PRI/research findings and their own recs. **S
 - Programming direction for this block (what wins this week/month)
 - Training volume / density (days/week, jump contacts, how hard to push)
 - Specific exercise ideas (names he uses) driven by plates + PRI + Asana + research
-- Session shape hints (e.g. warm-up → jump quality → strength pairs → serratus/core) without a full A–H writeup unless asked
+- Session shape hints (e.g. warm-up → jump quality → strength pairs → serratus/core) without a full A-H writeup unless asked
 - Hard stops / gates folded into the call
 
 ### Rules
-- Force Plates / PRI / Research content comes from their **room posts** - synthesize into the sections; do not invent plates, papers, or PRI techniques.
+- Force Plates / PRI / Research content comes from the specialists' **notes** - synthesize into the sections; do not invent plates, papers, or PRI techniques.
 - Omit **S&C research** entirely when Research was silent.
 - Omit **PRI** if they were not in the loop / nothing PRI-relevant.
 - No keep/swap/drop. No NEW/KEEP tags. No walls of text.

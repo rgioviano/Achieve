@@ -4,4 +4,4 @@ This is a map, not live proof. Confirm a schedule live with the owning bot befor
 
 | Routine | When (CT) | Status | Source |
 |---|---|---|---|
-| Achieve Meta ads project Page heartbeat (Page first set up for October; still running in November, Ryne 2026-11-05) | Mon, Wed, Fri about 8:35am | live (Ryne confirmed 2026-11-05) | Ryne, Chief chat 2026-11-05 |
+| Achieve Meta ads (Oct) project Page heartbeat | Mon, Wed, Fri about 8:35am | listed live (Page is named for October, see question) | Chief TEAM.md (2026-11-04) |

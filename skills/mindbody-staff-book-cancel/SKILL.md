@@ -61,7 +61,7 @@ Evals are **unavailability** on the coach’s column, not a client appointment. 
 
 1. Appointments → empty slot on the correct staff column.
 2. Click **Mark as unavailable**.
-3. Set **Reason** to `Eval – Name`, dates (usually Single day), and **Time** to a full hour. The end time defaults to only 15 minutes - change it.
+3. Set **Reason** to `Eval - Name`, dates (usually Single day), and **Time** to a full hour. The end time defaults to only 15 minutes - change it.
 4. **Hide from public** stays on. **Save** is the last confirm click. Cancel/close if Ryne has not said yes.
 5. Existing eval blocks may be weekly recurring. Edit via **Edit this unavailability**. Delete via **Remove unavailability**. Watch for this-occurrence vs series.
 

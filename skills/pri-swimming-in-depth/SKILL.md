@@ -28,7 +28,7 @@ Unique demands (Berge):
 - Extreme repetition (e.g. ~14,400 arm pulls/week at 6k yd × 6 with ~10 strokes/25 yd).
 - Breath pattern: mouth inhale, prolonged hold / nasal exhale under water - often carried onto land as dysfunctional breath-holding / hyperinflation vs nose-in / mouth-out diaphragmatic norms.
 
-**Injury profile:** shoulder impingement / cuff–biceps tendinopathy / instability most common (disabling shoulder pain reported ~27–87% competitive); also low back and knees.
+**Injury profile:** shoulder impingement / cuff-biceps tendinopathy / instability most common (disabling shoulder pain reported ~27-87% competitive); also low back and knees.
 
 ---
 
@@ -43,7 +43,7 @@ Unique demands (Berge):
 ### Muscle imbalance package
 - Strong, short **lats** → limit rib expansion / trunk rotation; drive lumbar extension  
 - Strong **pecs** → long weak intrascapulars; restrict rib depression  
-- Strong hip flexors / back extensors from flutter–dolphin + prone posture  
+- Strong hip flexors / back extensors from flutter-dolphin + prone posture  
 - Long inefficient **IO/TA** for rib/pelvis stability and rotation  
 - Diaphragm poorly positioned (ribs up front, pelvis/hip flexors down back) → accessory neck/back breathing → limited cervical rotation  
 
@@ -67,7 +67,7 @@ Left AIC / Right BC make reciprocal trunk/neck rotation and rib expansion side-b
 ## 4. Stroke-specific PRI management
 
 ### Freestyle (most training mileage)
-**Pathomechanics:** Impingement early pull-through or early recovery from humeral "hyperextension" (humerus behind scapular axis) when scapula is anterior/down-rotated from pec–lat dominance; limited body roll worsens depth or high-elbow recovery. EMG: weak **serratus** and **subscap** correlate with ipsilateral impingement; lat/pec power not different painful vs non-painful.
+**Pathomechanics:** Impingement early pull-through or early recovery from humeral "hyperextension" (humerus behind scapular axis) when scapula is anterior/down-rotated from pec-lat dominance; limited body roll worsens depth or high-elbow recovery. EMG: weak **serratus** and **subscap** correlate with ipsilateral impingement; lat/pec power not different painful vs non-painful.
 
 **PRI rationale:** R BC / PEC extension limits thoracic flexion and ST congruence → scapula rides forward/up (upper trap/pec); serratus length-tension fails; lat + IR'd scapula force posterior cuff ER compensation and **inhibit subscap** so lat becomes the IR engine → anterior pain. Limited L trunk/cervical rotation biases **right-side breathing** (easier for typical Right BC).
 
@@ -81,7 +81,7 @@ Left AIC / Right BC make reciprocal trunk/neck rotation and rib expansion side-b
 ### Butterfly
 Strongest **PEC** demand (no rotation; head/trunk extension for breath + dolphin). Painful shoulders: wider hand entry, ↓ serratus at entry, ↓ subscap/teres minor; lat/pec unchanged but serratus down throughout.
 
-**Management:** After neutrality, emphasize PEC inhibition - sagittal abs/hamstrings/glutes (Functional Squat with Low Trap), posterior mediastinum expansion (Squatting Bar Reverse Reach), lat/pec flexibility in thoracic flexion. Options: All Four Belly Lift, Reverse Door Squats, Paraspinal Inhibition, LT press-downs with abs; goal Functional Squat + Low Trap ~level 3–4.
+**Management:** After neutrality, emphasize PEC inhibition - sagittal abs/hamstrings/glutes (Functional Squat with Low Trap), posterior mediastinum expansion (Squatting Bar Reverse Reach), lat/pec flexibility in thoracic flexion. Options: All Four Belly Lift, Reverse Door Squats, Paraspinal Inhibition, LT press-downs with abs; goal Functional Squat + Low Trap ~level 3-4.
 
 ### Backstroke
 Face out (less respiratory hold demand) but **subscap + teres minor** become power muscles (~30% less lat EMG than those). Main risk: anterior instability / impingement if inadequate body roll at entry → humeral hyperextension. Limited cervical axial rotation (R BC/PEC) limits thoracic roll under a still head.
@@ -89,7 +89,7 @@ Face out (less respiratory hold demand) but **subscap + teres minor** become pow
 **Management (plus freestyle needs):** Thoracic rotation with LT/triceps (e.g. Standing Resisted Right Diagonal Flexion in Right AIC); HG IR with LT **without lat** (e.g. Supine Resisted Right HG IR with Left HG ER); dynamic HG with ST/TS stability.
 
 ### Breaststroke
-Least shoulder complaints (hands stay forward; less hyper-extension/rotation demand). Unique issue: **breaststroker's knee** (MCL / PF / pes) - correlated with more hip abduction / less FA IR in whip kick. Freestyle mileage predisposes anterior pelvis / limited FA IR–adduction → compensatory ER/abd → medial knee stress.
+Least shoulder complaints (hands stay forward; less hyper-extension/rotation demand). Unique issue: **breaststroker's knee** (MCL / PF / pes) - correlated with more hip abduction / less FA IR in whip kick. Freestyle mileage predisposes anterior pelvis / limited FA IR-adduction → compensatory ER/abd → medial knee stress.
 
 **Management:** Lumbopelvic-femoral position/control; FA IR via posterior hip / outlet (e.g. R Sidelying Supported L Glute Med in Hip Extension); FA IR strength with adductors + glute med (e.g. Seated Resisted Alternating Reciprocal Quad Sets with FA IR). Shoulder work similar to fly but less PEC bias.
 
@@ -125,6 +125,6 @@ Every swim program needs some combination of:
 - Lat / intercostal / paraspinal inhibition  
 - Serratus + subscap progressions after neutrality language  
 - Glute + hamstring opposition to kick-driven hip flexors  
-- Stroke-biased extras: fly → more PEC inhibition + LT squat; back → LT/tricep rotation + HG IR without lat; breast → FA IR / adductor–glute med  
+- Stroke-biased extras: fly → more PEC inhibition + LT squat; back → LT/tricep rotation + HG IR without lat; breast → FA IR / adductor-glute med  
 
 Warm-up early; pair extension-heavy land lifts with reach/exhale checks. Open Right BC guidelines when L horiz abd / R apical / R HG IR drive exercise choice; open I&I when neutrality exists but ST/IR still fail. Open [Swim dryland programming](sand-workflow:swim-dryland-programming) for starts/turns/UW loading and in-season constraints.

@@ -52,15 +52,15 @@ Source deep-dive (2026-10-01): `/workspace/ads-metrics-expertise-2026-10-01.md` 
 ### Leads vs qualified leads **[Documented]**
 - **Maximize leads** = volume (contact share).
 - **Maximize qualified leads** = CRM-informed quality; Instant Forms + CAPI. New campaigns need CAPI for this goal (from Apr 2026; existing impacted Aug 2026).
-- Until CRM→CAPI healthy → Maximize leads + ruthless CRM QA. When healthy → Maximize qualified leads; stage within ~28 days; Meta often cites ~200 leads/mo and ~2–4 weeks training.
+- Until CRM→CAPI healthy → Maximize leads + ruthless CRM QA. When healthy → Maximize qualified leads; stage within ~28 days; Meta often cites ~200 leads/mo and ~2-4 weeks training.
 
 ### Decision tables (ads)
 | Action | When |
 |---|---|
-| HOLD | Still Learning; spend &lt; ~2–3× target cost-per-business-result; no clear fatigue |
+| HOLD | Still Learning; spend &lt; ~2-3× target cost-per-business-result; no clear fatigue |
 | REFRESH | Creative limited/fatigue; CTR↓ vs this ad’s baseline + frequency↑ |
 | KILL ad | Fair spend: weak CTR *and* weak booked/quality vs peers; or fatigue with replacements ready |
-| Do not kill | Only because CPL is slightly high in first 2–3 learning days |
+| Do not kill | Only because CPL is slightly high in first 2-3 learning days |
 
 ### Decision tables (ad sets)
 | Action | When |
@@ -91,7 +91,7 @@ Impressions ÷ reach. Rising frequency + flat reach + falling CTR + rising cost/
 Primary = Conversions column + bidding. Secondary = All conversions only. Soft micros as Primary pollute Smart Bidding.
 
 ### Learning **[Documented]**
-Smart Bidding ~**7–14 days** / often ≥~30 conversions to evaluate (often ~50 for tROAS). Avoid frequent budget/target/goal edits.
+Smart Bidding ~**7-14 days** / often ≥~30 conversions to evaluate (often ~50 for tROAS). Avoid frequent budget/target/goal edits.
 
 ### AI Max **[Documented]**
 - Wait **≥2 weeks** after enable before heavy negatives.

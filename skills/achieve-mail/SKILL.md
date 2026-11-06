@@ -39,7 +39,7 @@ Sweep these Gmail accounts (separate connectors):
 - `ryne@achievesportsperformance.com` - work (primary)
 - `contact@achieve-personaltraining.com` - contact
 - `ryne@ironblueprint.app` - ironblueprint
-- Personal `[email kept out of repo]` - personal (only when the ask includes personal mail / PA brief triage)
+- Personal `rgioviano@gmail.com` - personal (only when the ask includes personal mail / PA brief triage)
 
 Do not search personal Gmail for Achieve client/lead work unless he asks.
 

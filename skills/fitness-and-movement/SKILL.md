@@ -76,9 +76,9 @@ Squat airflow conflict, keep both: Fitness and Movement page 116 prints inhale d
 
 Symmetrical presses and overhead sit in this same late bucket. If the Right BC gates are failed, go back to that skill. Do not put a soft press here to build serratus.
 
-**Late landmine press options (after steps 1–4 hold; not a shoulder-pain fix):**
-- Alternating Thoracic Landmines / Standing Alternating Thoracic Abduction (printed title; file often named Standing Alternating Landmine Press): thorax laterally over the non-pressing arm; exhale press on the right, inhale press on the left; sets of 8–10 (F&M 2018 p.197).
-- Left Stance One Arm Landmine / Standing Left AF IR with Right Trunk Rotation (file often Left Stance 1-Arm Landmine Press): left-arm press, left foot behind right; do not extend the left low back; sets of 5–10 (F&M 2018 p.249).
+**Late landmine press options (after steps 1-4 hold; not a shoulder-pain fix):**
+- Alternating Thoracic Landmines / Standing Alternating Thoracic Abduction (printed title; file often named Standing Alternating Landmine Press): thorax laterally over the non-pressing arm; exhale press on the right, inhale press on the left; sets of 8-10 (F&M 2018 p.197).
+- Left Stance One Arm Landmine / Standing Left AF IR with Right Trunk Rotation (file often Left Stance 1-Arm Landmine Press): left-arm press, left foot behind right; do not extend the left low back; sets of 5-10 (F&M 2018 p.249).
 
 ## Hard stops
 

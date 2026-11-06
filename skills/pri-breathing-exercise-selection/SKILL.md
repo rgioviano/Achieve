@@ -33,14 +33,14 @@ Still generally **one** athlete-specific technique at warm-up and end of session
 ### Standing Serratus Squat vs Standing Wall Press with L PME
 Pick from Postural Respiration lists - do not paraphrase as "stiff mid-back."
 
-- **Standing Serratus Squat** (Anterior Neck Inhibition list, p.76; also filed under L LT/L Serratus and L PME): forward head, neck that won't relax on reaches, limited horizontal abduction or cervical rotation. Script (appendix p.18): face wall, elbows at shoulder height bent 90°, press elbows into wall, round/tuck, squat until knees touch the wall, heels down, 4–5 breaths filling the upper back ×5.
-- **Standing Wall Press with Left Posterior Mediastinum Expansion** (Left Posterior Mediastinum list, p.77): limited right trunk rotation, limited right apical expansion, limited left shoulder horizontal abduction, or difficulty with the Posterior Mediastinum Respiratory Reach Test. Script (appendix p.36): hands on wall, 1–2 inch block or towel under the **left** hand, maximally round, inhale while gently pressing and fill the **left** upper back, 4–5 breaths ×5.
+- **Standing Serratus Squat** (Anterior Neck Inhibition list, p.76; also filed under L LT/L Serratus and L PME): forward head, neck that won't relax on reaches, limited horizontal abduction or cervical rotation. Script (appendix p.18): face wall, elbows at shoulder height bent 90°, press elbows into wall, round/tuck, squat until knees touch the wall, heels down, 4-5 breaths filling the upper back ×5.
+- **Standing Wall Press with Left Posterior Mediastinum Expansion** (Left Posterior Mediastinum list, p.77): limited right trunk rotation, limited right apical expansion, limited left shoulder horizontal abduction, or difficulty with the Posterior Mediastinum Respiratory Reach Test. Script (appendix p.36): hands on wall, 1-2 inch block or towel under the **left** hand, maximally round, inhale while gently pressing and fill the **left** upper back, 4-5 breaths ×5.
 - The "very stiff/rigid back" / forward locomotion without rib rotation line belongs to the **p.75 PEC Paravertebral** list (Squatting Bar Reach, Heel Stair Descents, etc.), not the Wall Press indication.
 - Platt rule of thumb (appendix p.52): right intercostal work ≈ frontal plane; left posterior mediastinum ≈ transverse plane.
 
 ## Squat breathing variations
 1. Partial exhale down, full exhale up - weaker abs / heavier loads
-2. Exhale down, hold 1–3 breaths at bottom, exhale up - extension breathers / PEC-Right BC
+2. Exhale down, hold 1-3 breaths at bottom, exhale up - extension breathers / PEC-Right BC
 3. Inhale down, exhale up - earned; established ZOA only
 
 Detail and Left AIC/PEC rationale: open [PRI The Squat and Respiration](sand-workflow:pri-squat-and-respiration).
@@ -57,11 +57,11 @@ Use this skill for day-of Achieve breathing/tertiary picks. Open the matching sk
 
 | Open | When |
 |---|---|
-| [PRI Myokinematic Restoration](sand-workflow:pri-myokinematic-restoration) | Lumbo-pelvic-femoral / AF–FA Left AIC; ADT, EDT, SLR, FA ROM, Hruska Adduction/Abduction Lifts; AF IR "real estate"; glute max / IC adductor / hamstring facilitation. Gate: **− ADT / − PADT** stays Myokinematic. |
+| [PRI Myokinematic Restoration](sand-workflow:pri-myokinematic-restoration) | Lumbo-pelvic-femoral / AF-FA Left AIC; ADT, EDT, SLR, FA ROM, Hruska Adduction/Abduction Lifts; AF IR "real estate"; glute max / IC adductor / hamstring facilitation. Gate: **− ADT / − PADT** stays Myokinematic. |
 | [PRI Pelvis Restoration](sand-workflow:pri-pelvis-restoration) | Pelvic inlet/outlet, pelvic diaphragm, PADT/PART, PEC vs Patho PEC, IS instability, hemibridge/adductor pull-back/wall-reach course selection. Gate: **− ADT / + PADT** (or bilateral −/+ ) → Pelvis. |
 | [PRI Postural Respiration](sand-workflow:pri-postural-respiration) | ZOA, Right BC, PEC thorax, apical expansion, lat/intercostal/paraspinal inhibition, neuromotor order overview. |
 | [PRI Right BC Treatment Guidelines](sand-workflow:pri-right-bc-treatment-guidelines) | Right BC **test cluster + decision tree**: when to progress R low trap/tricep vs L low trap/serratus vs R serratus vs R subscap; Superior T4 / Subclavius / Infraclavicular clinician paths; ZOA NM entry list. |
-| [PRI The Squat and Respiration](sand-workflow:pri-squat-and-respiration) | Squat descent/ascent breathing variants; when inhale-on-descent is earned; Left AIC / PEC pelvic–rib setup under load. |
+| [PRI The Squat and Respiration](sand-workflow:pri-squat-and-respiration) | Squat descent/ascent breathing variants; when inhale-on-descent is earned; Left AIC / PEC pelvic-rib setup under load. |
 | [PRI Swimming An In-Depth Look](sand-workflow:pri-swimming-in-depth) | PRI swim pattern (PEC + L AIC/R BC), stroke pathomechanics, dryland implications (freestyle/fly/back/breast). Not pool ISO angles. |
 | [PRI Primary Non-Manual Techniques Workshop](sand-workflow:pri-non-manual-techniques-workshop) | Technique selection, reference/referent cueing, position ladders, workshop technique cards. |
 | [PRI Impingement and Instability](sand-workflow:pri-impingement-instability) | Positional vs primary impingement; multi-directional instability grading; calcaneal/knee/FA/HG/scapular-thoracic tables; subscapularis vs lat IR; secondary course after intros. |

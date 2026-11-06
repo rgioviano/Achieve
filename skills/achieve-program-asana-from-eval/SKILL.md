@@ -48,7 +48,7 @@ Omit any block with no data (especially Scaps).
 - If missing, create in Programs project with that title. Do not change an existing assignee on backfill. Assign on create only if Ryne already said who.
 
 ## PRI Pos cutoffs
-When the Assessment lists degrees and you must decide Pos vs Neg, use [Eval cutoffs](sand-workflow:eval-cutoffs). Key printed °: SLR <75° or >100°; PART <45°; HG horiz abd <45°; HG IR <80–90°; shoulder flexion <160°. FA IR/ER and HG ER have no absolute PRI ° cutoff. ISA Wide/Narrow is Achieve labeling, not a PRI printed cutoff. The Assessment template itself prints no PRI/ortho degree or Pos/Neg cutoffs (only Beighton >3 and Clavicular Angle 6°-20°).
+When the Assessment lists degrees and you must decide Pos vs Neg, use [Eval cutoffs](sand-workflow:eval-cutoffs). Key printed °: SLR <75° or >100°; PART <45°; HG horiz abd <45°; HG IR <80-90°; shoulder flexion <160°. FA IR/ER and HG ER have no absolute PRI ° cutoff. ISA Wide/Narrow is Achieve labeling, not a PRI printed cutoff. The Assessment template itself prints no PRI/ortho degree or Pos/Neg cutoffs (only Beighton >3 and Clavicular Angle 6°-20°).
 
 ## Pos cutoffs (Ryne locked 2026-11-03)
 Use when deciding whether a measured degree is Pos in notes:
@@ -56,7 +56,7 @@ Use when deciding whether a measured degree is Pos in notes:
 - **FA ER:** <50° = Pos
 - **HG ER:** <90° = Pos
 
-Other screens: use PRI manual Pos rules (SLR <75° / >100°, PART <45°, HG horiz abd <45°, HG IR <80–90°, shoulder flexion <160°, etc.).
+Other screens: use PRI manual Pos rules (SLR <75° / >100°, PART <45°, HG horiz abd <45°, HG IR <80-90°, shoulder flexion <160°, etc.).
 
 ## Cite / label
 Only state what the Assessment confirms. Label guesses as guesses. Never invent Scaps, PRI pattern, or injury details.

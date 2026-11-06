@@ -7,7 +7,7 @@ description: >-
 ---
 # Mozi frameworks (Achieve + IronBlueprint)
 
-Standing sales defaults locked 2026-09-08 alongside [Sales nurture 3-7-30](sand-workflow:sales-nurture-3-7-30). Drafts only until Ryne reviews. SCDD Instant Form / E1–E4 product locks still win on those sends.
+Standing sales defaults locked 2026-09-08 alongside [Sales nurture 3-7-30](sand-workflow:sales-nurture-3-7-30). Drafts only until Ryne reviews. SCDD Instant Form / E1-E4 product locks still win on those sends.
 
 ## Sales owns / co-owns
 
@@ -51,10 +51,10 @@ Long calls, too many touches to close, and price-only comparison = **low leverag
 
 **Call gate**
 - Ask if they watched before you talk.
-- If not: have them watch in the first 10–15 minutes. Offer to get them a coffee while they do.
+- If not: have them watch in the first 10-15 minutes. Offer to get them a coffee while they do.
 - Position: “This saves us an hour or more if you do it in 15 minutes.” People give time when it saves more.
 
-**Sandwich (still stands):** ≤5 min intro → best VSL (or force-watch if they skipped) → decision call. Marketing builds 3–5 VSLs by avatar; Sales owns the gate, script, and objection list that feeds the film.
+**Sandwich (still stands):** ≤5 min intro → best VSL (or force-watch if they skipped) → decision call. Marketing builds 3-5 VSLs by avatar; Sales owns the gate, script, and objection list that feeds the film.
 
 ### 6. Belief-Breaking Formula (calls)
 1. Wrong belief (1st person)
@@ -63,7 +63,7 @@ Long calls, too many touches to close, and price-only comparison = **low leverag
 4. Similar-avatar proof  
 Use on DIY gym / spreadsheet objections (Achieve parents; IronBlueprint coaches). Same skeleton feeds VSL objection blocks.
 
-### 7–9. Marketing-primary (support when asked)
+### 7-9. Marketing-primary (support when asked)
 Checkbox offer, pain-hook ads, branded search. Sales supports when pulled in.
 
 ### 8. Pain-Hook (Sales assist)
@@ -77,7 +77,7 @@ Give partners a sellable free product **they keep 100%**. You upsell the end cus
 ## Pricing / unit economics notes
 - Middle Pricing
 - Annual Renewal Fee (Achieve memberships)
-- LTV:CAC **9–12:1** guardrail for services
+- LTV:CAC **9-12:1** guardrail for services
 
 ## Do not invent
 Prices, close rates, LTV/CAC, or partner offers Ryne hasn’t stated. Flag missing facts outside the draft.

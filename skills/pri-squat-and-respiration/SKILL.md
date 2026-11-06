@@ -2,13 +2,13 @@
 name: PRI The Squat and Respiration
 description: >-
   Use this when coaching squat ascent/descent breathing variants, deciding when
-  inhale-on-descent is earned via ZOA, or applying Left AIC / PEC pelvic–rib
+  inhale-on-descent is earned via ZOA, or applying Left AIC / PEC pelvic-rib
   positioning to loaded squats.
 ---
 # PRI The Squat and Respiration
 
 **Source:** `/home/box/agent-data/shared/sc-reference/pri-squat-and-respiration.txt`  
-Lori Thomsen, MPT, PRC - *The Squat and Respiration* (Pelvis Restoration handout, © 2010–2013 PRI).
+Lori Thomsen, MPT, PRC - *The Squat and Respiration* (Pelvis Restoration handout, © 2010-2013 PRI).
 
 Cross-links: [PRI breathing exercise selection](sand-workflow:pri-breathing-exercise-selection) · [PRI Postural Respiration](sand-workflow:pri-postural-respiration) · [PRI Pelvis Restoration](sand-workflow:pri-pelvis-restoration) · [PRI Right BC Treatment Guidelines](sand-workflow:pri-right-bc-treatment-guidelines)
 
@@ -49,20 +49,20 @@ Order is based on ability to **find and maintain ZOA** (outer abdominal control 
 
 **Achieve cue:** Soft partial exhale as you sit; complete the exhale as you stand. Do not dump into full Valsalva extension.
 
-### Variant 2 - Exhale down, hold 1–3 breaths at bottom, exhale up
+### Variant 2 - Exhale down, hold 1-3 breaths at bottom, exhale up
 **Who:** decreased abs / hard to maintain ZOA; needs **posterior mediastinum and outlet expansion**; inhales into extension.  
 **Caution:** May be too challenging for heavy Olympic-style barbell squats.
 
-**Why it works:** Exhale on descent again IR's anterior ribs and integrates thorax–pelvis. Holding the squat 1–3 breaths is a **PRI process under load**: each inhale in the bottom with maintained anterior rib IR + pelvis position maximizes posterior mediastinum and pelvic outlet expansion. Athlete neurologically learns to **inhale without going into extension** in the squat.
+**Why it works:** Exhale on descent again IR's anterior ribs and integrates thorax-pelvis. Holding the squat 1-3 breaths is a **PRI process under load**: each inhale in the bottom with maintained anterior rib IR + pelvis position maximizes posterior mediastinum and pelvic outlet expansion. Athlete neurologically learns to **inhale without going into extension** in the squat.
 
-**Achieve cue:** Exhale to the hole → breathe 1–3 cycles keeping ribs down / abs on → exhale to stand. Extension breathers / PEC–Right BC athletes often live here before earning Variant 3.
+**Achieve cue:** Exhale to the hole → breathe 1-3 cycles keeping ribs down / abs on → exhale to stand. Extension breathers / PEC-Right BC athletes often live here before earning Variant 3.
 
 ### Variant 3 - Inhale down, exhale up (PRI goal)
 **Who:** already has abdominal strength **with appropriate ZOA**, but needs synchronization of respiratory and pelvic diaphragms. Extremely challenging under heavy load - **earn it**.
 
 **Why it works:** Inhale on descent with abs/ZOA holding anterior rib IR + correct pelvis expands posterior mediastinum and outlet while diaphragms stay ascended → internal support **and** maximal power to push (quads, hamstrings, glutes, abs).
 
-**Achieve cue:** Only after toe-touch / standing reach with posterior expansion on inhale (active ZOA), and after Variants 1–2 are clean. Never default heavy athletes here on day one.
+**Achieve cue:** Only after toe-touch / standing reach with posterior expansion on inhale (active ZOA), and after Variants 1-2 are clean. Never default heavy athletes here on day one.
 
 ---
 
@@ -111,4 +111,4 @@ Heavy extension-biased strength without exhalation-biased or pause-breath work f
 - After squat sessions, recheck toe-touch / SLR / apical - success isn't only bar weight.  
 - Cross-check Right BC tree if upper thorax tests stay + despite good squat breathing.
 
-Open the breathing index for day-of picks; open Postural / Pelvis course skills for ZOA and inlet–outlet theory.
+Open the breathing index for day-of picks; open Postural / Pelvis course skills for ZOA and inlet-outlet theory.
