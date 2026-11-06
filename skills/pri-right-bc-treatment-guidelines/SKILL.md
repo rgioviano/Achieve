@@ -8,11 +8,11 @@ description: >-
 ---
 # PRI Right BC Treatment Guidelines (handout skill)
 
-**Primary source:** `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/pri-right-bc-treatment-guidelines.txt`  
-*(Postural Respiration handout p.47 — Right BC PRI Treatment Guidelines, © 2000–2013 PRI)*  
+**Primary source:** `/home/box/agent-data/shared/sc-reference/pri-right-bc-treatment-guidelines.txt`  
+*(Postural Respiration handout p.47 - Right BC PRI Treatment Guidelines, © 2000–2013 PRI)*  
 **Companion overview (fuller decision tree with I&I / R serratus / R subscap branches):** `.../pri-right-bc-treatment-guidelines-overview-appendix.txt` (from Postural Respiration appendix) and the full course extract `pri-postural-respiration.txt`.
 
-This skill is the **operational decision tree** for Right BC after ZOA work. Prefer non-manual techniques in Achieve S&C. Manual Superior T4 / Subclavius / Infraclavicular / Sibson / Intercostal paths are listed so you understand **clinician** pathways — do not improvise them in the gym.
+This skill is the **operational decision tree** for Right BC after ZOA work. Prefer non-manual techniques in Achieve S&C. Manual Superior T4 / Subclavius / Infraclavicular / Sibson / Intercostal paths are listed so you understand **clinician** pathways - do not improvise them in the gym.
 
 Cross-links: [PRI Postural Respiration](sand-workflow:pri-postural-respiration) · [PRI Impingement and Instability](sand-workflow:pri-impingement-instability) · [PRI breathing exercise selection](sand-workflow:pri-breathing-exercise-selection) · [PRI Non-Manual Techniques Workshop](sand-workflow:pri-non-manual-techniques-workshop)
 
@@ -30,13 +30,13 @@ Before and after every stage, recheck this Right BC cluster:
 | Right apical expansion | + (limited) *or* − R / + L in Superior T4 syndrome branch |
 | Right humeral glenoid internal rotation | + (limited) *or* − (≤80° or better) when routing to R subscap |
 
-**Coach translation:** these are screening language for warm-up / tertiary choices — not a clinical diagnosis. Pair with ADT / trunk rotation / standing reach (ZOA) from course skills.
+**Coach translation:** these are screening language for warm-up / tertiary choices - not a clinical diagnosis. Pair with ADT / trunk rotation / standing reach (ZOA) from course skills.
 
 ---
 
 ## 2. Always start: ZOA Abdominal Non-Manual Techniques
 
-Handout entry box — restore Zone of Apposition / abdominal opposition **before** scapular muscle programs:
+Handout entry box - restore Zone of Apposition / abdominal opposition **before** scapular muscle programs:
 
 1. **90-90 Hip Lift with Right Arm Reach and Balloon**
 2. **PRI Wall Supported Squat with Balloon**
@@ -52,31 +52,31 @@ Achieve equivalents often used in warm-up: 90-90 balloon family, wall-supported 
 
 ## 3. Decision tree (handout + appendix overview)
 
-### Branch A — All tests − after ZOA NM
+### Branch A - All tests − after ZOA NM
 → **Right Low Trap & Right Tricep Program** (primary neuromotor next step when thorax/BC tests clear).
 
-### Branch B — All or some tests remain + after ZOA NM
+### Branch B - All or some tests remain + after ZOA NM
 → **Clinician path:** Left AIC and Sternal – With Active Pelvic Tilt **manual** techniques.  
 → If still +: **Right Superior T4 Manual Technique**.  
 → Then recheck:
 
-#### B1 — All tests − after Superior T4 path
+#### B1 - All tests − after Superior T4 path
 → Stabilize spine with **Left Low Trap & Left Serratus Anterior Program** *(prior to initiating Right Low Trap & Right Tricep Program per handout)*.
 
-#### B2 — All or some tests remain + **and** − Right Apical Expansion / + Left Apical Expansion
-→ **Right Subclavius Manual Technique** (Superior T4 syndrome path — clinician).  
+#### B2 - All or some tests remain + **and** − Right Apical Expansion / + Left Apical Expansion
+→ **Right Subclavius Manual Technique** (Superior T4 syndrome path - clinician).  
 → When all tests − → **Left Low Trap & Left Serratus** (stabilize), then later R low trap/tricep as indicated.
 
-### Branch C — Impingement & Instability consideration (appendix overview)
+### Branch C - Impingement & Instability consideration (appendix overview)
 **All tests −** but **insufficient right scapular-thoracic function** (reach forward drops R shoulder or IR's R UE; or prone R serratus weaker):
 → Clinician: Left AIC manuals → Right BC manuals emphasizing **Infraclavicular Pump, Right Sibson, Right Intercostal**  
 → Then **Right Serratus Anterior** program.
 
-### Branch D — Cluster still + but **− Right HG IR** (≤80° or better available)
+### Branch D - Cluster still + but **− Right HG IR** (≤80° or better available)
 → Clinician: PRI Left AIC + Right BC manuals to thorax neutrality  
 → Then **Right Subscapularis** program (true HG IR independent of lat).
 
-### Branch E — All tests − **and** sufficient R ST function
+### Branch E - All tests − **and** sufficient R ST function
 Patient can reach forward with R UE in supine, prone, and left sidelying with tests remaining −  
 → **Standing Right Low Trap and Right Tricep** (late positional demand).
 
@@ -100,7 +100,7 @@ Patient can reach forward with R UE in supine, prone, and left sidelying with te
 
 **Position progression (neuro-motor demand ↑):** Supine → All Four → Seated → Long Seated → Standing → Sidelying → Prone.
 
-### Left Low Trap & Left Serratus Anterior Program (stabilize spine — handout says prior to R LT/Tricep when coming off manuals)
+### Left Low Trap & Left Serratus Anterior Program (stabilize spine - handout says prior to R LT/Tricep when coming off manuals)
 - 90-90 Supported Wall Leg Lift with Alternating Resisted Arm Reach  
 - Seated Resisted Serratus Punch with Left Hamstrings  
 - Standing Serratus Squat  
@@ -113,7 +113,7 @@ Patient can reach forward with R UE in supine, prone, and left sidelying with te
 Use after neutrality + clinician infraclavicular-family work when R ST strength/position still fails. Goal: stabilize R scapula for R arm reach **without** left trunk rotation / right rib retraction compensation.
 
 ### Right Subscapularis (− R HG IR branch)
-Only after thorax neutrality. Train true HG IR **independent of lat** — critical for swimmers and overhead athletes (link I&I).
+Only after thorax neutrality. Train true HG IR **independent of lat** - critical for swimmers and overhead athletes (link I&I).
 
 ---
 
@@ -151,7 +151,7 @@ Examples from Postural Respiration inhibition logic (coach-usable):
 - Use lat-dominated IR / pull patterns when the goal is R subscap.  
 - Start standing / sidelying / prone R LT-tricep variants before supine/all-four versions succeed.  
 - Improvise Superior T4 / Subclavius / Infraclavicular techniques in S&C.  
-- Treat I&I ST failure the same as "all tests +" — different branch (R serratus after clinician ST manuals).
+- Treat I&I ST failure the same as "all tests +" - different branch (R serratus after clinician ST manuals).
 
 ---
 

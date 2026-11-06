@@ -7,8 +7,8 @@ description: >-
 ---
 # PRI The Squat and Respiration
 
-**Source:** `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/pri-squat-and-respiration.txt`  
-Lori Thomsen, MPT, PRC — *The Squat and Respiration* (Pelvis Restoration handout, © 2010–2013 PRI).
+**Source:** `/home/box/agent-data/shared/sc-reference/pri-squat-and-respiration.txt`  
+Lori Thomsen, MPT, PRC - *The Squat and Respiration* (Pelvis Restoration handout, © 2010–2013 PRI).
 
 Cross-links: [PRI breathing exercise selection](sand-workflow:pri-breathing-exercise-selection) · [PRI Postural Respiration](sand-workflow:pri-postural-respiration) · [PRI Pelvis Restoration](sand-workflow:pri-pelvis-restoration) · [PRI Right BC Treatment Guidelines](sand-workflow:pri-right-bc-treatment-guidelines)
 
@@ -38,18 +38,18 @@ This skill tells you **how to breathe through squat descent and ascent** based o
 
 ---
 
-## 2. Squat descent — three breathing variants (easiest → hardest)
+## 2. Squat descent - three breathing variants (easiest → hardest)
 
 Order is based on ability to **find and maintain ZOA** (outer abdominal control through IO/TA).
 
-### Variant 1 — Partial exhale down, finish exhale up
+### Variant 1 - Partial exhale down, finish exhale up
 **Who:** decreased abdominal strength with ZOA; **or** lifting under heavy load (powerlifting / strength & conditioning).
 
 **Why it works:** Partial exhale on descent drives anterior ribs (L in Left AIC; bilateral in PEC) into **IR**. Coupled with correct pelvic position, respiratory and pelvic diaphragms **ascend** → internal support of body weight and control of air/pressure/organs under load.
 
 **Achieve cue:** Soft partial exhale as you sit; complete the exhale as you stand. Do not dump into full Valsalva extension.
 
-### Variant 2 — Exhale down, hold 1–3 breaths at bottom, exhale up
+### Variant 2 - Exhale down, hold 1–3 breaths at bottom, exhale up
 **Who:** decreased abs / hard to maintain ZOA; needs **posterior mediastinum and outlet expansion**; inhales into extension.  
 **Caution:** May be too challenging for heavy Olympic-style barbell squats.
 
@@ -57,8 +57,8 @@ Order is based on ability to **find and maintain ZOA** (outer abdominal control 
 
 **Achieve cue:** Exhale to the hole → breathe 1–3 cycles keeping ribs down / abs on → exhale to stand. Extension breathers / PEC–Right BC athletes often live here before earning Variant 3.
 
-### Variant 3 — Inhale down, exhale up (PRI goal)
-**Who:** already has abdominal strength **with appropriate ZOA**, but needs synchronization of respiratory and pelvic diaphragms. Extremely challenging under heavy load — **earn it**.
+### Variant 3 - Inhale down, exhale up (PRI goal)
+**Who:** already has abdominal strength **with appropriate ZOA**, but needs synchronization of respiratory and pelvic diaphragms. Extremely challenging under heavy load - **earn it**.
 
 **Why it works:** Inhale on descent with abs/ZOA holding anterior rib IR + correct pelvis expands posterior mediastinum and outlet while diaphragms stay ascended → internal support **and** maximal power to push (quads, hamstrings, glutes, abs).
 
@@ -66,7 +66,7 @@ Order is based on ability to **find and maintain ZOA** (outer abdominal control 
 
 ---
 
-## 3. Squat ascent — always exhale
+## 3. Squat ascent - always exhale
 
 In **all three** variants, ascend on **exhale**.
 
@@ -86,7 +86,7 @@ In **all three** variants, ascend on **exhale**.
 | Weak abs / no ZOA / heavy load | Variant 1 |
 | Extension breather, PEC, limited posterior expansion | Variant 2 (pause breathes in hole) |
 | Established ZOA, needs diaphragm sync | Variant 3 |
-| Right BC / lat-dominant swimmer or OH athlete | Pair squat with reach / wall-supported reach; prefer exhale-biased variants until apical + horiz abd improve — see Right BC guidelines |
+| Right BC / lat-dominant swimmer or OH athlete | Pair squat with reach / wall-supported reach; prefer exhale-biased variants until apical + horiz abd improve - see Right BC guidelines |
 | Flared ribs, heels up, can't toe-touch | Do not load deep squat as primary; ZOA reposition first |
 
 Heavy extension-biased strength without exhalation-biased or pause-breath work feeds PEC.
@@ -98,7 +98,7 @@ Heavy extension-biased strength without exhalation-biased or pause-breath work f
 - Default inhale-on-descent for everyone "because powerlifting Instagram."  
 - Ascend on inhale.  
 - Chase depth/load before anterior rib IR and pelvic AF IR language exist.  
-- Treat Variant 2 pause as a rest break — it is ZOA training under load.  
+- Treat Variant 2 pause as a rest break - it is ZOA training under load.  
 - Ignore PEC bilateral setup (needs slight posterior tilt language, not only left AF IR).
 
 ---
@@ -108,7 +108,7 @@ Heavy extension-biased strength without exhalation-biased or pause-breath work f
 - Warm-up: ZOA (90-90 balloon, wall squat balloon) then choose squat breath variant from screens.  
 - Strength block: write the breath variant in the Direction line (e.g. "partial exhale down / full exhale up").  
 - Progress 1 → 2 → 3 only when ZOA holds.  
-- After squat sessions, recheck toe-touch / SLR / apical — success isn't only bar weight.  
+- After squat sessions, recheck toe-touch / SLR / apical - success isn't only bar weight.  
 - Cross-check Right BC tree if upper thorax tests stay + despite good squat breathing.
 
 Open the breathing index for day-of picks; open Postural / Pelvis course skills for ZOA and inlet–outlet theory.

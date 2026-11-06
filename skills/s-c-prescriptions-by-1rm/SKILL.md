@@ -10,10 +10,10 @@ description: Use this when choosing sets, reps, rest, and %1RM by training age, 
 ---
 # S&C prescriptions by %1RM
 
-Full source: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/sc-prescriptions-pct1rm.txt`
+Full source: `/home/box/agent-data/shared/sc-reference/sc-prescriptions-pct1rm.txt`
 
 ## Levels
-- Beginner: <6 months — prioritize technique, start lower %1RM
+- Beginner: <6 months - prioritize technique, start lower %1RM
 - Intermediate: 6–18 months consistent
 - Advanced: long training age (header says “18+ years”; treat as advanced relative to house beg/int/adv, not literal decades)
 

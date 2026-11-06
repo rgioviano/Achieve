@@ -2,7 +2,7 @@
 name: SEO Audit
 description: >-
   Use when the user wants an SEO audit: Search Console, indexing, on-page, AI
-  traffic, scored findings delivered like an agency deck — not a dump.
+  traffic, scored findings delivered like an agency deck - not a dump.
 ---
 A scored, prioritized SEO report from LIVE data. Every finding cites a real query, page, or fetched element. Missing source: say so. Never invent impressions, position, or clicks.
 
@@ -15,7 +15,7 @@ List connections first. No Search Console → say what it unlocks (queries, rank
 1. Scope. Confirm the GSC property. Two windows: last 28 days vs prior 28. State property + window in one line before digging.
 2. Young site. GSC near-empty → say it once. Weight indexing, on-page of key pages, competitor/keyword gap. Do not pad empty sections.
 3. Queries. High impressions + weak CTR (title/meta). Striking distance 11–20, ranked by impressions. Branded vs non-branded. Decay vs prior window. One device pull, one country pull.
-4. Pages. Top landings by clicks — are these the pages the business wants? Impression-heavy / click-poor. Single-query pages (thin coverage). Join GA4 conversions if present so money reorders the list.
+4. Pages. Top landings by clicks - are these the pages the business wants? Impression-heavy / click-poor. Single-query pages (thin coverage). Join GA4 conversions if present so money reorders the list.
 5. Indexing. Sitemap summary. Inspect 2–3 key URLs (submitted-not-indexed, crawled-not-indexed).
 6. On-page. Fetch at most 5 pages. For each: title + meta present/unique/aligned to the query it actually ranks for; one h1; canonical; structure.
 7. AI visibility. Only with GA4: ChatGPT / Perplexity / Gemini sessions, landings, trend. Its own beat, not a footnote.

@@ -1,15 +1,15 @@
 ---
 name: PRI Myokinematic Restoration
 description: >-
-  Use this when programming or discussing lumbo-pelvic-femoral PRI — Left AIC
+  Use this when programming or discussing lumbo-pelvic-femoral PRI - Left AIC
   AF/FA mechanics, Adduction/Extension Drop and Hruska lift tests, AF IR / AF ER
   goals, glute max / IC adductor / hamstring facilitation, or when Myokinematic
   is the correct course vs Pelvis Restoration (PADT gate).
 ---
 # PRI Myokinematic Restoration (course skill)
 
-**Source (full text):** `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/pri-myokinematic-restoration.txt`  
-*(OCR from scanned PDF — cross-check coaching cues against clean reprints in Pelvis Restoration appendix when wording is noisy.)*  
+**Source (full text):** `/home/box/agent-data/shared/sc-reference/pri-myokinematic-restoration.txt`  
+*(OCR from scanned PDF - cross-check coaching cues against clean reprints in Pelvis Restoration appendix when wording is noisy.)*  
 **Manual:** *Myokinematic Restoration – An Integrated Approach to Treatment of Patterned Lumbo-Pelvic-Femoral Pathomechanics* (PRI; revision noted Feb 2017 in OCR'd copy).  
 **Course family:** Introductory course with Pelvis Restoration and Postural Respiration.
 
@@ -17,7 +17,7 @@ description: >-
 
 ## 1. Core theory / asymmetry model (this course)
 
-Myokinematic Restoration owns **acetabulum-on-femur (AF) and femur-on-acetabulum (FA)** pathomechanics of the Left AIC pattern — how the pelvis orients the hip socket and how the femur orients in that socket across stance/swing.
+Myokinematic Restoration owns **acetabulum-on-femur (AF) and femur-on-acetabulum (FA)** pathomechanics of the Left AIC pattern - how the pelvis orients the hip socket and how the femur orients in that socket across stance/swing.
 
 ### Stance / pattern definitions (manual)
 - **Left stance in Left AF IR = Right AIC pattern** (desired alternating opposite)  
@@ -81,8 +81,8 @@ Seated FA IR/ER strength; note **which muscle the patient feels on FA IR strengt
 ## 3. Assessment / special tests (this course)
 
 ### Core battery (evaluation form + test chapters)
-1. **Adduction Drop Test (ADT)** — position / Left AIC flag  
-2. **Extension Drop Test (EDT)** — hip ligamentous laxity / extension pathomechanics  
+1. **Adduction Drop Test (ADT)** - position / Left AIC flag  
+2. **Extension Drop Test (EDT)** - hip ligamentous laxity / extension pathomechanics  
 3. **Trunk Rotation**  
 4. **Straight Leg Raise (SLR)**  
 5. **FA IR / FA ER ROM** (goniometric, seated)  
@@ -90,7 +90,7 @@ Seated FA IR/ER strength; note **which muscle the patient feels on FA IR strengt
 7. **Hruska Adduction Lift Test**  
 8. **Hruska Abduction Lift Test**  
 
-Evaluation form also lists Pelvis / Postural / Cervical / Advanced Integration blocks — Myokinematic sits first for AF/FA.
+Evaluation form also lists Pelvis / Postural / Cervical / Advanced Integration blocks - Myokinematic sits first for AF/FA.
 
 ### ADT
 Same sidelying procedure as other courses. Positive usually left in Left AIC; bilateral → PEC family.
@@ -121,13 +121,13 @@ Also used in **Pelvis Restoration** algorithms as a progression gate (e.g. 3/5 b
 **Facilitate:** L AF hamstrings, L AF IC adductor, R AF glute max, L FA anterior glute med/min, R FA posterior glute med/min, L IO/TA  
 **Inhibit:** L TFL, R FA adductor magnus, L psoas major, L FA piriformis, R AF piriformis, R vastus lateralis  
 
-Muscles that pull **femur into acetabulum** vs **acetabulum onto femur** are distinguished (glute max vs glute med/min themes) — AF IR work is not "more clamshells."
+Muscles that pull **femur into acetabulum** vs **acetabulum onto femur** are distinguished (glute max vs glute med/min themes) - AF IR work is not "more clamshells."
 
 ---
 
 ## 5. Repositioning logic and exercise progressions
 
-### Course-selection gate (from Pelvis Identification page — critical)
+### Course-selection gate (from Pelvis Identification page - critical)
 After Left AIC repositioning attempt:
 - **− L ADT / − L PADT → stay in Myokinematic Restoration Program**  
 - **− L ADT / + L PADT → Pelvis Restoration Program**  
@@ -139,35 +139,35 @@ Bilateral:
 ### Left AIC repositioning menu (clean cues from Pelvis appendix reprint of Myokinematic techniques)
 
 **1. 90-90 Supported Hip Lift with Hemibridge**  
-Feet on wall, hips/knees 90°. Exhale into pelvic tilt (tailbone slightly off; low back flat). Dig heels (not flat feet). Maintain tilt on left; straighten right; slowly on/off wall with breath — feel left posterior thigh. 3×10.
+Feet on wall, hips/knees 90°. Exhale into pelvic tilt (tailbone slightly off; low back flat). Dig heels (not flat feet). Maintain tilt on left; straighten right; slowly on/off wall with breath - feel left posterior thigh. 3×10.
 
 **2. Right Sidelying Respiratory Left Adductor Pull Back**  
-Right sidelying, feet on wall, hips/knees 90°, ankles/knees together, back rounded. Bolster between feet; towel between knees; left knee lower than left hip/ankle. Push right foot into wall. Inhale — pull left leg back; exhale — squeeze left knee into towel 3s. Repeat 4–5 breaths, pulling further each inhale. ×5 sequences.
+Right sidelying, feet on wall, hips/knees 90°, ankles/knees together, back rounded. Bolster between feet; towel between knees; left knee lower than left hip/ankle. Push right foot into wall. Inhale - pull left leg back; exhale - squeeze left knee into towel 3s. Repeat 4–5 breaths, pulling further each inhale. ×5 sequences.
 
 **3. Left Sidelying Right Glute Max**  
-Left sidelying, feet on wall, hips/knees 90°, back rounded. Towel under ankles and left abs. Press left hip down (right hip toward wall) — feel left abs. Shift right hip forward to slight stretch left outer hip. Turn right knee out using wall as fulcrum without right hip moving back — feel right outer hip. 4–5 breaths. ×5.
+Left sidelying, feet on wall, hips/knees 90°, back rounded. Towel under ankles and left abs. Press left hip down (right hip toward wall) - feel left abs. Shift right hip forward to slight stretch left outer hip. Turn right knee out using wall as fulcrum without right hip moving back - feel right outer hip. 4–5 breaths. ×5.
 
 ### Hierarchy themes (agenda: Left AIC Myokinematic Hierarchy; Femoroacetabular / AF IR programs)
 Progress from repositioning → FA/AF ROM & strength restoration → Hruska lift level improvements → upright Left AF IR / Right AF ER integration (standing wall-supported left knee flexion with resisted right glute max; all-four right glute max; standing resisted patterns; lateral walking integration; right adductor magnus inhibition in hooklying; left posterior capsule inhibition standing; QL/psoas inhibition pairs).
 
-**Right piriformis syndrome considerations** (manual section): Right Sidelying Respiratory Resisted Left Adductor Pull Back; sidelying obturator/reciprocal techniques; standing wall-supported ischial femoral ligamentous stretch; seated supported Left AF IR with right iliacus and right FA ER; retro stairs with resisted glute max — as listed on that considerations page.
+**Right piriformis syndrome considerations** (manual section): Right Sidelying Respiratory Resisted Left Adductor Pull Back; sidelying obturator/reciprocal techniques; standing wall-supported ischial femoral ligamentous stretch; seated supported Left AF IR with right iliacus and right FA ER; retro stairs with resisted glute max - as listed on that considerations page.
 
 ### Inhibition examples (appendix titles)
-- Supine Hooklying Adductor Magnus Inhibition (right) — pelvic tilt + allow right knee to bolster; breathing holds  
-- Left Posterior Capsule Inhibition — standing variants  
-- Right QL and Left Psoas Inhibition — supine banded variants  
+- Supine Hooklying Adductor Magnus Inhibition (right) - pelvic tilt + allow right knee to bolster; breathing holds  
+- Left Posterior Capsule Inhibition - standing variants  
+- Right QL and Left Psoas Inhibition - supine banded variants  
 
 ---
 
 ## 6. What NOT to do / common errors
 
 - Do **not** stretch "tight hamstrings" as the primary fix when ↓ SLR reflects anterior innominate / long inhibited hamstrings.  
-- Do **not** strengthen TFL-dominant FA IR — note which muscle is felt; reposition and facilitate glute med/IC adductor pathways.  
+- Do **not** strengthen TFL-dominant FA IR - note which muscle is felt; reposition and facilitate glute med/IC adductor pathways.  
 - Do **not** chase FA ER on the right with brute force while still in Right AF IR osseous position (rim impingement risk).  
-- Do **not** keep someone in Myokinematic-only work when **PADT stays +** after − ADT — that is Pelvis Restoration.  
+- Do **not** keep someone in Myokinematic-only work when **PADT stays +** after − ADT - that is Pelvis Restoration.  
 - Do **not** skip hemibridge / adductor pull-back / right glute max repositioning before advanced Hruska lift upright integration.  
-- Do **not** interpret bilateral + ADT as "two unilateral Left AIC programs" only — PEC path.  
-- Hruska lift compensations (flexing contralateral FA, pressing too hard into examiner's shoulder, lumbar extension instead of FA extension) invalidate the grade — coach the test, don't inflate the score.
+- Do **not** interpret bilateral + ADT as "two unilateral Left AIC programs" only - PEC path.  
+- Hruska lift compensations (flexing contralateral FA, pressing too hard into examiner's shoulder, lumbar extension instead of FA extension) invalidate the grade - coach the test, don't inflate the score.
 
 ---
 

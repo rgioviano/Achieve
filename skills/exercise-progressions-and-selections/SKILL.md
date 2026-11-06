@@ -8,7 +8,7 @@ description: >-
 # Exercise progressions and selections
 
 Source CSV (authoritative ladder):  
-`/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/exercise-progressions.csv`
+`/home/box/agent-data/shared/sc-reference/exercise-progressions.csv`
 
 Columns: `Exercise Name`, `Exercise Category`, `YouTube Link`, `Intent`, `Exercise Level` (Beginner / Intermediate / Advanced), `Advanced Eligible?`, `Equipment Needed`, `Variables`, `Regression`, `Alternative`, `Exercise Instructions`.
 
@@ -39,7 +39,7 @@ Columns: `Exercise Name`, `Exercise Category`, `YouTube Link`, `Intent`, `Exerci
 - [Unilateral Vertical Push progressions](sand-workflow:unilateral-vertical-push-progressions)
 
 ## Session structure
-- [Program Design Basics](sand-workflow:program-design-basics) — house order, pairings, frequency, sets/reps.
+- [Program Design Basics](sand-workflow:program-design-basics) - house order, pairings, frequency, sets/reps.
 
 ## Rules with other skills
 - Athlete vs adult session order still comes from the athlete/adult program-design skills and Program Design Basics.

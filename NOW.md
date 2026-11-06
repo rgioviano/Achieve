@@ -17,7 +17,8 @@ Current priorities and live context only. Replace lines as they go stale; histor
 - **Achieve Minute** newsletter, twice a month (Quill writes, Canvas designs). Issue 1 covered game-day fueling. See `05-marketing-ads/marketing.md`.
 
 ## Sales and leads
-- Tally owns the Prospect Tracking Sheet: daily 8:00am CT inbound and gap pass, follow-up due list, Friday speed-to-book scoreboard.
+- Tally owns the Prospect Tracking Sheet: Mon to Sat about 6:25am CT inbound and gap pass, follow-up due list, Friday speed-to-book scoreboard (2026-11-01).
+- Achieve Minute is on HOLD (Ryne, 2026-11-02): no sends until a sustainable rhythm is locked. Quill's issue two draft stays unsent.
 - **Lead follow-ups** (Ryne, 2026-10-22): leads who don't respond get follow-ups on day 2, 5, 9, 14, 21 and 30 after first outreach, then the lead is Parked. Any reply or booking stops the schedule. Stages: Contacted, Replied, Parked (2026-10-23). Full flow in `04-sales-prospects/sales-process.md`.
 - Lead emails may include one "Pricing starts at $X/mo" line, with the price read live that day (Ryne, 2026-10-23). Every other price mention stays out.
 - Email drafts go into Ryne's Gmail Drafts (threaded replies). Texts stay as drafts in chat. Nothing sends without Ryne.
@@ -41,4 +42,4 @@ Current priorities and live context only. Replace lines as they go stale; histor
 - Red (Achieve PM, brand lock; formerly Atlas), Chief (routes work), Tally (CRM), Penny (email, calendar, drafts), Maya and Lark (marketing and ads), Max (sales), Quill and Canvas (Achieve Minute), Coach (programs), Hawkin (force plates).
 - Max and Maya report through Red for Achieve work (2026-10-21).
 
-Sources: Chief TEAM.md (Page-based project management, 2026-10-30) and change log (2026-10-21 to 2026-10-23); Chief memory 2026-10-26 (cancellations, account changes, approve before saving); shared memory 2026-10-14 (signup target, ads proposal), 2026-10-22 (follow-up cadence, Gmail Drafts), 2026-10-23 (stages, Achieve Minute, pricing line, value target); `10-decisions-log/decisions.md`; `WS/achieve-offers/2026-10-16-ad-briefs.md` (Naperville); Chief chat 2026-10-17.
+Sources: Chief TEAM.md (Page-based project management, 2026-10-30) and change log (2026-10-21 to 2026-10-23); Chief memory 2026-10-26 (cancellations, account changes, approve before saving); shared memory 2026-10-14 (signup target, ads proposal), 2026-10-22 (follow-up cadence, Gmail Drafts), 2026-10-23 (stages, Achieve Minute, pricing line, value target); `10-decisions-log/decisions.md`; `WS/achieve-offers/2026-10-16-ad-briefs.md` (Naperville); Chief chat 2026-10-17.; Chief TEAM.md (updated 2026-11-04 evening).

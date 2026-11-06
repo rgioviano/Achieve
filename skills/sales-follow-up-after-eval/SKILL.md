@@ -12,7 +12,8 @@ Pre-booking chase lives in [Lead contact and follow-up](sand-workflow:lead-conta
 - Drafts only. Nothing sends without Ryne's approval of the final text and recipient.
 - No em dashes. No "just following up". No invented results. No prices unless already discussed at their eval.
 - Use "evaluation" or "20-minute screen"; next steps are in the evening.
-- Athletes: write to the parent.
+- Athletes: write to the parent only when the sheet or one of their messages confirms the contact is a parent; otherwise write neutrally.
+- Run [Pre-draft check](sand-workflow:pre-draft-check) before showing any draft (2-field recipient match, last-48h Gmail/Quo touches, future open times, no prices unless read live today).
 
 ## Steps
 1. Pull their eval notes: goal, date, problem, feeling, the objection they gave, who else decides.

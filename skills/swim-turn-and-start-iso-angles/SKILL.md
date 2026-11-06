@@ -16,7 +16,7 @@ description: >-
 
 Locked 2026-09-14 from S&C Research (Araujo 2010; Maglischo; Slawson 2012 OSB11; breast open-turn means).
 
-Swimmers need **turn or start** angles for pool transfer — not a typical land-sport jump depth.
+Swimmers need **turn or start** angles for pool transfer - not a typical land-sport jump depth.
 
 ## Two tools (do not mix them up)
 1. **CMJ / land plates** → put the ISO where force dips on *their* curve (often ~quarter squat for early bimodal hang).

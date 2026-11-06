@@ -10,7 +10,7 @@ description: Use this when building or checking an Achieve competition taper (vo
 ---
 # Guide to tapering
 
-Full source: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/guide-to-tapering.txt`
+Full source: `/home/box/agent-data/shared/sc-reference/guide-to-tapering.txt`
 
 ## Rules
 - Build strength ≥4 weeks before tapering.

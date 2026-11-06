@@ -10,7 +10,7 @@ description: Use this when designing Achieve adult or semi-private training prog
 ---
 # Adult program design guidelines
 
-Full source: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/adult-program-design-guidelines.txt`
+Full source: `/home/box/agent-data/shared/sc-reference/adult-program-design-guidelines.txt`
 
 ## Always (adults ≠ athletes)
 - Equipment bias: DB, KB, cables, landmine, TRX, bodyweight first. Barbell/SSB only when training history and quality support it.
@@ -26,6 +26,6 @@ SMR (3–5) → breathing (also finish with breathing) → warm-up (5–6 prep +
 - Primary: multi-joint overload; unilateral preferred for adults.
 - Pairing: knee-dominant with pull; hip-dominant with push. Never two lowers / two pushes / two pulls.
 - Each day: one bilateral lower and one unilateral lower (or vice versa), plus one push and one pull.
-- Frequency coverage: 1–4×/week category maps in the source file — open it when building the week.
+- Frequency coverage: 1–4×/week category maps in the source file - open it when building the week.
 
 Re-read the full source before a detailed adult program.

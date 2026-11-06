@@ -1,7 +1,7 @@
 ---
 name: PRI Postural Respiration
 description: >-
-  Use this when programming or discussing thoraco-abdominal PRI — Zone of
+  Use this when programming or discussing thoraco-abdominal PRI - Zone of
   Apposition, Left AIC / Right BC / PEC recognition, apical expansion, serratus
   and low-trap progressions, lat/intercostal/paraspinal inhibition, or how
   Postural Respiration links to Myokinematic, Pelvis, and Impingement &
@@ -9,7 +9,7 @@ description: >-
 ---
 # PRI Postural Respiration (course skill)
 
-**Source (full text):** `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/pri-postural-respiration.txt`  
+**Source (full text):** `/home/box/agent-data/shared/sc-reference/pri-postural-respiration.txt`  
 **Manual:** *Postural Respiration – An Integrated Approach to Treatment of Patterned Thoraco-Abdominal Pathomechanics* (PRI, © 2000–2019).  
 **Course family:** One of three introductory courses (with Myokinematic Restoration and Pelvis Restoration). Impingement & Instability is the secondary course that extends Right BC / scapular-thoracic logic.
 
@@ -61,7 +61,7 @@ Two BC tracts over anterior pleural/cervical area. Influence cervical rotation, 
 **Posterior Exterior Chain (PEC)**  
 Posterior extensors / QL system that closes the posterior mediastinum and drives bilateral extension bias when both sides are "on."
 
-### Zone of Apposition (ZOA) — central concept of this course
+### Zone of Apposition (ZOA) - central concept of this course
 ZOA = cylindrical portion of diaphragm apposed to inner aspect of lower rib cage (from costal insertion up to costophrenic angle where fibers leave the rib cage to form the free dome). In standing quiet breathing ≈ **¼–⅓ of total rib cage surface**; at rest overall ≈ **~30%**. Controlled by abdomen/obliques; directs diaphragmatic tension. Rib cage and abdomen are always mechanically coupled through ZOA.
 
 - Elevated anterior, externally rotated ribs → **decreased ZOA** (uni- or bilateral) depending on pattern, abdominal weakness, and use  
@@ -132,7 +132,7 @@ Composite tables in the manual treat these as the typical coupled system. Cervic
 
 ### Adduction Drop Test (procedure + meaning)
 Sidelying, bottom hip/knee flexed ~90°. Passively flex–abduct–extend top hip to neutral keeping ~90° knee flexion; stabilize pelvis so it does not fall back / allow femoral IR. Top innominate directly over bottom (too cephalad → false +; too caudal → false −).  
-**Positive:** femur will not adduct (restriction from anterior-inferior acetabular labral rim, transverse ligament, piriformis, or posterior-inferior femoral neck on posterior-inferior acetabular rim) — often secondary to anteriorly rotated, forward hemipelvis. **Usually left in Left AIC.**
+**Positive:** femur will not adduct (restriction from anterior-inferior acetabular labral rim, transverse ligament, piriformis, or posterior-inferior femoral neck on posterior-inferior acetabular rim) - often secondary to anteriorly rotated, forward hemipelvis. **Usually left in Left AIC.**
 
 ### Standing reach / active ZOA screen
 Inability to touch toes with posterior expansion on inhale = ZOA / extension-bias problem (ties to PEC and hyperinflation). Successful toe touch **with** anterior compression + posterior expansion on inhale ≈ active ZOA.
@@ -166,20 +166,20 @@ Track as positive/negative:
 ### Cross-course composite (know what other courses own)
 **Myokinematic (L AIC / AF–FA):** facilitate L AF hamstrings, L AF IC adductor, R AF glute max, L FA ant glute med/min, R FA post glute med/min, L IO/TA; inhibit L TFL, R FA adductor magnus, L psoas, L FA piriformis, R AF piriformis, R VL.
 
-**Pelvis (inlet/outlet language):** facilitate pelvic inlet (L proximal iliacus, R sartorius, R rectus femoris, L IO/TA) and outlet (L proximal obturator, L iliococcygeus, L puborectalis/pubococcygeus, R glute max, R piriformis, R coccygeus); inhibit inlet (R thoracic hemi-diaphragm, R IO/EO, L paravertebrals) and outlet (R adductor magnus, R hamstrings, L piriformis, L coccygeus, L glute max) — per Left AIC–related table.
+**Pelvis (inlet/outlet language):** facilitate pelvic inlet (L proximal iliacus, R sartorius, R rectus femoris, L IO/TA) and outlet (L proximal obturator, L iliococcygeus, L puborectalis/pubococcygeus, R glute max, R piriformis, R coccygeus); inhibit inlet (R thoracic hemi-diaphragm, R IO/EO, L paravertebrals) and outlet (R adductor magnus, R hamstrings, L piriformis, L coccygeus, L glute max) - per Left AIC–related table.
 
 ---
 
 ## 5. Repositioning logic and non-manual progressions
 
-### Order philosophy (PRI Non-Manual CD organization — Postural Respiration)
+### Order philosophy (PRI Non-Manual CD organization - Postural Respiration)
 Typical L AIC + R BC involves pelvic/spinal/diaphragmatic orientation toward the right with thorax rotating back left above the diaphragm. Right-handed activity promotes that left upper trunk rotation and disadvantages R low trap / triceps / serratus.
 
 **Neuromotor order for this course's muscle programs:**
-1. **Right low trap + right tricep** — retract/posterior-tilt scapula; lower spinal rotation left; promote thoracic flexion; deactivate lats  
-2. **Left low trap + left serratus** — mid-spinal rotation right; stabilize thorax for right thoracic rotation and left rib IR; serratus lower fibers ER ribs / upper fibers IR ribs; promote desired kyphosis; engage serratus via arms reaching forward **and** ribs moving back  
-3. **Right serratus** — stabilize right scapula for right arm reach **without** left trunk rotation / right rib retraction  
-4. **Right subscapularis** — true HG IR independent of lat (after neutrality)
+1. **Right low trap + right tricep** - retract/posterior-tilt scapula; lower spinal rotation left; promote thoracic flexion; deactivate lats  
+2. **Left low trap + left serratus** - mid-spinal rotation right; stabilize thorax for right thoracic rotation and left rib IR; serratus lower fibers ER ribs / upper fibers IR ribs; promote desired kyphosis; engage serratus via arms reaching forward **and** ribs moving back  
+3. **Right serratus** - stabilize right scapula for right arm reach **without** left trunk rotation / right rib retraction  
+4. **Right subscapularis** - true HG IR independent of lat (after neutrality)
 
 **Position progressions (neuro-motor demand increases):**  
 - R low trap/tricep: Supine → All Four → Seated → Long Seated → Standing → Sidelying → Prone  
@@ -208,7 +208,7 @@ Use these **after** repositioning with a non-manual or manual technique. Later p
 ### ZOA abdominal / Postural Respiration repositioning family
 Appendix groups "ZOA Abdominal Non-Manual Techniques (Postural Respiration Repositioning)" then R low trap/tricep, then L low trap/serratus.
 
-### Right BC PRI treatment guidelines (decision tree — handout p.47 + appendix overview)
+### Right BC PRI treatment guidelines (decision tree - handout p.47 + appendix overview)
 **Dedicated deep skill:** [PRI Right BC Treatment Guidelines](sand-workflow:pri-right-bc-treatment-guidelines). Summary here for course context.
 
 **ZOA Abdominal Non-Manual entry (handout):** 90-90 Hip Lift with Right Arm Reach and Balloon; PRI Wall Supported Squat with Balloon; Left Sidelying Knee Toward Knee with Balloon; Right Sidelying Right Apical Expansion with Left Arm Reach and Left Adductor; Standing Supported Passive Left AF IR with Right Trunk Rotation.
@@ -216,7 +216,7 @@ Appendix groups "ZOA Abdominal Non-Manual Techniques (Postural Respiration Repos
 After ZOA abdominal non-manual techniques:
 - **All BC tests −** → **Right Low Trap & Right Tricep Program** (supine weighted tricep curls; supine resisted R tricep extension with R HG IR; seated alternating tricep pulldowns; seated R scapula pull-backs with R HG horiz abd; long seated supported press-down with abs; paraspinal release with L hammie; standing alternating tricep pulldowns; L stance in L AF IR with R UE resisted reach; L sidelying resisted R serratus punch with R trunk rotation; sidelying trunk lift R). Position ladder: Supine → All Four → Seated → Long Seated → Standing → Sidelying → Prone.
 - **Some/all tests still +** → Left AIC + Sternal with Active Pelvic Tilt **manual** (clinician); if still +, **Right Superior T4 manual**; then:
-  - All tests − → stabilize with **Left Low Trap & Left Serratus** *(handout: prior to initiating R LT/tricep)* — 90-90 supported wall leg lift with alternating resisted arm reach; seated resisted serratus punch with L hammies; standing serratus squat; all four belly lift reach; three point stance.
+  - All tests − → stabilize with **Left Low Trap & Left Serratus** *(handout: prior to initiating R LT/tricep)* - 90-90 supported wall leg lift with alternating resisted arm reach; seated resisted serratus punch with L hammies; standing serratus squat; all four belly lift reach; three point stance.
   - Still + **and** − R apical / + L apical → **Right Subclavius manual** (Superior T4 syndrome) → then L low trap/L serratus when clear.
 - **I&I consideration:** all tests − but insufficient R scapular-thoracic function (reach forward drops R shoulder / IR's / prone R serratus weaker) → Left AIC manuals then Right BC manuals emphasizing **Infraclavicular Pump, Right Sibson, Right Intercostal** → then **R serratus**.
 - **+ cluster with − R HG IR (≤80° or better)** → PRI Left AIC + Right BC manuals to thorax neutrality → then **R subscapularis**.
@@ -248,12 +248,12 @@ After ZOA abdominal non-manual techniques:
 
 - Do **not** load heavy sagittal strength on a flared, extended, ZOA-less thorax and call breathing "done."  
 - Do **not** chase "weak serratus" or "tight shoulder" before asking what the **ribcage under the scapula** is doing (winging often = rib position).  
-- Do **not** train true HG IR via lat-dominated patterns when Right BC / lat is the problem — restore thorax neutrality then train **subscapularis**.  
+- Do **not** train true HG IR via lat-dominated patterns when Right BC / lat is the problem - restore thorax neutrality then train **subscapularis**.  
 - Do **not** skip the neuromotor order (R low trap/tricep before L low trap/serratus before R serratus before R subscap) without a reason.  
 - Do **not** use late-position progressions (sidelying/prone standing variants) before the person can demonstrate the acquired action with less inhibitory demand.  
-- Do **not** treat bilateral PEC like unilateral Left AIC only — need bilateral ADT/EDT/trunk rotation logic and paravertebral/reach-based inhibition.  
+- Do **not** treat bilateral PEC like unilateral Left AIC only - need bilateral ADT/EDT/trunk rotation logic and paravertebral/reach-based inhibition.  
 - Manual Superior T4 / Subclavius / Infraclavicular pathways are clinician tools; S&C should not improvise them.  
-- CD note: if a technique seems "in the wrong muscle program," assume intentional neuromotor design — don't reshuffle by bodybuilding logic.
+- CD note: if a technique seems "in the wrong muscle program," assume intentional neuromotor design - don't reshuffle by bodybuilding logic.
 
 ---
 
@@ -266,7 +266,7 @@ After ZOA abdominal non-manual techniques:
 | **Postural Respiration (this)** | ZOA, BC, PEC thorax, apical expansion, serratus/low trap/subscap, lat/intercostal/paraspinal inhibition | Feeds I&I when scapular-thoracic capacity fails despite − BC tests |
 | **Impingement & Instability** | When neutrality exists but R ST function/IR/impingement mechanics remain | Manual treatment guidelines explicitly route "insufficient right scapular-thoracic function" to I&I-minded BC manuals + R serratus/subscap |
 
-**Integration symbol** on Non-Manual CDs marks techniques that integrate thorax with pelvis via abdominals — **not** to "strengthen abs," but to inhibit a pattern and facilitate a position.
+**Integration symbol** on Non-Manual CDs marks techniques that integrate thorax with pelvis via abdominals - **not** to "strengthen abs," but to inhibit a pattern and facilitate a position.
 
 ---
 

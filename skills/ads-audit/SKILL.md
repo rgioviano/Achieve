@@ -14,7 +14,7 @@ List connections. Use the accounts they named. None named → workspace defaults
 ## Pull
 Current vs prior (default last 7 vs prior 7). Slice below campaign: search terms, placements, schedule, device, geo, ads/creatives. Campaign totals are context, not findings.
 
-Google money is micros ÷ 1,000,000. Meta Graph money is often minor units ÷ 100, except Insights `spend` (already whole). Empty or all-zero Insights is not zero spend — recheck the window. Never invent spend, CPA, or ROAS.
+Google money is micros ÷ 1,000,000. Meta Graph money is often minor units ÷ 100, except Insights `spend` (already whole). Empty or all-zero Insights is not zero spend - recheck the window. Never invent spend, CPA, or ROAS.
 
 ## The bar
 An empty run is a good run. "Could be better" is not a finding.
@@ -24,17 +24,17 @@ Materiality: about $100/month measured waste, or ~3% of monthly spend, whichever
 At most three findings, worst first. One root cause = one finding.
 
 ## Hunt, in order
-A. Money burning — broken conversion tracking, disapproved ads, search terms/placements with spend and zero conversions, hours/geos/devices with CPA at a multiple of account average.
-B. Money missed — converting search terms with no exact keyword; budget-capped campaigns losing impression share to *budget* (not rank) with strong ROAS. Small reversible step, never a double.
-C. Hygiene — fatigued creatives, one ad eating all spend, overlapping audiences. Only if it clears the same money bar.
+A. Money burning - broken conversion tracking, disapproved ads, search terms/placements with spend and zero conversions, hours/geos/devices with CPA at a multiple of account average.
+B. Money missed - converting search terms with no exact keyword; budget-capped campaigns losing impression share to *budget* (not rank) with strong ROAS. Small reversible step, never a double.
+C. Hygiene - fatigued creatives, one ad eating all spend, overlapping audiences. Only if it clears the same money bar.
 
 ## How a finding reads
 Five pieces or it is not a recommendation:
-1. Thesis — one sentence, a number from THIS account
-2. Evidence — two or three facts with metrics, no adjectives
-3. Action — entity, field, from-value, to-value
-4. Impact — magnitude + confidence, scoped to a window
-5. Watch for — the metric and threshold that would prove it wrong
+1. Thesis - one sentence, a number from THIS account
+2. Evidence - two or three facts with metrics, no adjectives
+3. Action - entity, field, from-value, to-value
+4. Impact - magnitude + confidence, scoped to a window
+5. Watch for - the metric and threshold that would prove it wrong
 
 Title is a claim ("$2.1k/mo on search terms with 0 conversions"). One visual identity. No 20-row tables.
 

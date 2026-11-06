@@ -3,7 +3,7 @@ name: Mozi sales frameworks
 description: >-
   Use when drafting Achieve or IronBlueprint sales calls, closes, pricing
   diagnostics, partner offers, pre-call VSLs, or nurture that sits next to
-  3-7-30 — Mozi standing frameworks including pre-call leverage.
+  3-7-30 - Mozi standing frameworks including pre-call leverage.
 ---
 # Mozi frameworks (Achieve + IronBlueprint)
 

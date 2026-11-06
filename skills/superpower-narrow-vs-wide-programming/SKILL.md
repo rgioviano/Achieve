@@ -7,11 +7,11 @@ description: >-
 ---
 # Superpower: Narrow/elastic vs Wide/muscle programming
 
-**Source:** Hunter Eisenhower, SimpliFaster (2024-04-15) — *How to Train Narrow & Elastic-Driven Athletes vs. Wide & Muscle-Driven*. Full clip: `/home/box/agent-data/agents/0c56f311-56b5-4ded-ae36-22f03da7a160/memory/reference/superpower-narrow-elastic-vs-wide-muscle.txt`
+**Source:** Hunter Eisenhower, SimpliFaster (2024-04-15) - *How to Train Narrow & Elastic-Driven Athletes vs. Wide & Muscle-Driven*. Full clip: `/home/box/agent-data/shared/sc-reference/superpower-narrow-elastic-vs-wide-muscle.md`
 
 **Cross-links:** [CMJ force-time curve shape classification](sand-workflow:cmj-force-time-curve-shape-classification) · Hawkin Dynamics for plates · [Isometrics programming guide](sand-workflow:isometrics-programming-guide) when rigidity/iso is the elastic base · house order [Athlete program design guidelines](sand-workflow:athlete-program-design-guidelines)
 
-Eisenhower’s frame: structure (ISA) biases **Superpowers** vs **Kryptonites**. Dose kryptonite early (raise the floor), flip to superpower closer to season (raise the ceiling). Spectrum, not binary — place the athlete, then dose by **timing + training age**.
+Eisenhower’s frame: structure (ISA) biases **Superpowers** vs **Kryptonites**. Dose kryptonite early (raise the floor), flip to superpower closer to season (raise the ceiling). Spectrum, not binary - place the athlete, then dose by **timing + training age**.
 
 ---
 
@@ -27,8 +27,8 @@ Cited via Conor Harris:
 |---|---|---|
 | Typical bias | External rotation; feet more **supination**; more A–P space, less frontal | Internal rotation / compression; feet more **pronation**; more frontal space, less A–P |
 | Stance preference | Staggered / **split**; avoid grinding bilateral IR | **Bilateral**; less space for split |
-| Movement strategy | **Elastic** — muscle more isometric; tendons stretch/recoil (“free energy”) | **Muscular** — classic ecc→con; high force, slower / costlier |
-| Sport fit (examples) | Guards, springy skill — short GCT | Linemen / “force over time” tasks |
+| Movement strategy | **Elastic** - muscle more isometric; tendons stretch/recoil (“free energy”) | **Muscular** - classic ecc→con; high force, slower / costlier |
+| Sport fit (examples) | Guards, springy skill - short GCT | Linemen / “force over time” tasks |
 | Coach bias risk | Overdosed all year on powerlifting = kryptonite | Feels natural to most S&C coaches |
 
 ### Force-plate strategy (how > jump height alone)
@@ -56,7 +56,7 @@ Do not classify from jump height alone. Pair ISA + CMJ shape + four-jump strateg
 - Young Narrow: kryptonite ~**6**/8 weeks (foundation)
 - Veteran Narrow: kryptonite ~**2**/8 weeks (then maximize elastic ceiling)
 - Maintain small doses of the “other” means year-round so the floor doesn’t collapse
-- Never “peak” everyone with bilateral 1RM PR week right before season — outdated for elastic types
+- Never “peak” everyone with bilateral 1RM PR week right before season - outdated for elastic types
 
 Speed: still progress max velocity + repeat sprint (e.g. 10×10 Hansen) **regardless** of bucket; later individualize speed by archetype.
 
@@ -64,13 +64,13 @@ Speed: still progress max velocity + repeat sprint (e.g. 10×10 Hansen) **regard
 
 ## 3. Kryptonite menus
 
-### Narrow / elastic — kryptonite (train more like a Wide)
+### Narrow / elastic - kryptonite (train more like a Wide)
 - Highest yearly dose of **traditional bilateral** loading + rising intensity
 - Deadlifts, bilateral press/pull, deep bilateral squat patterns as appropriate
-- Expect: CMJ JH may drop from training stress, but *how* shifts — greater CM depth, slightly slower TTT, unimodal → **slightly more bimodal**; four-jump: ↑ GCT and ↑ JH (RSI maybe flat) = more muscular strategy
-- Still not *only* these weeks in the year — just the peak dose
+- Expect: CMJ JH may drop from training stress, but *how* shifts - greater CM depth, slightly slower TTT, unimodal → **slightly more bimodal**; four-jump: ↑ GCT and ↑ JH (RSI maybe flat) = more muscular strategy
+- Still not *only* these weeks in the year - just the peak dose
 
-### Wide / muscular — kryptonite (train more like a Narrow)
+### Wide / muscular - kryptonite (train more like a Narrow)
 - Strip bilateral high-intensity; challenge **force in short time / short ROM / light loads**
 - Progress **extensive plyo** volume; unilateral lower + upper; rotation (crawl, roll, gymnastic-type)
 - Expect: JH may fall faster (OK) if **TTT ↓** and CM **shallower**; four-jump: **↓ GCT** even if JH flat
@@ -81,7 +81,7 @@ Speed: still progress max velocity + repeat sprint (e.g. 10×10 Hansen) **regard
 
 ## 4. Superpower menus
 
-### Narrow / elastic — superpower
+### Narrow / elastic - superpower
 - Avoid high-intensity bilateral that forces prolonged IR + heavy compression (bilateral U+L)
 - Prefer **staggered / split** lower body
 - **Speed of movement > load intensity**
@@ -91,7 +91,7 @@ Speed: still progress max velocity + repeat sprint (e.g. 10×10 Hansen) **regard
 
 **Plate targets:** ↑ JH, ↓ TTT, shallower CM, sharp unimodal. Four-jump RSI ↑ mainly via **↓ GCT**, secondarily ↑ JH.
 
-### Wide / muscular — superpower
+### Wide / muscular - superpower
 - Return to **higher intensity bilateral** lower + upper
 - Faster movements: allow more time to produce force; load **slightly heavier** than Narrow superpower group
 - “Peak” feel: 1–3RM near season OK for this archetype (physio + psych)
@@ -103,10 +103,10 @@ Speed: still progress max velocity + repeat sprint (e.g. 10×10 Hansen) **regard
 
 ## 5. Achieve translation
 
-1. **Classify** with ISA (when known) + Hawkin CMJ shape + multi-rebound if available — ask Hawkin; don’t invent curves.
+1. **Classify** with ISA (when known) + Hawkin CMJ shape + multi-rebound if available - ask Hawkin; don’t invent curves.
 2. **Early block / young training age:** bias kryptonite (raise floor). **Late block / veteran elastic:** bias superpower (raise ceiling).
 3. In Programming drafts: name the bias in Direction (“Narrow/elastic superpower: split stance, speed, elastic plyos; maintain floor with light bilateral”) rather than dumping both menus equally.
-4. Swimmers / overhead: still honor overhead rules and [Swim dryland programming](sand-workflow:swim-dryland-programming); ISA bias modulates stance, plyo type, and bilateral dose — it does not override scap/PRI constraints.
+4. Swimmers / overhead: still honor overhead rules and [Swim dryland programming](sand-workflow:swim-dryland-programming); ISA bias modulates stance, plyo type, and bilateral dose - it does not override scap/PRI constraints.
 5. Force-time continuum language matches Achieve CMJ guide: secondary bimodal ↔ primary bimodal ↔ unimodal. Use both skills together.
 
 ## Anti-patterns

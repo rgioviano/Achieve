@@ -61,7 +61,7 @@ The other step-2 names in the best-set list are the 2012 pelvis sheets (wall pas
 - No celebration of toe-touch or deep squat while ADT and PADT are positive.
 - No left reach as the patho reach. Bilateral forward reach is the patho reach.
 - No right tricep, cuff, true overhead, or ER-to-overhead while apical expansion is still the bilateral cluster.
-- No loaded squat or deadlift to use the range they already have.
+- No loaded squat or deadlift to use the range they already have. (My inference from the p.85 hierarchy, NOT a printed manual line. Achieve floor rule: no lifetime bans; a pain-free athlete who braces flat can deadlift, unilateral first, trap bar high handles.)
 - No pelvic-floor techniques and no PRI Kegel until tests are negative and the abduction lift is 4/5.
 
 ## Handoff
