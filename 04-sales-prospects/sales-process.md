@@ -2,7 +2,7 @@
 
 ## Flow
 1. Inquiry arrives (website lead form, Meta Instant Form, call, SMS, email).
-2. **Tally** logs it in the Prospect Tracking Sheet (2026 tab, newest at top). Tally is the only CRM. Daily 8:00am CT pass on WordPress Lead Form emails. (TEAM.md, CRM ownership 2026-09-16)
+2. **Tally** logs it in the Prospect Tracking Sheet (2026 tab, newest at top). Tally is the only CRM. Tally's inbound watch runs Mon to Sat about 6:25am CT: it reads new leads from Penny's morning triage file (`lead_handoff.py triage-leads`), with a Gmail search as the backstop. There is no separate 8:00am run (Tally, 2026-11-01). (TEAM.md, CRM ownership 2026-09-16, updated 2026-11-01)
 3. First contact fast (speed to contact target 60 seconds or less; Sales owns live contact, Marketing owns the form trigger). (Max 2026-09-08)
 4. If the lead does not respond, the follow-up schedule below runs until they reply, book, or are Parked.
 5. Book the evaluation (Ryne books; evenings). Penny prepares a prep card about 30 minutes before each eval.
@@ -12,9 +12,15 @@
 ## Lead follow-up schedule (Ryne, 2026-10-22)
 - Leads who don't respond get follow-ups on **day 2, 5, 9, 14, 21 and 30** after first outreach. Then the lead is **Parked**.
 - Any reply or booking stops the schedule.
-- **Tally** owns the Prospect Tracking Sheet, including the Last Contact and Next Follow-Up columns, and builds the daily due list by script (8:00am CT). Tally hands the due list to Penny.
-- **Penny** runs the pre-draft check, drafts the follow-ups, saves emails to Ryne's work Gmail Drafts (texts stay as drafts in chat), never writes the sheet, and sends Tally one batched end-of-day list of the sends Ryne actually made.
+- **Tally** owns the Prospect Tracking Sheet, including the Last Contact and Next Follow-Up columns, and builds the daily due list by script (`followup_due.py`, never by hand). Tally posts it as a file with `lead_handoff.py post-due`; Penny reads it with `read-due` (2026-11-01).
+- **Penny** runs the pre-draft check, drafts the follow-ups, saves emails to Ryne's work Gmail Drafts (texts stay as drafts in chat), and never writes the sheet. She logs each send Ryne actually made with `lead_handoff.py log-send` (never drafts), and Tally reads them with `read-sends`. This file handoff replaced the 2026-10-22 batched end-of-day list in chat (Ryne approved 2026-11-01). Chat between Penny and Tally is for exceptions only.
+- One channel per lead per touch: never a Quo text and an email for the same touch (leads lane RULES, 2026-11-03).
 - Nothing sends without Ryne.
+
+## Achieve leads lane (live 2026-11-03, Ryne approved)
+- Penny, Tally and Max read three shared files before lead work: MAP (where things live), RULES (every correction Ryne has made, dated) and CHECK (the proof a job is done). Files live on the box under `shared/lanes/achieve-leads/`.
+- Rule 0: when Ryne corrects a bot in this lane, that bot adds one dated line to RULES the same day and tells Chief. Done claims need CHECK proof.
+- Quo Support (the public Achieve number) is the default outbound text line; the Quo SMS cutover closed 2026-11-03.
 
 ## Prospect Tracking stages
 - **Follow-up stages (Ryne, 2026-10-23):** "Contacted" for leads still getting follow-ups, "Replied" only when the lead replies, and "Parked" for leads with no reply after the day-30 follow-up.
@@ -49,4 +55,4 @@
 - TODO: Link to the Prospect Tracking sheet (Tally's profile holds it; add the link here if Ryne wants it in the repo).
 - TODO: Current close script version (athlete-eval-close-script-2026-10-09 is a draft on the box).
 
-Sources: Chief TEAM.md change log 2026-10-22 and 2026-10-23 (follow-up flow, stages, Parked, Achieve Minute list, pricing line); shared memory 2026-10-14 (signup target), 2026-10-22, 2026-10-23; TEAM.md (CRM ownership, Prospect Tracking stages 2026-10-06, call prep); Max memory profile.md; Maya memory profile.md; Tally and Eval Brief profile.json; achieve-offers/2026-10-07-monthly-lead-plan.md; workflows skill list.
+Sources: Chief TEAM.md change log 2026-10-22 and 2026-10-23 (follow-up flow, stages, Parked, Achieve Minute list, pricing line); shared memory 2026-10-14 (signup target), 2026-10-22, 2026-10-23; TEAM.md (CRM ownership, Prospect Tracking stages 2026-10-06, call prep); Max memory profile.md; Maya memory profile.md; Tally and Eval Brief profile.json; achieve-offers/2026-10-07-monthly-lead-plan.md; workflows skill list. Chief TEAM.md (Lauren ops 2026-11-01, Achieve leads triad 2026-11-03); `shared/lanes/achieve-leads/RULES.md` (2026-11-03); shared memory 2026-11-01 (lead handoff files).

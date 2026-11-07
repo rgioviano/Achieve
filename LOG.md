@@ -2,6 +2,15 @@
 
 Dated changes to this repo and to the fleet facts it depends on. Newest first. One line per change. Business decisions go in `10-decisions-log/decisions.md`; this file tracks the repo itself.
 
+## 2026-11-07
+- Weekly brain audit (third run, first on `main` with auto-merge). Covered 2026-10-31 to 2026-11-07. Most of the week was already in the 2026-11-05 full sync; this run adds what the sync missed or what changed after it.
+- NOW.md: November marketing reset (swim dryland Instant Form, older November plan parked); Achieve Minute "twice a month" line replaced by the HOLD; November social mix; Penny and Tally file handoff; leads lane; Quo cutover closed; Friday value update now in the Chief 1:1; bot name style.
+- `04-sales-prospects/sales-process.md`: Tally inbound watch (Mon to Sat about 6:25am, no 8:00am run); file handoff replaces the batched end-of-day send list; leads lane section; one channel per touch.
+- `05-marketing-ads/marketing.md`: November reset section; parked "Build from Nov 16" rule marked; Achieve Minute HOLD; November social mix; Promote room owner-filter; new TODOs. No new budget figures added.
+- `07-operations/operations.md`: Quo cutover closed and default line; Gmail signature conflict flagged; Penny's 2026-11-04 triage rule fixes.
+- `09-team-bots/bots.md`: Penny and Tally handoff commands; Nova covers personal social; bot name style; reviewer and done bar summary.
+- `10-decisions-log/decisions.md`: 2026-11-01 to 2026-11-06 decisions; two new open questions.
+
 ## 2026-11-05 (follow-up)
 - Follow-up to the full sync (Ryne answered the sync questions 2026-11-05 8:47pm CT).
 - Bot memory files (profile, logs, reference notes) synced from the box after a scrub: lines naming clients, athletes or leads, any email address or phone number that is not a public business one, and client health or family details were dropped. Em dashes swapped for hyphens. No secrets.

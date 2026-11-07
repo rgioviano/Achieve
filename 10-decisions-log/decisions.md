@@ -1,5 +1,11 @@
 # Decisions log (newest first)
 
+- 2026-11-06: Bot names are styled "Name / Title" with capitals on the main words (for example Penny / Admin, Tally / CRM). (Ryne, shared memory)
+- 2026-11-03: Quo SMS cutover closed; Quo Support (the public Achieve number) is the default outbound text line and the interim alternate line is dropped. One channel per lead per touch. (Ryne approved leads triad, Chief TEAM.md and leads lane RULES)
+- 2026-11-02: November marketing reset: one Swim Parents dryland Instant Form lead ad (Naperville, boys and girls, measurement-first evening eval, no prices, no Aurora), target live Thu 2026-11-05. The older November plan (quiet / warm plus adults phase 1, Build from Nov 16) is parked; adult ads later. Nothing spends without Ryne's go. (Ryne, Promote room)
+- 2026-11-02: November social is mostly athlete-geared, with an adult-oriented post only about every 6th or 7th; no adults-only plan. (Ryne, shared memory)
+- 2026-11-01: Penny and Tally move lead lists through handoff files (`lead_handoff.py`: triage leads, due list, logged sends), not chat; this replaces the 2026-10-22 batched end-of-day list. Each lane gets one reviewer and a done bar. Long instructions move into skills; profiles stay short. (Ryne approved, Chief TEAM.md)
+- 2026-11-01: Nova owns both Achieve business social and Ryne's personal social (separate brand skills); Echo retired. (Ryne, via Chief to Nova)
 - 2026-11-05: Charlie (CFO bot) is deleted. The Programming room is gone; Coach keeps leading programs 1:1 with Ryne. Maya's Achieve Meta ads Page heartbeat (Mon, Wed, Fri about 8:35am CT) keeps running in November. Bot memory files are synced to this repo after a client and athlete scrub. (Ryne, Chief chat 2026-11-05 8:47pm CT)
 - 2026-11-04: Briefs move to 1:1 chats (Penny's morning brief in her 1:1, Chief's evening debriefs and Friday value update in the Chief 1:1); nothing posts in group chats. No priorities in briefs; the 6:50am Today's priorities routine is deleted. Weekly brain repo PRs auto-merge after `brain_lint.py` passes. (Ryne, TEAM.md)
 - 2026-11-03: Achieve leads lane (MAP, RULES, CHECK) is live for Penny, Tally and Max. Promote room owner-filter ON. (Ryne, TEAM.md)
@@ -44,10 +50,12 @@
 - 2026-09-01: Achieve brand lock (promise, palette, banned words, athlete-first feed). (Atlas, now Red, memory)
 
 ## Open decisions
+- Achieve Minute rhythm: monthly for six months was suggested on 2026-11-02 but is not confirmed. No sends until Ryne locks it.
+- Gmail draft signature: the 2026-11-02 leads lane correction (end at "Thanks,", Spark adds the signature) vs the 2026-10-23 rule (type the full block). Which applies, and to which drafts?
 - Referral offer: the lead plan's $50-off alternative (decide before 2027-08-25) vs the locked 20% / 15% terms. TODO: is the $50 option dead now that the terms were restated 2026-10-23?
 - Ads budget: $700 October proposal with weekly 20% increases toward about $1,500 (2026-10-14) vs the $500/month lock. TODO: confirm.
 - Families/referrals launch email copy (pending).
 - Cancellations: does the "one courtesy pass" from the 2026-09-11 note and the `achieve-policies` skill still apply under the 2026-10-26 rule?
 - Account changes: is the 3-day processing time separate from the 5 days' notice to stop a debit in the `achieve-policies` skill, or does it replace it?
 
-Sources: Chief TEAM.md change log (2026-10-17 to 2026-10-23); shared memory 2026-10-14 to 2026-10-23; achieve-offers/2026-10-07-monthly-lead-plan.md section 7; Atlas (now Red), Maya, Max memory profile.md; Chief chat 2026-10-17.
+Sources: Chief TEAM.md change log (2026-10-17 to 2026-10-23); shared memory 2026-10-14 to 2026-10-23; achieve-offers/2026-10-07-monthly-lead-plan.md section 7; Atlas (now Red), Maya, Max memory profile.md; Chief chat 2026-10-17. Chief TEAM.md (sections dated 2026-11-01 to 2026-11-05); Promote room transcript 2026-11-02; `shared/lanes/achieve-leads/RULES.md`; shared memory 2026-11-01 to 2026-11-06.

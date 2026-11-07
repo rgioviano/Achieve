@@ -7,7 +7,7 @@
 ## Systems
 - Booking and billing: Mindbody (skill `mindbody-staff-book-cancel`). The Google calendar named Achieve syncs Mindbody appointments.
 - Programs: TrainHeroic. Notes: Asana Programs board. Force plates: Hawkin Cloud. Assessments: Drive Clients folder.
-- Phone and texting: Quo (preferred) and Numa (read-and-draft only until the Quo cutover). Email: Gmail (work and contact accounts).
+- Phone and texting: Quo. The Quo SMS cutover closed 2026-11-03; Quo Support (the public Achieve number) is the default outbound text line and the interim alternate line was dropped (Chief TEAM.md, leads triad 2026-11-03). TODO: confirm whether Numa is now retired or still read for old threads. Email: Gmail (work and contact accounts).
 - Slack (Achieve workspace): #clients for coach briefs.
 
 ## Policies
@@ -20,12 +20,14 @@
 ## Email drafts (Ryne, 2026-10-22 and 2026-10-23)
 - Email drafts for Ryne go into the Drafts folder of the right Gmail account, as threaded replies under the original email. Not draft cards in chat. The bot tells Ryne who each draft is to and its subject. Texts still come as drafts in chat. Nothing sends unless Ryne sends it himself.
 - Drafts saved through the Gmail connector do NOT get Ryne's signature added automatically. Every saved draft ends with "Thanks," and then his full signature block typed in, exactly as in his sent mail (see the `achieve-mail` skill for the block). This replaces the older note to never type the signature.
+- CONFLICT (open question): the Achieve leads lane RULES file has a correction dated 2026-11-02 (Ryne) saying to end Gmail drafts at "Thanks," only, because Spark already adds the signature. Part of that line is struck through in the file, and shared memory still has the 2026-10-23 rule to type the full block. Until Ryne confirms, follow the shared rule above for general mail and the lane RULES file for lead drafts.
 - Formatting: pass both a plain-text body (blank lines between paragraphs) and an HTML body in Gmail's own style: each paragraph in its own div, an empty line div after the greeting, between paragraphs, after "Thanks," and before "For scheduling or account questions:", then one signature line per div. Paragraph tags show in Gmail with no space between paragraphs, so do not use them.
 - Penny's writing rules (approved 2026-10-23): answer first and cut soft openers; use concrete specifics; end with a question; offer open time windows. Penny runs a Friday 7:00am CT review of her drafts against what Ryne sent; style rules change only when Ryne approves.
 
 ## Inbox sorting
 - Penny's morning inbox sorting runs as a script (`inbox_triage.py`) at about 6:15am CT, feeding the 6:45am brief. It only sorts; it never archives or deletes mail. It has run every day, weekends included, since 2026-10-24 (daily output files on the box). (Ryne approved 2026-10-23)
 - Fresh-week check (Penny, 2026-10-29, mail from 10/23 to 10/30, rules unchanged): 150 of 198 messages sorted right (about 76%). Payment and security alerts were all right. Weakest bucket: scheduling (3 of 14 found). Lead forms: 2 of 4 found. A daily spot-check of the FYI and promo buckets runs through 2026-11-05.
+- Rule fixes (Penny, 2026-11-04, 55 tests passing): automated verification-code and opt-out texts from Quo go to security or FYI instead of client replies; a first-contact training question to the contact inbox goes to lead forms; domain-sale pitches go to junk.
 
 ## Calendar conventions (for bots managing Ryne's calendar)
 - Titles describe the work: Coaching, Programs, Admin, Meet w/ Name, Eval - FirstName LastName. Not campaign names.
@@ -36,4 +38,4 @@
 - TODO: Coach roster and roles (a coach named Scott covers some sessions per the 10/19 calendar; confirm roles).
 - TODO: SOPs (one exists on the box: Mindbody pause-billing SOP; confirm it is current and matches the 2026-10-23 pause rules).
 
-Sources: Chief memory 2026-10-26 (cancellations, account changes); Penny fresh-week report `inbox_triage_test/fresh_1030/REPORT.md` and `penny/triage/` run files (2026-10-24 to 2026-10-30); shared memory 2026-10-22 (Gmail Drafts) and 2026-10-23 (signature, HTML format, pauses, Penny writing rules, inbox_triage.py); Chief TEAM.md change log 2026-10-22 and 2026-10-23; Atlas (now Red) memory profile.md; Chief memory profile.md and tomorrow-priorities.md; Penny profile.json; workflows skill list; /workspace/achieve-ops file list.
+Sources: Chief memory 2026-10-26 (cancellations, account changes); Penny fresh-week report `inbox_triage_test/fresh_1030/REPORT.md` and `penny/triage/` run files (2026-10-24 to 2026-10-30); shared memory 2026-10-22 (Gmail Drafts) and 2026-10-23 (signature, HTML format, pauses, Penny writing rules, inbox_triage.py); Chief TEAM.md change log 2026-10-22 and 2026-10-23; Atlas (now Red) memory profile.md; Chief memory profile.md and tomorrow-priorities.md; Penny profile.json; workflows skill list; /workspace/achieve-ops file list. `shared/lanes/achieve-leads/` MAP and RULES (2026-11-03, Quo cutover, signature correction 2026-11-02); Chief TEAM.md (Achieve leads triad, 2026-11-03); Penny triage report to Chief 2026-11-04.
