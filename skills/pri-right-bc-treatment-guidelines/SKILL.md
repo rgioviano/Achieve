@@ -132,17 +132,21 @@ S&C response when athlete is stuck on these branches: keep ZOA / inhibition / ea
 
 ## 6. Inhibition menus (when BC stays sticky)
 
-Use when: limited R apical expansion; limited L horizontal abduction; deep inspiration drives L rib flare / L back extension / R SCM / right lateralize; chronic R upper trap / SCM / QL / lat / paraspinal / hip-flexor tension.
+Use the printed “Consider using these recommended inhibition techniques if the patient demonstrates” lists (**PRI**, Postural Respiration, Aug 2019 rev., pp.68-69 for Right BC; pp.75-77 for PEC). Pick one named NM. Manual techniques on pp.72-74 stay clinician-only.
 
-Examples from Postural Respiration inhibition logic (coach-usable):
-- Sidelying Swiss Ball Inhibition  
-- R Sidelying R Apical Expansion with Balloon (± L FA IR)  
-- Standing QL and Intercostal Stretch  
-- Late Left AIC Stance with Right Arm Reach  
-- All Four Intercostal and Latissimus Inhibition  
-- L Sidelying L Flexed FA Adduction with R Glute Max and R Trunk Rotation  
+Right BC pattern:
 
----
+- **Right Intercostal Inhibition (p.68)** - if limited right apical expansion; limited left shoulder horizontal abduction; difficulty with deep inspiration without compensation (left ribs flare up, left back extends, right SCM contracts, entire body lateralizes right); or ongoing tension of the right upper trap, right SCM, right QL, right latissimus, right paraspinals, or right hip flexors. Named: Sidelying Swiss Ball Inhibition; Right Sidelying Right Apical Expansion with Balloon; Right Sidelying Right Apical Expansion with Left FA IR; Standing Quadratus Lumborum and Intercostal Stretch; Late Left AIC Stance with Right Arm Reach; All Four Intercostal and Latissimus Inhibition; Left Sidelying Left Flexed FA Adduction with Right Glute Max and Right Trunk Rotation.
+- **Left Pectoral Inhibition (p.69)** - if limited left shoulder horizontal abduction; poor sense of left stance and left orientation; difficulty inhibiting the right abdominal wall; or inability to orient the upper trunk to the left with the lower trunk oriented right, as indicated by left shoulder horizontal abduction and right leg rotation. Named: Sternal Positional Stretch; Sternal Positional Swiss Ball Stretch; Supine Pectoralis Stretch with Left Trunk Rotation; Left Sidelying Left Flexed FA Adduction with Right Glute Max and Right Trunk Rotation.
+
+PEC pattern (use when the thorax presentation is bilateral PEC, not as a second program on a Left AIC):
+
+- **Paravertebral Inhibition (p.75)** - if limited apical expansion on one or both sides; forward locomotion without rib rotation (very stiff/rigid back); or asymmetrical and limited bilateral arm swing. Named: Dorsal Thoracic Inhibition; All Four Belly Lift Walk; Stair Short Seated Balloon; Paraspinal Release with Left Hamstrings; Squatting Bar Reach; Standing Wall Supported Resisted Reach; Heel Stair Descents.
+- **Anterior Neck Inhibition (p.76)** - if limited shoulder horizontal abduction on one or both sides; limited cervical axial rotation on one or both sides; strong forward head posture; or difficulty keeping the head on the table, or the neck relaxed, when reaching forward in supine hooklying. Named: Supine Hooklying Bar Reach; Seated Resisted Alternating Tricep Pull Downs; Standing Resisted Low Trap Press Through; Standing Serratus Squat; Left Sidelying Supported Trunk Lift.
+- **Right Latissimus Inhibition (p.76)** - if limited right apical expansion or limited right HG IR. Named: Latissimus Hang with Balloon; Squatting Bar Reverse Reach; Standing Latissimus Stretch; Standing Resisted Alternating Respiratory Reach; Seated Resisted Serratus Punch with Left Hamstrings.
+- **Left Posterior Mediastinum (p.77)** - if limited right trunk rotation; limited right apical expansion; limited left shoulder horizontal abduction; or difficulty performing (or progressing) the Posterior Mediastinum Respiratory Reach Test. Named: Wall Short Seated Twists / 80-80 Chair Seated Twists; Long Seated Alternating Crossovers; Standing Wall Press with Left Posterior Mediastinum Expansion; Standing Left Posterior Mediastinum Expansion with Resisted Right Diagonal Flexion; All Four Left Posterior Mediastinum Expansion in Left Trunk Rotation.
+
+Achieve floor note (2026-11-10): the handout's "before and after every stage, recheck" is clinician language. On the Achieve floor, use the cluster to pick the one technique; no mid-session gating retests.
 
 ## 7. What NOT to do
 
@@ -165,3 +169,7 @@ Examples from Postural Respiration inhibition logic (coach-usable):
 6. Pair extension-heavy lifts with flexion/reach or exhalation-biased breathing check.
 
 Open [PRI Postural Respiration](sand-workflow:pri-postural-respiration) for ZOA theory; [PRI Impingement and Instability](sand-workflow:pri-impingement-instability) when ST function fails despite − BC tests.
+
+## Added 2026-11-10 (manual deep pass 2)
+
+Do not paste the Type I/II/III menus here (that is the I&I skill’s job; pass 1 already owns the PR inhibition maps). Add one handoff line: after BC tests support neutrality but scapular resting type or ST/HG complaints remain, open `pri-impingement-instability` Type I/II/III guidelines. Always restore both BCs to neutral first (I&I pp.66, 70, 72).

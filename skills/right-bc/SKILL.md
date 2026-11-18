@@ -34,7 +34,7 @@ Track the Right BC cluster. Do not invent cutoffs.
 
 - Left shoulder horizontal abduction under 45 degrees.
 - Left cervical axial rotation limited. No degree cutoff is printed.
-- Left humeral-glenoid flexion limited. No degree cutoff is printed.
+- Left humeral-glenoid flexion limited: less than 160° is limited (PRI, Postural Respiration, Aug 2019 rev., p.42; corrected 2026-11-10).
 - Right apical expansion limited compared with the left. Negative right apical with positive left apical after a Superior T4 attempt is a clinician subclavius path, not a gym drill.
 - Right HG IR under 80 to 90 degrees is limited. The overview routes to right subscapularis when the other tests are still positive but right HG IR is 80 degrees or better.
 
@@ -65,3 +65,17 @@ The Postural Respiration non-manual CD prints the reverse default and starts the
 ## Handoff
 
 Cluster clears and reach is clean in supine, prone, and left sidelying: standing right low trap and right tricep, still not a loaded press. Pelvis tests regress: return to Left AIC. Lift order is Fitness and Movement, only after this gate.
+
+## Added 2026-11-10
+
+Difficulty performing or progressing the Posterior Mediastinum Respiratory Reach Test (PR p.40; no absolute cutoff) is a printed indication for the Left Posterior Mediastinum NM list (PR p.77), which includes Standing Wall Press with Left Posterior Mediastinum Expansion.
+
+## Added 2026-11-10 (fundamentals audit)
+
+Place after “Who this pattern is.”
+
+**Mechanics (PRI):** The Right Brachial Chain sits over the anterior pleural/cervical area and influences cervical rotation, shoulder dynamics, and apical inspiratory expansion. Attachments from costal cartilages/bone of ribs 4-7 and the xiphoid to the occiput, mandible, and coracoid. Members: triangularis sterni, SCM, scalenes, pec minor, intercostals, pharynx/anterior neck. Right BC is opposed by right PEC, lower trap, serratus, external rib rotators, **plus left internal obliques.** In Right BC the posterior mediastinum is more closed/anterior on the left and more opened/posterior on the right. Apposition is almost always lost on the left (Left AIC) or bilaterally (PEC). Greatest patterned impact is on rib alignment and breathing. (**PRI**, Postural Respiration, Aug 2019 rev., polyarticular chain and ZOA / posterior mediastinum sections.)
+
+**B BC gate (keep, and tie to PR p.38):** Bilateral shoulder horizontal abduction <45° can be a bilateral BC and can also be a bilateral PEC. If +B ADT and +B PADT, PEC or Patho PEC owns the first block. Do not add a mirrored left BC program.
+
+**Hierarchy:** Already correct (left ZOA first; left low trap/serratus before right low trap/tricep while apical expansion is asymmetric; clinician Superior T4 / subclavius paths are not gym drills; refer when those branches stay stuck). Injury: `pri-shoulder-pain-prescription`, proposed I&I Type I/II/III menus, and `pri-injury-presentations`.

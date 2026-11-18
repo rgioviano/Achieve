@@ -20,7 +20,7 @@ Source: Ryne Gioviano. Policies 2026-10-12, in-season rule 2026-10-09, pricing s
 - First eval is free. Never call it complimentary or 1:1.
 - Anyone off more than a month returns at the current rate.
 - Athletes in season: 12-month term; may optionally drop to 1x/week in season and resume after. A step-down, not a pause.
-- Annual (12-month) contracts can't be paused (Ryne, 2026-10-23). Offer a lighter or modified program instead.
+- In-season pause or drop-down requests (Ryne, 2026-11-10): the goal is to keep kids coming in during the season at their current plan and rate. Lead with staying on their current schedule and adjusting load around their season. A pause or drop-down just for the season is allowed even on a contract, including 12-month, but only as a downsell or last resort if they push back. (This replaces the 2026-10-23 "annual contracts can't be paused" line for in-season athletes.)
 - Pause length (Ryne, 2026-10-23): a pause is generally allowed for 1 month at most, and the client keeps their grandfathered rate. The one exception is an in-season hold, where the restart date can be up to 2 weeks after the high school season ends (for example, May 1 after state). Anyone who comes back after a longer break restarts at the current rate. When confirming a pause, give the restart-by date.
 - Second family member: 15% off. Mention it only when they ask or it will likely help close the sale, never by default (Ryne, 2026-10-23).
 - All services continue until written notice is received. Clients pre-pay monthly. No setup fee on any tier.
@@ -62,6 +62,7 @@ Per athlete. Sessions don't roll over. Billed every four weeks.
 6. Still run the pre-draft check and writing-style rules.
 
 ## Changelog
+- 2026-11-10: in-season requests: keep current plan/rate first; season-only pause or drop-down allowed even on contracts, as last resort (Ryne, about one in-season client).
 - 2026-10-31: late cancel confirmed as 24-hour rule plus one courtesy pass still applies; account-change 3-day human referral noted (3-day vs 5-day debit stop still awaiting Ryne clarify).
 - 2026-10-23: one "Pricing starts at $X/mo" line allowed in lead emails; grandfathered-rate hold rule; 15% second family member (only when asked or it helps close).
 - 2026-10-23: added that annual contracts can't be paused (Ryne, about Avery Lantz).

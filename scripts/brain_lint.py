@@ -101,9 +101,8 @@ def read_text(path):
     if os.path.splitext(path)[1].lower() in TEXT_EXT_SKIP:
         return None
     try:
-        # Read the whole file so a large export is not cut off mid-scan.
         with open(path, "rb") as fh:
-            data = fh.read()
+            data = fh.read(5_000_000)
     except OSError:
         return None
     if b"\x00" in data[:4096]:

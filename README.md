@@ -17,11 +17,11 @@ Status: local draft built 2026-10-17. Not yet a GitHub repo.
 
 Sources: this folder.
 
-## Skills index (99 skills)
+## Skills index (102 skills)
 
-Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). Synced from Ryne's Grok Bot skill library on 2026-11-05. Em dashes were swapped for hyphens and email addresses that are not Ryne's business addresses were replaced, per the repo rules.
+Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). Synced from Ryne's Grok Bot skill library on 2026-11-05; changed skills refreshed 2026-11-18. Em dashes were swapped for hyphens and email addresses that are not Ryne's business addresses were replaced, per the repo rules.
 
-- `knowledge-base-audit`: End-of-day audit that proposes brain edits as a diff for Ryne's approval (the weekly update auto-merges after lint, 2026-11-04).
+- `knowledge-base-audit`: End-of-day audit that proposes brain edits as a diff for Ryne's approval (since 2026-11-07 the weekly update waits for Ryne's yes).
 - `achieve-dryland-captions`: Use when Marketing drafts Achieve dryland or athlete social captions - full coach sentences, not choppy cool fragments; ask season/context before multi-platform batches.
 - `achieve-equipment-brand-rooms`: Use when writing or reviewing Achieve or NTA programs, naming gear constraints, or deciding whether dipping belts / racks / TRX / SSB are available - stop inventing missing equipment and never bleed NTA limits onto Achieve.
 - `achieve-mail`: Use when Ryne runs /achieve-mail or asks about Achieve/IronBlueprint inbox, triage, leads, or drafting client email. Gmail only (work + contact + IronBlueprint connectors); never Spark.
@@ -29,11 +29,11 @@ Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). 
 - `achieve-program-asana-from-eval`: Use when filling or creating an Achieve Programs Asana Make-program task from a Drive Assessment after signup (or when Ryne asks to backfill an old eval).
 - `achieve-program-design-docs`: Use this as the index to Ryne’s uploaded Achieve program-design skills when unsure which doc applies (athlete vs adult, loading, isometrics, season, taper, PRI, progressions, program design basics).
 - `achieve-program-progression`: Use before drafting an Achieve athlete/client program: search TrainHeroic Library by their name, open consecutive programs (short chains OK), and infer Ryne’s within-block and block-to-block progression so the next draft reads like he wrote it.
-- `achieve-prospect-tracking`: Use when CRM adds Achieve prospects to Prospect Tracking, logs lead touches, updates Stage/Eval?/Contact Count, builds the speed-to-book due list or Friday scoreboard, or updates the yearly dashboard. New rows at top, never guess.
+- `achieve-prospect-tracking`: Use when CRM adds Achieve prospects to Prospect Tracking, logs lead touches, updates Stage/Eval?/Contact Count, builds the speed-to-book due list or Friday scoreboard, or updates the yearly dashboard. New rows in Contact Date order (newest at the top), never guess.
 - `achieve-reactivate-win-backs`: Use when PA hands due Achieve Reactivate rows or when drafting win-back emails for people who stopped training.
 - `achieve-social-brand`: Use when drafting Achieve Sports Performance business X or Instagram posts, captions, Reel scripts, or light calendars for the Achieve brand accounts.
 - `achieve-staff-meeting-docs`: Use when creating, duplicating, or filling an Achieve Staff Meeting Google Doc (biweekly agenda), or when editing New Starts / roster sections so they match Ryne’s locked format.
-- `achieve-writing-style`: Use when drafting Achieve or IronBlueprint email or Numa texts, and after Ryne sends so this skill is rewritten from what he actually sent.
+- `achieve-writing-style`: Use when drafting Achieve or IronBlueprint email or Quo texts, and after Ryne sends so this skill is rewritten from what he actually sent.
 - `ad-metrics-decisions`: Use this when auditing Meta or Google ads performance, choosing kill/hold/scale/refresh actions, explaining which metrics matter vs vanity, or updating monthly ads knowledge with metrics decision rules.
 - `ads-audit`: Use when the user wants a Google Ads or Meta audit. Propose only. Findings must clear a money bar and read like a decision, not a dashboard.
 - `adult-program-design-guidelines`: Use this when designing Achieve adult or semi-private training programs (not sport-season athletes).
@@ -45,7 +45,6 @@ Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). 
 - `bilateral-knee-dominant-progressions`: Use this when choosing, progressing, or regressing a Bilateral Knee-Dominant exercise from the Achieve house ladder.
 - `bilateral-vertical-pull-progressions`: Use this when choosing, progressing, or regressing a Bilateral Vertical Pull exercise from the Achieve house ladder.
 - `bilateral-vertical-push-progressions`: Use this when choosing, progressing, or regressing a Bilateral Vertical Push exercise from the Achieve house ladder.
-- `check-numa-inbox-read-only`: Use when checking the Numa business-texting inbox (inbox.numa.com) for new or unanswered customer texts - for a brief, a triage pass, or a specific thread. Read-only: read and report, draft replies in chat, never send or type into Numa.
 - `cmj-force-time-curve-shape-classification`: Use when classifying a CMJ propulsive-phase force-time curve shape from raw Hawkin data, or when giving plate-driven training direction from that shape. Sources: Achieve CMJ guide + Kahook/Cressey CMJ Parts 1–2 (phases; graph shape is king).
 - `cold-email-reply-rules`: Use when drafting Achieve or IronBlueprint cold first-touch or re-engage sales emails (not booked-eval replies, not pricing replies to inbound questions).
 - `design-model-routing`: Use when making a designed file (image, PDF, slide, carousel, lead magnet, pricing sheet, ad static, brand kit) for Achieve or IronBlueprint and deciding whether to stay in chat or launch a CloudAgent, which model, and how to keep the run cheap.
@@ -53,6 +52,7 @@ Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). 
 - `elbow-flexion-progressions`: Use this when choosing, progressing, or regressing an Elbow Flexion exercise from the Achieve house ladder.
 - `email-marketing`: When planning, writing, reviewing, or measuring marketing emails or newsletters (value emails, welcome sequences, list growth, deliverability, copywriting).
 - `eval-cutoffs`: Use when deciding Positive vs limited on Achieve eval or PRI battery tests, or locking Pos phrasing for program-Asana notes from measured degrees.
+- `exercise-instruction-pass`: Use when asked to draft, score, highlight, and source-check exercise instructions for one category (e.g. 'run the instruction pass on Bilateral Horizontal Push') in an exercise progressions Google Sheet.
 - `exercise-progressions-and-selections`: Use this when choosing, progressing, regressing, or lateralizing an Achieve exercise from the house progression CSV, or when you need the index of per-category progression skills.
 - `fitness-and-movement`: Use for lift-program order from PRI Integration for Fitness and Movement (2020 five steps, 2018 plane notes). Not for PRI restoration techniques.
 - `frc-progressions-and-prescriptions`: Use when choosing, progressing, or regressing Functional Range Conditioning (FRC) work: CARs for maintaining mobility, PAILs/RAILs for increasing mobility, and PRH → PRLO → Hovers → ERR for end-range strength and control.
@@ -80,14 +80,17 @@ Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). 
 - `pec`: Use for a bilateral PEC who cannot toe-touch: bilateral ADT and PADT positive, PART negative, squat under 3/5. Bilateral inhibition before Left AIC facilitation. Best set is standing wall reach, then 90-90 passive FA IR balloon, then modified all-four belly lift.
 - `pre-draft-check`: Use before showing the user any draft text, email, or message to a real person (lead, client, parent, vendor), or before booking anyone. Verify the recipient, plan term, recent calls and texts, times, and facts live first.
 - `pri-breathing-exercise-selection`: Use when choosing Achieve breathing, PRI repositioning, or warm-up/tertiary exercises from Left AIC / Right BC / PEC findings, especially for swimmers and overhead athletes. Open the PRI course and handout skills linked below for expert-depth theory, tests, decision trees, and hierarchies.
+- `pri-fundamentals-glossary`: Use when a PRI term, chain, or test name needs a short definition before opening the pattern or course skill.
 - `pri-impingement-instability`: Use this when discussing positional impingement vs primary impingement, Left AIC/Right BC instability tables (foot/ankle, knee, FA/AF, HG, scapular-thoracic), Right BC treatment after neutrality, subscapularis vs lat IR, or I&I as the secondary course beyond the three intros.
+- `pri-injury-presentations`: Use when the question is “this athlete has X pain - what does PRI do?” after the pattern screen.
 - `pri-myokinematic-restoration`: Use this when programming or discussing lumbo-pelvic-femoral PRI - Left AIC AF/FA mechanics, Adduction/Extension Drop and Hruska lift tests, AF IR / AF ER goals, glute max / IC adductor / hamstring facilitation, or when Myokinematic is the correct course vs Pelvis Restoration (PADT gate).
 - `pri-non-manual-techniques-workshop`: Use this when selecting primary PRI non-manual techniques, cueing reference/referent sensing, choosing position progressions, or deciding which muscle or inhibition family to open after Myokinematic, Pelvis, or Postural screens.
 - `pri-pelvis-restoration`: Use this when programming or discussing pubo-sacral / pelvic inlet–outlet PRI - Left AIC vs PEC vs Patho PEC pelvis patterns, ADT/PADT/PART/Hruska tests, ilio-sacral instability hierarchy, pelvic diaphragm goals, or when Pelvis Restoration is the correct course vs Myokinematic or Postural Respiration.
 - `pri-postural-respiration`: Use this when programming or discussing thoraco-abdominal PRI - Zone of Apposition, Left AIC / Right BC / PEC recognition, apical expansion, serratus and low-trap progressions, lat/intercostal/paraspinal inhibition, or how Postural Respiration links to Myokinematic, Pelvis, and Impingement & Instability.
+- `pri-question-router`: Use first on any PRI question (advisor or programming) to route it to the right manual pages, pattern skill, and notes before answering.
 - `pri-right-bc-treatment-guidelines`: Use this when interpreting Right BC test clusters and deciding whether to progress Right low trap/tricep vs Left low trap/serratus vs Right serratus vs Right subscapularis, including Superior T4 / Subclavius / Infraclavicular clinician pathways and inhibition menus after ZOA work.
 - `pri-shoulder-pain-prescription`: Use when prescribing PRI non-manual techniques for overhead right bicipital tendonitis or right shoulder impingement (Advanced Integration menus with Left IO/TA), including mechanic lists and named technique banks.
-- `pri-squat-and-respiration`: Use this when coaching squat ascent/descent breathing variants, deciding when inhale-on-descent is earned via ZOA, or applying Left AIC / PEC pelvic–rib positioning to loaded squats.
+- `pri-squat-and-respiration`: Use this when coaching squat ascent/descent breathing variants, deciding when inhale-on-descent is earned via ZOA, or applying Left AIC / PEC pelvic-rib positioning to loaded squats.
 - `pri-swimming-in-depth`: Use this when applying a PRI lens to swimming pattern, stroke pathomechanics, lat/BC/PEC themes, and dryland implications for freestyle, fly, back, or breast - separate from pool turn/start ISO angles and Achieve stroke dryland playbook.
 - `pri-techniques-by-pattern`: Use when choosing a PRI restoration technique. Pick the pattern first (Patho PEC, PEC, Left AIC, Right BC), then the earliest position that pattern has earned. Not for Fitness and Movement lifts.
 - `program-design-basics`: Use this when writing or checking an Achieve session structure - order, pairings, 1–4x/week layout, sets/reps defaults, deload, and cook-vs-chef house rules from Ryne’s Program Design Basics.
@@ -101,7 +104,7 @@ Each skill lives in `skills/<slug>/SKILL.md` (some have extra reference files). 
 - `sales-discovery-questions`: Use when planning or running discovery on a sales call, booking call, or evaluation intake: NEPQ question bank (connecting, situation, problem, solution, consequence, qualifying) plus pre-frame intake questions.
 - `sales-eval-close`: Use when scripting or running the close at the end of an Achieve evaluation (20-minute screen): recap pain, transition, splinter stack, anchor, menu, commitment questions, same-day bonuses, in-season answer.
 - `sales-follow-up-after-eval`: Use when drafting follow-up for someone who had an evaluation (20-minute screen) and did not sign up, or who asked to wait (spouse, season, PT).
-- `sales-nurture-3-7-30`: Use when drafting Achieve or IronBlueprint sales email, Numa, or lead nurture sequences - value sequence, not chase.
+- `sales-nurture-3-7-30`: Use when drafting Achieve or IronBlueprint sales email, Quo texts, or lead nurture sequences - value sequence, not chase.
 - `sales-objection-handling`: Use when handling or scripting answers to sales objections (think it over, too expensive, spouse, season not over, timing, send me info): NEPQ clarify first, then 3A (Acknowledge, Associate, Ask).
 - `sales-offer-enhancers`: Use when adding scarcity, urgency, guarantees, bonuses, bribes, or a downsell to an Achieve sales conversation or offer. Real only.
 - `sales-tonality-and-delivery`: Use when coaching how to say sales lines on a call or at an evaluation: status frame, tone per phase, pace, pauses, feel vs think wording.
@@ -135,7 +138,7 @@ Each bot lives in `bots/<slug>/`: `INSTRUCTIONS.md` (its profile.json instructio
 - `maya` (Maya): ONLY job: master of social media and content strategy/creation for Ryne Gioviano across Achieve Sports Performance and IronBlueprint, plus overarching marketing
 - `metric` (Metric): ONLY job: for Ryne Gioviano, deep-dive metric changes, analyze experiments, and visualize data the right way across Achieve Sports Performance and IronBlueprint
 - `nova` (Nova): ONLY job: for Ryne Gioviano, day-to-day partner for social drafts on BOTH Achieve BUSINESS X/Instagram and his PERSONAL X/Instagram. Ideas, hooks, captions, Ree
-- `pri` (PRI): ONLY job: PRI (Postural Restoration Institute) specialist for Ryne Gioviano / Achieve Sports Performance. Own Left AIC, Right BC, PEC / Patho PEC pattern recogn
+- `pri` (PRI): ONLY job: PRI (Postural Restoration Institute) specialist and advisor for Ryne Gioviano / Achieve Sports Performance. Two roles: (1) Ryne's go-to PRI advisor in
 - `quill` (Quill): Copy chief for Achieve Sports Performance and IronBlueprint. Rewrites landing pages, ads, emails, and share cards so every line is visual, falsifiable, and only
 - `rank` (Rank): Track keyword, technical, AI-prompt, and competitor movement in one place. Surfaces whether you're gaining or losing ground, flags site issues that need a fix, 
 - `red` (Red): Project manager for Achieve. Owns Achieve Sports Performance for Ryne Gioviano (ryne@achievesportsperformance.com). You coordinate the other bots on Achieve wor

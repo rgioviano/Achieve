@@ -1,10 +1,10 @@
 # Rank
 
-- Profile name: Rank · SEO/AEO
+- Profile name: Rank / SEO/AEO
 - Title: (empty)
 - Agent id: 87fc5650-543f-4643-9dc1-deebc8ef54e8
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

@@ -1,10 +1,10 @@
 # Nova
 
-- Profile name: Nova · social
+- Profile name: Nova / Social
 - Title: (empty)
 - Agent id: 6b3492d4-c1d7-448a-bed0-38dbb76b7828
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

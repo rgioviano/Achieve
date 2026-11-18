@@ -95,3 +95,15 @@ Also → intra-scapular weakness. Muscle map: traps · triceps.
 - More lat-driven IR or heavy pull volume for “shoulder stability”
 - Band pull-aparts only while thorax still can’t expand or rotate right
 - Ignoring L IO/TA when dosing R LT / R tricep / serratus drills
+
+## Added 2026-11-10 (Desktop manual deep pass)
+
+Source: memory/reference/pri-research-digs/2026-11.md, Desktop manual deep pass 2026-11-10.
+
+If right HG IR is still limited (<80-90°) and right apical expansion is still limited, Postural Respiration p.76 prints the **Right Latissimus Inhibition** non-manual list (Latissimus Hang with Balloon, Squatting Bar Reverse Reach, Standing Latissimus Stretch, Standing Resisted Alternating Respiratory Reach, Seated Resisted Serratus Punch with Left Hamstrings). Use that as the inhibition / warm-up pick after left IO/TA and ZOA work. It does not replace the bicipital or impingement menus, and it does not clear the gate to a Right Subscapularis program while apical expansion is still asymmetric (**PRI**, Postural Respiration, p.76, and the existing Right BC guidelines).
+
+A clinic case of left neck, left shoulder, and left occipital headache with limited left cervical rotation, left rib flare, limited right apical expansion, and limited right trunk rotation cleared after pelvic / ribcage repositioning plus decompression (**PRI** case flyer, *Case Report - Cervical Disc Damage*). No named gym technique in the flyer. **My inference:** do not add a neck-local drill; stay on ZOA + right apical / Anterior Neck Inhibition selection already above.
+
+## Added 2026-11-10 (manual deep pass 2)
+
+After L IO/TA and both BCs are neutral, if a scapular resting type is clear, open `pri-impingement-instability` Type menus rather than inventing a fourth shoulder list here. Type II fits FHP, snapping scapula, and supra-HG impingement. Type III fits swimmers/overhead presentations with HG impingement below 90° or anterior HG instability, and short-head bicipital tendonitis. Type I fits HG impingement especially above 90°. Do not duplicate the full named lists. Do not skip BC neutrality. Cite I&I pp.62-74.

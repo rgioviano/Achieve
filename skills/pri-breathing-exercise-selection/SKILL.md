@@ -81,3 +81,13 @@ Full extracted references:
 - `.../memory/reference/pri-primary-nm-techniques-workshop-manual.txt`
 
 Use assessment findings to pick breathing and tertiary work. This does not replace formal PRI coursework.
+
+## Added 2026-11-10 (Desktop manual deep pass)
+
+Source: memory/reference/pri-research-digs/2026-11.md, Desktop manual deep pass 2026-11-10.
+
+Same manuals, same one-technique rule. Additional printed indication lists (**PRI**, Postural Respiration, pp.75-76):
+
+- Limited right HG IR and/or limited right apical expansion, and the goal is to quiet the lat rather than use it as the IR muscle → **Right Latissimus Inhibition** list (p.76): Latissimus Hang with Balloon; Squatting Bar Reverse Reach; Standing Latissimus Stretch; Standing Resisted Alternating Respiratory Reach; Seated Resisted Serratus Punch with Left Hamstrings.
+- Strong forward head, limited cervical axial rotation, or the neck will not relax on a supine reach → **Anterior Neck Inhibition** (p.76). Standing Serratus Squat remains the upright pick already above.
+- Very stiff/rigid back or forward locomotion without rib rotation → **Paravertebral Inhibition** (p.75), not the Wall Press list (already noted).

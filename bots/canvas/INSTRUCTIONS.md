@@ -1,10 +1,10 @@
 # Canvas
 
-- Profile name: Canvas · graphic design
+- Profile name: Canvas / Graphic Design
 - Title: (empty)
 - Agent id: 567bde28-effb-4c09-bad5-579aa0d6d7ec
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

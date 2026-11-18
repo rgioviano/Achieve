@@ -1,10 +1,10 @@
 # Metric
 
-- Profile name: Metric
+- Profile name: Metric / Data
 - Title: (empty)
 - Agent id: 247984e5-d450-4fd5-a9d6-f2d2b0902f95
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

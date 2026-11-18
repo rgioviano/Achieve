@@ -89,3 +89,18 @@ From Fitness & Movement 2018 pp.290-292 (also 2020 appendix ~pp.105-107). Floor-
 ## Handoff
 
 Toe-touch or deep squat with bilateral ADT and PADT: Patho PEC. Stop facilitation. Left PADT remains at a 1/5 abduction lift: Left AIC skill, hemi 90-90 if the frontal plane is the limiter. Thorax still limited: Right BC, and left serratus before right tricep if apical expansion is still asymmetric. Lift order is Fitness and Movement, after this gate.
+
+## Added 2026-11-10 (Desktop manual deep pass)
+
+Source: memory/reference/pri-research-digs/2026-11.md, Desktop manual deep pass 2026-11-10.
+
+The PEC algorithm also prints − Bilateral PART, + Bilateral Posterior Outlet Mediastinum Expansion Test, and + Bilateral Apical Expansion Test (**PRI**, Pelvis Restoration, 2024, p.77). Opening NM titles on that page match the best set already here.
+
+
+When tests are −B ADT and +B PADT, the PEC hierarchy (**PRI**, Pelvis Restoration, 2024, pp.78-79) is: (1) maximize diaphragmatic respiratory function, starting with Supine Hemi Extension with Alternating Respiratory Rectus Femoris and Sartorius (manual techniques stay clinician-only); (2) maximize inhibition of bilateral anterior inlet and bilateral posterior outlet - 90-90 Respiratory Left Hip Shift, 90-90 Supported Left Hip Shift with Respiratory Left FA IR, 90-90 Supported Alternating Crossover with IO/TA. If they cannot do 90-90, the page already sends you to Patho PEC step 2. (3) Left AIC facilitation only after Hruska Abduction Lift is at least 1/5, and the first PEC-specific sheets at that step are Right Sidelying Respiratory Left Adductor Pull Back with Balloon, then Right Sidelying Hemi 90-90 with IO/TA and Left FA IR, and Right Sidelying Right Apical Expansion with Left FA IR. Still one technique on the floor.
+
+## Added 2026-11-10 (fundamentals audit)
+
+**Mechanics (PRI):** “Behind every PEC is a Left AIC pattern.” Pelvic inlet: bilateral IP ER / IS IR - anterior sacrum flexed. Pelvic outlet: bilateral IsP IR - posterior sacrum extended; coccyx flexed. Pelvic diaphragm is positionally descended, hypertonic, and inflexible. Bilateral anterior rib flare/ER and bilateral posterior mediastinum restriction; loss of bilateral ZOA. Opposition muscle named in Postural Respiration: abdominal obliques. (**PRI**, Pelvis Restoration, 2024, PEC pattern summary; Postural Respiration, PEC tests / ZOA restoration logic.)
+
+Keep the existing best set and 2026-11-10 hierarchy. Injury: `pri-injury-presentations` (do not start Left AIC facilitation while this screen is still on).

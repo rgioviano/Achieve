@@ -1,10 +1,10 @@
 # Max
 
-- Profile name: Max · sales
+- Profile name: Max / Sales
 - Title: (empty)
 - Agent id: 6404a542-bb7c-48e5-822a-a2afd90ad591
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

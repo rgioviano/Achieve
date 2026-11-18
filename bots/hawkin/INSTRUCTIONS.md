@@ -1,10 +1,10 @@
 # Hawkin
 
-- Profile name: Hawkin · force plates
+- Profile name: Hawkin / Force Plates
 - Title: (empty)
 - Agent id: 93d38eed-d001-4265-a229-8527e2efa46f
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

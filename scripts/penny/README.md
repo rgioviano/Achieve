@@ -37,7 +37,7 @@ on TrainHeroic DMs, and `ack_only: true` on short thank-you replies with no ques
 | security_alert | Suspicious login, new sign-in, Takeout, password reset, codes, MFA, new device, new app connected, owner invites/ownership transfer, vulnerability notices. |
 | fyi_notification | Receipts, orders, bank/vendor notices, Mindbody copies, porting status, Ryne's own mail, student observation requests (low priority, never client_reply). |
 | promo_junk | Newsletters, marketing, Gmail Promotions, cold sales pitches (incl. fake "Re:" pitches). |
-| unknown | Staff notes, vendor support tickets, Numa text relays, personal-account mail from people, anything no rule matched. Read by hand. |
+| unknown | Staff notes, vendor support tickets, personal-account mail from people, anything no rule matched. Read by hand. |
 
 ### Rules file (`inbox_triage_rules.json`, loaded by default)
 Top level: `bucket_order` (output order), `actionable_buckets` (drive exit 1), `self_addresses` (Ryne; never
@@ -148,3 +148,30 @@ Data in /workspace/draft_vs_sent_test/: `drafts_since_1021.json` (9 Gmail drafts
 get_draft and Penny's pre_draft_check files, each with its `provenance`), `cards_since_1021.json` (2 chat cards from 10/21),
 `sent_since_1021.json` (26 sent: work 25, contact 1; 10 read in full), `open_drafts_*.json`, `results*.json`,
 `summary*.txt`.
+
+## morning_pass.py + reply_sweep.py + answered_check.py + brief_skeleton.py (built 2026-11-16, NOT live; proposal)
+Deterministic half of the weekday "Morning triage + brief" routine. Read-only on mail: Python stdlib, **no API calls,
+no credentials** (the box has no Gmail/Calendar/Quo/Drive tokens; checked 2026-11-16). Penny makes the bulk connector
+reads with `write_to_file`, the scripts do the parsing, matching, dedup, diffing and formatting, and Penny only does
+judgment (drafts, misfiles, unclear items) plus the one brief send. Proposed prompt:
+`/home/box/agent-data/penny/morning-pass-prompt-proposed.md`.
+
+| file | does |
+|---|---|
+| `mp_common.py` | loaders: Gmail envelopes / idsOnly (time from the Gmail id), Quo whole-inbox text (groups, short codes, multi-line, Sona outreach/handoff vs answer), Quo contacts table, calendar JSON. Follows write_to_file "Full text:" pointers; a cut dump with no full text is an error (exit 2), never a partial parse. |
+| `reply_sweep.py` | "No reply 2+ days": per person, Ryne's last outbound in 30 days; open when 2+ CT days old, it asked something, and no inbound email from that address, no inbound message in that thread, no Quo text from a matching contact. Closers/internal/automated/stop list skipped; leads on Tally's due list listed apart; unclear sends go to Penny once (`judge`) and the call is reused. Appends/replaces today's dated section in `waiting-on-reply.md` (backup `.bak-sweep`). |
+| `answered_check.py` | triage client_reply + scheduling items: answered (sent in thread / to that address / Quo answer text), ack, superseded, needs_reply (+ `has_question`, `carried`). Quo: answered / ack / handed_off (Sona "I'll pass this along" was the last word) / needs_reply / missed_call_no_reply. Same message to work + contact@ kept once. |
+| `brief_skeleton.py` | LEAN brief skeleton in the skill's section order (Calendar, Email Triage, Quo, Reactivate, Speed-to-book), blank sections dropped, `[[DRAFT:key]]` / `[[JUDGE:key]]` placeholders + `judgment.json` (drafts, reads, evals, archive and important id lists, data gaps, problems). Fyi mail whose subject says deleted/blocked/renewal/statement/legal is never on the bulk-archive list. |
+| `morning_pass.py` | `collect` (copy dumps), `phones` (Quo numbers for one search-contacts call), `run` (triage -> caches -> answered -> sweep -> due list -> skeleton + handoff file), `touches` (pre_draft_check touches.json + busy.json from caches), `judge`. |
+
+State in `/home/box/agent-data/penny/morning-pass/`: `cache/sent-*.json`, `cache/inbox-*.json` (35-day envelope caches,
+seeded 2026-11-16 from read-only pulls 10/17-11/16), `judgments.json` (seeded from the 11/13 + 11/16 tracker calls),
+`no-more-followups.txt` (named contacts, kept out of repo), `<day>/dumps/`, `<day>/answered.json|sweep.json|judgment.json`.
+
+Tests: `python3 -m unittest test_morning_pass -v` (32 cases, example.com data). Existing suites unchanged:
+`test_inbox_triage` 58 + `test_draft_vs_sent` 46 pass. Real-data replays (read-only pulls, files in
+`/workspace/morning_pass_test/`): 11/16 6:30am open list = the 17 people Penny's 11/16 tracker had, one closed via Quo;
+answered check matched the 11/16 handoff (all weekend threads answered, one ack, 2 Fri missed calls; one contact
+now out via the student_research rule). 11/13 replay: all 4 of Penny's reply-needed items surfaced, plus 4 "no question"
+candidates she dropped by judgment; three people flagged 3 days before the
+model's sweep found them.
