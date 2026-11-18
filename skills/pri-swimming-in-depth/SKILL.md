@@ -128,3 +128,21 @@ Every swim program needs some combination of:
 - Stroke-biased extras: fly → more PEC inhibition + LT squat; back → LT/tricep rotation + HG IR without lat; breast → FA IR / adductor-glute med  
 
 Warm-up early; pair extension-heavy land lifts with reach/exhale checks. Open Right BC guidelines when L horiz abd / R apical / R HG IR drive exercise choice; open I&I when neutrality exists but ST/IR still fail. Open [Swim dryland programming](sand-workflow:swim-dryland-programming) for starts/turns/UW loading and in-season constraints.
+
+## Added 2026-11-10 (Desktop manual deep pass)
+
+Source: memory/reference/pri-research-digs/2026-11.md, Desktop manual deep pass 2026-11-10.
+
+When dryland is limited by right HG IR or right apical expansion, the printed inhibition list is Right Latissimus Inhibition (**PRI**, Postural Respiration, p.76). When the limiter is forward head or limited cervical axial rotation, use Anterior Neck Inhibition (p.76), including Standing Serratus Squat. Still after left ZOA, and still not lat-as-IR. No new stroke-specific drill from this pass.
+
+## Added 2026-11-10 (manual deep pass 2)
+
+Pass 1 already added PR Right Latissimus / Anterior Neck inhibition lists. Add: I&I Type II and Type III both list swimmers as a correlation (pp.69, 71). After BC neutrality, use the I&I Type menus (Type II Right Serratus Program; Type III Left Low Trap / posterior mediastinum) instead of inventing stroke-specific scapular drills. Still not lat-as-IR.
+
+## Ryne's clinical findings (2026-11-10) - tag as "Ryne clinical", not PRI manual
+
+- **Breaststroke:** should be **negative on both PARTs** (Passive Abduction Raise Test, L and R). Right, sometimes bilateral, **groin pain** from breaststroke is common; a positive PART in a breaststroker is a priority finding.
+- **Fly and breast:** generally need **more paraspinal inhibition** (lots of flexion/extension in the stroke). Pick from the Paravertebral Inhibition list (PRI, Postural Respiration 2019 p.75) when their tests fit.
+- **Fly:** typically the **most shoulder pain and low back pain** of the strokes.
+- **Breast:** the **lowest shoulder pain** of the strokes (groin is its risk area instead).
+- **All swimmers:** should be able to **touch their toes** - needed range for turns and the start position on the blocks. A failed toe touch is a swim-specific limiter, not just a screen result.

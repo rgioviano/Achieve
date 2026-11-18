@@ -136,3 +136,33 @@ Reference: left abs, left heel. The sheet prints "right right arm" on the front-
 
 ### Standing: Standing Quadratus Lumborum and Intercostal Stretch
 Face a doorway. Right hand inside the frame, palm out. Feet shoulder width, right foot behind. Round the back, turn the trunk right, left arm hangs. Shift toward the right hip and take up slack in the right arm. Stretch in the right chest. Rotate the hips right. Stretch just above the right hip bone. Hold 4-5 breaths. Repeat 4 more times.
+
+## Added 2026-11-10 (Desktop manual deep pass)
+
+Source: memory/reference/pri-research-digs/2026-11.md, Desktop manual deep pass 2026-11-10.
+
+before or after the existing pattern blocks, short form:
+
+Do not start these lists while the pelvis is still a Patho PEC or PEC screen that has not had its opening repositioning. Pick the list that matches the limiter, then one named technique from the earliest position that pattern has earned. Full names and indication bullets live in `pri-right-bc-treatment-guidelines` (proposed §6 rewrite) and in the 2026-11-10 dig.
+
+- Limited R apical, limited L horizontal abduction, inspiratory compensation, or right-sided accessory-tone → Right Intercostal Inhibition (p.68).
+- Limited L horizontal abduction, poor left stance sense, or cannot orient upper trunk left / lower trunk right → Left Pectoral Inhibition (p.69).
+- Limited apical one or both sides, stiff/rigid back without rib rotation, poor bilateral arm swing → Paravertebral Inhibition (p.75).
+- Limited horizontal abduction or cervical axial rotation (one or both sides), strong FHP, neck will not relax on a supine reach → Anterior Neck Inhibition (p.76).
+- Limited R apical or limited R HG IR → Right Latissimus Inhibition (p.76).
+- Limited R trunk rotation, limited R apical, limited L horizontal abduction, or stalled Posterior Mediastinum Respiratory Reach Test → Left Posterior Mediastinum (p.77).
+
+
+### Standing: Standing Supported Left Glute Push (Standing Integration #63)
+
+**PRI**, Hruska, *Standing Supported Left Glute Push*, PRI Breathing Mechanics in COVID Times webinar, ©2020. Late standing option once left stance is already being trained. Teaches diaphragmatic inhale with abdominal opposition without a balloon. Not a first-position drill and not a PEC / Patho PEC opener.
+
+Need a stable table or counter that will not slide, and shoes with a heel counter and room for the forefoot to spread.
+
+1. Feet parallel under the hips. Lean forward, hands on the table, then walk the feet back until the back is close to parallel with the floor. Heels stay down, especially the left. Gentle stretch through the heels and lower legs.
+2. Shift the left hip back. Keep the mid-back from sagging. Lift the right knee and right foot a few inches. Weight through both hands, the left hip, the left abdominals (if the right abdominals dominate, push more with the right hand), and the entire left foot.
+3. Hold that push. Inhale through the nose. Exhale slowly through pursed lips, pushing slightly more. Pause between exhale and inhale without losing the push (Valsalva-like pause, tongue/pharynx closing the airway - not a balloon).
+
+## Added 2026-11-10 (fundamentals audit)
+
+Keep: “Low back has no dedicated ladder. Do not invent one. Neck and thoracic outlet manual branches stay out of the gym. Knee and ankle are not their own menu.” Add: for advisor questions about those presentations, open `pri-injury-presentations` and treat the pattern first. Do not turn that skill into a second technique menu.

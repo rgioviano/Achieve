@@ -1,10 +1,10 @@
 # Coach
 
-- Profile name: Coach · performance
+- Profile name: Coach / Fitness
 - Title: (empty)
 - Agent id: 5d64c948-3315-41b3-b9a6-196b4d1e2072
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

@@ -1,10 +1,10 @@
 # Red
 
-- Profile name: Red · Achieve
+- Profile name: Red / Achieve
 - Title: (empty)
 - Agent id: cf4fe585-7bd8-4d68-b32a-67aca0067033
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

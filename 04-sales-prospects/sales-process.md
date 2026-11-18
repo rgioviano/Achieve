@@ -10,6 +10,8 @@
 7. After sign-up, **Eval Brief** drafts a Slack #clients coach brief from the Drive assessment (draft-first; Ryne approves). Gate: Prospect Tracking Sign-Up = Yes.
 
 ## Lead follow-up schedule (Ryne, 2026-10-22)
+- **Wording (Ryne, 2026-11-08, leads RULES 33):** follow-ups ask the lead for a few dates or times that work in the next week or two. Never offer specific slots.
+- **Signups (Ryne, 2026-11-14, leads RULES 37):** Tally sends every new signup to Red the same day (Asana program tasks and eval results). Penny passes any signup she sees to Tally.
 - Leads who don't respond get follow-ups on **day 2, 5, 9, 14, 21 and 30** after first outreach. Then the lead is **Parked**.
 - Any reply or booking stops the schedule.
 - **Tally** owns the Prospect Tracking Sheet, including the Last Contact and Next Follow-Up columns, and builds the daily due list by script (8:00am CT). Tally hands the due list to Penny.

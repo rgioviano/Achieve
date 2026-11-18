@@ -14,12 +14,12 @@ Use this when staff needs to book or cancel a named client on the Mindbody **sta
 
 ## Client asks to book (default path)
 
-When a client/parent asks to be booked into specific sessions (Numa or email):
+When a client/parent asks to be booked into specific sessions (Quo text or email):
 
 1. Check those exact day/times on Classes (or Appointments). Note Sign In (n/capacity) and waitlist `(k)`. If both Semi-Private and Athletic Development run at that time, prefer Athletic Development for athletes unless they named Semi-Private.
 2. If the spots are **open**, stop and ask Ryne to confirm the named client and the exact sessions (day, time, class or appointment) before booking. Do **not** ask the client whether they want those sessions. Before the click, the Mindbody profile must match the requester on phone or email, not just name; if two profiles match, stop and report.
 2a. After booking, re-open the Sign In roster (or the client's Schedule tab) and confirm the client name, date and time are there. Report what you read back. If it does not match, stop and report; do not book again.
-3. Draft a confirmation in chat: `Hi, FirstName.` then that the sessions are booked (times). Do not type into Numa/Gmail send boxes. Nothing **sends** until Ryne says send on that exact draft.
+3. Draft a confirmation in chat: `Hi, FirstName.` then that the sessions are booked (times). Do not type into Quo/Gmail send boxes. Nothing **sends** until Ryne says send on that exact draft.
 4. If a spot is **full**, do not book that slot (no overbook unless Ryne says to). Draft that it’s full and name the next open option if you checked one.
 5. Chief of Staff saying book is not enough for a book that the client did not request. Cancels, waitlist pulls, and eval blocks still need Ryne to name the person and say to do it.
 
@@ -100,4 +100,4 @@ Appointments → that date/staff → click the appointment block → Cancel (the
 - 24-hour cancel policy may charge if Late Cancel is used. When Ryne just says “cancel,” default to a regular remove unless they say late cancel or the visit is inside the policy window - then ask.
 - An AI promo modal can block the Classes page; dismiss it with the X.
 - After an eval, Google Calendar will be stale until you hit Staff → coach → Share.
-- Never send Numa/email confirmations until Ryne says send on that exact draft. Booking the visit ≠ sending the text.
+- Never send Quo/email confirmations until Ryne says send on that exact draft. Booking the visit ≠ sending the text.

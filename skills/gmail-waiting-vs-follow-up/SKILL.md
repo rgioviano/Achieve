@@ -28,7 +28,7 @@ Penny runs this every morning on all four inboxes: work, contact@, personal, Iro
 
 **Mark Important (no star).** Every lead form, form submission, and new inquiry ("lead forms are always VERY important"), plus mail from a real person that needs Ryne. Then archive lead forms (Tally searches archived mail). Keep human threads that need a reply in Inbox.
 
-**Archive.** Newsletters, promos, marketing, notifications, receipts, plugin alerts, Numa/Zapier/Meta noise, WordPress "update plugins failed", password-reset requests. Ryne likes the tea newsletters (Sugimoto Tea); never list them for unsubscribe.
+**Archive.** Newsletters, promos, marketing, notifications, receipts, plugin alerts, leftover Numa mail (retired), Zapier/Meta noise, WordPress "update plugins failed", password-reset requests. Ryne likes the tea newsletters (Sugimoto Tea); never list them for unsubscribe.
 
 **Never** send, reply, or unsubscribe on your own. Suggest unsubscribes as a list; act only on the names Ryne approves.
 

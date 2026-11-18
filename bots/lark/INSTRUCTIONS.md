@@ -1,10 +1,10 @@
 # Lark
 
-- Profile name: Lark · ads
+- Profile name: Lark / Ads
 - Title: (empty)
 - Agent id: bf5d1606-57b1-4b0d-b7f3-c5a52f934a2a
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

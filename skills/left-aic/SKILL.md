@@ -85,3 +85,44 @@ If that ladder does not change anything, stop and refer. Do not add cuff work.
 ## Handoff
 
 Negative left ADT and negative left PADT: Myokinematic Restoration if the remaining problem is femoral rotation. Left PADT stays positive: stay here, hemi 90-90. Pelvis holds and the Right BC cluster is still positive: Right BC. Bilateral drop tests: PEC if they cannot toe-touch, Patho PEC if they can.
+
+## Added 2026-11-10 (Desktop manual deep pass)
+
+Source: memory/reference/pri-research-digs/2026-11.md, Desktop manual deep pass 2026-11-10.
+
+The Left AIC algorithm also prints + Left Posterior Outlet Mediastinum Expansion Test and + Right Apical Expansion Test (**PRI**, Pelvis Restoration, 2024, p.66). Opening repositioning titles on that page match the best set already here (hemibridge, right sidelying left adductor pull-back, left sidelying right glute max).
+
+
+Use this only after − Left ADT with + Left PADT and/or + Right PART (**PRI**, Pelvis Restoration, 2024, pp.67-71). Pick one named technique from the earliest step they have earned. Do not run the whole clinic list in a training session, and do not retest mid-session to climb grades.
+
+Facilitation (alternating), first named sheet at the printed Hruska Abduction Lift note:
+
+1. Notes +L PADT, +R PART, right Abd 0/5 - 90-90 Supported Left Hip Shift with Right Rectus Femoris and Sartorius (p.67; also Supine Hooklying Supported Right Rectus Femoris and Sartorius, or Supine Hemi Extension with Alternating Respiratory Rectus Femoris and Sartorius, right side only).
+2. Right Abd 1/5 - Right Sidelying Respiratory Left Adductor Pull Back, or the same with Passive Left FA IR; Left Sidelying Knee to Knee (p.67).
+3. Notes +L PADT, **−R PART**, right Abd 2/5 - Right Sidelying Supported Left Glute Med or the hemi 90-90 family on p.68. This is the existing “left sidelying / hemi 90-90 when the frontal plane is the limiter” gate, now with the printed grade.
+4. Notes −L PADT, −R PART, right Abd 4/5 - All Four Right Glute Max or left sidelying right glute max family (p.68).
+
+Inhibition (alternating), first named sheet at the printed note:
+
+1. Right Abd 0/5 - Standing Supported Left AF IR with Right Arm Reach; Standing Supported Passive Left AF IR with Right Trunk Rotation; Late Left AIC Stance with Right Arm Reach (p.69). Still after left AF IR and left IO/TA hold, right reach first.
+2. Right Abd 1/5 - Supine Hooklying Adductor Magnus Inhibition; Left Sidelying Left Ischial Femoral Ligamentous Stretch with Left FA Adduction; Standing Supported Left AF IR with Right FA Abduction (p.69). The page warns symptoms may increase on the right (adductor or hamstring).
+3. Notes −L PADT, +R PART, right Abd 3/5 - Standing Supported Right Knee Flexion with Left Hip Approximation; Standing Supported Right Glute Max with Left Hip Approximation and Left FA IR; Standing Wall Supported Right Knee Flexion with Left Glute Med and Right Trunk Rotation (p.70). Use these 2024 titles, not the 2012 PART-sheet names “Left Lateral Dips” or “Right Squat with Left Hip Approximation.”
+4. Right Abd 1/5, trouble sensing the left IC adductor - All Four Right Arm Reach; Standing Supported Left Posterior Outlet Inhibition; Standing Posterior Capsule Stretch (p.70).
+
+Upright left single-leg frontal plane work stays gated at Hruska Abduction Lift 3/5 (p.71).
+
+## Added 2026-11-10 (fundamentals audit)
+
+Place after “Who this pattern is” (keep the test list). This is the advisor front door; full theory stays in the course skills.
+
+**Mechanics (PRI):** The typical compensatory default is right stance in Right AF IR / left AF ER (Left AIC). Desired real estate is Left AF IR and Right AF ER (Right AIC / left stance). The left hemi-pelvis is anterior and forward; psoas fails as a femoral ER; VL and biceps femoris become antagonistic stabilizers. Pelvis inlet/outlet map: LEFT Inlet IP ER = IS IR = Outlet IsP IR = AF ER; RIGHT Inlet IP IR = IS ER = Outlet IsP ER = AF IR. (**PRI**, Myokinematic Restoration, 2017, stance/pattern definitions and “why Left AIC dominates”; Pelvis Restoration, 2024, Left AIC pelvic position summary.) Why it develops: right hemi-diaphragm + liver, right-stance bias, and loss of left ZOA (see glossary / `pri-postural-respiration`). Gait/respiration: difficulty shifting into left AF IR and controlling left outlet abduction / right outlet adduction; left posterior-outlet mediastinum and right apical expansion are the respiratory companions on the Left AIC algorithm (**PRI**, Pelvis Restoration, 2024, pp.66-71).
+
+**Hierarchy frame:** Reposition with the best set (hemibridge → right-arm balloon → right sidelying left adductor → left sidelying right glute max) before retraining inhibition/facilitation lists or Hruska-grade standing work. Restore upright left, then right, only after PADT is negative and the Hruska Abduction Lift is 3/5. Non-manual first. Manual techniques are clinician-only. If the PRIVY-281 non-responder ladder does not change them, stop and refer to a PRI-trained clinician (PRC/PRT); do not add cuff work (already a hard stop). After −L ADT / −L PADT, hand off to Myokinematic (including the proposed pp.56-58 inhibition programs). After −L ADT / +L PADT, stay in the Pelvis hierarchy already added on 2026-11-10.
+
+**Injury:** Open `pri-injury-presentations`. Do not invent a low-back ladder.
+
+## Ryne's clinical findings (2026-11-10) - tag as "Ryne clinical"
+
+PART must be negative for: golfers, baseball and softball players (frontal-plane movement in the swing), and breaststrokers (both sides; groin pain risk). In those athletes a still-positive PART after the left ADT clears is the priority limiter; use the after-ADT-clears inhibition/facilitation steps above (Pelvis 2024 pp.67-71).
+
+Ryne clinical (2026-11-10): baseball, softball and golf also need negative hip IR (FA IR) to load the lead/front leg in the swing.

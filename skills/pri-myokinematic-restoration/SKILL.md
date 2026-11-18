@@ -193,3 +193,21 @@ Myokinematic is the AF/FA foundation. Pelvis asks whether the pelvic diaphragm/i
 - OCR reference path is searchable for appendix exercise numbers when you need the exact non-manual title.
 
 Open the full reference text for complete hierarchy pages, FA soft-tissue tables, and evaluation form fields.
+
+## Added 2026-11-10 (manual deep pass 2)
+
+**Gap:** §5 “Inhibition examples” only names three appendix titles without the printed if-criteria. The live 2017 manual has a complete chapter, “MYOKINEMATIC RESTORATION INHIBITION PROGRAMS,” at printed pp.56-58.
+
+**Fold into §5**, after repositioning menus, as a named subsection. Cite **PRI**, Myokinematic Restoration, ©2000-2017, pp.56-58. Use printed pages, not PDF 74-76. Do not treat Ryne’s “BEST ONE” photo annotation as PRI text.
+
+After Left AIC repositioning, pick **one** technique from the program whose criteria match:
+
+1. **Left TFL Inhibition (p.56)** - 90-90 Hip Lift (p.44); Supine Hooklying Synchronized Resisted Glute Max (p.46); Right Sidelying Left Anterior Glute Med with TFL Inhibition (p.47); Prone FA Abduction Alternating Reciprocal Hamstring Curls (p.47). If: activates TFL before or after repositioning with FA IR; or is engaging TFL with any PRI non-manual progression.
+2. **Right Adductor Inhibition (p.56)** - Supine Hooklying Adductor Magnus Inhibition (p.48); Supine Right Adductor Magnus Stretch (p.48); Left Sidelying Right Extended FA Abduction and Left Abdominal Co-Activation (p.49); Standing Left Knee Flexion in Right FA Abducted Position (p.49). If: unable to find/feel left adductor; decreased right FA ER; or over-activates right adductor when attempting to adduct the left femur at HAdLT level 2.
+3. **Left Posterior Capsule Inhibition (p.57)** - All Four Right Glute Maximus (p.52); Standing Posterior Capsule Stretch (p.52); Standing Wall Supported Ischial Femoral Ligamentous Stretch (p.53); Standing Supported Respiratory Left AF IR (p.54); Sidelying Obturator Restorative Technique (p.55); Left Sidelying Left Ischial Femoral Ligamentous Stretch with Left FA Adduction (p.55). If: decreased left FA IR; or <1 HAdLT and <1 HAbLT.
+4. **Right Inferior Gluteus Maximus Inhibition (p.58)** - All Four Inferior Glute Max, Adductor Magnus and Quadratus Femoris Stretch (p.56); Modified All Four Inferior Glute Max, Adductor Magnus and Quadratus Femoris Stretch (p.56). If: decreased right FA ER; or <1 HAdLT.
+5. **Plantar Flexor Inhibition (p.58)** - Squatting Bar Reach (p.57); Standing Gastrocnemius and Soleus Stretch (p.57); All Four Belly Lift Walk (p.58); Long Seated Hamstring Stretch (p.59); Supine Supported Straight Leg Raise Alternating Crossovers (p.60); Seated Resisted Serratus Punch with Left Hamstrings (p.61). If: decreased bilateral FA ER; over-activates plantar flexors with PRI non-manuals; positive Thomas test after repositioning; early heel rise in gait; or decreased dorsiflexion ROM.
+
+Do not start these lists while PADT stays positive (existing Pelvis handoff). Do not replace the hemibridge / adductor pull-back / right glute max repositioning set.
+
+**left-aic:** no required fold. Visit 1 of the 2008 Straub case matches the current best set. Optional one-line pointer to these Myo programs once −L ADT / −L PADT hands off to Myokinematic.

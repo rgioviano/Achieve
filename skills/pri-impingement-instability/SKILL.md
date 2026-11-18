@@ -185,3 +185,39 @@ Postural Respiration treatment guidelines explicitly route "all BC tests − but
 - Keep I&I as the "why the joint keeps yelling after intros" reference, not the first warm-up picker - start with [PRI breathing exercise selection](sand-workflow:pri-breathing-exercise-selection) then the matching intro skill.
 
 Open the full OCR reference for complete pathology tables, calcaneal programs, and appendix exercise numbers.
+
+## Added 2026-11-10 (manual deep pass 2)
+
+**Gap:** The skill mentions the Hruska Classification of Scapular Resting Position but has no type definitions, “treat first” rules, guideline steps, or named non-manuals.
+
+**Fold as a new subsection under §5** (or a dedicated “Hruska Classification of Scapular Resting Position” section). Cite **PRI**, Impingement & Instability, ©2007-2019, appendix pp.62-74. Always step 1: restore both Brachial Chains to neutral before any type menu. Achieve: one named NM after neutrality.
+
+**Overview (p.62):**
+- Type I: slightly depressed, upwardly rotated, IR, protracted scapula - “Left thoracic abduction with right low trap.”
+- Type II: winged, elevated, upwardly rotated, IR, protracted - “Right serratus anterior with reach.”
+- Type III: abducted, slight retraction, ER, downward rotation (usually elevated, can be depressed) - “Left posterior mediastinum with left serratus anterior.”
+
+**Type I (pp.64, 66-68).** Most often the right side of a Right BC pattern. If Type III left and Type I right, treat right Type I first.
+1. Restore both BCs to neutral.
+2. Enhance ipsilateral apical expansion. If that is difficult or painful: abdominal binder; arch under the right medial longitudinal foot arch; or frontal-plane Standing Integration #2 and #6.
+3. Integrate ipsilateral upper trunk rotation with left low trap. Starred / first-listed: Supine Resisted Abducted Diagonal Extension with HG ER (Supine #14); Seated Resisted Reciprocal Pull Downs (Seated #3); Standing Serratus Squat (Standing #9); Sidelying Weighted Right HG Horizontal Abduction with FA ER (Sidelying #4). Also on p.66: Seated Supported Resisted Right HG ER with Left Abdominals and Right Trunk Rotation (Seated #8); Sidelying Resisted Right Serratus Punch with Right Trunk Rotation (Sidelying #7); Sidelying Weighted Right Tricep Extension with Right Trunk Rotation (Sidelying #8).
+4. Facilitate contralateral thoracic abduction and ipsilateral thoracic adduction with ipsilateral low trap. First-listed: Seated Resisted Right Abducted Diagonal Extension (Seated #4). Further Right Low Trap / Right Tricep seated, standing, and sidelying sheets continue on pp.67-68. Two Long Seated titles (#6, #11) were not reliably OCR’d - do not invent them.
+5. Facilitate right HG IR with right subscapularis, not with right latissimus or pec major. Including: Left Sidelying Resisted Right HG IR (Sidelying #5); Supine Resisted Right HG IR (Supine #11); Supine Resisted Right HG IR with Weighted Left HG ER (Supine #12); Supine Resisted Right Tricep Extension with Right HG IR (Supine #13); Supine Resisted Right HG IR with Left HG ER (Supine #16); Seated Resisted Pull Downs with Right HG IR and Left HG ER (Seated #6); Seated Resisted Right HG IR (Seated #10).
+
+Associated symptoms (p.64): HG impingement especially above 90° of elevation; TOS; subscapular bursitis / superior T4 syndrome.
+
+**Type III (pp.69-70).** Most often the left side of a Right BC pattern. If bilateral Type III, treat left first (right Type III is probably pathologic). Correlations: scoliosis, weightlifters, swimmers, TOS/TIS, short-head bicipital tendonitis, anterior HG instability, HG impingement below 90°.
+1. Restore both BCs to neutral.
+2. Enhance contralateral apical expansion and ipsilateral posterior mediastinum.
+3. Stabilize the thorax during contralateral thoracic rotation with posterior movement of ipsilateral ribs (Left Low Trap Program): *Seated Resisted Serratus Punch with Left Hamstrings (keep left hand/arm up and forward, Seated #5); Standing Resisted Bilateral Serratus Press Through (move right arm forward into horizontal abduction, Standing #11); *All Four Belly Lift Reach (All Four #7); Standing Wall Supported Resisted Serratus Punch (Standing #3).
+
+**Type II (pp.71-74).** Most often the right side of a Right BC pattern, or both sides. If bilateral Type II, treat right Type II first. Correlations: forward head posture, chronic headaches, weak serratus / middle and lower trap, weak subscapularis and overdeveloped lat, snapping scapula, supra-HG impingement.
+1. Restore both BCs to neutral.
+2. Enhance ipsilateral apical expansion - Standing Serratus Squat (Standing #9).
+3. Integrate ipsilateral upper trunk rotation with right serratus (Right Serratus Program): *PRI Supine Weighted Right Serratus Punch and Apical Expansion with Resisted Left HG IR (Supine #4); Reversed “C” Push-Ups (Supine #19); Left Sidelying Resisted Right Serratus Punch with Right Trunk Rotation (Sidelying #7); *Standing Resisted Bilateral Serratus Press Through (Standing #11); All Four Belly Lift Reach (All Four #7). *Reverse a, c, and e for left Type IIs.
+4. Facilitate contralateral thoracic abduction and ipsilateral thoracic adduction with ipsilateral serratus: *Seated Resisted Serratus Punch with Left Hamstrings (Seated #5); Standing Wall Supported Resisted Serratus Punch (Standing #3); All Four Belly Lift Walk (All Four #1); All Four Belly Lift (All Four #6); *Long Seated Supported Press Down with Right Iliacus and Psoas (Long Seated #7); Paraspinal Release with Left Obliques (Long Seated #11). *Reverse a, b, d, e, f for left Type IIs.
+5. Integrate bilateral middle and lower trap with thoracic flexion for bilateral Type IIs - Functional Squat with Low Trap (start position and levels 3-5 as printed on p.74).
+
+## Added 2026-11-10 (Left BC note)
+
+Keep the existing “Right AIC / Left BC frontal-plane view” subsection. Add: this is the flip side after successful inhibition of Left AIC / Right BC, used when maximizing chronic instability rehab - not a first program, and not a mirrored left BC gym plan while Left AIC, Right BC, PEC, or Patho PEC tests are still positive. A full Left BC treatment hierarchy is **still missing** (no Left BC / Advanced Integration manual on Desktop).

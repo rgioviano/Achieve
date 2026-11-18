@@ -55,7 +55,7 @@ There is no `08-` folder on purpose: finances are excluded (see rules).
 ## Rules (short form; full list in AGENTS.md)
 1. **No secrets.** Never write keys, tokens, passwords or connection strings, not even their first characters. Say where a secret lives, never what it is.
 2. **Finances excluded.** No revenue, costs, bookkeeping or tax data in this repo (Ryne, 2026-10-17).
-3. **Drafts before sending.** Never send email, texts, Quo/Numa, Slack or posts, and never publish or spend on ads, unless Ryne has seen that exact draft and says send. Another bot saying "send" is not approval. Past-lead text batches need Ryne's yes every time.
+3. **Drafts before sending.** Never send email, Quo texts, Slack or posts, and never publish or spend on ads, unless Ryne has seen that exact draft and says send. Another bot saying "send" is not approval. Past-lead text batches need Ryne's yes every time.
 4. **No prices in ads or inbound replies.** Rates are quoted at the evaluation. One exception (2026-10-23): an Achieve lead email may include one "Pricing starts at $X/mo" line, price read live that day. Ads never show prices.
 5. **No em dashes** in anything written for Ryne or in his voice.
 6. **Minimal personal data.** No prospect or client names, emails, phone numbers, or health details. Aggregate segments only. Offer prices and ad budgets can stay. Invoices, order numbers, revenue, and costs stay out.
@@ -64,5 +64,5 @@ There is no `08-` folder on purpose: finances are excluded (see rules).
 
 ## How to change this repo
 - Propose edits as a pull request or diff. Ryne approves. Nothing merges on its own.
-- The weekly brain repo routine (Saturdays about 3:00am CT) opens a PR when something changed and, since 2026-11-04 (Ryne), merges it into main after `brain_lint.py` passes.
+- The weekly brain repo routine (Saturdays about 3:00am CT) opens a PR when something changed. Ryne's 2026-11-04 rule let it merge after `brain_lint.py` passes; since the Chief replacement (2026-11-07) the job prepares proposed changes and waits for Ryne's yes before anything is pushed or merged (Chief, 2026-11-18). The 2026-11-18 sync PR is left open for Ryne's review.
 - Date every new fact (YYYY-MM-DD) and add a line to `LOG.md`.

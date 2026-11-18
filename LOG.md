@@ -2,6 +2,13 @@
 
 Dated changes to this repo and to the fleet facts it depends on. Newest first. One line per change. Business decisions go in `10-decisions-log/decisions.md`; this file tracks the repo itself.
 
+## 2026-11-18
+- Fleet sync from the box: brain sync 2026-11-18 (Ryne asked 2026-11-18 12:00pm CT for the latest fleet info pushed to GitHub). First update since the 2026-11-06 wave2/wave3 export merge.
+- `skills/`: live skill library re-copied where it changed (Numa to Quo wording, PRI manual deep pass, policies, prospect tracking format rules, drafts and Spark signature rules); new `exercise-instruction-pass`, `pri-fundamentals-glossary`, `pri-injury-presentations`, `pri-question-router`; `check-numa-inbox-read-only` removed (deleted from the library 2026-11-17). Client names in new skill lines were replaced before staging.
+- `bots/*/INSTRUCTIONS.md`: regenerated from each profile.json (names now "Name / Title"; PRI profile expanded). Bot memory and reference folders were not re-synced (see the PR body).
+- `scripts/`: `penny/README.md` (Numa removed, proposed morning-pass scripts described) and `brain_lint.py` refreshed from the box.
+- NOW.md, `04-sales-prospects/sales-process.md`, `07-operations/operations.md`, `09-team-bots/bots.md`, AGENTS.md, START-HERE.md, README.md index and the decisions log updated for 2026-11-07 to 2026-11-17 decisions. Numa references retired.
+
 ## 2026-11-05 (follow-up)
 - Follow-up to the full sync (Ryne answered the sync questions 2026-11-05 8:47pm CT).
 - Bot memory files (profile, logs, reference notes) synced from the box after a scrub: lines naming clients, athletes or leads, any email address or phone number that is not a public business one, and client health or family details were dropped. Em dashes swapped for hyphens. No secrets.

@@ -1,10 +1,10 @@
 # Quill
 
-- Profile name: Quill · copywriter
+- Profile name: Quill / Copywriter
 - Title: (empty)
 - Agent id: aa920346-b0d4-4e99-854d-8d288d0dc1ff
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

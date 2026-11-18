@@ -112,3 +112,11 @@ Heavy extension-biased strength without exhalation-biased or pause-breath work f
 - Cross-check Right BC tree if upper thorax tests stay + despite good squat breathing.
 
 Open the breathing index for day-of picks; open Postural / Pelvis course skills for ZOA and inlet-outlet theory.
+
+## Added 2026-11-10 (manual deep pass 2)
+
+Optional named drill from Lori Thomsen, *The Reverse Squat* (baseball newsletter). Functional squat (knees forward, bottom tucked, back rounded, heels down) as a symmetry check, plus the article’s 6-step reverse-squat script if used.
+
+**Hard caveat (do not fold as a rule):** the article would abandon barbell back squat, deadlift, and power clean. That contradicts F&M squat variability and Achieve no-lifetime-bans. Do not import the ban. No fold needed in `fitness-and-movement` beyond this caveat if the drill is added.
+
+NSCA Coach 6.2 (DiPanfilo et al.) modifies F&M 2018 drills (Squatting Bar Reach is already in `fitness-and-movement`; also 90-90 Shin Bar Slide with Hamstrings, Two-Point Bear, Walk Around, Lunge Indian Club Rotation, Side Lying Rotation, Quadruped T-Spine Rotation). Do not fold D-backs modifications as official PRI titles.

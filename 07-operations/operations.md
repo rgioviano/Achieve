@@ -7,7 +7,9 @@
 ## Systems
 - Booking and billing: Mindbody (skill `mindbody-staff-book-cancel`). The Google calendar named Achieve syncs Mindbody appointments.
 - Programs: TrainHeroic. Notes: Asana Programs board. Force plates: Hawkin Cloud. Assessments: Drive Clients folder.
-- Phone and texting: Quo (preferred) and Numa (read-and-draft only until the Quo cutover). Email: Gmail (work and contact accounts).
+- Phone and texting: Quo only. Numa is retired (Ryne, 2026-11-17); do not check or reference it. Email: Gmail (work and contact accounts).
+- College commit spreadsheet (Achieve Athlete Colleges): Penny is the sole owner of updates; no other bot edits it (Ryne, 2026-11-08).
+- New signups: Tally sends each new signup to Red the same day for the Asana program tasks and eval results; Penny passes any signup she sees to Tally (Ryne, 2026-11-14, leads RULES 37).
 - Slack (Achieve workspace): #clients for coach briefs.
 
 ## Policies
@@ -19,7 +21,8 @@
 
 ## Email drafts (Ryne, 2026-10-22 and 2026-10-23)
 - Email drafts for Ryne go into the Drafts folder of the right Gmail account, as threaded replies under the original email. Not draft cards in chat. The bot tells Ryne who each draft is to and its subject. Texts still come as drafts in chat. Nothing sends unless Ryne sends it himself.
-- Drafts saved through the Gmail connector do NOT get Ryne's signature added automatically. Every saved draft ends with "Thanks," and then his full signature block typed in, exactly as in his sent mail (see the `achieve-mail` skill for the block). This replaces the older note to never type the signature.
+- **Superseded 2026-11-11 and 2026-11-13 (Ryne):** Spark owns the signature. "Email draft" means the owner bot saves it in Gmail or Spark Drafts; connector drafts end at "Thanks," with no trailing blank lines, and the connector signature is stripped (update_draft, then confirm with get_draft). Quo text drafts stay in chat. The older rule below is kept for history only.
+- (Old, 2026-10-23) Drafts saved through the Gmail connector do NOT get Ryne's signature added automatically. Every saved draft ends with "Thanks," and then his full signature block typed in, exactly as in his sent mail (see the `achieve-mail` skill for the block). This replaces the older note to never type the signature.
 - Formatting: pass both a plain-text body (blank lines between paragraphs) and an HTML body in Gmail's own style: each paragraph in its own div, an empty line div after the greeting, between paragraphs, after "Thanks," and before "For scheduling or account questions:", then one signature line per div. Paragraph tags show in Gmail with no space between paragraphs, so do not use them.
 - Penny's writing rules (approved 2026-10-23): answer first and cut soft openers; use concrete specifics; end with a question; offer open time windows. Penny runs a Friday 7:00am CT review of her drafts against what Ryne sent; style rules change only when Ryne approves.
 

@@ -39,7 +39,7 @@ Sweep these Gmail accounts (separate connectors):
 - `ryne@achievesportsperformance.com` - work (primary)
 - `contact@achieve-personaltraining.com` - contact
 - `ryne@ironblueprint.app` - ironblueprint
-- Personal Gmail - personal (only when the ask includes personal mail / PA brief triage)
+- Personal `[email kept out of repo]` - personal (only when the ask includes personal mail / PA brief triage)
 
 Do not search personal Gmail for Achieve client/lead work unless he asks.
 
@@ -67,7 +67,7 @@ Log Gmail **thread IDs**. Do not invent Spark integer IDs.
 
 - Never send or delete without Ryne's explicit yes.
 - Never archive client/parent/human threads that still need a reply.
-- Numa SMS is a different register; this skill is email only.
+- Quo SMS is a different register; this skill is email only.
 - Always include the gym signature in the connector draft/send body.
 
 ## Policies and pricing

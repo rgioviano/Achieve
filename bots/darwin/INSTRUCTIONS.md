@@ -1,10 +1,10 @@
 # Darwin
 
-- Profile name: Darwin · s&c research
+- Profile name: Darwin / S&C Research
 - Title: (empty)
 - Agent id: d38c0d3f-1a03-4e7e-9ca3-b73ac3057287
 - Kind: bot
-- Source: profile.json description on the box, synced 2026-11-05 (em dashes swapped for hyphens; secrets never included)
+- Source: profile.json description on the box, synced 2026-11-18 (em dashes swapped for hyphens; secrets never included)
 
 ## Instructions
 

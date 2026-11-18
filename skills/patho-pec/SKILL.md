@@ -62,8 +62,21 @@ The other step-2 names in the best-set list are the 2012 pelvis sheets (wall pas
 - No left reach as the patho reach. Bilateral forward reach is the patho reach.
 - No right tricep, cuff, true overhead, or ER-to-overhead while apical expansion is still the bilateral cluster.
 - No loaded squat or deadlift to use the range they already have. (My inference from the p.85 hierarchy, NOT a printed manual line. Achieve floor rule: no lifetime bans; a pain-free athlete who braces flat can deadlift, unilateral first, trap bar high handles.)
+- Strength loading (Achieve rule, Ryne confirmed 2026-11-13): unilateral first from DAY ONE, left side first, with bilateral symmetrical loading delayed. Do NOT gate unilateral work until the pattern clears. Source: **PRI** Fitness and Movement 2020 pp.109-111 (step 4 unilateral, left first; step 5 bilateral) and appendix p.79 (symmetrical bilateral loading exacerbates patterned frames). Good starts: single-leg RDL left then right, Left Early Stance with Right Arm Reach, staggered hinge left foot forward.
 - No pelvic-floor techniques and no PRI Kegel until tests are negative and the abduction lift is 4/5.
 
 ## Handoff
 
 Bilateral ADT and PADT negative: Myokinematic and Postural Respiration. PADT still positive: stay in step 2. Left PADT at a 1/5 abduction lift: Left AIC skill. Still stuck after an honest step 1 and 2: refer. Do not add volume. Gym lift order is Fitness and Movement, and not while they are still a patho screen.
+
+## Added 2026-11-10 (Desktop manual deep pass)
+
+Source: memory/reference/pri-research-digs/2026-11.md, Desktop manual deep pass 2026-11-10.
+
+The Patho PEC algorithm also prints + Bilateral Posterior Outlet Mediastinum Expansion Test and + Bilateral Apical Expansion Test, and PART as + bilateral or unilateral (**PRI**, Pelvis Restoration, 2024, p.84). The three “Repositioning Techniques” listed on p.84 are the same titles as PEC (Standing Wall Supported Reach, 90-90 Hip Lift in Passive FA IR with Balloon, Modified All Four Belly Lift). Hierarchy p.85 still starts with the balloon as step 1, then the step-2 list already in this skill, then “Follow PEC Pattern Hierarchy (starting at step #3).” Do not reorder this skill to put wall reach first.
+
+**Keep:** no pelvic-floor / PRI Kegel until tests are negative and the abduction lift is 4/5. p.85 lists “PRI Manual Pelvic Floor Techniques” only under step 1.c-d - clinician-only.
+
+## Added 2026-11-10 (fundamentals audit)
+
+Mechanics and hierarchy are already in the skill (diaphragm descended, bulged, high resting tone vs PEC; p.85 hierarchy). Optional: point “why the reach looks better” at the glossary and at `pri-injury-presentations` (hip pain on a patho screen starts here, not with glute med). No new ladder.
